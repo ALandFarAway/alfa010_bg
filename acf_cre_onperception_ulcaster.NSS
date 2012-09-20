@@ -45,8 +45,10 @@
 void main()
 {
 	// Ignore the creature if it has an Ulcaster token.
-	if(GetItemPossessedBy(GetLastPerceived(), "010_it_plot_ulcaster_pass") != OBJECT_INVALID)
-		return;
+	object oCreature = GetLastPerceived();
+	if(GetItemPossessedBy(oCreature, "010_it_plot_ulcaster_pass") != OBJECT_INVALID) {
+		SetIsTemporaryFriend(oCreature);
+	}
 
 	ACR_CreatureOnPerception();
 }
