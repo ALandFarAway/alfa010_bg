@@ -1464,7 +1464,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="595D57BECC42968771B96F450CC8B14D6B23FE9F" downloadHash="4217362229265B7CBEE9685903C081DE96A923AF" name="und_t2_throrgar_top_west.trx" dlsize="790553" size="4119632" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A469321C031B3A839AF7D46210DF66222C794A72" downloadHash="887EC3DF253874ECABD2E55A51FD066748DA02E5" name="und_t2_throrgar_top_west.trx" dlsize="807020" size="4135819" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
