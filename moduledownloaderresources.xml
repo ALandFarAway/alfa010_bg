@@ -102,12 +102,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48FB51EAF9C4693A42BD39BFE35CABBC8BEC7145" downloadHash="4AADA43E391C5B4652AEC950DDB9EA67875FB6DF" name="acr_bluetorch.SEF" dlsize="290" size="692" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="A7D0458DE81418E2564E0D5F4CAC9F1A0481C334" downloadHash="838D819EA28244BE1CE203D7A066E8AE57B3726C" name="compilersettings.GFF" dlsize="119" size="204" critical="false" exclude="true" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1002,7 +996,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B9CB8AE23618F0B518C3FA37497DB7ED0D110426" downloadHash="8FF405F288759301F67AAF5530B6A89524FDAB1B" name="beregost_templeoflathander.trx" dlsize="462940" size="827199" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2656ACCA84351794F20DD3687B4AA7AD67A59C5F" downloadHash="6EEED6B616D2721EACF3162664DE938A79B5AC8D" name="beregost_templeoflathander.trx" dlsize="473891" size="837359" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1297,11 +1291,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="AAC2043E6FA430CD2585A4ADBF0E8D3543840841" downloadHash="878D39818853491AFED6630935C24BE09D5872CC" name="bg-eastgate_housing.trx" dlsize="1174007" size="2449347" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="37B5035B747F942D66D1E723E66DA0E203A44B3D" downloadHash="E12973724E8C4A540F5572D93A8F89FC40713A43" name="candlekeep_lionsway_02_temple3.trx" dlsize="1023773" size="1170881" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
