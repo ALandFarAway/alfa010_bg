@@ -996,7 +996,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2656ACCA84351794F20DD3687B4AA7AD67A59C5F" downloadHash="6EEED6B616D2721EACF3162664DE938A79B5AC8D" name="beregost_templeoflathander.trx" dlsize="473891" size="837359" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="617E7BB3613E26A573B1175B09963C681A093550" downloadHash="F0B7494BEBDAC3694C5D5B2B46A766ACBDBA8FEA" name="beregost_templeoflathander.trx" dlsize="474663" size="838435" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
