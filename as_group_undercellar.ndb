@@ -1,5 +1,5 @@
 NDB V1.0
-0000068 0000011 0004570 0000022 0000100
+0000068 0000011 0004579 0000022 0000100
 n00 ginc_debug
 n01 acr_tools_i
 n02 acr_time_i
@@ -1235,6 +1235,9 @@ fp o
 f ffffffff ffffffff 002 i GetClassCasterLevel
 fp i
 fp o
+f ffffffff ffffffff 002 i GetClassPosition
+fp o
+fp i
 f ffffffff ffffffff 001 i GetCasterClassAbilityScore
 fp i
 f ffffffff ffffffff 001 i DestroyInventory
@@ -4082,6 +4085,11 @@ fp o
 fp s
 f ffffffff ffffffff 001 v ACR_ReportOfflineMessages
 fp o
+f ffffffff ffffffff 002 v ACR_SetAFK
+fp o
+fp i
+f ffffffff ffffffff 001 i ACR_GetAFK
+fp o
 f ffffffff ffffffff 003 v _playerRestoreLocation
 fp o
 fp e2
@@ -4096,6 +4104,16 @@ f ffffffff ffffffff 001 v _playerScheduleQuarantineAreaCheck
 fp o
 f ffffffff ffffffff 001 v _playerQuarantineAreaCheck
 fp o
+f ffffffff ffffffff 000 e0 ACR_GetAFKEffect
+f ffffffff ffffffff 003 s ACR_GetTokenAtIndex
+fp s
+fp i
+fp s
+f ffffffff ffffffff 002 i ACR_GetTokenCount
+fp s
+fp s
+f ffffffff ffffffff 001 s ACR_SortTokens
+fp s
 f ffffffff ffffffff 001 o _check_object
 fp o
 f ffffffff ffffffff 002 i _get_index
@@ -6888,6 +6906,9 @@ f ffffffff ffffffff 001 i ACR_SkillsCheckIsPCAdapted
 fp o
 f ffffffff ffffffff 001 v ACR_SkillsPrepareAdaption
 fp o
+f ffffffff ffffffff 002 i ACR_GetSizeBonusToSkill
+fp o
+fp i
 f ffffffff ffffffff 007 i _Check
 fp i
 fp o
@@ -7009,6 +7030,8 @@ fp i
 f ffffffff ffffffff 001 v ACR_RestOnClientLeave
 fp o
 f ffffffff ffffffff 001 v ACR_RestOnClientEnter
+fp o
+f ffffffff ffffffff 001 i ACR_GetHoursUntilRest
 fp o
 f ffffffff ffffffff 002 v ACR_SetLongTermCare
 fp o
@@ -7659,7 +7682,7 @@ l66 0000159 00000377 0000037d
 l66 0000161 0000037d 0000038f
 l66 0000162 00000395 000003a9
 l66 0000164 000003af 000003b7
-l01 0000745 000003b7 00000401
-l01 0000746 00000401 00000409
+l01 0000756 000003b7 00000401
+l01 0000757 00000401 00000409
 l64 0000946 00000409 0000042d
 l64 0000947 0000042d 00000435

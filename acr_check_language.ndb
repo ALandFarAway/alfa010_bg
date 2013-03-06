@@ -1,16 +1,17 @@
 NDB V1.0
-0000011 0000001 0002206 0000017 0000030
+0000012 0000001 0002399 0000022 0000035
 n00 dmfi_inc_conv
-n01 dmfi_inc_sendtex
-n02 dmfi_inc_tool
-n03 nwnx_include
-n04 acr_array_i
-n05 acr_queue_i
-n06 acr_settings_i
-n07 acr_db_persist_i
-n08 acr_i
-n09 acr_language_i
-N10 acr_check_language
+n01 acr_collections_i
+n02 dmfi_inc_sendtex
+n03 dmfi_inc_tool
+n04 nwnx_include
+n05 acr_array_i
+n06 acr_queue_i
+n07 acr_settings_i
+n08 acr_db_persist_i
+n09 acr_i
+n10 acr_language_i
+N11 acr_check_language
 s 03 vector
 sf f x
 sf f y
@@ -1819,9 +1820,9 @@ fp o
 fp o
 f ffffffff ffffffff 001 s DMFI_CapitalizeWord
 fp s
-f 0000028b 00000311 001 i DMFI_GetIsDM
+f 00000308 0000038e 001 i DMFI_GetIsDM
 fp o
-f 00000163 0000028b 001 o DMFI_GetTool
+f 000001e0 00000308 001 o DMFI_GetTool
 fp o
 f ffffffff ffffffff 001 i DMFI_IsNumber
 fp s
@@ -2590,9 +2591,288 @@ f ffffffff ffffffff 001 i ACR_GetIsCorpseMutilated
 fp o
 f ffffffff ffffffff 001 i ACR_GetIsCorpseDecayed
 fp o
+f ffffffff ffffffff 000 i ACR_COLLECTION_DATA_TYPE_INT
+f ffffffff ffffffff 000 i ACR_COLLECTION_DATA_TYPE_FLOAT
+f ffffffff ffffffff 000 i ACR_COLLECTION_DATA_TYPE_STRING
+f ffffffff ffffffff 000 i ACR_COLLECTION_DATA_TYPE_OBJECT
+f ffffffff ffffffff 000 i ACR_COLLECTION_ARRAY_LIST
+f ffffffff ffffffff 000 i ACR_COLLECTION_INT_LIST
+f ffffffff ffffffff 000 i ACR_COLLECTION_FLOAT_LIST
+f ffffffff ffffffff 000 i ACR_COLLECTION_STRING_LIST
+f ffffffff ffffffff 000 i ACR_COLLECTION_OBJECT_LIST
+f ffffffff ffffffff 000 i ACR_COLLECTION_INT_DICTIONARY
+f ffffffff ffffffff 000 i ACR_COLLECTION_FLOAT_DICTIONARY
+f ffffffff ffffffff 000 i ACR_COLLECTION_STRING_DICTIONARY
+f ffffffff ffffffff 000 i ACR_COLLECTION_OBJECT_DICTIONARY
+f ffffffff ffffffff 000 i ACR_COLLECTION_INT_QUEUE
+f ffffffff ffffffff 000 i ACR_COLLECTION_FLOAT_QUEUE
+f ffffffff ffffffff 000 i ACR_COLLECTION_STRING_QUEUE
+f ffffffff ffffffff 000 i ACR_COLLECTION_OBJECT_QUEUE
+f ffffffff ffffffff 000 i ACR_COLLECTION_INT_STACK
+f ffffffff ffffffff 000 i ACR_COLLECTION_FLOAT_STACK
+f ffffffff ffffffff 000 i ACR_COLLECTION_STRING_STACK
+f ffffffff ffffffff 000 i ACR_COLLECTION_OBJECT_STACK
+f ffffffff ffffffff 000 i ACR_COLLECTION_RESULT
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_CREATE
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_CREATE_IF_NOT_EXISTS
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_DELETE
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_DELETE_IF_EXISTS
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_EXISTS
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_ADD
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_CLEAR
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_CONTAINS
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_CONTAINS_KEY
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_CONTAINS_VALUE
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_COUNT
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_ELEMENT_AT
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_FIND
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_FIND_LAST
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_FIRST
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_INDEX_OF
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_INSERT
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_LAST
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_LAST_INDEX_OF
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_MAX
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_MIN
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_PEEK
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_POP
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_PUSH
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_REMOVE
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_REMOVE_AT
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_REMOVE_RANGE
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_REVERSE
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_SET_AT_INDEX
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_SORT
+f ffffffff ffffffff 000 i ACR_COLLECTION_METHOD_SUM
+f ffffffff ffffffff 000 i ACR_COLLECTION_ERROR_NAME
+f ffffffff ffffffff 000 i ACR_COLLECTION_ERROR_COLLECTION_ALREADY_EXISTS
+f ffffffff ffffffff 000 i ACR_COLLECTION_ERROR_COLLECTION_DOES_NOT_EXIST
+f ffffffff ffffffff 000 i ACR_COLLECTION_ERROR_COLLECTION_NO_METHOD
+f ffffffff ffffffff 011 i ACR_CallCollectionLib
+fp i
+fp i
+fp s
+fp i
+fp i
+fp f
+fp f
+fp s
+fp s
+fp o
+fp o
+f ffffffff ffffffff 000 i ACR_GetCollectionResultInt
+f ffffffff ffffffff 000 f ACR_GetCollectionResultFloat
+f ffffffff ffffffff 000 s ACR_GetCollectionResultString
+f ffffffff ffffffff 000 o ACR_GetCollectionResultObject
+f ffffffff ffffffff 001 v ACR_IntList_Create
+fp s
+f ffffffff ffffffff 001 v ACR_IntList_Delete
+fp s
+f ffffffff ffffffff 001 i ACR_IntList_Exists
+fp s
+f ffffffff ffffffff 002 v ACR_IntList_Add
+fp s
+fp i
+f ffffffff ffffffff 001 v ACR_IntList_Clear
+fp s
+f ffffffff ffffffff 002 i ACR_IntList_Contains
+fp s
+fp i
+f ffffffff ffffffff 001 i ACR_IntList_Count
+fp s
+f ffffffff ffffffff 002 i ACR_IntList_ElementAt
+fp s
+fp i
+f ffffffff ffffffff 001 i ACR_IntList_First
+fp s
+f ffffffff ffffffff 002 i ACR_IntList_IndexOf
+fp s
+fp i
+f ffffffff ffffffff 003 v ACR_IntList_Insert
+fp s
+fp i
+fp i
+f ffffffff ffffffff 001 i ACR_IntList_Max
+fp s
+f ffffffff ffffffff 001 i ACR_IntList_Min
+fp s
+f ffffffff ffffffff 002 v ACR_IntList_Remove
+fp s
+fp i
+f ffffffff ffffffff 002 v ACR_IntList_RemoveAt
+fp s
+fp i
+f ffffffff ffffffff 003 v ACR_IntList_RemoveRange
+fp s
+fp i
+fp i
+f ffffffff ffffffff 001 v ACR_IntList_Reverse
+fp s
+f ffffffff ffffffff 001 v ACR_IntList_Sort
+fp s
+f ffffffff ffffffff 001 i ACR_IntList_Sum
+fp s
+f ffffffff ffffffff 001 v ACR_FloatList_Create
+fp s
+f ffffffff ffffffff 001 v ACR_FloatList_Delete
+fp s
+f ffffffff ffffffff 001 i ACR_FloatList_Exists
+fp s
+f ffffffff ffffffff 002 v ACR_FloatList_Add
+fp s
+fp f
+f ffffffff ffffffff 001 v ACR_FloatList_Clear
+fp s
+f ffffffff ffffffff 002 i ACR_FloatList_Contains
+fp s
+fp f
+f ffffffff ffffffff 001 i ACR_FloatList_Count
+fp s
+f ffffffff ffffffff 002 f ACR_FloatList_ElementAt
+fp s
+fp i
+f ffffffff ffffffff 001 f ACR_FloatList_First
+fp s
+f ffffffff ffffffff 002 i ACR_FloatList_IndexOf
+fp s
+fp f
+f ffffffff ffffffff 003 v ACR_FloatList_Insert
+fp s
+fp i
+fp f
+f ffffffff ffffffff 001 f ACR_FloatList_Max
+fp s
+f ffffffff ffffffff 001 f ACR_FloatList_Min
+fp s
+f ffffffff ffffffff 002 v ACR_FloatList_Remove
+fp s
+fp f
+f ffffffff ffffffff 002 v ACR_FloatList_RemoveAt
+fp s
+fp i
+f ffffffff ffffffff 003 v ACR_FloatList_RemoveRange
+fp s
+fp i
+fp i
+f ffffffff ffffffff 001 v ACR_FloatList_Reverse
+fp s
+f ffffffff ffffffff 001 v ACR_FloatList_Sort
+fp s
+f ffffffff ffffffff 001 f ACR_FloatList_Sum
+fp s
+f ffffffff ffffffff 001 v ACR_StringList_Create
+fp s
+f ffffffff ffffffff 001 v ACR_StringList_Delete
+fp s
+f ffffffff ffffffff 001 i ACR_StringList_Exists
+fp s
+f ffffffff ffffffff 002 v ACR_StringList_Add
+fp s
+fp s
+f ffffffff ffffffff 001 v ACR_StringList_Clear
+fp s
+f ffffffff ffffffff 002 i ACR_StringList_Contains
+fp s
+fp s
+f ffffffff ffffffff 001 i ACR_StringList_Count
+fp s
+f ffffffff ffffffff 002 s ACR_StringList_ElementAt
+fp s
+fp i
+f ffffffff ffffffff 001 s ACR_StringList_First
+fp s
+f ffffffff ffffffff 002 i ACR_StringList_IndexOf
+fp s
+fp s
+f ffffffff ffffffff 003 v ACR_StringList_Insert
+fp s
+fp i
+fp s
+f ffffffff ffffffff 002 v ACR_StringList_Remove
+fp s
+fp s
+f ffffffff ffffffff 002 v ACR_StringList_RemoveAt
+fp s
+fp i
+f ffffffff ffffffff 003 v ACR_StringList_RemoveRange
+fp s
+fp i
+fp i
+f ffffffff ffffffff 001 v ACR_StringList_Reverse
+fp s
+f ffffffff ffffffff 001 v ACR_StringList_Sort
+fp s
 f ffffffff ffffffff 000 s ACR_CHARACTER_REGION
+f ffffffff ffffffff 000 s ACR_LANG_VAR_MAX
+f ffffffff ffffffff 000 s ACR_LANG_VAR_PREFIX
+f ffffffff ffffffff 000 s ACR_LANG_VAR_DEFAULT
+f ffffffff ffffffff 000 s ACR_LANG_MSG_TOKEN
 f ffffffff ffffffff 000 i ACR_REGIONS_START
 f ffffffff ffffffff 000 i ACR_REGIONS_END
+f ffffffff ffffffff 000 i ACR_LANG_ID_ANIMAL
+f ffffffff ffffffff 000 i ACR_LANG_ID_ASSASSIN
+f ffffffff ffffffff 000 i ACR_LANG_ID_ABYSSAL
+f ffffffff ffffffff 000 i ACR_LANG_ID_ALZHEDO
+f ffffffff ffffffff 000 i ACR_LANG_ID_AQUAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_AURAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_ALGARONDAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_CANT
+f ffffffff ffffffff 000 i ACR_LANG_ID_CELESTIAL
+f ffffffff ffffffff 000 i ACR_LANG_ID_CHESSENTAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_CHONDATHAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_CHULTAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_DWARF
+f ffffffff ffffffff 000 i ACR_LANG_ID_DROW
+f ffffffff ffffffff 000 i ACR_LANG_ID_DROWSIGN
+f ffffffff ffffffff 000 i ACR_LANG_ID_DRUIDIC
+f ffffffff ffffffff 000 i ACR_LANG_ID_DRACONIC
+f ffffffff ffffffff 000 i ACR_LANG_ID_DAMARAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_DAMBRATHAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_DURPARI
+f ffffffff ffffffff 000 i ACR_LANG_ID_ELVEN
+f ffffffff ffffffff 000 i ACR_LANG_ID_GNOME
+f ffffffff ffffffff 000 i ACR_LANG_ID_GOBLIN
+f ffffffff ffffffff 000 i ACR_LANG_ID_GIANT
+f ffffffff ffffffff 000 i ACR_LANG_ID_GNOLL
+f ffffffff ffffffff 000 i ACR_LANG_ID_HALFLING
+f ffffffff ffffffff 000 i ACR_LANG_ID_IGNAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_HALARDRIM
+f ffffffff ffffffff 000 i ACR_LANG_ID_HALRUAAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_ILLUSKAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_IMASKAR
+f ffffffff ffffffff 000 i ACR_LANG_ID_INFERNAL
+f ffffffff ffffffff 000 i ACR_LANG_ID_LEETSPEAK
+f ffffffff ffffffff 000 i ACR_LANG_ID_LANTANESE
+f ffffffff ffffffff 000 i ACR_LANG_ID_LOROSS
+f ffffffff ffffffff 000 i ACR_LANG_ID_MIDANI
+f ffffffff ffffffff 000 i ACR_LANG_ID_MULHORANDI
+f ffffffff ffffffff 000 i ACR_LANG_ID_NETHERESE
+f ffffffff ffffffff 000 i ACR_LANG_ID_RASHEMI
+f ffffffff ffffffff 000 i ACR_LANG_ID_SERUSAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_SHAARAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_SHOU
+f ffffffff ffffffff 000 i ACR_LANG_ID_SYLVAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_TERRAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_TREANT
+f ffffffff ffffffff 000 i ACR_LANG_ID_TASHALAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_TUIGAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_TURMIC
+f ffffffff ffffffff 000 i ACR_LANG_ID_ORC
+f ffffffff ffffffff 000 i ACR_LANG_ID_NEXALAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_YUANTI
+f ffffffff ffffffff 000 i ACR_LANG_ID_UNDERCOMMON
+f ffffffff ffffffff 000 i ACR_LANG_ID_ULUIK
+f ffffffff ffffffff 000 i ACR_LANG_ID_UNTHERIC
+f ffffffff ffffffff 000 i ACR_LANG_ID_VAASAN
+f ffffffff ffffffff 000 i ACR_LANG_ID_COMMON
+f ffffffff ffffffff 000 i ACR_LANG_ID_MAX
+f ffffffff ffffffff 000 s ACR_LANGUI_SCENE
+f ffffffff ffffffff 000 s ACR_LANGUI_FILE
+f ffffffff ffffffff 000 s ACR_LANG_UI_LISTBOX
+f ffffffff ffffffff 000 s ACR_LANG_UI_CURRENT
+f ffffffff ffffffff 000 i ACR_LANG_UI_VAR_SELECTED
+f ffffffff ffffffff 001 v ACR_OpenLanguageSelectionUI
+fp o
 f ffffffff ffffffff 001 i ACR_GetCharacterRegion
 fp o
 f ffffffff ffffffff 002 v ACR_SetCharacterRegion
@@ -2606,6 +2886,24 @@ fp i
 f ffffffff ffffffff 000 v ACR_LanguagesOnPCModuleLoaded
 f ffffffff ffffffff 001 v ACR_LanguagesOnLevelUp
 fp o
+f ffffffff ffffffff 002 v ACR_SetDefaultLanguage
+fp o
+fp s
+f ffffffff ffffffff 001 s ACR_GetDefaultLanguage
+fp o
+f ffffffff ffffffff 001 s ACR_LanguageIDToName
+fp i
+f ffffffff ffffffff 001 i ACR_LanguageNameToID
+fp s
+f ffffffff ffffffff 001 s ACR_LangIDToString
+fp s
+f ffffffff ffffffff 001 s ACR_LanguageAbbreviationToFullName
+fp s
+f ffffffff ffffffff 001 s ACR_LanguageIDToAbbreviation
+fp i
+f ffffffff ffffffff 002 s ACR_GetLanguageList
+fp o
+fp i
 f ffffffff ffffffff 001 v _AddAutomaticLanguagesByClass
 fp o
 f ffffffff ffffffff 001 v _AddAutomaticLanguagesByRace
@@ -2623,10 +2921,15 @@ fp i
 fp o
 f ffffffff ffffffff 001 o _GetDMFITool
 fp o
-f ffffffff ffffffff 002 i _IsLanguageKnown
+f ffffffff ffffffff 001 i ACR_GetLangagesKnown
+fp o
+f ffffffff ffffffff 002 s ACR_GetLanguageAtIndex
+fp o
+fp i
+f ffffffff ffffffff 002 i ACR_IsLanguageKnown
 fp o
 fp s
-f ffffffff ffffffff 002 v _GrantLanguage
+f ffffffff ffffffff 002 v ACR_GrantLanguage
 fp o
 fp s
 f ffffffff ffffffff 002 v _GrantChoosenLang
@@ -2659,60 +2962,72 @@ fp o
 f ffffffff ffffffff 002 v _ReInitializeDMFITool
 fp o
 fp o
-f ffffffff ffffffff 001 s ACR_LangIDToString
+f ffffffff ffffffff 002 i _IsLanguageKnown
+fp o
 fp s
-f ffffffff ffffffff 001 s ACR_LangAbbToLangID
+f ffffffff ffffffff 002 v _GrantLanguage
+fp o
 fp s
 f ffffffff ffffffff 001 s _RemoveLangTag
 fp s
-f 0000003d 00000163 001 i StartingConditional
+f 000000ba 000001e0 001 i StartingConditional
 fp s
 f 0000000d 00000017 000 i #loader
-f 00000017 0000003d 000 v #globals
+f 00000017 000000ba 000 v #globals
 v 0000000f ffffffff 00000000 i #retval
 v 00000017 ffffffff 00000000 s currentList
-v 0000003d 00000161 00000000 i #retval
-v 0000003d 0000015b 00000004 s sLang
-v 0000003d 00000155 00000008 o oPC
-v 00000042 00000155 0000000c o oTool
-v 00000054 00000155 00000010 i n
-v 00000054 00000155 00000014 i nMax
-v 00000072 00000155 00000018 s sTest
-v 00000163 00000289 00000000 o #retval
-v 00000163 00000283 00000004 o oPC
-v 00000165 0000027d 00000008 o oTool
-v 00000167 0000027d 0000000c o oAssociate
-v 0000028b 0000030f 00000000 i #retval
-v 0000028b 00000309 00000004 o oPC
-v 0000028b 00000303 00000008 i nTemp
-v 000002a5 00000303 0000000c i nReturn
+v 0000001b ffffffff 00000004 s ACR_COLLECTION_LIB_SCRIPT
+v 00000030 ffffffff 00000008 s ACR_COLLECTION_RESULT_VAR_INT
+v 0000004a ffffffff 0000000c s ACR_COLLECTION_RESULT_VAR_FLOAT
+v 00000064 ffffffff 00000010 s ACR_COLLECTION_RESULT_VAR_STRING
+v 0000007e ffffffff 00000014 s ACR_COLLECTION_RESULT_VAR_OBJECT
+v 000000ba 000001de 00000000 i #retval
+v 000000ba 000001d8 00000004 s sLang
+v 000000ba 000001d2 00000008 o oPC
+v 000000bf 000001d2 0000000c o oTool
+v 000000d1 000001d2 00000010 i n
+v 000000d1 000001d2 00000014 i nMax
+v 000000ef 000001d2 00000018 s sTest
+v 000001e0 00000306 00000000 o #retval
+v 000001e0 00000300 00000004 o oPC
+v 000001e2 000002fa 00000008 o oTool
+v 000001e4 000002fa 0000000c o oAssociate
+v 00000308 0000038c 00000000 i #retval
+v 00000308 00000386 00000004 o oPC
+v 00000308 00000380 00000008 i nTemp
+v 00000322 00000380 0000000c i nReturn
 l00 0000234 00000017 0000001b
-l10 0000012 0000003d 00000042
-l10 0000013 00000042 00000052
-l10 0000015 00000052 00000054
-l10 0000016 00000054 00000070
-l10 0000017 00000070 00000072
-l10 0000019 00000072 0000008d
-l10 0000020 0000008d 000000a1
-l10 0000022 000000b9 000000ef
-l10 0000023 000000ef 00000101
-l10 0000020 00000121 00000135
-l10 0000025 0000013b 00000155
-l10 0000026 0000015b 00000163
-l02 0000879 00000163 00000167
-l02 0000880 00000167 00000177
-l02 0000883 0000017d 0000018a
-l02 0000884 00000190 000001bc
-l02 0000885 000001c2 000001c4
-l02 0000886 000001c4 000001eb
-l02 0000889 000001f1 000001f3
-l02 0000891 000001f3 00000200
-l02 0000892 00000206 00000232
-l02 0000893 00000238 0000023a
-l02 0000894 0000023a 00000261
-l02 0000898 00000261 0000027d
-l02 0000899 00000283 0000028b
-l02 0000869 0000028b 000002a5
-l02 0000871 000002a5 000002e7
-l02 0000872 000002e7 00000303
-l02 0000873 00000309 00000311
+l01 0000025 0000001b 00000030
+l01 0000028 00000030 0000004a
+l01 0000029 0000004a 00000064
+l01 0000030 00000064 0000007e
+l01 0000031 0000007e 00000098
+l11 0000012 000000ba 000000bf
+l11 0000013 000000bf 000000cf
+l11 0000015 000000cf 000000d1
+l11 0000016 000000d1 000000ed
+l11 0000017 000000ed 000000ef
+l11 0000019 000000ef 0000010a
+l11 0000020 0000010a 0000011e
+l11 0000022 00000136 0000016c
+l11 0000023 0000016c 0000017e
+l11 0000020 0000019e 000001b2
+l11 0000025 000001b8 000001d2
+l11 0000026 000001d8 000001e0
+l03 0000879 000001e0 000001e4
+l03 0000880 000001e4 000001f4
+l03 0000883 000001fa 00000207
+l03 0000884 0000020d 00000239
+l03 0000885 0000023f 00000241
+l03 0000886 00000241 00000268
+l03 0000889 0000026e 00000270
+l03 0000891 00000270 0000027d
+l03 0000892 00000283 000002af
+l03 0000893 000002b5 000002b7
+l03 0000894 000002b7 000002de
+l03 0000898 000002de 000002fa
+l03 0000899 00000300 00000308
+l03 0000869 00000308 00000322
+l03 0000871 00000322 00000364
+l03 0000872 00000364 00000380
+l03 0000873 00000386 0000038e

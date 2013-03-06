@@ -1,5 +1,5 @@
 NDB V1.0
-0000072 0000012 0004712 0000260 0001346
+0000072 0000012 0004786 0000260 0001346
 n00 ginc_debug
 n01 x0_i0_enemy
 n02 x0_inc_generic
@@ -2384,6 +2384,9 @@ fp o
 f ffffffff ffffffff 002 i GetClassCasterLevel
 fp i
 fp o
+f ffffffff ffffffff 002 i GetClassPosition
+fp o
+fp i
 f ffffffff ffffffff 001 i GetCasterClassAbilityScore
 fp i
 f ffffffff ffffffff 001 i DestroyInventory
@@ -5119,6 +5122,11 @@ fp o
 fp s
 f ffffffff ffffffff 001 v ACR_ReportOfflineMessages
 fp o
+f ffffffff ffffffff 002 v ACR_SetAFK
+fp o
+fp i
+f ffffffff ffffffff 001 i ACR_GetAFK
+fp o
 f ffffffff ffffffff 003 v _playerRestoreLocation
 fp o
 fp e2
@@ -5133,6 +5141,7 @@ f ffffffff ffffffff 001 v _playerScheduleQuarantineAreaCheck
 fp o
 f ffffffff ffffffff 001 v _playerQuarantineAreaCheck
 fp o
+f ffffffff ffffffff 000 e0 ACR_GetAFKEffect
 f ffffffff ffffffff 000 s X2_IP_WORK_CONTAINER_TAG
 f ffffffff ffffffff 000 s X2_IP_ADDRPOP_2DA
 f ffffffff ffffffff 000 s X2_IP_POISONWEAPON_2DA
@@ -5420,6 +5429,15 @@ f ffffffff ffffffff 001 v _DoSubduedAnimation
 fp o
 f ffffffff ffffffff 001 i GetIsNonlethalImmune
 fp o
+f ffffffff ffffffff 003 s ACR_GetTokenAtIndex
+fp s
+fp i
+fp s
+f ffffffff ffffffff 002 i ACR_GetTokenCount
+fp s
+fp s
+f ffffffff ffffffff 001 s ACR_SortTokens
+fp s
 f ffffffff ffffffff 001 o _check_object
 fp o
 f ffffffff ffffffff 002 i _get_index
@@ -6913,6 +6931,9 @@ f ffffffff ffffffff 001 i ACR_SkillsCheckIsPCAdapted
 fp o
 f ffffffff ffffffff 001 v ACR_SkillsPrepareAdaption
 fp o
+f ffffffff ffffffff 002 i ACR_GetSizeBonusToSkill
+fp o
+fp i
 f ffffffff ffffffff 007 i _Check
 fp i
 fp o
@@ -7034,6 +7055,8 @@ fp i
 f ffffffff ffffffff 001 v ACR_RestOnClientLeave
 fp o
 f ffffffff ffffffff 001 v ACR_RestOnClientEnter
+fp o
+f ffffffff ffffffff 001 i ACR_GetHoursUntilRest
 fp o
 f ffffffff ffffffff 002 v ACR_SetLongTermCare
 fp o
@@ -7533,6 +7556,56 @@ f ffffffff ffffffff 000 i VFX_FLAG_ON_PERCEPTION
 f ffffffff ffffffff 000 i VFX_FLAG_ON_ENTER
 f ffffffff ffffffff 000 i VFX_FLAG_ON_EXIT
 f ffffffff ffffffff 000 i VFX_FLAG_ON_CLICK
+f ffffffff ffffffff 000 i ACR_PVFX_ID_INVALID
+f ffffffff ffffffff 000 i ACR_PVFX_ID_BEERSTEIN
+f ffffffff ffffffff 000 i ACR_PVFX_ID_WINE_BOTTLE
+f ffffffff ffffffff 000 i ACR_PVFX_ID_DRUM_DARK
+f ffffffff ffffffff 000 i ACR_PVFX_ID_DRUM_LIGHT
+f ffffffff ffffffff 000 i ACR_PVFX_ID_FLUTE_DARK
+f ffffffff ffffffff 000 i ACR_PVFX_ID_FLUTE_LIGHT
+f ffffffff ffffffff 000 i ACR_PVFX_ID_SMITHY_HAMMER
+f ffffffff ffffffff 000 i ACR_PVFX_ID_MANDOLIN_AGED
+f ffffffff ffffffff 000 i ACR_PVFX_ID_MANDOLIN_DARK
+f ffffffff ffffffff 000 i ACR_PVFX_ID_MANDOLIN_LIGHT
+f ffffffff ffffffff 000 i ACR_PVFX_ID_PAN
+f ffffffff ffffffff 000 i ACR_PVFX_ID_RAKE
+f ffffffff ffffffff 000 i ACR_PVFX_ID_SHOVEL
+f ffffffff ffffffff 000 i ACR_PVFX_ID_SPOON
+f ffffffff ffffffff 000 i ACR_PVFX_ID_BACKPACK_BROWN
+f ffffffff ffffffff 000 i ACR_PVFX_ID_BACKPACK_GREEN
+f ffffffff ffffffff 000 i ACR_PVFX_ID_LONGSWORD
+f ffffffff ffffffff 000 i ACR_PVFX_ID_LONGSWORD_HIP
+f ffffffff ffffffff 000 i ACR_PVFX_ID_LARGE_SWORD
+f ffffffff ffffffff 000 i ACR_PVFX_ID_GREATAXE
+f ffffffff ffffffff 000 i ACR_PVFX_ID_DWARFAXE
+f ffffffff ffffffff 000 i ACR_PVFX_ID_SHIELD_MEDIUM
+f ffffffff ffffffff 000 i ACR_PVFX_ID_SHIELD_LARGE
+f ffffffff ffffffff 000 i ACR_PVFX_ID_BOW
+f ffffffff ffffffff 000 i ACR_PVFX_ID_QUIVER_BROWN
+f ffffffff ffffffff 000 i ACR_PVFX_ID_QUIVER_RED
+f ffffffff ffffffff 000 i ACR_PVFX_ID_LUTE
+f ffffffff ffffffff 000 i ACR_PVFX_ID_ARCANE_SIGHT
+f ffffffff ffffffff 000 i ACR_PVFX_ID_IOUN_STONE
+f ffffffff ffffffff 000 i ACR_PVFX_ID_MAX
+f ffffffff ffffffff 000 i ACR_PVFX_SID_INVALID
+f ffffffff ffffffff 000 i ACR_PVFX_SID_START
+f ffffffff ffffffff 000 i ACR_PVFX_TYPE_INVALID
+f ffffffff ffffffff 000 i ACR_PVFX_TYPE_HAND
+f ffffffff ffffffff 000 i ACR_PVFX_TYPE_EQUIPMENT
+f ffffffff ffffffff 000 i ACR_PVFX_TYPE_MAGIC
+f ffffffff ffffffff 000 i ACR_PVFX_TYPE_MAX
+f ffffffff ffffffff 000 s ACR_PVFX_COLLECTION_HAND
+f ffffffff ffffffff 000 s ACR_PVFX_COLLECTION_EQUIPMENT
+f ffffffff ffffffff 000 s ACR_PVFX_COLLECTION_MAGIC
+f ffffffff ffffffff 000 s ACR_PVFX_ITREQ_ARCANE_SIGHT
+f ffffffff ffffffff 000 s ACR_PVFX_ITREQ_IOUN_STONE
+f ffffffff ffffffff 000 s ACR_PVFX_GUI_SCENE
+f ffffffff ffffffff 000 s ACR_PVFX_GUI_FILENAME
+f ffffffff ffffffff 000 s ACR_PVFX_GUI_ELE_LISTBOX_HAND
+f ffffffff ffffffff 000 s ACR_PVFX_GUI_ELE_LISTBOX_EQUIPMENT
+f ffffffff ffffffff 000 s ACR_PVFX_GUI_ELE_LISTBOX_MAGIC
+f ffffffff ffffffff 000 i ACR_PVFX_GUI_LVAR_CUR_PAGE
+f ffffffff ffffffff 000 i ACR_PVFX_GUI_LVAR_TARGET
 f ffffffff ffffffff 002 v ACR_VFXOnAttack
 fp o
 fp o
@@ -7582,6 +7655,36 @@ f ffffffff ffffffff 001 v ACR_VFXOnHeartBeat
 fp o
 f ffffffff ffffffff 001 v ACR_VFXOnSpawn
 fp o
+f ffffffff ffffffff 001 i ACR_GetPersonalVFXType
+fp i
+f ffffffff ffffffff 001 s ACR_GetPersonalVFXName
+fp i
+f ffffffff ffffffff 001 s ACR_GetPersonalVFXItemRequired
+fp i
+f ffffffff ffffffff 001 i ACR_GetPersonalVFXSpellID
+fp i
+f ffffffff ffffffff 001 s ACR_GetPersonalVFXEffectFile
+fp i
+f ffffffff ffffffff 002 i ACR_GetHasPersonalVFXActive
+fp o
+fp i
+f ffffffff ffffffff 002 v ACR_RemovePersonalVFX
+fp o
+fp i
+f ffffffff ffffffff 001 v ACR_RemoveAllPersonalVFX
+fp o
+f ffffffff ffffffff 002 v ACR_RemoveConflictingVFX
+fp o
+fp i
+f ffffffff ffffffff 002 v ACR_ApplyPersonalVFX
+fp o
+fp i
+f ffffffff ffffffff 002 v ACR_PersonalVFXItemOnEquip
+fp o
+fp o
+f ffffffff ffffffff 002 v ACR_PersonalVFXItemOnUnEquip
+fp o
+fp o
 f ffffffff ffffffff 001 i _getVFXConstant
 fp s
 f ffffffff ffffffff 003 i _getSavingThrow
@@ -7617,6 +7720,10 @@ fp i
 fp f
 f ffffffff ffffffff 001 t0000 _createVectorFromString
 fp s
+f ffffffff ffffffff 001 s ACR_GetPersonalVFXListbox
+fp i
+f ffffffff ffffffff 001 v ACR_RefreshPersonalVFXUI
+fp o
 f ffffffff ffffffff 001 i GetWealthLevel
 fp o
 f ffffffff ffffffff 001 i GetLowWealth
@@ -7722,6 +7829,7 @@ f ffffffff ffffffff 001 v _despawnQuestCreature
 fp o
 f ffffffff ffffffff 000 s _CRE_NO_AI
 f ffffffff ffffffff 000 s ACR_CRE_ISUNDEAD
+f ffffffff ffffffff 000 s ACR_CRE_SPAWN_DAMAGED
 f ffffffff ffffffff 000 i ACR_CRE_FORCE_NOT_UNDEAD
 f ffffffff ffffffff 000 i CREATUREBEHAVIOR_CREATURE_ON_SPAWN
 f ffffffff ffffffff 000 i CREATUREBEHAVIOR_CREATURE_ON_SPELL_CAST_AT
@@ -8092,17 +8200,17 @@ l13 0000079 000000f1 000000f1
 l71 0000046 00000103 00000109
 l71 0000048 00000109 00000150
 l71 0000049 00000150 00000152
-l70 0000290 00000152 00000157
-l70 0000293 00000157 00000163
-l70 0000299 00000163 00000177
-l70 0000302 00000177 00000184
-l70 0000308 000001a4 000001bf
-l70 0000311 000001bf 000001e1
-l70 0000316 000001e1 000001ef
-l70 0000318 000001ef 00000255
-l70 0000321 0000025b 0000026d
-l70 0000322 0000026d 00000279
-l70 0000324 0000027f 00000281
+l70 0000296 00000152 00000157
+l70 0000299 00000157 00000163
+l70 0000305 00000163 00000177
+l70 0000308 00000177 00000184
+l70 0000314 000001a4 000001bf
+l70 0000317 000001bf 000001e1
+l70 0000322 000001e1 000001ef
+l70 0000324 000001ef 00000255
+l70 0000327 0000025b 0000026d
+l70 0000328 0000026d 00000279
+l70 0000330 0000027f 00000281
 l66 0000842 00000281 000002a5
 l66 0000843 000002a5 000002b5
 l66 0000845 000002bb 000002c7
@@ -8513,25 +8621,25 @@ l13 0000286 000036ef 00003713
 l13 0000289 00003713 00003723
 l13 0000292 00003745 000037f5
 l13 0000296 000037fb 00003803
-l04 0000740 00003803 00003847
-l04 0000741 00003847 0000384f
-l04 0000717 0000384f 00003855
-l04 0000720 00003855 0000386c
-l04 0000721 00003872 00003895
-l04 0000722 00003895 000038cd
-l04 0000726 000038cd 000038ff
-l04 0000727 000038ff 00003931
-l04 0000728 00003931 00003965
-l04 0000729 00003965 0000397b
-l04 0000731 0000397b 000039ad
-l04 0000732 000039ad 000039d0
-l04 0000733 000039d0 000039f8
-l04 0000735 000039f8 00003a32
-l04 0000736 00003a38 00003a40
-l04 0000745 00003a40 00003a8a
-l04 0000746 00003a8a 00003a92
-l04 0000711 00003a92 00003ab9
-l04 0000712 00003ab9 00003ac1
+l04 0000751 00003803 00003847
+l04 0000752 00003847 0000384f
+l04 0000728 0000384f 00003855
+l04 0000731 00003855 0000386c
+l04 0000732 00003872 00003895
+l04 0000733 00003895 000038cd
+l04 0000737 000038cd 000038ff
+l04 0000738 000038ff 00003931
+l04 0000739 00003931 00003965
+l04 0000740 00003965 0000397b
+l04 0000742 0000397b 000039ad
+l04 0000743 000039ad 000039d0
+l04 0000744 000039d0 000039f8
+l04 0000746 000039f8 00003a32
+l04 0000747 00003a38 00003a40
+l04 0000756 00003a40 00003a8a
+l04 0000757 00003a8a 00003a92
+l04 0000722 00003a92 00003ab9
+l04 0000723 00003ab9 00003ac1
 l13 0000188 00003ac1 00003adf
 l13 0000191 00003adf 00003b05
 l13 0000193 00003b05 00003b11
@@ -9367,6 +9475,6 @@ l69 0000625 00008a0c 00008a14
 l39 0000219 00008a14 00008a2a
 l39 0000220 00008a2a 00008a97
 l39 0000221 00008a97 00008a9f
-l70 0000590 00008a9f 00008aac
-l70 0000591 00008aac 00008add
-l70 0000592 00008add 00008ae5
+l70 0000596 00008a9f 00008aac
+l70 0000597 00008aac 00008add
+l70 0000598 00008add 00008ae5

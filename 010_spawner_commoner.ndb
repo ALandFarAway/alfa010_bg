@@ -1,5 +1,5 @@
 NDB V1.0
-0000031 0000006 0002942 0000018 0000233
+0000031 0000006 0002946 0000018 0000233
 n00 ginc_debug
 n01 acr_tools_i
 n02 nwnx_objectattributes_include
@@ -1177,6 +1177,9 @@ fp o
 f ffffffff ffffffff 002 i GetClassCasterLevel
 fp i
 fp o
+f ffffffff ffffffff 002 i GetClassPosition
+fp o
+fp i
 f ffffffff ffffffff 001 i GetCasterClassAbilityScore
 fp i
 f ffffffff ffffffff 001 i DestroyInventory
@@ -4035,6 +4038,11 @@ fp o
 fp s
 f ffffffff ffffffff 001 v ACR_ReportOfflineMessages
 fp o
+f ffffffff ffffffff 002 v ACR_SetAFK
+fp o
+fp i
+f ffffffff ffffffff 001 i ACR_GetAFK
+fp o
 f ffffffff ffffffff 003 v _playerRestoreLocation
 fp o
 fp e2
@@ -4049,6 +4057,7 @@ f ffffffff ffffffff 001 v _playerScheduleQuarantineAreaCheck
 fp o
 f ffffffff ffffffff 001 v _playerQuarantineAreaCheck
 fp o
+f ffffffff ffffffff 000 e0 ACR_GetAFKEffect
 f ffffffff ffffffff 000 i ACR_NUM_DEFAULT_FEATURE_COLOURS
 f ffffffff ffffffff 000 i ACR_FEATURE_TYPE_RANDOM
 f ffffffff ffffffff 000 i ACR_APP_TYPE_HAIR_ACC
@@ -4468,5 +4477,5 @@ l29 0000351 000010f1 000010f7
 l29 0000353 000010fd 00001103
 l29 0000355 00001109 00001125
 l29 0000356 0000112b 00001133
-l01 0000745 00001133 0000117d
-l01 0000746 0000117d 00001185
+l01 0000756 00001133 0000117d
+l01 0000757 0000117d 00001185

@@ -1,5 +1,5 @@
 NDB V1.0
-0000015 0000002 0000865 0000029 0000088
+0000015 0000002 0000866 0000029 0000088
 n00 ginc_debug
 n01 acr_tools_i
 n02 acr_debug_i
@@ -1138,6 +1138,9 @@ fp o
 f ffffffff ffffffff 002 i GetClassCasterLevel
 fp i
 fp o
+f ffffffff ffffffff 002 i GetClassPosition
+fp o
+fp i
 f ffffffff ffffffff 001 i GetCasterClassAbilityScore
 fp i
 f ffffffff ffffffff 001 i DestroyInventory

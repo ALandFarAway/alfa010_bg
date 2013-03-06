@@ -1,5 +1,5 @@
 NDB V1.0
-0000070 0000011 0004648 0000063 0000186
+0000070 0000011 0004657 0000063 0000186
 n00 ginc_debug
 n01 acr_tools_i
 n02 acr_debug_i
@@ -1237,6 +1237,9 @@ fp o
 f ffffffff ffffffff 002 i GetClassCasterLevel
 fp i
 fp o
+f ffffffff ffffffff 002 i GetClassPosition
+fp o
+fp i
 f ffffffff ffffffff 001 i GetCasterClassAbilityScore
 fp i
 f ffffffff ffffffff 001 i DestroyInventory
@@ -4093,6 +4096,11 @@ fp o
 fp s
 f ffffffff ffffffff 001 v ACR_ReportOfflineMessages
 fp o
+f ffffffff ffffffff 002 v ACR_SetAFK
+fp o
+fp i
+f ffffffff ffffffff 001 i ACR_GetAFK
+fp o
 f ffffffff ffffffff 003 v _playerRestoreLocation
 fp o
 fp e2
@@ -4107,6 +4115,16 @@ f ffffffff ffffffff 001 v _playerScheduleQuarantineAreaCheck
 fp o
 f ffffffff ffffffff 001 v _playerQuarantineAreaCheck
 fp o
+f ffffffff ffffffff 000 e0 ACR_GetAFKEffect
+f ffffffff ffffffff 003 s ACR_GetTokenAtIndex
+fp s
+fp i
+fp s
+f ffffffff ffffffff 002 i ACR_GetTokenCount
+fp s
+fp s
+f ffffffff ffffffff 001 s ACR_SortTokens
+fp s
 f ffffffff ffffffff 001 o _check_object
 fp o
 f ffffffff ffffffff 002 i _get_index
@@ -6899,6 +6917,9 @@ f ffffffff ffffffff 001 i ACR_SkillsCheckIsPCAdapted
 fp o
 f ffffffff ffffffff 001 v ACR_SkillsPrepareAdaption
 fp o
+f ffffffff ffffffff 002 i ACR_GetSizeBonusToSkill
+fp o
+fp i
 f ffffffff ffffffff 007 i _Check
 fp i
 fp o
@@ -7020,6 +7041,8 @@ fp i
 f ffffffff ffffffff 001 v ACR_RestOnClientLeave
 fp o
 f ffffffff ffffffff 001 v ACR_RestOnClientEnter
+fp o
+f ffffffff ffffffff 001 i ACR_GetHoursUntilRest
 fp o
 f ffffffff ffffffff 002 v ACR_SetLongTermCare
 fp o
@@ -7827,18 +7850,18 @@ l22 0000174 000008f7 000008f9
 l22 0000199 000008f9 0000091f
 l22 0000200 0000091f 00000945
 l22 0000201 0000094b 00000953
-l01 0000659 00000953 00000965
-l01 0000660 0000096b 00000987
-l01 0000661 0000098d 0000098f
-l01 0000662 000009a7 000009c3
-l01 0000663 000009c9 000009cb
-l01 0000664 000009cb 000009e7
-l01 0000666 000009e7 000009ef
-l01 0001130 000009ef 00000a01
-l01 0001131 00000a07 00000a4f
-l01 0001132 00000a55 00000a57
-l01 0001133 00000a57 00000a9f
-l01 0001135 00000a9f 00000aa7
+l01 0000670 00000953 00000965
+l01 0000671 0000096b 00000987
+l01 0000672 0000098d 0000098f
+l01 0000673 000009a7 000009c3
+l01 0000674 000009c9 000009cb
+l01 0000675 000009cb 000009e7
+l01 0000677 000009e7 000009ef
+l01 0001141 000009ef 00000a01
+l01 0001142 00000a07 00000a4f
+l01 0001143 00000a55 00000a57
+l01 0001144 00000a57 00000a9f
+l01 0001146 00000a9f 00000aa7
 l03 0000314 00000aa7 00000aac
 l03 0000315 00000aac 00000acc
 l03 0000316 00000acc 00000af1
@@ -7854,10 +7877,10 @@ l68 0000642 00000bba 00000bd6
 l68 0000643 00000bd6 00000be6
 l68 0000644 00000be6 00000c1b
 l68 0000645 00000c21 00000c29
-l01 0000751 00000c29 00000c39
-l01 0000752 00000c39 00000c61
-l01 0000754 00000c61 00000c91
-l01 0000756 00000c97 00000c9f
+l01 0000762 00000c29 00000c39
+l01 0000763 00000c39 00000c61
+l01 0000765 00000c61 00000c91
+l01 0000767 00000c97 00000c9f
 l68 0000648 00000c9f 00000cb2
 l68 0000650 00000cb2 00000cce
 l68 0000651 00000cce 00000cde
