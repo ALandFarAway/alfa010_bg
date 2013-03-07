@@ -444,7 +444,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F06C52F2934F9321367CA2DBF5A41904CD8E2A50" downloadHash="DE7248D35CDB5E1F6016F39F1A1E67B28B48A477" name="cloakwood_02_cave2.trx" dlsize="237302" size="240607" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="23E7F5CA0F8610DC77677CD51030B58A5C49E5BF" downloadHash="EB182C541D4161EB0784D5DE10100468F04CC37A" name="cloakwood_02_cave2.trx" dlsize="163741" size="165743" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1453,7 +1453,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A2BE7208777B512A6BDEDB0E36FF69656AB9186C" downloadHash="E98F9941B1CE2B8A056CE880C3B7DE507A0F0B58" name="und_t2_throrgar_top_west.trx" dlsize="811912" size="4139693" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A469321C031B3A839AF7D46210DF66222C794A72" downloadHash="887EC3DF253874ECABD2E55A51FD066748DA02E5" name="und_t2_throrgar_top_west.trx" dlsize="807020" size="4135819" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
