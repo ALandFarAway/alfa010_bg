@@ -49,13 +49,13 @@ void main();
 ////////////////////////////////////////////////////////////////////////////////
 
 void main() {
-		    spawn_hostile_npc("010_sand_orc1",0.5);
-		    spawn_hostile_npc("010_sand_orc2",0.5);
-		    spawn_hostile_npc("010_sand_orc3",0.5);
-		    spawn_hostile_npc("010_sand_orc11",0.5);
-			spawn_hostile_npc("010_sand_orc1",0.5);
-		    spawn_hostile_npc("010_sand_orc2",0.5);
-		    spawn_hostile_npc("010_sand_orc3",0.5);
-		    spawn_hostile_npc("010_sand_orc11",0.5);
+		    spawn_hostile_npc("010_sand_orc1",0.2);
+		    spawn_hostile_npc("010_sand_orc2",0.2);
+		    spawn_hostile_npc("010_sand_orc3",0.2);
+		    spawn_hostile_npc("010_sand_orc11",0.2);
+			spawn_hostile_npc("010_sand_orc1",0.2);
+		    spawn_hostile_npc("010_sand_orc2",0.2);
+		    spawn_hostile_npc("010_sand_orc3",0.2);
+		    spawn_hostile_npc("010_sand_orc11",0.2);
 
 }
