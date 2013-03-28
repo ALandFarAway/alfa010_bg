@@ -48,6 +48,27 @@
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
+void InitializeSpawnResets()
+{
+	object area,o;
+	string str;
+	int lock, open;
+
+	for (area = GetFirstArea(); GetIsObjectValid(area); area = GetNextArea()) {
+		for (o = GetFirstObjectInArea(area); GetIsObjectValid(o); o = GetNextObjectInArea(area)) {
+
+			
+			/* ignore non-whatever this is */
+			if (GetObjectType(o) != OBJECT_TYPE_WAYPOINT)
+				continue;
+
+			if (GetLocalInt(o, "ACR_SPAWN_TYPE") != 0)
+				SetLocalInt(o, "ACR_SPAWN_RESPAWN_COUNT", -1);
+		}
+
+	}
+}
+
 void main() {
 
 	InitializeThrorgarSpire(GetObjectByTag("ud_t0_throgar_spire"));
@@ -67,6 +88,7 @@ void main() {
 	DelayCommand(4.1, WriteTimestampedLogEntry("There is no spoon."));
 	
 	DelayCommand(6.0, InitializeDoors());
+	DelayCommand(12.0, InitializeSpawnResets());
 
 	SetLocalInt(GetModule(), "ACR_HEALTHMONITOR_GAMEOBJUPDATE_BACKOFF", 1);
 	
