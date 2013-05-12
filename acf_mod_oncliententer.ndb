@@ -1,5 +1,5 @@
 NDB V1.0
-0000107 0000024 0006035 0000228 0000953
+0000107 0000024 0006038 0000228 0000953
 n00 ginc_debug
 n01 acr_tools_i
 n02 acr_debug_i
@@ -1915,16 +1915,23 @@ f ffffffff ffffffff 000 s _RPXP_PERCENT
 f ffffffff ffffffff 000 i _RPXP_CHECKS_PER_HOUR
 f ffffffff ffffffff 000 f _ACR_XP_NONLETHAL_RATIO
 f ffffffff ffffffff 000 f _ACR_XP_COMBAT_ANCHOR
+f ffffffff ffffffff 000 f _ACR_XP_QUEST_ANCHOR
 f ffffffff ffffffff 000 f _ACR_XP_MAX_RP_HOUR
 f ffffffff ffffffff 000 f _ACR_XP_MAX_CHALLENGE_HOUR
 f ffffffff ffffffff 000 f _ACR_XP_COMBAT_RANGE
 f ffffffff ffffffff 000 f _ACR_XP_OVERCR_LOGGING
 f ffffffff ffffffff 000 f _ACR_XP_PARTYSCALE
 f ffffffff ffffffff 000 s _ACR_PPS_QUARANTINED
-f ffffffff ffffffff 003 v ACR_AwardStaticQuestXP
+f ffffffff ffffffff 004 v ACR_AwardStaticQuestXP
 fp o
 fp s
 fp i
+fp f
+f ffffffff ffffffff 004 v ACR_AwardStaticQuestXPFromCR
+fp o
+fp s
+fp f
+fp f
 f ffffffff ffffffff 006 v ACR_AwardDMSessionXP
 fp o
 fp o
@@ -7654,7 +7661,7 @@ f ffffffff ffffffff 000 s ACR_QST_SPAWN_DELAY
 f ffffffff ffffffff 000 s ACR_QST_MESSAGE
 f ffffffff ffffffff 000 f ACR_QST_RADIUS
 f ffffffff ffffffff 000 s ACR_QST_CONTAINER_TAG
-f ffffffff ffffffff 007 v ACR_AddPersistentJournalQuestEntry
+f ffffffff ffffffff 008 v ACR_AddPersistentJournalQuestEntry
 fp s
 fp i
 fp o
@@ -7662,6 +7669,16 @@ fp i
 fp i
 fp i
 fp i
+fp f
+f ffffffff ffffffff 008 v ACR_AddPersistentJournalQuestEntryByCR
+fp s
+fp i
+fp o
+fp i
+fp i
+fp i
+fp f
+fp f
 f ffffffff ffffffff 004 v ACR_RemovePersistentJournalQuestEntry
 fp s
 fp o
@@ -10921,8 +10938,8 @@ l104 0000915 000004b5 000004c3
 l104 0000918 000004c3 000004d1
 l104 0000920 000004d1 000004e8
 l104 0000921 000004ee 000004f0
-l104 0001606 000004f0 0000052a
-l104 0001607 0000052a 00000532
+l104 0001611 000004f0 0000052a
+l104 0001612 0000052a 00000532
 l02 0000194 00000532 00000538
 l02 0000195 00000538 00000550
 l02 0000196 00000550 0000056c

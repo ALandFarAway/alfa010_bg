@@ -1,5 +1,5 @@
 NDB V1.0
-0000106 0000024 0006016 0000202 0000544
+0000106 0000024 0006019 0000202 0000544
 n00 ginc_debug
 n01 acr_tools_i
 n02 acr_debug_i
@@ -1852,16 +1852,23 @@ f ffffffff ffffffff 000 s _RPXP_PERCENT
 f ffffffff ffffffff 000 i _RPXP_CHECKS_PER_HOUR
 f ffffffff ffffffff 000 f _ACR_XP_NONLETHAL_RATIO
 f ffffffff ffffffff 000 f _ACR_XP_COMBAT_ANCHOR
+f ffffffff ffffffff 000 f _ACR_XP_QUEST_ANCHOR
 f ffffffff ffffffff 000 f _ACR_XP_MAX_RP_HOUR
 f ffffffff ffffffff 000 f _ACR_XP_MAX_CHALLENGE_HOUR
 f ffffffff ffffffff 000 f _ACR_XP_COMBAT_RANGE
 f ffffffff ffffffff 000 f _ACR_XP_OVERCR_LOGGING
 f ffffffff ffffffff 000 f _ACR_XP_PARTYSCALE
 f ffffffff ffffffff 000 s _ACR_PPS_QUARANTINED
-f ffffffff ffffffff 003 v ACR_AwardStaticQuestXP
+f ffffffff ffffffff 004 v ACR_AwardStaticQuestXP
 fp o
 fp s
 fp i
+fp f
+f ffffffff ffffffff 004 v ACR_AwardStaticQuestXPFromCR
+fp o
+fp s
+fp f
+fp f
 f ffffffff ffffffff 006 v ACR_AwardDMSessionXP
 fp o
 fp o
@@ -7653,7 +7660,7 @@ f ffffffff ffffffff 000 s ACR_QST_SPAWN_DELAY
 f ffffffff ffffffff 000 s ACR_QST_MESSAGE
 f ffffffff ffffffff 000 f ACR_QST_RADIUS
 f ffffffff ffffffff 000 s ACR_QST_CONTAINER_TAG
-f ffffffff ffffffff 007 v ACR_AddPersistentJournalQuestEntry
+f ffffffff ffffffff 008 v ACR_AddPersistentJournalQuestEntry
 fp s
 fp i
 fp o
@@ -7661,6 +7668,16 @@ fp i
 fp i
 fp i
 fp i
+fp f
+f ffffffff ffffffff 008 v ACR_AddPersistentJournalQuestEntryByCR
+fp s
+fp i
+fp o
+fp i
+fp i
+fp i
+fp f
+fp f
 f ffffffff ffffffff 004 v ACR_RemovePersistentJournalQuestEntry
 fp s
 fp o
@@ -10846,13 +10863,13 @@ l105 0000060 000001af 000001bc
 l105 0000061 000001bc 000001c9
 l105 0000062 000001c9 000001d1
 l105 0000065 000001d7 000001d9
-l104 0001222 000001d9 000001de
-l104 0001223 000001de 000001e3
-l104 0001224 000001e3 000001e8
-l104 0001225 000001e8 000001ed
-l104 0001228 000001ed 00000213
-l104 0001231 00000213 00000277
-l104 0001232 0000027d 0000027f
+l104 0001227 000001d9 000001de
+l104 0001228 000001de 000001e3
+l104 0001229 000001e3 000001e8
+l104 0001230 000001e8 000001ed
+l104 0001233 000001ed 00000213
+l104 0001236 00000213 00000277
+l104 0001237 0000027d 0000027f
 l80 0000413 0000027f 0000028c
 l80 0000414 0000028c 000002a9
 l80 0000415 000002a9 000002c5

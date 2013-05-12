@@ -63,7 +63,7 @@ void main()
 				break;
 		}
 
-		DelayCommand(360.0f, send_elfsong_msg(str, o));
+		DelayCommand(150.0f, send_elfsong_msg(str, o));
 
 
 		DelayCommand(2.0f, MusicBackgroundChangeNight(OBJECT_SELF, 472)); 
