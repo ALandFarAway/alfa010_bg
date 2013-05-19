@@ -87,6 +87,11 @@ void main(string sItemTag)
 	fXP = 1.0f;
 	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
 
+	sStr = "abr_it_misc_redcap_tooth";
+	nGP = 100;
+	fXP = 50.0f;
+	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+
 	sStr = "010_it_misc_rtooth";
 	nGP = 100;
 	fXP = 50.0f;
