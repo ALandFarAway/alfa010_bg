@@ -11,13 +11,18 @@
 #include "nw_i0_plot"
 #include "acr_xp_i"
 
-float Gxp = 0.0f;
+#define CR_XP_SCALE 5.0f
+
 int Ggold = 0;
 
 void DestroyItems(object oTarget,string sItem,int nNumItems,int gold, float xp)
 {
     int nCount = 0;
+    float Gxp = 0.0f;
+    float cr = 0.0f;
     object oItem = GetFirstItemInInventory(oTarget);
+
+    cr = xp/CR_XP_SCALE;
 
     while (GetIsObjectValid(oItem) == TRUE && nCount < nNumItems)
     {
@@ -31,7 +36,7 @@ void DestroyItems(object oTarget,string sItem,int nNumItems,int gold, float xp)
         oItem = GetNextItemInInventory(oTarget);
     }
 
-   return;
+    ACR_AwardStaticQuestXP(oTarget,"Collected: Herbs "+sItem, FloatToInt(Gxp), cr); 
 }
 
 
@@ -89,7 +94,4 @@ void main(string sItemTag)
 	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
 
 	GiveGoldToCreature(oPC,Ggold);
-	ACR_AwardStaticQuestXP(oPC,"Herbs",FloatToInt(Gxp)); 
-   
-
 }

@@ -11,22 +11,32 @@
 #include "nw_i0_plot"
 #include "acr_xp_i"
 
-int Gxp = 0;
+#define CR_XP_SCALE 1.0f
+
 int Ggold = 0;
 
-void DestroyItems(object oTarget,string sItem,int nNumItems,int gold, int xp)
+void DestroyItems(object oTarget,string sItem,int nNumItems,int gold,int xp)
 {
+    int nCount = 0;
+    int Gxp = 0;
+    float cr = 0.0f;
     object oItem = GetFirstItemInInventory(oTarget);
 
-    while (GetIsObjectValid(oItem) == TRUE)  {
-        if (GetTag(oItem) == sItem)  {
-            
-			DestroyObject(oItem);
-			Gxp = Gxp + xp*nNumItems;
-			Ggold = Ggold + gold*nNumItems;
+    cr = xp/CR_XP_SCALE;
+
+    while (GetIsObjectValid(oItem) == TRUE && nCount < nNumItems)
+    {
+        if (GetTag(oItem) == sItem)
+        {
+		DestroyObject(oItem,0.0f);
+		Gxp += xp;
+		Ggold += gold;
+        	nCount++;
         }
         oItem = GetNextItemInInventory(oTarget);
     }
+
+    ACR_AwardStaticQuestXP(oTarget,"Collected: Pelts "+sItem, Gxp, cr); 
 }
 
 
@@ -68,8 +78,4 @@ void main(string sItemTag)
     DestroyItems( oPC,"it_plot_hide_wolverine",nTotalItem,3,2 );	
 	
 	GiveGoldToCreature(oPC,Ggold);
-	ACR_AwardStaticQuestXP(oPC,"Pelts",Gxp); 
-     
-   
-
 }

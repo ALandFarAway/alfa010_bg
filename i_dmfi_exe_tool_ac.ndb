@@ -1,5 +1,5 @@
 NDB V1.0
-0000069 0000011 0004605 0000042 0000175
+0000069 0000011 0004609 0000042 0000175
 n00 dmfi_inc_conv
 n01 acr_collections_i
 n02 ginc_debug
@@ -2128,6 +2128,7 @@ f ffffffff ffffffff 000 i SQL_ERROR
 f ffffffff ffffffff 000 i SQL_SUCCESS
 f ffffffff ffffffff 000 s ACR_CID
 f ffffffff ffffffff 000 s ACR_PID
+f ffffffff ffffffff 000 s ACR_MEMBERSHIP
 f ffffffff ffffffff 000 s ACR_SRVADMIN
 f ffffffff ffffffff 000 s ACR_DISABLE_STATISTICS
 f ffffffff ffffffff 000 s ACR_GAMEOBJUPDATE
@@ -2263,6 +2264,8 @@ fp i
 f ffffffff ffffffff 001 i ACR_GetCharacterID
 fp o
 f ffffffff ffffffff 001 i ACR_GetPlayerID
+fp o
+f ffffffff ffffffff 001 i ACR_GetIsMember
 fp o
 f ffffffff ffffffff 001 i ACR_IsServerAdmin
 fp o
@@ -4363,6 +4366,7 @@ f ffffffff ffffffff 000 i ACR_SERVER_IPC_ENABLE_CHARACTER_SAVE
 f ffffffff ffffffff 000 i ACR_SERVER_IPC_PAUSE_HEARTBEAT
 f ffffffff ffffffff 000 i ACR_SERVER_IPC_HANDLE_QUARANTINE_PLAYER
 f ffffffff ffffffff 000 i ACR_SERVER_IPC_HANDLE_GUI_RESYNC
+f ffffffff ffffffff 000 i ACR_SERVER_IPC_IS_SERVER_PUBLIC
 f ffffffff ffffffff 000 i ACR_SERVER_IPC_EVENT_CHAT_TELL
 f ffffffff ffffffff 000 i ACR_SERVER_IPC_EVENT_BROADCAST_NOTIFICATION
 f ffffffff ffffffff 000 i ACR_SERVER_IPC_EVENT_DISCONNECT_PLAYER
@@ -4406,6 +4410,8 @@ fp o
 f ffffffff ffffffff 002 v ACR_ServerIPC_OnGUIResynchronization
 fp i
 fp s
+f ffffffff ffffffff 001 i ACR_GetIsServerPublic
+fp i
 f ffffffff ffffffff 002 v ACR_SendFeedbackError
 fp o
 fp s
@@ -4470,8 +4476,9 @@ fp o
 fp i
 fp i
 fp i
-f ffffffff ffffffff 001 i ACR_PortalCheckServer
+f ffffffff ffffffff 002 i ACR_PortalCheckServer
 fp i
+fp o
 f ffffffff ffffffff 002 i ACR_PortalCheckPass
 fp o
 fp i
@@ -7728,12 +7735,12 @@ l05 0000062 000000c9 000000d7
 l05 0000064 000000d7 000000e6
 l05 0000065 000000e6 000000f5
 l05 0000066 000000f5 00000104
-l06 0000147 00000104 00000104
-l06 0000148 00000104 00000104
-l06 0000149 00000104 00000104
-l06 0000150 00000104 00000104
 l06 0000151 00000104 00000104
 l06 0000152 00000104 00000104
+l06 0000153 00000104 00000104
+l06 0000154 00000104 00000104
+l06 0000155 00000104 00000104
+l06 0000156 00000104 00000104
 l07 0000116 00000104 00000104
 l07 0000117 00000104 00000104
 l07 0000118 00000104 00000104

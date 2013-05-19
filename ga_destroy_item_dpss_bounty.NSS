@@ -51,5 +51,5 @@ void main(int type)
     }
 	
     GiveGoldToCreature(oPC, Ggold);
-    ACR_AwardStaticQuestXP(oPC,"DPSS Bounty",Gxp);  
+    ACR_AwardStaticQuestXP(oPC,"DPSS Bounty",Gxp, 1.0f);  
 }
