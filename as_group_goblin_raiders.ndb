@@ -1,5 +1,5 @@
 NDB V1.0
-0000068 0000011 0004585 0000023 0000072
+0000069 0000011 0004613 0000023 0000072
 n00 ginc_debug
 n01 acr_tools_i
 n02 acr_time_i
@@ -64,10 +64,11 @@ n60 acr_effects_i
 n61 acr_skills_i
 n62 acr_resting_i
 n63 acr_mobloot_i
-n64 acr_spawn_i
-n65 010_area_ex
-n66 010_spawn_ex
-N67 as_group_goblin_raiders
+n64 acr_traps_i
+n65 acr_spawn_i
+n66 010_area_ex
+n67 010_spawn_ex
+N68 as_group_goblin_raiders
 s 03 vector
 sf f x
 sf f y
@@ -1674,6 +1675,7 @@ f ffffffff ffffffff 000 s ACR_LOG_SERVER_LOAD
 f ffffffff ffffffff 000 s ACR_LOG_VALIDATED
 f ffffffff ffffffff 000 s ACR_LOG_SERVER_ADMIN_COMMAND
 f ffffffff ffffffff 000 s ACR_LOG_DEATH_FLOOR
+f ffffffff ffffffff 000 s ACR_LOG_SPAWN
 f ffffffff ffffffff 004 v ACR_LogEvent
 fp o
 fp s
@@ -1723,6 +1725,14 @@ fp o
 f ffffffff ffffffff 000 v ACR_LogModuleLoaded
 f ffffffff ffffffff 002 v ACR_LogServerAdminCommand
 fp o
+fp s
+f ffffffff ffffffff 002 v ACR_LogDMSpawn
+fp o
+fp s
+f ffffffff ffffffff 004 v ACR_LogDMedEvent
+fp o
+fp s
+fp s
 fp s
 f ffffffff ffffffff 000 s _STORED_XP
 f ffffffff ffffffff 000 f _RPXP_SCRIPT_ANCHOR
@@ -7210,6 +7220,77 @@ fp o
 f ffffffff ffffffff 002 v _playerStabilizeCheck
 fp o
 fp i
+f ffffffff ffffffff 000 i TRIGGER_SIZE_SMALL
+f ffffffff ffffffff 000 i TRIGGER_SIZE_MEDIUM
+f ffffffff ffffffff 000 i TRIGGER_SIZE_LARGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_HUGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_GARGANTUAN
+f ffffffff ffffffff 000 i TRIGGER_SIZE_COLOSSAL
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_GENERIC
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_SPELL
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_DISARM_TRAP
+f ffffffff ffffffff 000 i TRAP_EVENT_DESPAWN_TRAP
+f ffffffff ffffffff 000 i SPECIAL_OBJECT_TYPE_TRAP
+f ffffffff ffffffff 016 v SpawnGenericTrap
+fp e2
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 010 v SpawnSpellTrap
+fp e2
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 000 v TrapDetectEnter
+f ffffffff ffffffff 000 v TrapDetectExit
+f ffffffff ffffffff 000 v TrapTriggerEnter
+f ffffffff ffffffff 000 v TrapTriggerExit
+f ffffffff ffffffff 000 v TrapDisarmAttempt
+f ffffffff ffffffff 021 v _PassToCSharp
+fp i
+fp f
+fp f
+fp f
+fp o
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+fp s
+f ffffffff ffffffff 000 i _IsTrapEventNeeded
 f ffffffff ffffffff 000 s _SPAWN_SYSTEM_NAME
 f ffffffff ffffffff 000 s _SPAWN_GROUP_SCRIPT_PREFIX
 f ffffffff ffffffff 000 s _SPAWN_WAYPOINT_TAG
@@ -7495,6 +7576,9 @@ fp f
 f ffffffff ffffffff 002 v _AddObjectToSpawnPoint
 fp o
 fp o
+f ffffffff ffffffff 002 v _AddTrapToSpawnPoint
+fp o
+fp s
 f ffffffff ffffffff 003 v _QuickBuff
 fp o
 fp i
@@ -7658,18 +7742,18 @@ l11 0000213 000000b7 000000b7
 l11 0000214 000000b7 000000b7
 l12 0000162 000000b7 000000d4
 l12 0000166 000000d4 000000f1
-l67 0000058 00000103 00000105
-l67 0000060 00000105 00000129
-l67 0000061 00000129 0000014d
-l67 0000062 0000014d 00000171
-l67 0000063 00000171 00000196
-l67 0000064 0000019c 0000019e
-l66 0000158 0000019e 000001b2
-l66 0000159 000001b2 000001b8
-l66 0000161 000001b8 000001ca
-l66 0000162 000001d0 000001e4
-l66 0000164 000001ea 000001f2
+l68 0000058 00000103 00000105
+l68 0000060 00000105 00000129
+l68 0000061 00000129 0000014d
+l68 0000062 0000014d 00000171
+l68 0000063 00000171 00000196
+l68 0000064 0000019c 0000019e
+l67 0000158 0000019e 000001b2
+l67 0000159 000001b2 000001b8
+l67 0000161 000001b8 000001ca
+l67 0000162 000001d0 000001e4
+l67 0000164 000001ea 000001f2
 l01 0000756 000001f2 0000023c
 l01 0000757 0000023c 00000244
-l64 0000946 00000244 00000268
-l64 0000947 00000268 00000270
+l65 0000949 00000244 00000268
+l65 0000950 00000268 00000270

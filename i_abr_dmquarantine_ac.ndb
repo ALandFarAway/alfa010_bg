@@ -1,5 +1,5 @@
 NDB V1.0
-0000106 0000024 0006023 0000387 0001141
+0000107 0000024 0006051 0000387 0001141
 n00 ginc_debug
 n01 acr_tools_i
 n02 acr_debug_i
@@ -73,39 +73,40 @@ n69 acr_effects_i
 n70 acr_skills_i
 n71 acr_resting_i
 n72 acr_mobloot_i
-n73 acr_spawn_i
-n74 acr_scry_i
-n75 acr_quest_i
-n76 acr_chat_i
-n77 acr_combat_actions_i
-n78 acr_pchide_i
-n79 acr_vfx_i
-n80 acr_items_i
-n81 acr_language_i
-n82 acr_feat_i
-n83 acr_prc_bladesinger_i
-n84 acr_feat_events_i
-n85 acr_srvadmin_i
-n86 acr_scliext_i
-n87 acr_area_instance_i
-n88 acr_report_i
-n89 acr_gui_i
-n90 dmfi_inc_langexe
-n91 dmfi_inc_initial
-n92 dmfi_inc_lang
-n93 acr_roll_i
-n94 nwnx_craft_system
-n95 acr_tradescroll_i
-n96 ginc_vars
-n97 ginc_item
-n98 x2_inc_spellhook
-n99 acr_events_i
-n100 acr_creature_i
-n101 acr_spells_i
-n102 acr_craft_creation_i
-n103 acr_notifications_i
-n104 acr_mod_events_i
-N105 i_abr_dmquarantine_ac
+n73 acr_traps_i
+n74 acr_spawn_i
+n75 acr_scry_i
+n76 acr_quest_i
+n77 acr_chat_i
+n78 acr_combat_actions_i
+n79 acr_pchide_i
+n80 acr_vfx_i
+n81 acr_items_i
+n82 acr_language_i
+n83 acr_feat_i
+n84 acr_prc_bladesinger_i
+n85 acr_feat_events_i
+n86 acr_srvadmin_i
+n87 acr_scliext_i
+n88 acr_area_instance_i
+n89 acr_report_i
+n90 acr_gui_i
+n91 dmfi_inc_langexe
+n92 dmfi_inc_initial
+n93 dmfi_inc_lang
+n94 acr_roll_i
+n95 nwnx_craft_system
+n96 acr_tradescroll_i
+n97 ginc_vars
+n98 ginc_item
+n99 x2_inc_spellhook
+n100 acr_events_i
+n101 acr_creature_i
+n102 acr_spells_i
+n103 acr_craft_creation_i
+n104 acr_notifications_i
+n105 acr_mod_events_i
+N106 i_abr_dmquarantine_ac
 s 03 vector
 sf f x
 sf f y
@@ -621,6 +622,7 @@ f ffffffff ffffffff 000 s ACR_LOG_SERVER_LOAD
 f ffffffff ffffffff 000 s ACR_LOG_VALIDATED
 f ffffffff ffffffff 000 s ACR_LOG_SERVER_ADMIN_COMMAND
 f ffffffff ffffffff 000 s ACR_LOG_DEATH_FLOOR
+f ffffffff ffffffff 000 s ACR_LOG_SPAWN
 f 00006c8a 00006f90 004 v ACR_LogEvent
 fp o
 fp s
@@ -670,6 +672,14 @@ fp o
 f ffffffff ffffffff 000 v ACR_LogModuleLoaded
 f ffffffff ffffffff 002 v ACR_LogServerAdminCommand
 fp o
+fp s
+f ffffffff ffffffff 002 v ACR_LogDMSpawn
+fp o
+fp s
+f ffffffff ffffffff 004 v ACR_LogDMedEvent
+fp o
+fp s
+fp s
 fp s
 f ffffffff ffffffff 000 s ACR_NWN_GOLD_TAG
 f ffffffff ffffffff 000 i BASE_ITEM_TRADE_GOODS
@@ -7329,6 +7339,77 @@ fp o
 f ffffffff ffffffff 002 v _playerStabilizeCheck
 fp o
 fp i
+f ffffffff ffffffff 000 i TRIGGER_SIZE_SMALL
+f ffffffff ffffffff 000 i TRIGGER_SIZE_MEDIUM
+f ffffffff ffffffff 000 i TRIGGER_SIZE_LARGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_HUGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_GARGANTUAN
+f ffffffff ffffffff 000 i TRIGGER_SIZE_COLOSSAL
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_GENERIC
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_SPELL
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_DISARM_TRAP
+f ffffffff ffffffff 000 i TRAP_EVENT_DESPAWN_TRAP
+f ffffffff ffffffff 000 i SPECIAL_OBJECT_TYPE_TRAP
+f ffffffff ffffffff 016 v SpawnGenericTrap
+fp e2
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 010 v SpawnSpellTrap
+fp e2
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 000 v TrapDetectEnter
+f ffffffff ffffffff 000 v TrapDetectExit
+f ffffffff ffffffff 000 v TrapTriggerEnter
+f ffffffff ffffffff 000 v TrapTriggerExit
+f ffffffff ffffffff 000 v TrapDisarmAttempt
+f ffffffff ffffffff 021 v _PassToCSharp
+fp i
+fp f
+fp f
+fp f
+fp o
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+fp s
+f ffffffff ffffffff 000 i _IsTrapEventNeeded
 f ffffffff ffffffff 000 s _SPAWN_SYSTEM_NAME
 f ffffffff ffffffff 000 s _SPAWN_GROUP_SCRIPT_PREFIX
 f ffffffff ffffffff 000 s _SPAWN_WAYPOINT_TAG
@@ -7614,6 +7695,9 @@ fp f
 f ffffffff ffffffff 002 v _AddObjectToSpawnPoint
 fp o
 fp o
+f ffffffff ffffffff 002 v _AddTrapToSpawnPoint
+fp o
+fp s
 f ffffffff ffffffff 003 v _QuickBuff
 fp o
 fp i
@@ -11045,39 +11129,39 @@ l21 0000080 0000016e 0000016e
 l21 0000081 0000016e 0000016e
 l21 0000082 0000016e 0000016e
 l21 0000083 0000016e 0000016e
-l105 0000021 00000180 00000185
-l105 0000022 00000185 0000018a
-l105 0000023 0000018a 00000190
-l105 0000024 00000190 00000194
-l105 0000025 00000194 00000198
-l105 0000027 00000198 000001a7
-l105 0000028 000001ad 000001c3
-l105 0000029 000001c3 00000203
-l105 0000030 00000203 00000289
-l105 0000031 00000289 00000295
-l105 0000034 00000295 000002c6
-l105 0000036 000002cc 000002f7
-l105 0000037 000002f7 00000302
-l105 0000038 00000302 00000315
-l105 0000039 00000315 00000347
-l105 0000040 00000347 0000034f
-l105 0000041 00000355 0000036b
-l105 0000043 0000036b 00000384
-l105 0000045 00000396 00000398
-l105 0000047 000003ab 000003d1
-l105 0000049 000003d7 00000416
-l105 0000050 00000416 00000422
-l105 0000053 00000422 00000436
-l105 0000055 00000436 0000045a
-l105 0000057 0000045a 00000468
-l105 0000059 00000468 00000476
-l105 0000061 00000476 00000484
-l105 0000062 00000484 000004ef
-l105 0000063 000004ef 0000055a
-l105 0000064 0000055a 0000057c
-l105 0000066 00000582 00000584
-l105 0000067 00000584 00000611
-l105 0000069 00000617 00000619
+l106 0000021 00000180 00000185
+l106 0000022 00000185 0000018a
+l106 0000023 0000018a 00000190
+l106 0000024 00000190 00000194
+l106 0000025 00000194 00000198
+l106 0000027 00000198 000001a7
+l106 0000028 000001ad 000001c3
+l106 0000029 000001c3 00000203
+l106 0000030 00000203 00000289
+l106 0000031 00000289 00000295
+l106 0000034 00000295 000002c6
+l106 0000036 000002cc 000002f7
+l106 0000037 000002f7 00000302
+l106 0000038 00000302 00000315
+l106 0000039 00000315 00000347
+l106 0000040 00000347 0000034f
+l106 0000041 00000355 0000036b
+l106 0000043 0000036b 00000384
+l106 0000045 00000396 00000398
+l106 0000047 000003ab 000003d1
+l106 0000049 000003d7 00000416
+l106 0000050 00000416 00000422
+l106 0000053 00000422 00000436
+l106 0000055 00000436 0000045a
+l106 0000057 0000045a 00000468
+l106 0000059 00000468 00000476
+l106 0000061 00000476 00000484
+l106 0000062 00000484 000004ef
+l106 0000063 000004ef 0000055a
+l106 0000064 0000055a 0000057c
+l106 0000066 00000582 00000584
+l106 0000067 00000584 00000611
+l106 0000069 00000617 00000619
 l35 0000226 00000619 0000065a
 l35 0000227 0000065a 0000068a
 l35 0000228 0000068a 0000068e
@@ -11777,23 +11861,23 @@ l41 0000932 00006af7 00006c1b
 l41 0000935 00006c1b 00006c4c
 l41 0000938 00006c4c 00006c7c
 l41 0000939 00006c82 00006c8a
-l27 0000219 00006c8a 00006c8f
-l27 0000220 00006c8f 00006c91
-l27 0000222 00006c91 00006ca1
-l27 0000223 00006ca7 00006cbb
-l27 0000224 00006cc1 00006cc3
-l27 0000225 00006cc3 00006ce1
-l27 0000229 00006ce1 00006cf3
-l27 0000230 00006cf9 00006d32
-l27 0000232 00006d32 00006d49
-l27 0000233 00006d4f 00006d8d
-l27 0000236 00006d8d 00006da2
-l27 0000237 00006da8 00006dc9
-l27 0000239 00006dc9 00006dd9
-l27 0000242 00006ddf 00006ec3
-l27 0000244 00006ec9 00006ecb
-l27 0000246 00006ecb 00006f82
-l27 0000248 00006f88 00006f90
+l27 0000229 00006c8a 00006c8f
+l27 0000230 00006c8f 00006c91
+l27 0000232 00006c91 00006ca1
+l27 0000233 00006ca7 00006cbb
+l27 0000234 00006cc1 00006cc3
+l27 0000235 00006cc3 00006ce1
+l27 0000239 00006ce1 00006cf3
+l27 0000240 00006cf9 00006d32
+l27 0000242 00006d32 00006d49
+l27 0000243 00006d4f 00006d8d
+l27 0000246 00006d8d 00006da2
+l27 0000247 00006da8 00006dc9
+l27 0000249 00006dc9 00006dd9
+l27 0000252 00006ddf 00006ec3
+l27 0000254 00006ec9 00006ecb
+l27 0000256 00006ecb 00006f82
+l27 0000258 00006f88 00006f90
 l41 0000976 00006f90 00007008
 l41 0000977 00007008 0000701d
 l41 0000979 0000701d 00007025

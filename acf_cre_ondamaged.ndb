@@ -1,5 +1,5 @@
 NDB V1.0
-0000072 0000012 0004793 0000020 0000095
+0000073 0000012 0004821 0000020 0000095
 n00 ginc_debug
 n01 x0_i0_enemy
 n02 x0_inc_generic
@@ -66,12 +66,13 @@ n62 acr_effects_i
 n63 acr_skills_i
 n64 acr_resting_i
 n65 acr_mobloot_i
-n66 acr_spawn_i
-n67 acr_vfx_i
-n68 acr_report_i
-n69 acr_quest_i
-n70 acr_creature_i
-N71 acf_cre_ondamaged
+n66 acr_traps_i
+n67 acr_spawn_i
+n68 acr_vfx_i
+n69 acr_report_i
+n70 acr_quest_i
+n71 acr_creature_i
+N72 acf_cre_ondamaged
 s 03 vector
 sf f x
 sf f y
@@ -2770,6 +2771,7 @@ f ffffffff ffffffff 000 s ACR_LOG_SERVER_LOAD
 f ffffffff ffffffff 000 s ACR_LOG_VALIDATED
 f ffffffff ffffffff 000 s ACR_LOG_SERVER_ADMIN_COMMAND
 f ffffffff ffffffff 000 s ACR_LOG_DEATH_FLOOR
+f ffffffff ffffffff 000 s ACR_LOG_SPAWN
 f ffffffff ffffffff 004 v ACR_LogEvent
 fp o
 fp s
@@ -2819,6 +2821,14 @@ fp o
 f ffffffff ffffffff 000 v ACR_LogModuleLoaded
 f ffffffff ffffffff 002 v ACR_LogServerAdminCommand
 fp o
+fp s
+f ffffffff ffffffff 002 v ACR_LogDMSpawn
+fp o
+fp s
+f ffffffff ffffffff 004 v ACR_LogDMedEvent
+fp o
+fp s
+fp s
 fp s
 f ffffffff ffffffff 000 f DAY_TO_SECONDS
 f ffffffff ffffffff 000 f HOUR_TO_SECONDS
@@ -7235,6 +7245,77 @@ fp o
 f ffffffff ffffffff 002 v _playerStabilizeCheck
 fp o
 fp i
+f ffffffff ffffffff 000 i TRIGGER_SIZE_SMALL
+f ffffffff ffffffff 000 i TRIGGER_SIZE_MEDIUM
+f ffffffff ffffffff 000 i TRIGGER_SIZE_LARGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_HUGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_GARGANTUAN
+f ffffffff ffffffff 000 i TRIGGER_SIZE_COLOSSAL
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_GENERIC
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_SPELL
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_DISARM_TRAP
+f ffffffff ffffffff 000 i TRAP_EVENT_DESPAWN_TRAP
+f ffffffff ffffffff 000 i SPECIAL_OBJECT_TYPE_TRAP
+f ffffffff ffffffff 016 v SpawnGenericTrap
+fp e2
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 010 v SpawnSpellTrap
+fp e2
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 000 v TrapDetectEnter
+f ffffffff ffffffff 000 v TrapDetectExit
+f ffffffff ffffffff 000 v TrapTriggerEnter
+f ffffffff ffffffff 000 v TrapTriggerExit
+f ffffffff ffffffff 000 v TrapDisarmAttempt
+f ffffffff ffffffff 021 v _PassToCSharp
+fp i
+fp f
+fp f
+fp f
+fp o
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+fp s
+f ffffffff ffffffff 000 i _IsTrapEventNeeded
 f ffffffff ffffffff 000 s _SPAWN_SYSTEM_NAME
 f ffffffff ffffffff 000 s _SPAWN_GROUP_SCRIPT_PREFIX
 f ffffffff ffffffff 000 s _SPAWN_WAYPOINT_TAG
@@ -7520,6 +7601,9 @@ fp f
 f ffffffff ffffffff 002 v _AddObjectToSpawnPoint
 fp o
 fp o
+f ffffffff ffffffff 002 v _AddTrapToSpawnPoint
+fp o
+fp s
 f ffffffff ffffffff 003 v _QuickBuff
 fp o
 fp i
@@ -7981,33 +8065,33 @@ l13 0000076 000000f1 000000f1
 l13 0000077 000000f1 000000f1
 l13 0000078 000000f1 000000f1
 l13 0000079 000000f1 000000f1
-l71 0000046 00000103 00000109
-l71 0000047 00000109 00000111
-l71 0000048 00000111 00000113
-l71 0000050 00000113 00000134
-l71 0000051 0000013a 0000014d
-l71 0000052 0000014d 0000016e
-l71 0000054 0000016e 00000184
-l71 0000055 00000184 00000198
-l71 0000057 00000198 000001ab
-l71 0000058 000001ab 000001f2
-l71 0000060 000001f2 00000240
-l71 0000061 00000246 00000259
-l71 0000062 00000259 0000027a
-l71 0000064 0000027a 0000028e
-l71 0000067 0000029a 0000029c
-l70 0000272 0000029c 000002a7
-l70 0000277 000002a7 000002b3
-l70 0000279 000002b3 00000319
-l70 0000282 0000031f 00000331
-l70 0000283 00000331 0000033d
-l70 0000288 0000033d 00000361
-l70 0000290 00000367 00000384
-l70 0000292 0000038a 0000038c
-l70 0000145 0000038c 000003a7
-l70 0000146 000003ad 000003c4
-l70 0000148 000003c4 000003db
-l70 0000149 000003db 000003e3
-l70 0000596 000003e3 000003f0
-l70 0000597 000003f0 00000421
-l70 0000598 00000421 00000429
+l72 0000046 00000103 00000109
+l72 0000047 00000109 00000111
+l72 0000048 00000111 00000113
+l72 0000050 00000113 00000134
+l72 0000051 0000013a 0000014d
+l72 0000052 0000014d 0000016e
+l72 0000054 0000016e 00000184
+l72 0000055 00000184 00000198
+l72 0000057 00000198 000001ab
+l72 0000058 000001ab 000001f2
+l72 0000060 000001f2 00000240
+l72 0000061 00000246 00000259
+l72 0000062 00000259 0000027a
+l72 0000064 0000027a 0000028e
+l72 0000067 0000029a 0000029c
+l71 0000272 0000029c 000002a7
+l71 0000277 000002a7 000002b3
+l71 0000279 000002b3 00000319
+l71 0000282 0000031f 00000331
+l71 0000283 00000331 0000033d
+l71 0000288 0000033d 00000361
+l71 0000290 00000367 00000384
+l71 0000292 0000038a 0000038c
+l71 0000145 0000038c 000003a7
+l71 0000146 000003ad 000003c4
+l71 0000148 000003c4 000003db
+l71 0000149 000003db 000003e3
+l71 0000596 000003e3 000003f0
+l71 0000597 000003f0 00000421
+l71 0000598 00000421 00000429

@@ -1,5 +1,5 @@
 NDB V1.0
-0000068 0000011 0004593 0000113 0000306
+0000069 0000011 0004621 0000113 0000306
 n00 ginc_debug
 n01 acr_tools_i
 n02 acr_time_i
@@ -64,10 +64,11 @@ n60 acr_effects_i
 n61 acr_skills_i
 n62 acr_resting_i
 n63 acr_mobloot_i
-n64 acr_spawn_i
-n65 acr_seamlessat_i
-n66 acr_area_i
-N67 acf_area_client
+n64 acr_traps_i
+n65 acr_spawn_i
+n66 acr_seamlessat_i
+n67 acr_area_i
+N68 acf_area_client
 s 03 vector
 sf f x
 sf f y
@@ -1674,6 +1675,7 @@ f ffffffff ffffffff 000 s ACR_LOG_SERVER_LOAD
 f ffffffff ffffffff 000 s ACR_LOG_VALIDATED
 f ffffffff ffffffff 000 s ACR_LOG_SERVER_ADMIN_COMMAND
 f ffffffff ffffffff 000 s ACR_LOG_DEATH_FLOOR
+f ffffffff ffffffff 000 s ACR_LOG_SPAWN
 f ffffffff ffffffff 004 v ACR_LogEvent
 fp o
 fp s
@@ -1723,6 +1725,14 @@ fp o
 f ffffffff ffffffff 000 v ACR_LogModuleLoaded
 f ffffffff ffffffff 002 v ACR_LogServerAdminCommand
 fp o
+fp s
+f ffffffff ffffffff 002 v ACR_LogDMSpawn
+fp o
+fp s
+f ffffffff ffffffff 004 v ACR_LogDMedEvent
+fp o
+fp s
+fp s
 fp s
 f ffffffff ffffffff 000 s _STORED_XP
 f ffffffff ffffffff 000 f _RPXP_SCRIPT_ANCHOR
@@ -7210,6 +7220,77 @@ fp o
 f ffffffff ffffffff 002 v _playerStabilizeCheck
 fp o
 fp i
+f ffffffff ffffffff 000 i TRIGGER_SIZE_SMALL
+f ffffffff ffffffff 000 i TRIGGER_SIZE_MEDIUM
+f ffffffff ffffffff 000 i TRIGGER_SIZE_LARGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_HUGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_GARGANTUAN
+f ffffffff ffffffff 000 i TRIGGER_SIZE_COLOSSAL
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_GENERIC
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_SPELL
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_DISARM_TRAP
+f ffffffff ffffffff 000 i TRAP_EVENT_DESPAWN_TRAP
+f ffffffff ffffffff 000 i SPECIAL_OBJECT_TYPE_TRAP
+f ffffffff ffffffff 016 v SpawnGenericTrap
+fp e2
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 010 v SpawnSpellTrap
+fp e2
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 000 v TrapDetectEnter
+f ffffffff ffffffff 000 v TrapDetectExit
+f ffffffff ffffffff 000 v TrapTriggerEnter
+f ffffffff ffffffff 000 v TrapTriggerExit
+f ffffffff ffffffff 000 v TrapDisarmAttempt
+f ffffffff ffffffff 021 v _PassToCSharp
+fp i
+fp f
+fp f
+fp f
+fp o
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+fp s
+f ffffffff ffffffff 000 i _IsTrapEventNeeded
 f ffffffff ffffffff 000 s _SPAWN_SYSTEM_NAME
 f ffffffff ffffffff 000 s _SPAWN_GROUP_SCRIPT_PREFIX
 f ffffffff ffffffff 000 s _SPAWN_WAYPOINT_TAG
@@ -7495,6 +7576,9 @@ fp f
 f ffffffff ffffffff 002 v _AddObjectToSpawnPoint
 fp o
 fp o
+f ffffffff ffffffff 002 v _AddTrapToSpawnPoint
+fp o
+fp s
 f ffffffff ffffffff 003 v _QuickBuff
 fp o
 fp i
@@ -7738,19 +7822,19 @@ l11 0000213 000000b7 000000b7
 l11 0000214 000000b7 000000b7
 l12 0000162 000000b7 000000d4
 l12 0000166 000000d4 000000f1
-l67 0000051 00000103 00000111
-l67 0000054 00000111 00000113
-l66 0000115 00000113 00000118
-l66 0000116 00000118 00000125
-l66 0000118 00000125 00000162
-l66 0000124 00000168 00000182
-l66 0000127 00000182 000001bd
-l66 0000129 000001bd 000001e7
-l66 0000131 000001ed 00000219
-l66 0000132 00000219 00000233
-l66 0000137 00000233 00000241
-l66 0000138 00000241 0000025b
-l66 0000139 00000261 00000263
+l68 0000051 00000103 00000111
+l68 0000054 00000111 00000113
+l67 0000115 00000113 00000118
+l67 0000116 00000118 00000125
+l67 0000118 00000125 00000162
+l67 0000124 00000168 00000182
+l67 0000127 00000182 000001bd
+l67 0000129 000001bd 000001e7
+l67 0000131 000001ed 00000219
+l67 0000132 00000219 00000233
+l67 0000137 00000233 00000241
+l67 0000138 00000241 0000025b
+l67 0000139 00000261 00000263
 l32 0000264 00000263 00000270
 l32 0000267 0000027c 0000028c
 l32 0000270 00000298 000002f1
@@ -7967,23 +8051,23 @@ l32 0001015 00002072 0000207f
 l32 0001020 0000207f 00002087
 l17 0001038 00002087 000020be
 l17 0001039 000020be 000020c6
-l66 0000204 000020c6 000020c8
-l66 0000205 000020c8 000020d3
-l66 0000206 000020d3 000020e3
-l66 0000210 000020ef 000020f1
-l66 0000213 0000210d 0000210f
-l66 0000216 0000212b 0000212d
-l66 0000219 00002149 0000214b
-l66 0000222 00002167 00002169
-l66 0000224 0000217f 000021a0
-l66 0000226 000021a6 000021a8
-l66 0000229 000021c4 000021c6
-l66 0000232 000021e2 000021e4
-l66 0000235 00002200 00002202
-l66 0000237 00002218 00002239
-l66 0000239 0000223f 00002241
-l66 0000243 00002257 00002267
-l66 0000245 0000226d 0000228e
-l66 0000248 0000228e 000022be
-l66 0000251 000022be 000022ca
-l66 0000252 000022d0 000022d8
+l67 0000204 000020c6 000020c8
+l67 0000205 000020c8 000020d3
+l67 0000206 000020d3 000020e3
+l67 0000210 000020ef 000020f1
+l67 0000213 0000210d 0000210f
+l67 0000216 0000212b 0000212d
+l67 0000219 00002149 0000214b
+l67 0000222 00002167 00002169
+l67 0000224 0000217f 000021a0
+l67 0000226 000021a6 000021a8
+l67 0000229 000021c4 000021c6
+l67 0000232 000021e2 000021e4
+l67 0000235 00002200 00002202
+l67 0000237 00002218 00002239
+l67 0000239 0000223f 00002241
+l67 0000243 00002257 00002267
+l67 0000245 0000226d 0000228e
+l67 0000248 0000228e 000022be
+l67 0000251 000022be 000022ca
+l67 0000252 000022d0 000022d8

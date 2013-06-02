@@ -1443,7 +1443,7 @@ f ffffffff ffffffff 000 i ACR_GetGameMillisecondsSinceStart
 f ffffffff ffffffff 000 i ACR_GetGameSecondsSinceStart
 f ffffffff ffffffff 000 i ACR_GetGameMinutesSinceStart
 f ffffffff ffffffff 000 i ACR_GetGameHoursSinceStart
-f 000013df 00001424 000 i ACR_GetGameDaysSinceStart
+f 000013df 00001436 000 i ACR_GetGameDaysSinceStart
 f ffffffff ffffffff 000 i ACR_GetGameMonthsSinceStart
 f ffffffff ffffffff 000 i ACR_GetGameYearsSinceStart
 f ffffffff ffffffff 001 f ACR_GetSecondsUntilNextHour
@@ -1569,7 +1569,7 @@ v 000012aa 0000133a 0000000c s VarName
 v 000012c7 0000133a 00000010 s VarPrefix
 v 00001394 000013dd 00000000 s #retval
 v 00001394 000013d7 00000004 s sString
-v 000013df 00001422 00000000 i #retval
+v 000013df 00001434 00000000 i #retval
 l00 0000048 00000017 0000002e
 l01 0000115 0000002e 0000002e
 l01 0000116 0000002e 0000002e
@@ -1757,5 +1757,5 @@ l07 0001930 0000138c 00001394
 l07 0000721 00001394 000013d7
 l07 0000722 000013d7 000013df
 l02 0000279 000013df 000013ea
-l02 0000280 000013ea 00001422
-l02 0000281 00001422 00001424
+l02 0000280 000013ea 00001434
+l02 0000281 00001434 00001436

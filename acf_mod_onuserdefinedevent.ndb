@@ -1,5 +1,5 @@
 NDB V1.0
-0000106 0000024 0006023 0000019 0000120
+0000107 0000024 0006051 0000019 0000120
 n00 ginc_debug
 n01 acr_tools_i
 n02 acr_debug_i
@@ -73,39 +73,40 @@ n69 acr_effects_i
 n70 acr_skills_i
 n71 acr_resting_i
 n72 acr_mobloot_i
-n73 acr_spawn_i
-n74 acr_scry_i
-n75 acr_quest_i
-n76 acr_chat_i
-n77 acr_combat_actions_i
-n78 acr_pchide_i
-n79 acr_vfx_i
-n80 acr_items_i
-n81 acr_language_i
-n82 acr_feat_i
-n83 acr_prc_bladesinger_i
-n84 acr_feat_events_i
-n85 acr_srvadmin_i
-n86 acr_scliext_i
-n87 acr_area_instance_i
-n88 acr_report_i
-n89 acr_gui_i
-n90 dmfi_inc_langexe
-n91 dmfi_inc_initial
-n92 dmfi_inc_lang
-n93 acr_roll_i
-n94 nwnx_craft_system
-n95 acr_tradescroll_i
-n96 ginc_vars
-n97 ginc_item
-n98 x2_inc_spellhook
-n99 acr_events_i
-n100 acr_creature_i
-n101 acr_spells_i
-n102 acr_craft_creation_i
-n103 acr_notifications_i
-n104 acr_mod_events_i
-N105 acf_mod_onuserdefinedevent
+n73 acr_traps_i
+n74 acr_spawn_i
+n75 acr_scry_i
+n76 acr_quest_i
+n77 acr_chat_i
+n78 acr_combat_actions_i
+n79 acr_pchide_i
+n80 acr_vfx_i
+n81 acr_items_i
+n82 acr_language_i
+n83 acr_feat_i
+n84 acr_prc_bladesinger_i
+n85 acr_feat_events_i
+n86 acr_srvadmin_i
+n87 acr_scliext_i
+n88 acr_area_instance_i
+n89 acr_report_i
+n90 acr_gui_i
+n91 dmfi_inc_langexe
+n92 dmfi_inc_initial
+n93 dmfi_inc_lang
+n94 acr_roll_i
+n95 nwnx_craft_system
+n96 acr_tradescroll_i
+n97 ginc_vars
+n98 ginc_item
+n99 x2_inc_spellhook
+n100 acr_events_i
+n101 acr_creature_i
+n102 acr_spells_i
+n103 acr_craft_creation_i
+n104 acr_notifications_i
+n105 acr_mod_events_i
+N106 acf_mod_onuserdefinedevent
 s 03 vector
 sf f x
 sf f y
@@ -1793,6 +1794,7 @@ f ffffffff ffffffff 000 s ACR_LOG_SERVER_LOAD
 f ffffffff ffffffff 000 s ACR_LOG_VALIDATED
 f ffffffff ffffffff 000 s ACR_LOG_SERVER_ADMIN_COMMAND
 f ffffffff ffffffff 000 s ACR_LOG_DEATH_FLOOR
+f ffffffff ffffffff 000 s ACR_LOG_SPAWN
 f ffffffff ffffffff 004 v ACR_LogEvent
 fp o
 fp s
@@ -1842,6 +1844,14 @@ fp o
 f ffffffff ffffffff 000 v ACR_LogModuleLoaded
 f ffffffff ffffffff 002 v ACR_LogServerAdminCommand
 fp o
+fp s
+f ffffffff ffffffff 002 v ACR_LogDMSpawn
+fp o
+fp s
+f ffffffff ffffffff 004 v ACR_LogDMedEvent
+fp o
+fp s
+fp s
 fp s
 f ffffffff ffffffff 000 s _STORED_XP
 f ffffffff ffffffff 000 f _RPXP_SCRIPT_ANCHOR
@@ -7329,6 +7339,77 @@ fp o
 f ffffffff ffffffff 002 v _playerStabilizeCheck
 fp o
 fp i
+f ffffffff ffffffff 000 i TRIGGER_SIZE_SMALL
+f ffffffff ffffffff 000 i TRIGGER_SIZE_MEDIUM
+f ffffffff ffffffff 000 i TRIGGER_SIZE_LARGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_HUGE
+f ffffffff ffffffff 000 i TRIGGER_SIZE_GARGANTUAN
+f ffffffff ffffffff 000 i TRIGGER_SIZE_COLOSSAL
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_GENERIC
+f ffffffff ffffffff 000 i TRAP_EVENT_CREATE_SPELL
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_DETECT_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_ENTER
+f ffffffff ffffffff 000 i TRAP_EVENT_TRIGGER_EXIT
+f ffffffff ffffffff 000 i TRAP_EVENT_DISARM_TRAP
+f ffffffff ffffffff 000 i TRAP_EVENT_DESPAWN_TRAP
+f ffffffff ffffffff 000 i SPECIAL_OBJECT_TYPE_TRAP
+f ffffffff ffffffff 016 v SpawnGenericTrap
+fp e2
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 010 v SpawnSpellTrap
+fp e2
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+f ffffffff ffffffff 000 v TrapDetectEnter
+f ffffffff ffffffff 000 v TrapDetectExit
+f ffffffff ffffffff 000 v TrapTriggerEnter
+f ffffffff ffffffff 000 v TrapTriggerExit
+f ffffffff ffffffff 000 v TrapDisarmAttempt
+f ffffffff ffffffff 021 v _PassToCSharp
+fp i
+fp f
+fp f
+fp f
+fp o
+fp i
+fp i
+fp f
+fp i
+fp i
+fp i
+fp i
+fp i
+fp i
+fp o
+fp i
+fp i
+fp i
+fp i
+fp i
+fp s
+f ffffffff ffffffff 000 i _IsTrapEventNeeded
 f ffffffff ffffffff 000 s _SPAWN_SYSTEM_NAME
 f ffffffff ffffffff 000 s _SPAWN_GROUP_SCRIPT_PREFIX
 f ffffffff ffffffff 000 s _SPAWN_WAYPOINT_TAG
@@ -7614,6 +7695,9 @@ fp f
 f ffffffff ffffffff 002 v _AddObjectToSpawnPoint
 fp o
 fp o
+f ffffffff ffffffff 002 v _AddTrapToSpawnPoint
+fp o
+fp s
 f ffffffff ffffffff 003 v _QuickBuff
 fp o
 fp i
@@ -10677,7 +10761,7 @@ l21 0000080 0000016e 0000016e
 l21 0000081 0000016e 0000016e
 l21 0000082 0000016e 0000016e
 l21 0000083 0000016e 0000016e
-l105 0000047 00000180 00000186
-l105 0000050 00000186 00000188
-l104 0001311 00000188 0000018d
-l104 0001312 00000193 00000195
+l106 0000047 00000180 00000186
+l106 0000050 00000186 00000188
+l105 0001315 00000188 0000018d
+l105 0001316 00000193 00000195
