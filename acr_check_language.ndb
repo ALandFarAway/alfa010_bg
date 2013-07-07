@@ -1,5 +1,5 @@
 NDB V1.0
-0000012 0000001 0002403 0000022 0000035
+0000012 0000001 0002405 0000022 0000035
 n00 dmfi_inc_conv
 n01 acr_collections_i
 n02 dmfi_inc_sendtex
@@ -2048,6 +2048,7 @@ f ffffffff ffffffff 000 s _ACR_DB_SQL_PENDING_QUERY_VAR
 f ffffffff ffffffff 000 s _ACR_DB_SQL_SERVER_BOOT_TIME_VAR
 f ffffffff ffffffff 000 s _ACR_DB_SQL_SERVER_BOOT_TIME_MOD_VAR
 f ffffffff ffffffff 000 s _ACR_DB_SQL_PERSIST_CACHE_VAR_PREFIX
+f ffffffff ffffffff 000 s _ACR_DB_VDB_FILE
 f ffffffff ffffffff 000 i _ACR_DB_SQL_PERSIST_CACHE_VAR_PREFIX_LEN
 f ffffffff ffffffff 000 i _ACR_SQL_SAQ_FLUSHALL
 f ffffffff ffffffff 000 i _ACR_SQL_DBCTRL_DATABASE_OFFLINE
@@ -2128,6 +2129,10 @@ f ffffffff ffffffff 002 t0000 ACR_GetPersistentVector
 fp o
 fp s
 f ffffffff ffffffff 003 o ACR_GetPersistentObject
+fp o
+fp s
+fp s
+f ffffffff ffffffff 003 o ACR_GetLegacyPersistentObject
 fp o
 fp s
 fp s
