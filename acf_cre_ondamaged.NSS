@@ -64,4 +64,13 @@ void main()
 			++i;
 		}
 	}
+	
+	int nSubraceType = GetSubRace(self);
+	
+	if(nSubraceType == 67) { // Vampire
+		if(GetCurrentHitPoints(self) == 1) {
+			SpeakString("<i>*evaporates into mist*</i>");
+			SendCreatureToLimbo(self);
+		}
+	}
 }
