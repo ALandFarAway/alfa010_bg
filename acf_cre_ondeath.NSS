@@ -46,6 +46,8 @@ void main()
 	object o = OBJECT_SELF,cont;
 	int newcr,delta = 1;
 	
+	if(GetLocalInt(OBJECT_SELF, "ACR_HENCH")) return;
+	
     ACR_CreatureOnDeath();
 
     // Custom code goes here.
