@@ -1,5 +1,5 @@
 NDB V1.0
-0000007 0000001 0000520 0000002 0000006
+0000007 0000001 0000516 0000002 0000006
 n00 nwnx_include
 n01 acr_array_i
 n02 acr_queue_i
@@ -157,12 +157,10 @@ f ffffffff ffffffff 000 s ACR_MOD_COMPILER_OPTIONS
 f ffffffff ffffffff 000 s ACR_MODULERESOURCEFILES_DB
 f ffffffff ffffffff 000 s ACR_MODULERESOURCEFILES_MOD
 f ffffffff ffffffff 000 s ACR_NOTIFY_SERVICE_CHARACTER_ID_MOD
-f ffffffff ffffffff 000 s ACR_ERROR_NOTIFY_IRC_RECIPIENT_MOD
 f ffffffff ffffffff 000 s ACR_CONTENT_PATCH_PATH
 f ffffffff ffffffff 000 s ACR_WER_DISABLED
 f ffffffff ffffffff 000 s ACR_COMPILER_OPTIONS
 f ffffffff ffffffff 000 s ACR_NOTIFY_SERVICE_CHARACTER_ID
-f ffffffff ffffffff 000 s ACR_ERROR_NOTIFY_IRC_RECIPIENT
 f ffffffff ffffffff 000 i ACR_SRVADMIN_INDETERMINITE
 f ffffffff ffffffff 000 i ACR_SRVADMIN_IS_ADMIN
 f ffffffff ffffffff 000 i ACR_SRVADMIN_NOT_ADMIN
@@ -178,7 +176,6 @@ f ffffffff ffffffff 000 s _ACR_DB_SQL_PENDING_QUERY_VAR
 f ffffffff ffffffff 000 s _ACR_DB_SQL_SERVER_BOOT_TIME_VAR
 f ffffffff ffffffff 000 s _ACR_DB_SQL_SERVER_BOOT_TIME_MOD_VAR
 f ffffffff ffffffff 000 s _ACR_DB_SQL_PERSIST_CACHE_VAR_PREFIX
-f ffffffff ffffffff 000 s _ACR_DB_VDB_FILE
 f ffffffff ffffffff 000 i _ACR_DB_SQL_PERSIST_CACHE_VAR_PREFIX_LEN
 f ffffffff ffffffff 000 i _ACR_SQL_SAQ_FLUSHALL
 f ffffffff ffffffff 000 i _ACR_SQL_DBCTRL_DATABASE_OFFLINE
@@ -259,10 +256,6 @@ f ffffffff ffffffff 002 t0000 ACR_GetPersistentVector
 fp o
 fp s
 f ffffffff ffffffff 003 o ACR_GetPersistentObject
-fp o
-fp s
-fp s
-f ffffffff ffffffff 003 o ACR_GetLegacyPersistentObject
 fp o
 fp s
 fp s
