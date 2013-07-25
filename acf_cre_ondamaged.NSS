@@ -71,6 +71,7 @@ void main()
 		if(GetCurrentHitPoints(self) <= 1) {
 			SpeakString("<i>*evaporates into mist*</i>");
 			ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectResurrection(), self);
+			ForceRest(self);
 			SendCreatureToLimbo(self);
 		}
 	}
