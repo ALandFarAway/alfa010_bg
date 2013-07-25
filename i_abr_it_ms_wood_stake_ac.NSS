@@ -1,7 +1,7 @@
 #include "acr_tools_i"
 
 void main() {
-	object oTarget = GetSpellTargetObject();
+	object oTarget = GetItemActivatedTarget();
 	int nRace = GetSubRace(oTarget);
 	if(nRace == 67 && GetHasSpellEffect(3006, oTarget)) {
 		SpeakString("<i>*stakes the vampire through the heart*</i>");
