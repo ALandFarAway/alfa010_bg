@@ -68,9 +68,9 @@ void main()
 	int nSubraceType = GetSubRace(self);
 	
 	if(nSubraceType == 67) { // Vampire
-		if(GetCurrentHitPoints(self) <= 1) {
-			SpeakString("<i>*evaporates into mist*</i>");
+		if(GetCurrentHitPoints(self) < 1) {
 			ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectResurrection(), self);
+			SpeakString("<i>*evaporates into mist*</i>");
 			ForceRest(self);
 			SendCreatureToLimbo(self);
 		}
