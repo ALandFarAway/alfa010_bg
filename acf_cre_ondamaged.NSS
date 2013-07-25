@@ -71,6 +71,7 @@ void main()
 		if(GetCurrentHitPoints(self) < 1) {
 			ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectResurrection(), self);
 			SpeakString("<i>*evaporates into mist*</i>");
+			ApplyEffectAtLocation(DURATION_TYPE_TEMPORARY, EffectNWN2SpecialEffectFile("fx_shrouding_fog_hit"), GetLocation(self), 6.0);
 			ForceRest(self);
 			SendCreatureToLimbo(self);
 		}

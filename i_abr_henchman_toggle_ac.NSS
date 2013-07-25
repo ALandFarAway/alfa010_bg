@@ -16,5 +16,5 @@ void main() {
 	
 	if(errors == "")
 		ACR_AddHenchman(OBJECT_SELF, oPC, oTarget);
-		else SendMessageToPC(OBJECT_SELF, "Error(s) were encountered during henchman conversion:" + errors);
+		else SendMessageToPC(oDM, "Error(s) were encountered during henchman conversion:" + errors);
 }
