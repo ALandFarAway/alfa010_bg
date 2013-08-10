@@ -660,7 +660,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4973A83E43A6E550E5D1212A4663AB23A88CE3CC" downloadHash="2706B04CD41102A90CBC67FCDAB3E53C68F7F13D" name="gullykin.trx" dlsize="6755889" size="23786104" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E40D08518B4EEFA6CC1A9674D1EC3965E1553083" downloadHash="68A726601790556F76C23E888D9D75BBC85049FA" name="gullykin.trx" dlsize="6312423" size="24243114" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -996,7 +996,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="617E7BB3613E26A573B1175B09963C681A093550" downloadHash="F0B7494BEBDAC3694C5D5B2B46A766ACBDBA8FEA" name="beregost_templeoflathander.trx" dlsize="474663" size="838435" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A3344EE23A73C8665C68A22B304FFB6072384039" downloadHash="99C05CB67BC51A1216C5A8762CD150194E19920E" name="beregost_templeoflathander.trx" dlsize="476816" size="840432" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1032,7 +1032,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7DAC2E174585C750D03C351FBF0ED53AD4966454" downloadHash="72C31404F6CD6C7E733B645828C917AD09D4A6CF" name="tradeway_n_03.trx" dlsize="1955134" size="10734677" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="175B963A9D1BAEA843398A90B2E9EED6D5D6CA9E" downloadHash="155E7C00CB7966ECC8ADFD457ACBE8BFF8C1DF4C" name="tradeway_n_03.trx" dlsize="1959953" size="10734681" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1254,7 +1254,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="41F6BBC144C605614B90A770AD948FB6BE09107F" downloadHash="6ACF59EE244E4333F8D0A92C0FB523D1BF1C1E04" name="gullykin_trail1.trx" dlsize="3698320" size="15893378" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A73D9F3F1F6D0EEE0E855F3DD3D787A5DD4EED1D" downloadHash="7BD3809ADEDE286E380E5C95795CFD474CD414C2" name="gullykin_trail1.trx" dlsize="3717213" size="15904472" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1378,7 +1378,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="01696009E098ED0EDEE2D64A535C77AB233F8BA3" downloadHash="BD46420621D5022D70CA8EFAEEE0996635026BDC" name="candlekeep_lionsway_02_temple2.trx" dlsize="1043657" size="1189741" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="83AEB7C068866E37B26198B3D68D351EB56190A3" downloadHash="ED5350D1DEF9357D775307E6456D031AD45B0AF2" name="candlekeep_lionsway_02_temple2.trx" dlsize="1054488" size="1201731" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2787,6 +2787,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E2B0D32A72F3BB29135507B28276520B412D5E2C" downloadHash="1BA0A93B7509C5C49A2F5E0D91D2D4EC902361B6" name="und_t3_throrgar_top_center.trx" dlsize="777584" size="833758" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="072BA5624BDAE8633CA669C3EA415670EE8F2F3F" downloadHash="75BADEAD3995F8FAE100C91F5B54D5A7F2FA82ED" name="The Owl Burrow.trx" dlsize="241493" size="917969" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AABF4E6C0CC73DFACD622E3B908B356614FA6003" downloadHash="3145AC597ED6C7DE2D85C8FAAAE131C70ACF079E" name="candlekeep_lionsway_hills_01_01.trx" dlsize="830997" size="8399504" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E62CC41BBF865FB7C0EE55AB506F2E85D050E229" downloadHash="970208E7BBA75522B41ED53611F8E5EEBB3B4178" name="tradeway_n_03_barracks.trx" dlsize="257003" size="345893" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="072BA5624BDAE8633CA669C3EA415670EE8F2F3F" downloadHash="75BADEAD3995F8FAE100C91F5B54D5A7F2FA82ED" name="gullykin_owl_burrow.trx" dlsize="241493" size="917969" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
