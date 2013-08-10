@@ -2791,11 +2791,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="072BA5624BDAE8633CA669C3EA415670EE8F2F3F" downloadHash="75BADEAD3995F8FAE100C91F5B54D5A7F2FA82ED" name="The Owl Burrow.trx" dlsize="241493" size="917969" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="AABF4E6C0CC73DFACD622E3B908B356614FA6003" downloadHash="3145AC597ED6C7DE2D85C8FAAAE131C70ACF079E" name="candlekeep_lionsway_hills_01_01.trx" dlsize="830997" size="8399504" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
