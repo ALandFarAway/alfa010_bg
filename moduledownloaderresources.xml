@@ -84,7 +84,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BC7402DAE14834487CF93E26FA4985E4DC4D3946" downloadHash="B9D07C48E4C66F1386210D2DDB000C3133A3AE3A" name="fx_icebody.SEF" dlsize="335" size="855" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="618B8D8D08D46E1822C6837405A7EAE5055CF890" downloadHash="A968D2BC04F94C3CB9D6DE01B8E5E4F9B41D8735" name="fx_icebody.SEF" dlsize="335" size="826" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -108,31 +108,31 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DB92940D1A3F1BA2C916A3CCCFD316864953F2D0" downloadHash="CB606C94217CB15F25E989F7A7F61D5B5DC028C5" name="fx_ceilfog.BBX" dlsize="405" size="978" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41F6B0DA74B20E5A04DCAAE72A8E4C0EFC97C723" downloadHash="31FB125A36D553E23A9A2B307C31331C73E7448E" name="fx_ceilfog.BBX" dlsize="402" size="937" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DDD1BB868EC3137BE2A1B0F2509B73FDBE235299" downloadHash="9B562199436B6DC53B880A0545479B8E08E22A0C" name="fx_ceilfog.SEF" dlsize="367" size="4367" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2E138BEA95F9B88053EF9265B6F7DE700CEEC6D4" downloadHash="1A1450A678E2958E8B0825B750B1E04F9E10E4F4" name="fx_ceilfog.SEF" dlsize="362" size="4216" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="219BC5BF8E9C49FED56405ABE1E92E8DE8EB2F3A" downloadHash="79FA4E7DB673F521376BCC606FEB81FCD8040A6E" name="sp_cloud.PFX" dlsize="571" size="1543" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C9AFBB55289259A37EB5E6EB2A0095788B64600" downloadHash="F2D95EB67844E57615B5F3D013AA3B75A1178BAC" name="sp_cloud.PFX" dlsize="570" size="1485" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5F095B62236A89F72D0AF773D2E1063D4C199F57" downloadHash="E58D955319CD025014DE4EFF45767CE88A40D8A2" name="sp_cloud.SEF" dlsize="278" size="705" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2500CF75EFCBF9740CF155745C600AE1A57DCB92" downloadHash="AEBD2F0E92B88C02CF2779FD6C497E212A2E6947" name="sp_cloud.SEF" dlsize="277" size="680" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C7B2DA8BB7EF266985F9AF53563F87F333BCF2B1" downloadHash="6F0491ABEE6F6DD10B012F9EB21DBCBE8850326D" name="fx_driftglobe.SEF" dlsize="640" size="4045" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7D16E851B48E6ADCC00B5F3AAD5034ACAD5F024D" downloadHash="AB7F0251109D2E9353B9C9586D2DBA5B3D61A68D" name="fx_driftglobe.SEF" dlsize="639" size="3896" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -270,7 +270,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="93C274EFF24C023A7DA772D4F0191DC0221149EC" downloadHash="AA0178D20EBDE18C7F646882FB653D62DB68639E" name="010_dmarea.trx" dlsize="82189" size="83522" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7A62B0314A29E14E8F16026418522143D16713DC" downloadHash="C76B94B3629A1E904B1C20C730CE0B98D40E9900" name="010_dmarea.trx" dlsize="210384" size="214405" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2802,6 +2802,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="072BA5624BDAE8633CA669C3EA415670EE8F2F3F" downloadHash="75BADEAD3995F8FAE100C91F5B54D5A7F2FA82ED" name="gullykin_owl_burrow.trx" dlsize="241493" size="917969" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C9E4EDD1925B0130180A4F50EBE4F5CB9A96F0F5" downloadHash="014F8CB6B85D9A78399CEAD5C48CF7C4FA269A0E" name="und_sshamath_market_ward.trx" dlsize="1163791" size="11542671" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A0B3C9DA4EB372401FB68114E817E0AEDC682393" downloadHash="73186DDD713C0B3AF86B0D47FE38033E7DF3E854" name="und_sshamath_commons_ward.trx" dlsize="962238" size="9956923" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="55EA8C341802317044C8E32215FD94A5D0B7AD0C" downloadHash="7CACB1FC0D10BD94C4257D80F9C1EB7BF5E0F650" name="und_sshamath_temple_ward.trx" dlsize="943308" size="9972567" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
