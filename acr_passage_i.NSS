@@ -71,7 +71,7 @@ int GetCanPassThrough(object oPass, object oCreature) {
 
 void CreatureInPassageHeartbeat(object oPassage, object oCreature) {
 
-	if(GetCanPassThrough(oPassage, oCreature)) {
+	if(!GetCanPassThrough(oPassage, oCreature)) {
 		SendMessageToPC(oCreature, "You're too large to fit down this narrow passage - you're stuck in place!");
 		ApplyEffectToObject(DURATION_TYPE_TEMPORARY, SupernaturalEffect(EffectEntangle()), oCreature, 6.5);
 	}
