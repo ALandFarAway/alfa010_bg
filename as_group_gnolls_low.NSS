@@ -50,23 +50,9 @@ void main();
 
 void main()
 {
-
 	int i;
 
 	for (i=0; i<d3(); ++i) {
-	switch(Random(4)) {
-        case 0:
-            spawn_hostile("010_cr_gnoll00");
-            break;
-        case 1:
-            spawn_hostile("010_cr_gnoll01");
-            break;
-        case 2:
-            spawn_hostile("010_cr_gnoll02");
-            break;
-        case 3:
-            spawn_hostile("010_cr_gnoll_archer00");
-            break;
-	}
+		spawn_hostile("abr_cr_hu_gnoll");
 	}
 }

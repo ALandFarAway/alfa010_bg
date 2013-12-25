@@ -55,9 +55,13 @@ void main();
 
 // 7,634
 void main() {
-// Gnoll Hunters: 1d4+1 gnolls, led by 3rd level gnoll ranger
-	int nGnolls = d4() + 1;
-	int i;
+// Gnoll Hunters: 1d4 gnolls, 1d2 Hyenas, led by 3rd level gnoll ranger
+	int nGnolls = d4();
+	int nHyenas = d2();
+	
+	for(int i=0; i < nGnolls; i++) {
+		
+	}
 	
 		
 	spawn_placeable("phat_lewt_corpse_male",0.5);
