@@ -480,7 +480,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7E8D7ABC3F4030804E5CF13078D88BA733BF546B" downloadHash="F7A15131FE313523841BCEAD65CB5631CA8A435D" name="tradeway_s_13.trx" dlsize="1524425" size="10227757" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FB41A5817724059B184023AB73E9020FD03238BD" downloadHash="F7A15131FE313523841BCEAD65CB5631CA8A435D" name="tradeway_s_13.trx" dlsize="1524425" size="10367456" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2817,6 +2817,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="55EA8C341802317044C8E32215FD94A5D0B7AD0C" downloadHash="7CACB1FC0D10BD94C4257D80F9C1EB7BF5E0F650" name="und_sshamath_temple_ward.trx" dlsize="943308" size="9972567" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9D304C6C713892DB6B33C682FA844E38646A796C" downloadHash="1980C51FB9E83EE019690D74E2577A60B2E1BFF5" name="tradeway_s_13_gnoll_country.trx" dlsize="2312009" size="15001377" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DBD80D52618D1E26B922A018B7FFA64C90271372" downloadHash="12F44B4751912CA399BD8B811168D07896294E51" name="tradeway_s_13_gnoll_stronghold.trx" dlsize="4033063" size="19993070" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4BF53A68A9F868618610BAFA27EA4B70954BAA30" downloadHash="3129479094C9FCECB9F851EDEE004133DA2451A4" name="tradeway_s_13_gnoll_wasteland.trx" dlsize="3116383" size="16682465" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
