@@ -60,13 +60,13 @@
       <string>3</string>
     </server-ref>
   </resource>
-<resource type="Hak" hash="0429BA6D797C2E6E01787428CAD5A0661ACC844B" downloadHash="C971C71CC081DB0317A4103E723D6FB72D019581" name="alfa2_pr.hak" dlsize="20049862" size="479626458" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="0429BA6D797C2E6E01787428CAD5A0661ACC844B" downloadHash="C971C71CC081DB0317A4103E723D6FB72D019581" name="alfa2_pr.hak" dlsize="20049862" size="479626458" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-<resource type="Hak" hash="380AF1DC01A557C48F2EC37E6C085DD89C3517B0" downloadHash="6C826FECB60688C2FE506DDCBF8A5C4856EB5F10" name="alfa2_templates.hak" dlsize="188995" size="8452870" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="380AF1DC01A557C48F2EC37E6C085DD89C3517B0" downloadHash="6C826FECB60688C2FE506DDCBF8A5C4856EB5F10" name="alfa2_templates.hak" dlsize="188995" size="8452870" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -2836,7 +2836,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="149EED0A2EE89E963E6AEBE2B724314BE344C630" downloadHash="8DE08111014A7E648AFAC9234DD6ED55C36A54E7" name="bg-lower_fightclub.trx" dlsize="145595" size="145934" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5C0F339BCCA9F840EB69585EF527E0486AF05149" downloadHash="74A9F874BF23A20BB00832A68BFE10B25957EAE7" name="bg-lower_fightclub.trx" dlsize="145604" size="145934" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
