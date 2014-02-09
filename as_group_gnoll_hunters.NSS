@@ -60,13 +60,10 @@ void main() {
 	int nHyenas = d2();
 	
 	for(int i=0; i < nGnolls; i++) {
-		
+		spawn_hostile("abr_cr_hu_gnoll");
 	}
-	
-		
-	spawn_placeable("phat_lewt_corpse_male",0.5);
-	
-	spawn_group("gnolls_boss");
-	spawn_group("gnolls_elite",0.5);
-	spawn_group("gnolls_low",0.5);
+	for(int i=0; i < nHyenas; i++) {
+		spawn_hostile("abr_cr_an_hyena");
+	}
+	spawn_hostile("abr_cr_hu_gnoll_rng_4");
 }
