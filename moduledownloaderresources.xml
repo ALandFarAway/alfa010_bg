@@ -762,7 +762,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="808AAE8597E99E6BF274D153F6533094D76FD9AC" downloadHash="C8142A3B34646C43D033F82EE0BB903FD708A077" name="010_starting_area.trx" dlsize="24754" size="26346" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8E119F634A8980FAA82D60CA1CB0728A863E40F5" downloadHash="E59CE02FBA5429039250BE14D5780E9940D85D43" name="010_starting_area.trx" dlsize="86311" size="88438" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1062,7 +1062,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D4081724D2D54661449CCE18E9A6876D340C56F3" downloadHash="4862E5FDF1DE0AB2C68A8019317F48661E6A0762" name="bgcity-harboreast.trx" dlsize="2392940" size="11840681" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AD0446B5A0E5EE7D94FB7855C37CC5A560F8279F" downloadHash="C0F88D2A577C5088F6689341E4F1F8E462A3A2CA" name="bgcity-harboreast.trx" dlsize="2406258" size="11852908" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2821,17 +2821,42 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9D304C6C713892DB6B33C682FA844E38646A796C" downloadHash="1980C51FB9E83EE019690D74E2577A60B2E1BFF5" name="tradeway_s_13_gnoll_country.trx" dlsize="2312009" size="15001377" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="189D8087FC9310EE1E56215E2AA530CEE5D23C57" downloadHash="86DEEF9A4C581538DC2F6BF7A81134E607005498" name="tradeway_s_13_gnoll_country.trx" dlsize="2340323" size="15026941" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DBD80D52618D1E26B922A018B7FFA64C90271372" downloadHash="12F44B4751912CA399BD8B811168D07896294E51" name="tradeway_s_13_gnoll_stronghold.trx" dlsize="4033063" size="19993070" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F046EE51F89999E741716E84711CF227B9EDDF14" downloadHash="4921701DC860C14534BE9BDA3201D606622CE9E4" name="tradeway_s_13_gnoll_stronghold.trx" dlsize="4128643" size="20061415" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4BF53A68A9F868618610BAFA27EA4B70954BAA30" downloadHash="3129479094C9FCECB9F851EDEE004133DA2451A4" name="tradeway_s_13_gnoll_wasteland.trx" dlsize="3116383" size="16682465" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5C49ED814F87C43B46FABCF62FD30163193D08CF" downloadHash="8CC8DDE0BF9AA6959411238A5D9D456E83C56771" name="tradeway_s_13_gnoll_wasteland.trx" dlsize="3200468" size="16771751" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="149EED0A2EE89E963E6AEBE2B724314BE344C630" downloadHash="8DE08111014A7E648AFAC9234DD6ED55C36A54E7" name="bg-lower_fightclub.trx" dlsize="145595" size="145934" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1DCCE12F6059B76136DAA1D03E9D764272D17AC8" downloadHash="D55A94C19430BEB6BE133E378C5A61F783E9AF12" name="secs- camped cave.trx" dlsize="636010" size="650346" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6DCAB50A373C671A42A995572FCB3A0AD18F6EF9" downloadHash="34A3C76F30AEBA9F47FBF2334E1C4CC09F4FBC1A" name="secs- sparsely-camped cave.trx" dlsize="486747" size="897022" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="677211602D08248465C494D16F00E5F4CFC90A0C" downloadHash="0AF751CA175E7BBF94CEBF12897FC0B060463C51" name="secs- lived-in cave.trx" dlsize="800796" size="813740" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E9471187A99E96EFC54E4BBF1BBC50AE37600C16" downloadHash="41C964A637C7416A03EB2C2EA375D9015BA59E8F" name="secs- rural house.trx" dlsize="241042" size="245248" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
