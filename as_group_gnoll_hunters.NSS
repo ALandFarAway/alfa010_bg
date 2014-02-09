@@ -59,10 +59,11 @@ void main() {
 	int nGnolls = d4();
 	int nHyenas = d2();
 	
-	for(int i=0; i < nGnolls; i++) {
+	int i;
+	for(i=0; i < nGnolls; i++) {
 		spawn_hostile("abr_cr_hu_gnoll");
 	}
-	for(int i=0; i < nHyenas; i++) {
+	for(i=0; i < nHyenas; i++) {
 		spawn_hostile("abr_cr_an_hyena");
 	}
 	spawn_hostile("abr_cr_hu_gnoll_rng_4");
