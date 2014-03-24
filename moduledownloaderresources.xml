@@ -2836,7 +2836,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5C0F339BCCA9F840EB69585EF527E0486AF05149" downloadHash="74A9F874BF23A20BB00832A68BFE10B25957EAE7" name="bg-lower_fightclub.trx" dlsize="145604" size="145934" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5106D93395619E34795AFED83E281C99FAAE25BD" downloadHash="F886D156D27B634D233B10B30E9C358D7A3F9A5F" name="bg-lower_fightclub.trx" dlsize="145595" size="145934" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2857,6 +2857,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E9471187A99E96EFC54E4BBF1BBC50AE37600C16" downloadHash="41C964A637C7416A03EB2C2EA375D9015BA59E8F" name="secs- rural house.trx" dlsize="241042" size="245248" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F00CA79D19728052447C79387514B806FED1F1D2" downloadHash="8378F5EE3FC4E370FDEE406D706FA393A5766945" name="vlake_xanictoll_illithid_tower.trx" dlsize="328873" size="343048" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9657BFC3075B8C7BDD9091445F7CEA03BD747587" downloadHash="25275CAB83EB795883BD7273B6B91F93D2A24A19" name="vlake_xanictoll.trx" dlsize="3545326" size="23113943" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5AFF1B6E920BEB4B3711D5B49E9ABBAC06F4E4B5" downloadHash="FAF0CC1D93B380D43BD2C2EDFBDEAC2503988EE3" name="sjc_redeyes_lesstrail.SEF" dlsize="295" size="1229" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
