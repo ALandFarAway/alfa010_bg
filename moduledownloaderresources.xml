@@ -2861,12 +2861,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F00CA79D19728052447C79387514B806FED1F1D2" downloadHash="8378F5EE3FC4E370FDEE406D706FA393A5766945" name="vlake_xanictoll_illithid_tower.trx" dlsize="328873" size="343048" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3769CEDDCB25DA9A673771CE2B4FBBBEB147ED5E" downloadHash="FCCAA750CB346C93C39945698D44A5AE961EDB8C" name="vlake_xanictoll_illithid_tower.trx" dlsize="403958" size="1135888" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9657BFC3075B8C7BDD9091445F7CEA03BD747587" downloadHash="25275CAB83EB795883BD7273B6B91F93D2A24A19" name="vlake_xanictoll.trx" dlsize="3545326" size="23113943" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="93B5C04D5C7A502FE455B20A0629D0AD5A1D8F83" downloadHash="1F027172215E5AA4E507496C323CA22CC1A8C750" name="vlake_xanictoll.trx" dlsize="3539045" size="23101279" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
