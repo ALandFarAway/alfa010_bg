@@ -6,7 +6,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="8C47225CC4CF3A8F8E797AB75DCD780F7439A718" downloadHash="BF6479F770E0EAD9CE0482AC8AE422D70C7E42AB" name="alfa2_2da.hak" dlsize="356031" size="17248800" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="1234BEAF81FD488AD2D318BD85402DDD86089FF6" downloadHash="AB98C945D34B162A91107A845A0FE3032C156D81" name="alfa2_2da.hak" dlsize="374363" size="18247792" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
