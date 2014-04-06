@@ -2876,4 +2876,69 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="B3CC4162E4B5A66B27124FEC7D7CCC6B862A1C99" downloadHash="E6419CE2D530643BBDF0A657823A33327E77FF2F" name="vol_a3_magmacave_2.trx" dlsize="340435" size="345273" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="59FDBD2B5C5BE7E51FBCF9F79A5E822B187C324A" downloadHash="F7DCD44405990E7EFD2BB50EABE7000B97478FA7" name="vol_a5a_spire_ground_floor.trx" dlsize="194215" size="197109" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="080C6E29BE4C20CC367BC223D1EEE58C632F0C01" downloadHash="D96A280289645A681E02BAE742D1EFB58B0FE40B" name="vol_a5c_spire_third_floor.trx" dlsize="155126" size="158951" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3632EE9FF0A89F7F91EDBBDAA88DA0D095C8E492" downloadHash="27FA173EA3170A4DAE6330858762974D36DFCF00" name="vol_a2_magmacave_1.trx" dlsize="354741" size="628842" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FF8A78F8D50E7A26F0026EC284D7A79AE798AAA6" downloadHash="B158E7152D318DB72768C4C12E996BA2FF1FDFE7" name="unlinked_grasslands_ruins1.trx" dlsize="7374927" size="22628642" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="444C9A9DF1ADE04630E367A121971883C414F119" downloadHash="ABD3B9865D9BE8B164D8487663A39A54917A2D6A" name="vol_a1_cavernlair.trx" dlsize="483161" size="503213" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4B8D5468EDE966CE03EC56C83E59CB9F55099722" downloadHash="4DC11A9A56B9B988ADC51D0EE67816A7BC74269B" name="vol_a6a_dragonlair_entrance.trx" dlsize="91230" size="91715" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2A825F2F4C0EBED2E6A4E565BA23CBCEEFFCB08A" downloadHash="A35E73920DA3FAD6FD10767E4389B124AF1A62E8" name="vol_a5b_spire_second_floor.trx" dlsize="131042" size="133765" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ABCBC255E4AAB9DA268DFEEE349FE5E0EE4E47F0" downloadHash="16193A833CB8BD3486AC253C416CFAF7326D9E86" name="vol_a4_magmacave_3.trx" dlsize="336167" size="341285" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3789E6D245E8AB6D94C3551DBC2B5C985B1282A4" downloadHash="E8089A29433059431D1233C4EA56EB314112CD14" name="unlinked_grasslands_noruins.trx" dlsize="7315762" size="22666825" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DEF89FE62933B0819D169E2F4DE5FCC0FDF88C29" downloadHash="C0369C9FA43BF52401E3C6B0C889A49FBF12A1AC" name="vol_a6_volcano.trx" dlsize="2170766" size="14847918" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E214C0E261F3E8F1927E0DC56B6F877F392DFD7B" downloadHash="416DBD8934FF667C9F56B460D4E495F80282772C" name="vol_a5_underspire.trx" dlsize="1420427" size="10021280" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2AC64D8C3A24EBEF394B7BCAF8070903E432D586" downloadHash="C745D2730F3D4906C456115EE0834A289A0DE9FA" name="vol_a6b_dragonlair.trx" dlsize="640735" size="6235966" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
