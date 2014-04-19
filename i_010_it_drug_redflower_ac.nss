@@ -39,4 +39,3 @@ void drug_overdose_effect(object oPC)
 	ApplyEffectToObject(DURATION_TYPE_TEMPORARY, ExtraordinaryEffect(eDaze), oPC, TurnsToSeconds(d4()*10));
 	SendMessageToPC(oPC, "An intense bout of nausea overwhelms you.");
 }
-
