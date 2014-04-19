@@ -58,14 +58,13 @@ void main()
 	  }
 	  else if ((randflag == 99)){
 	  
-	       switch( Random(6))
+	       switch( Random(5))
 	         {
 			   case 0:
 				CreateItemOnObject("cft_gem_pearl",oPC); 
 				SendMessageToPC(oPC, "You find a magnificant pearl!"); 
 								break;
-	                    case 3:
-	                    case 4:
+	                    case 1:
 								CreateItemOnObject("abr_it_gem_078",oPC); 
 								SendMessageToPC(oPC, "You find a fine pearl!"); 
 								break;
