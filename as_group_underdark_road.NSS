@@ -131,7 +131,7 @@ void main() {
 				case 11:
 					spawn_group("wererat_troupe");
 					break;
-				case 11:
+				case 12:
 					spawn_group("orogs");
 					break;
 				default:
