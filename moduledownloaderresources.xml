@@ -2921,7 +2921,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BBAEA4743F3C1B56D1199D9C03045D3BFE042EAC" downloadHash="E8089A29433059431D1233C4EA56EB314112CD14" name="unlinked_grasslands_noruins.trx" dlsize="7315762" size="22666031" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A52FC72154EE1AC146448B1A36B0BC201DAB0C71" downloadHash="6EE52B6B42EDF8ED614AA4F21F93F05F6DC320C2" name="unlinked_grasslands_noruins.trx" dlsize="7315957" size="22654339" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
