@@ -48,11 +48,13 @@ void main();
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
+// 1d3 Gnolls with Axes (CR1)
 void main()
 {
+	int nSpawns = d3();
 	int i;
-
-	for (i=0; i<d3(); ++i) {
-		spawn_hostile("abr_cr_hu_gnoll");
+	for ( i = 0; i < nSpawns; i++ )
+	{
+		( d2() - 1 ) ? spawn_hostile("abr_cr_hu_gnoll_bow") : spawn_hostile("abr_cr_hu_gnoll_melee");
 	}
 }

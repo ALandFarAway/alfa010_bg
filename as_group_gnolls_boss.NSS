@@ -50,9 +50,9 @@ void main();
 
 void main()
 {
-	spawn_hostile("abr_cr_hu_gnoll");
-	spawn_hostile("abr_cr_hu_gnoll",0.5);
+	spawn_hostile("abr_cr_hu_gnoll_melee");
+	spawn_hostile("abr_cr_hu_gnoll_bow",0.5);
 
-	spawn_group("gnolls_med",0.5);
-	spawn_group("gnolls_med",0.5);
+	spawn_group("gnolls_low",0.75);
+	spawn_group("gnolls_low",0.75);
 }

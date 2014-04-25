@@ -61,10 +61,10 @@ void main() {
 	
 	int i;
 	for(i=0; i < nGnolls; i++) {
-		spawn_hostile("abr_cr_hu_gnoll");
+		spawn_hostile("abr_cr_hu_gnoll_bow");
 	}
 	for(i=0; i < nHyenas; i++) {
 		spawn_hostile("abr_cr_an_hyena");
 	}
-	spawn_hostile("abr_cr_hu_gnoll_rng_4");
+	spawn_hostile("abr_cr_hu_gnoll_sergeant_rgr");
 }
