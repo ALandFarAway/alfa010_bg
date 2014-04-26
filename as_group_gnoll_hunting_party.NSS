@@ -55,8 +55,8 @@ void main();
 
 // 7,634
 void main() {
-// Gnoll Hunters: 1d4 gnolls, 1d2 Hyenas, led by 3rd level gnoll ranger
-	int nGnolls = d4();
+// Gnoll Hunters: 1d4+1 gnolls, 1d2 Hyenas
+	int nGnolls = d4()+1;
 	int nHyenas = d2();
 	
 	int i;
@@ -66,5 +66,4 @@ void main() {
 	for(i=0; i < nHyenas; i++) {
 		spawn_hostile("abr_cr_an_hyena");
 	}
-	spawn_hostile("abr_cr_hu_gnoll_sergeant_rgr");
 }
