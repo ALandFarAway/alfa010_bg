@@ -2836,7 +2836,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1B7F41650CD71AB3F0668A56FCAF410C25DA9676" downloadHash="EC790FF19AB1B7BC6D3D3E089495C3C9E705D3AB" name="bg-lower_fightclub.trx" dlsize="145150" size="145455" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EE34F1A01DBACAECC1FDF3D37A68257E08D767DA" downloadHash="FE3EA475E192D7548A9B13010521F2C0011EAD84" name="bg-lower_fightclub.trx" dlsize="144807" size="145132" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
