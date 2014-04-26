@@ -1062,7 +1062,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AD0446B5A0E5EE7D94FB7855C37CC5A560F8279F" downloadHash="C0F88D2A577C5088F6689341E4F1F8E462A3A2CA" name="bgcity-harboreast.trx" dlsize="2406258" size="11852908" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7EE558A59CA06B4CAA0279C58BCF47D44435F16E" downloadHash="B1A18FAC84D9045C87DA3B0A7C2BE0A683DF21AC" name="bgcity-harboreast.trx" dlsize="2391387" size="11836891" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2836,7 +2836,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5106D93395619E34795AFED83E281C99FAAE25BD" downloadHash="F886D156D27B634D233B10B30E9C358D7A3F9A5F" name="bg-lower_fightclub.trx" dlsize="145595" size="145934" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="639309F2ECB85963D37846761A7A1CA3C4416D2C" downloadHash="3235BCB6B72A3FDDAE3EB7A5C26999234AE159B0" name="bg-lower_fightclub.trx" dlsize="145214" size="145512" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
