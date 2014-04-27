@@ -18,7 +18,7 @@ void main()
 			if(!GetLocalInt(oPC, "GI_BG_CITY"))
 			{
 				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
-							"Baldur's Gate.", 
+							"\nBaldur's Gate.", 
 							"Baldur's Gate is a wealthy city state on the Chionthar river, focused on trade. It is ruled by a council of four dukes: Eltan, Belt, Jannath, and Silvershield. Each having significant power and position in their own right, though Eltan is often most prominent for his leadership of the Flaming Fist, which is the power behind many of the city's military expeditions.", 
 							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
 				SetLocalInt(oPC, "GI_BG_CITY", 1);
