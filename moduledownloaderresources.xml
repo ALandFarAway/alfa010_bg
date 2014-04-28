@@ -1378,7 +1378,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="01696009E098ED0EDEE2D64A535C77AB233F8BA3" downloadHash="BD46420621D5022D70CA8EFAEEE0996635026BDC" name="candlekeep_lionsway_02_temple2.trx" dlsize="1043657" size="1189741" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F42D34AD0EE9590EEE872F10CB0D08919D6FCAF9" downloadHash="5900C5B509EE23613543FC86D70F874FC699CDA9" name="candlekeep_lionsway_02_temple2.trx" dlsize="1042452" size="1188776" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
