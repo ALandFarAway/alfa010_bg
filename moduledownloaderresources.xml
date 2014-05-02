@@ -660,7 +660,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E40D08518B4EEFA6CC1A9674D1EC3965E1553083" downloadHash="68A726601790556F76C23E888D9D75BBC85049FA" name="gullykin.trx" dlsize="6312423" size="24243114" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2450B93D1E1E0FC7FC9052B1CE37BB1CF71F5886" downloadHash="0BF2CBB469229BAD0325EBD1FD6F6D9022EEC3DA" name="gullykin.trx" dlsize="6465254" size="24405857" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
