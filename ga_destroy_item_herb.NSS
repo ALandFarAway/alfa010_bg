@@ -1,97 +1,71 @@
 // ga_destroy_item
-/*
-    This takes an item from a player
-        sItemTag    = This is the string name of the item's tag
-        nQuantity   = The number of items to destroy. -1 is all of the Player's items of that tag.
-        nPCFaction  = Take from the whole PC faction
-*/
-// FAB 9/30
-// DBR 8/10/6
+// FoamBats4All 2014-04-30
 
 #include "nw_i0_plot"
 #include "acr_xp_i"
 
-#define CR_XP_SCALE 5.0f
+// Rewards XP for each item of tag sItem, returns nGold times the count of items found.
+int ConsumeReward( object oTarget, string sItem, int nGold, float fXP, float fCR ) {
+	// Number of items consumed.
+	int nCount = 0;
 
-int Ggold = 0;
+	// Destroy all items.
+	object oItem = GetFirstItemInInventory( oTarget );
+	while ( GetIsObjectValid( oItem ) == TRUE ) {
+		if ( GetTag( oItem ) == sItem ) {
+			nCount += GetItemStackSize( oItem );
+			DestroyObject( oItem, 0.0f );
+		}
+		oItem = GetNextItemInInventory( oTarget );
+	}
 
-void DestroyItems(object oTarget,string sItem,int nNumItems,int gold, float xp)
-{
-    int nCount = 0;
-    float Gxp = 0.0f;
-    float cr = 0.0f;
-    object oItem = GetFirstItemInInventory(oTarget);
+	// Abort if no items are found.
+	if ( nCount == 0 ) {
+		return 0;
+	}
 
-    cr = xp/CR_XP_SCALE;
+	// Award XP.
+	ACR_AwardStaticQuestXP( oTarget, "Collected: Herbs" + sItem, FloatToInt( fXP * nCount ), fCR ); 
 
-    while (GetIsObjectValid(oItem) == TRUE && nCount < nNumItems)
-    {
-        if (GetTag(oItem) == sItem)
-        {
-		DestroyObject(oItem,0.0f);
-		Gxp += xp;
-		Ggold += gold;
-        	nCount++;
-        }
-        oItem = GetNextItemInInventory(oTarget);
-    }
-
-    ACR_AwardStaticQuestXP(oTarget,"Collected: Herbs "+sItem, FloatToInt(Gxp), cr); 
+	// Pass back GP to be awarded at the end.
+	return nGold * nCount;
 }
 
 
-void main(string sItemTag)
-{
-	int nGP;
-	float fXP;
-	object oPC = GetPCSpeaker(), oItem;       // Items in inventory
-	string sStr;
+void main( string sItemTag ) {
+	// Get the player speaking.
+	object oPC = GetPCSpeaker();
 
+	// Total GP rewarded.
+	int nGP = 0;
 
-	sStr = "magmush";
-	nGP = 2;
-	fXP = 1.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Magpie Mushroom: 2gp, 1xp, CR 1
+	nGP += ConsumeReward( oPC, "magmush", 2, 1.0f, 1.0f );
 
-	sStr = "it_garnishcap";
-	nGP = 1;
-	fXP = 0.5f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Garnishcap: 1gp, 0.5xp, CR 1
+	nGP += ConsumeReward( oPC, "it_garnishcap", 1, 0.5f, 1.0f );
 
-	sStr = "firefernfrond";
-	nGP = 10;
-	fXP = 5.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-	
-	sStr = "seaweed";
-	nGP = 10;
-	fXP = 5.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-     
-	sStr = "it_cassil";
-	nGP = 30;
-	fXP = 15.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-	
-	sStr = "it_garclive";
-	nGP = 4;
-	fXP = 2.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Fire Fern Frond: 10gp, 5xp, CR 5
+	nGP += ConsumeReward( oPC, "firefernfrond", 10, 5.0f, 5.0f );
 
-	sStr = "it_elderberry";
-	nGP = 4;
-	fXP = 2.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Seaweed: 10gp, 5xp, CR 5
+	nGP += ConsumeReward( oPC, "seaweed", 10, 5.0f, 5.0f );
 
-	sStr = "it_henbane";
-	nGP = 35;
-	fXP = 17.5;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Cassil: 30gp, 15xp, CR 8
+	nGP += ConsumeReward( oPC, "it_cassil", 30, 15.0f, 8.0f );
 
-	sStr = "it_skullcap";
-	nGP = 32;
-	fXP = 16.0;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Garclive: 4gp, 2xp, CR 2
+	nGP += ConsumeReward( oPC, "it_garclive", 30, 15.0f, 2.0f );
 
-	GiveGoldToCreature(oPC,Ggold);
+	// Elderberry: 4gp, 2xp, CR 2
+	nGP += ConsumeReward( oPC, "it_elderberry", 30, 15.0f, 2.0f );
+
+	// Hensbane: 35gp, 17.5xp, CR 8
+	nGP += ConsumeReward( oPC, "it_henbane", 35, 17.5f, 8.0f );
+
+	// Skullcap: 32gp, 16xp, CR 10
+	nGP += ConsumeReward( oPC, "it_skullcap", 32, 16.0f, 10.0f );
+
+	// Reward GP.
+	GiveGoldToCreature( oPC, nGP );
 }

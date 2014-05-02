@@ -1,136 +1,98 @@
 // ga_destroy_item
-/*
-    This takes an item from a player
-        sItemTag    = This is the string name of the item's tag
-        nQuantity   = The number of items to destroy. -1 is all of the Player's items of that tag.
-        nPCFaction  = Take from the whole PC faction
-*/
-// FAB 9/30
-// DBR 8/10/6
+// FoamBats4All 2014-04-30
 
 #include "nw_i0_plot"
 #include "acr_xp_i"
 
-#define CR_XP_SCALE 5.0f
+// Rewards XP for each item of tag sItem, returns nGold times the count of items found.
+int ConsumeReward( object oTarget, string sItem, int nGold, float fXP, float fCR ) {
+	// Number of items consumed.
+	int nCount = 0;
 
-int Ggold = 0;
+	// Destroy all items.
+	object oItem = GetFirstItemInInventory( oTarget );
+	while ( GetIsObjectValid( oItem ) == TRUE ) {
+		if ( GetTag( oItem ) == sItem ) {
+			nCount += GetItemStackSize( oItem );
+			DestroyObject( oItem, 0.0f );
+		}
+		oItem = GetNextItemInInventory( oTarget );
+	}
 
-void DestroyItems(object oTarget,string sItem,int nNumItems,int gold, float xp)
-{
-    int nCount = 0;
-    float Gxp = 0.0f;
-    float cr = 0.0f;
-    object oItem = GetFirstItemInInventory(oTarget);
+	// Abort if no items are found.
+	if ( nCount == 0 ) {
+		return 0;
+	}
 
-    cr = xp/CR_XP_SCALE;
+	// Award XP.
+	ACR_AwardStaticQuestXP( oTarget, "Collected: Component" + sItem, FloatToInt( fXP * nCount ), fCR ); 
 
-    while (GetIsObjectValid(oItem) == TRUE && nCount < nNumItems)
-    {
-        if (GetTag(oItem) == sItem)
-        {
-		DestroyObject(oItem,0.0f);
-		Gxp += xp;
-		Ggold += gold;
-        	nCount++;
-        }
-        oItem = GetNextItemInInventory(oTarget);
-    }
-
-    ACR_AwardStaticQuestXP(oTarget,"Collected: Component "+sItem, FloatToInt(Gxp), cr); 
+	// Pass back GP to be awarded at the end.
+	return nGold * nCount;
 }
 
 
-void main(string sItemTag)
-{
-	int nGP;
-	float fXP;
-	object oPC = GetPCSpeaker(), oItem;       // Items in inventory
-	string sStr;
+void main( string sItemTag ) {
+	// Get the player speaking.
+	object oPC = GetPCSpeaker();
 
-	sStr = "firerattail";
-	nGP = 5;
-	fXP = 3.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Total GP rewarded.
+	int nGP = 0;
+
+	// Fire Rat Tail: 5gp, 2.5xp, CR 2
+	nGP += ConsumeReward( oPC, "firerattail", 5, 2.5f, 2.0f );
+
+	// Vampire Bat Fang: 8gp, 4p, CR 2
+	nGP += ConsumeReward( oPC, "vampirebatfang", 8, 4.0f, 2.0f );
+
+	// Bat Guano: 3gp, 1.5xp, CR 5
+	nGP += ConsumeReward( oPC, "batguano", 3, 1.5f, 5.0f );
+
+	// Phosphorescent Moss: 20gp, 10xp, CR 5
+	nGP += ConsumeReward( oPC, "pmoss", 20, 10.0f, 5.0f );
+
+	// Sulphur: 30gp, 15xp, CR 8
+	nGP += ConsumeReward( oPC, "it_sulfur", 30, 15.0f, 8.0f );
+
+	// Flashwort Spores: 20gp, 10xp, CR 2
+	nGP += ConsumeReward( oPC, "it_flashwort", 20, 10.0f, 2.0f );
+
+	// Gloomshroom: 15gp, 7.5xp, CR 5
+	nGP += ConsumeReward( oPC, "it_gloomshroom", 15, 7.5f, 5.0f );
+
+	// Troll Blood: 50gp, 25xp, CR 8
+	nGP += ConsumeReward( oPC, "N2_CRFT_DIST033", 50, 25.0f, 8.0f );
+
+	// Troll Blood (from other servers?): 50gp, 25xp, CR 8
+	nGP += ConsumeReward( oPC, "it_plot_hide_troll", 50, 25.0f, 8.0f );
+
+	// Fire Beetle Gland: 3gp, 1.5xp, CR 2
+	nGP += ConsumeReward( oPC, "it_plot_beetle_fire", 3, 1.5f, 2.0f );
 	
-	sStr = "vampirebatfang";
-	nGP = 8;
-	fXP = 4.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Redcap Tooth: 100gp, 50xp, CR 10
+	nGP += ConsumeReward( oPC, "010_it_misc_rtooth", 100, 50.0f, 10.0f );
 	
-	sStr = "batguano";
-	nGP = 3;
-	fXP = 2.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Redcap Tooth (from other server?): 100gp, 50xp, CR 10
+	nGP += ConsumeReward( oPC, "abr_it_misc_redcap_tooth", 100, 50.0f, 10.0f );
 	
-	sStr = "pmoss";
-	nGP = 15;
-	fXP = 10.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Ankheg Acid Gland: 20gp, 10xp, CR 5
+	nGP += ConsumeReward( oPC, "it_misc_ankheg_acid_gland", 20, 10.0f, 5.0f );
 	
-	sStr = "it_sulfur";
-	nGP = 30;
-	fXP = 15.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Wyvern Stinger: 40gp, 20xp, CR 6
+	nGP += ConsumeReward( oPC, "it_misc_wyvern_stinger", 40, 20f, 6.0f );
 	
-	sStr = "it_flashwort";
-	nGP = 20;
-	fXP = 10.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-
-	sStr = "it_gloomshroom";
-	nGP = 15;
-	fXP = 7.5f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-
-	sStr = "it_plot_hide_troll";
-	nGP = 50;
-	fXP = 25.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Electrum Gear: 5gp, 2.5xp, CR 3
+	nGP += ConsumeReward( oPC, "it_plot_gear_electrum", 5, 2.5f, 3.0f );
 	
-	sStr = "it_plot_beetle_fire";
-	nGP = 3;
-	fXP = 1.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-
-	sStr = "abr_it_misc_redcap_tooth";
-	nGP = 100;
-	fXP = 50.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-
-	sStr = "010_it_misc_rtooth";
-	nGP = 100;
-	fXP = 50.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Gold Gear: 50gp, 25xp, CR 7
+	nGP += ConsumeReward( oPC, "it_plot_gear_gold", 50, 25.0f, 7.0f );
 	
-	sStr = "it_plot_gear_electrum";
-	nGP = 5;
-	fXP = 3.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
+	// Platinum Gear: 100gp, 50xp, CR 11
+	nGP += ConsumeReward( oPC, "it_plot_gear_platinum", 100, 50.0f, 11.0f );
 
-	sStr = "it_plot_gear_gold";
-	nGP = 15;
-	fXP = 7.5f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-
-	sStr = "it_plot_gear_platinum";
-	nGP = 100;
-	fXP = 50.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-
-	sStr = "it_plot_gear_adamantine";
-	nGP = 350;
-	fXP = 150.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-
-	sStr = "it_misc_ankheg_acid_gland";
-	nGP = 20;
-	fXP = 10.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-
-	sStr = "it_misc_wyvern_stinger";
-	nGP = 40;
-	fXP = 20.0f;
-	DestroyItems(oPC,sStr, GetNumItems(oPC, sStr), nGP, fXP);
-
-	GiveGoldToCreature(oPC,Ggold);
+	// Adamantine Gear: 350gp, 175xp, CR 15
+	nGP += ConsumeReward( oPC, "it_plot_gear_adamantine", 350, 175.0f, 15.0f );			
+	
+	// Reward GP.
+	GiveGoldToCreature( oPC, nGP );
 }
