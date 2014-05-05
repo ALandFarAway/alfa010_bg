@@ -2971,17 +2971,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FCA35E3AC454146B5DA283D221E440367C0C0DA8" downloadHash="" name="unlinked_cave3.trx" dlsize="0" size="1427044" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DCC92A62A53667B7B8E47B219CBA6EF9CD9B99A3" downloadHash="A2C9CA2ED3D99205F9D8C05C94F57C7D8043DDA8" name="unlinked_cave3.trx" dlsize="515177" size="1426710" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FAC5C3A7F3420312B8DAF82ACA9F22C2DA969EC8" downloadHash="" name="unlinked_noblehouse.trx" dlsize="0" size="44217" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9D875A620E6DF946C457CC8AC4D16841BBBD24C1" downloadHash="1C87D43F5E97DD12F47196C62D499D440A16962F" name="unlinked_noblehouse.trx" dlsize="44386" size="44449" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="32B725A826C92EDB2A69F500A2349986E9609965" downloadHash="" name="unlinked_thieves house.trx" dlsize="0" size="16878" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B9823A7EE6E54641D89A6D0A5658312A687A7546" downloadHash="C65F8343BB37E305ACDF449E1B87FC1C1F240D96" name="unlinked_thieves house.trx" dlsize="16892" size="16878" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
