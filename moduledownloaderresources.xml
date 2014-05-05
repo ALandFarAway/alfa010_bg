@@ -2971,4 +2971,19 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="FCA35E3AC454146B5DA283D221E440367C0C0DA8" downloadHash="" name="unlinked_cave3.trx" dlsize="0" size="1427044" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FAC5C3A7F3420312B8DAF82ACA9F22C2DA969EC8" downloadHash="" name="unlinked_noblehouse.trx" dlsize="0" size="44217" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="32B725A826C92EDB2A69F500A2349986E9609965" downloadHash="" name="unlinked_thieves house.trx" dlsize="0" size="16878" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
