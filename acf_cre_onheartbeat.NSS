@@ -54,9 +54,9 @@ void main()
 	
 	if (GetLocalInt(o, "tw_travel"))
 	{
-		// Temporarily disable twalk at HEEGZ's request
-		DestroyObject(o);
-		return;
+		// Temporarily disable twalk at HEEGZ's request (reverted)
+		// DestroyObject(o);
+		// return;
 		
 		if (GetLocalInt(o, "tw_follow")) {
 		
