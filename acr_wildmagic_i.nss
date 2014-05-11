@@ -281,6 +281,13 @@ int ACR_HandleWildMagic(object oCaster, object oTarget, location lTarget, int nS
 
 		return nRes;
 	}
+	
+	;
+	if(d20() + GetCasterLevel(oCaster) >= GetSpellLevel(GetSpellId()) + 15)
+	{
+		// can make a caster level check to cast in wild magic, per FRCS pp54-55
+		return;
+	}
 
 	nRes = ACR_DetermineWildMagic();
 
