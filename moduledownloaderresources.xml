@@ -558,19 +558,19 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1CABDE1C73F714C8DE7739708BCB060D644C13C3" downloadHash="F1F7372D8BB91C621888FCB0939E5ACEC0C534AE" name="sharpteeth_04.trx" dlsize="1839258" size="10871885" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F7D4643BB0D42E9E6576517F0DF06D6FA1C733FB" downloadHash="28EC373433AF089E587C6AE03152FDE90F4063DF" name="sharpteeth_04.trx" dlsize="1842698" size="10871858" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED021E05369E4AF6AE8C878ED52AE9182BC17EF1" downloadHash="81C7D5E9353C103DBBF55C7A28A2870665BB577B" name="sharpteeth_05.trx" dlsize="1171373" size="8669728" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9AA3306C91C38B51DCD4FE93E1735D4C7C59CDF1" downloadHash="B4FB282C66C67838874EF265E234938F0A16EE22" name="sharpteeth_05.trx" dlsize="1177268" size="8672388" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E9E7729325AB36FE35D3A116507990E60486E419" downloadHash="C7C7BCCFC23DAE20E4153F84583F09282F1408CA" name="sharpteeth_06.trx" dlsize="3041690" size="18501285" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FD6598A129EDAE476B3B654DD06FAEAB1F1F9686" downloadHash="6B0F78B1CF459F8B6303452B05041F6593F99A61" name="sharpteeth_06.trx" dlsize="3033065" size="18501253" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1050,7 +1050,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D30A56EE9AE1DBCC62C61B549A5E4EEEC46DBD9A" downloadHash="8DD44D683CD7CB5CE2E6AE8BD957338D117A854B" name="cloakwood_hill_01.trx" dlsize="3582494" size="19705659" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F182AAC1CC1670B42B4DF16829A433FC90E3143A" downloadHash="4E91727C212A26AF9B5A63A0919BD148FF230D85" name="cloakwood_hill_01.trx" dlsize="3585733" size="19709294" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2982,6 +2982,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B9823A7EE6E54641D89A6D0A5658312A687A7546" downloadHash="C65F8343BB37E305ACDF449E1B87FC1C1F240D96" name="unlinked_thieves house.trx" dlsize="16892" size="16878" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B9823A7EE6E54641D89A6D0A5658312A687A7546" downloadHash="C65F8343BB37E305ACDF449E1B87FC1C1F240D96" name="cloakwood_hill_01_farm.trx" dlsize="16892" size="16878" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7E6DBAB8E4386D20F414246AC44B5A3CF50EEA27" downloadHash="0BDD9E6719741281BAAB8160BEC27FF6F4E2BC7C" name="unlinked_forest_cave_ent_s01.trx" dlsize="1989648" size="7915006" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1043E81DFD859DF2B99A162526382A5ADACE072E" downloadHash="B1EA6C03A263BF790622AE01645EBDC5A2900970" name="unlinked_forest_path_small01.trx" dlsize="1687118" size="7774831" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="79C61AE67AEFD871CCF568EABDC4312BA3C94E2D" downloadHash="71DC9DCFDD668EF73B7B5E134B1C4FCC457C77C0" name="unlinked_forest_camp_tiny01.trx" dlsize="1557680" size="6611502" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
