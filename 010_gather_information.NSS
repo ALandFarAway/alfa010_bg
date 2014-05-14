@@ -32,7 +32,7 @@ void main()
 			{
 				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
 							"You catch word of where Beryl is.", 
-							"A man with Beryl's description has been seen in the Elfsong tavern, which is a bar just east of the market square, a short walk in from the city's western gate.", 
+							"A man with Beryl's description has been seen in the Elfsong tavern, which is a bar just east of the market square, a short walk in from the city's eastern gate.", 
 							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
 			}
 			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_1", 1);
@@ -50,7 +50,49 @@ void main()
 							"A woman like the one Beryl described has been seen heading to the guard post, which is a good walk west of the Elfsong, near the temple of Umberlee.", 
 							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
 			}
-			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_2", 1);		
+			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_2", 1);
+		}
+		//else if(nIntro == 200 || nIntro == 400 || nIntro == 500)
+		//{
+		//	if(GetLocalInt(OBJECT_SELF, IntToString(nID) + "_200")) return;
+		//	
+		//	if(ACR_SkillCheck(SKILL_GATHER_INFORMATION, oPC, 15, TRUE, FALSE))
+		//	{
+		//		NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+		//					"\nWork may be available.", 
+		//					"It sounds from chatter on the streets like Beryl, who you recall from his abuse of his partner and her conversation at the watch post, has been captured and the city is hoping to bring in more help moving him back to the city.\n\nDetails would be available at the Baldur's Gate watch post.", 
+		//					NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+		//	}
+		//	SetLocalInt(OBJECT_SELF, IntToString(nID) + "_200", 1);
+		//}
+		else if(nIntro == 100 || nIntro == 300)
+		{
+			if(GetLocalInt(OBJECT_SELF, IntToString(nID) + "_100")) return;
+			
+			if(ACR_SkillCheck(SKILL_GATHER_INFORMATION, oPC, 15, TRUE, FALSE))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nWork may be available.", 
+							"It sounds from chatter on the streets like there is some fuss about the capture of a young man in Ulgoth's Beard, and there might be some work had in response. Near as you can tell, there would be someone to ask outside the eastern gate, near the river.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+			}
+			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_100", 1);
+		}
+	}
+	else if(sLocale == "ULGOTH")
+	{
+		int nIntro = ACR_RetrieveQuestState("010_intro", oPC);
+		if(nIntro == 101 || nIntro == 201 || nIntro == 301 || nIntro == 401 || nIntro == 501)
+		{
+						// If this PC hasn't yet been told about BG city, give them a blurb.
+			if(!GetLocalInt(oPC, "GI_ULGOTH"))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nUlgoth's Beard.", 
+							"Ulgoth's Beard is a settlement existing primarily to warn Baldur's Gate in the event of river pirates, who might seek to move up the Chionthar River and attack the valuable Baldurian port. It keeps a very small population and, in recent years, its management and protection has been assigned to a group of Banites calling themselves the Iron Gauntlet, though they are apparently unrelated to the Zhent order.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+				SetLocalInt(oPC, "GI_ULGOTH", 1);
+			}
 		}
 	}
 }
