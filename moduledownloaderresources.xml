@@ -498,7 +498,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="126CD5229D2237CBA6C9C3A895CF8209CD81904D" downloadHash="3D395FDF8E9111583C0298FB50228B85A2467547" name="beregost.trx" dlsize="4252585" size="18834625" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8A73C41AE0AC38F1FFA56AE9922CC394C283072E" downloadHash="428AD1EB41169BE60C1732E046EAA9AF33EBCAAA" name="beregost.trx" dlsize="4251700" size="18851958" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
