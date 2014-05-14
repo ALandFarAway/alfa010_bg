@@ -498,7 +498,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5517189D037AF320D3D8337A9410281E5C471393" downloadHash="4D256E0ECB6AB323456513FD67B671C7458F1634" name="beregost.trx" dlsize="4199476" size="18804360" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="126CD5229D2237CBA6C9C3A895CF8209CD81904D" downloadHash="3D395FDF8E9111583C0298FB50228B85A2467547" name="beregost.trx" dlsize="4252585" size="18834625" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -744,7 +744,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7FBADE6D568510169627FC35D2AEC229813C7992" downloadHash="E51CFA91EB4FBD5546371212D5334AB2A046701D" name="nashkel_pass_05.trx" dlsize="2884912" size="9155083" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D98A9098F6998F5F09E78AEBFD822B031343BB4D" downloadHash="3AC931796B16801B27AFAC02E4A64727767CB3B3" name="nashkel_pass_05.trx" dlsize="2915477" size="9185619" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -924,7 +924,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="11FA1EF12DC451A2EFFE852173C800938396AA30" downloadHash="C823473E2A3ED66B729130DB0028F6D3B8DE193E" name="tradeway_n_01.trx" dlsize="2357495" size="9385813" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EC01EB1E659F51983BD7BE688153EEB375CEF122" downloadHash="3A05A7689DCCAAC079A2D0778AA2884783D1C372" name="tradeway_n_01.trx" dlsize="2368149" size="9395463" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1032,7 +1032,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4C8F57BF10A13C5C2DD2E8D39DC6C8BBFCE49638" downloadHash="857D5C7CC67AF1A94E5CE7EB2DD0886CCA03E9F8" name="nashkel_outskirts.trx" dlsize="6103389" size="24097277" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8747A249D0283D71033C37E243F71461F27B84CD" downloadHash="DB813858831C96EC4A376F17F50E5368F50AC30B" name="nashkel_outskirts.trx" dlsize="6205126" size="24295373" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
