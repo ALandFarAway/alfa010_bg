@@ -52,19 +52,19 @@ void main()
 			}
 			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_2", 1);
 		}
-		//else if(nIntro == 200 || nIntro == 400 || nIntro == 500)
-		//{
-		//	if(GetLocalInt(OBJECT_SELF, IntToString(nID) + "_200")) return;
-		//	
-		//	if(ACR_SkillCheck(SKILL_GATHER_INFORMATION, oPC, 15, TRUE, FALSE))
-		//	{
-		//		NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
-		//					"\nWork may be available.", 
-		//					"It sounds from chatter on the streets like Beryl, who you recall from his abuse of his partner and her conversation at the watch post, has been captured and the city is hoping to bring in more help moving him back to the city.\n\nDetails would be available at the Baldur's Gate watch post.", 
-		//					NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
-		//	}
-		//	SetLocalInt(OBJECT_SELF, IntToString(nID) + "_200", 1);
-		//}
+		else if(nIntro == 200 || nIntro == 400 || nIntro == 500)
+		{
+			if(GetLocalInt(OBJECT_SELF, IntToString(nID) + "_200")) return;
+			
+			if(ACR_SkillCheck(SKILL_GATHER_INFORMATION, oPC, 15, TRUE, FALSE))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nWork may be available.", 
+							"It sounds from chatter on the streets like Beryl, who you recall from his abuse of his partner and her conversation at the watch post, has been captured and the city is hoping to bring in more help moving him back to the city.\n\nDetails would be available at the Baldur's Gate watch post.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+			}
+			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_200", 1);
+		}
 		else if(nIntro == 100 || nIntro == 300)
 		{
 			if(GetLocalInt(OBJECT_SELF, IntToString(nID) + "_100")) return;
