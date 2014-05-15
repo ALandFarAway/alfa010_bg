@@ -462,7 +462,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C904C4A297A7404939DCA0202CE356A6A600EA2" downloadHash="4294214FA5C3724C0BDEC8A5A2E2DF227E69A598" name="tradeway_s_10.trx" dlsize="1287751" size="12038911" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0C87C454BF72BA66D6EFD34D2B97200581389A02" downloadHash="0F3FB644F29A79B6AA6E78F2B58E2E5C67BF322C" name="tradeway_s_10.trx" dlsize="1281650" size="12036907" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1304,7 +1304,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9EFDAB1542865270954FD9906F065147100AF593" downloadHash="BAC7D93F59754DF1A8C8635CD79F452F4C3FF4C2" name="nashkel_cave1.trx" dlsize="263760" size="442766" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ADBA801997507D25D41FEB8C278EBB2BC9C19066" downloadHash="ED4A02BB17F9B6F610B9FA5AF5064796E23C7184" name="nashkel_cave1.trx" dlsize="262825" size="442724" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
