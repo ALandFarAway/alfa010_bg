@@ -2,8 +2,6 @@
 
 void main()
 {
-	SendMessageToPC(GetExitingObject(), "OnEnter fired");	
-	
 	// If the quest isn't spawned, we don't care. Skip it all.
 	if(!GetIsObjectValid(GetLocalObject(OBJECT_SELF, "010_intro_102_A")))
 		return;

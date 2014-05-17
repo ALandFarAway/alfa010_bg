@@ -3,9 +3,7 @@
 void main()
 {
 	object oPC = GetEnteringObject();
-	SendMessageToPC(oPC, "OnEnter fired");
 	int nQuest = ACR_RetrieveQuestState("010_intro", oPC);
-	SendMessageToPC(oPC, "Quest state: " + IntToString(nQuest));
 	if((nQuest == 102 || nQuest == 302) &&
 		!GetIsObjectValid(GetLocalObject(OBJECT_SELF, "010_intro_102_A")))
 	{
