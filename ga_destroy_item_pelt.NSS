@@ -28,9 +28,10 @@ void DestroyItems(object oTarget,string sItem,int nNumItems,int gold,int xp)
     {
         if (GetTag(oItem) == sItem)
         {
-		DestroyObject(oItem,0.0f);
-		Gxp += xp;
-		Ggold += gold;
+			int nStack = GetItemStackSize(oItem);	
+			DestroyObject(oItem,0.0f);
+			Gxp += xp * nStack;
+			Ggold += gold * nStack;
         	nCount++;
         }
         oItem = GetNextItemInInventory(oTarget);
