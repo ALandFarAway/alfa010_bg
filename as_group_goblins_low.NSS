@@ -43,7 +43,6 @@
 // This is the main function, which is what the spawn system runs when this
 // spawn group is spawned.
 void main();
-
 ////////////////////////////////////////////////////////////////////////////////
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
@@ -67,13 +66,13 @@ void main()
         case 3:
             spawn_hostile("010_cr_goblin03");
             break;	
-	case 4:
+		case 4:
             spawn_hostile("010_cr_goblin04");
             break;
-	case 5:
+		case 5:
             spawn_hostile("010_cr_goblin05");
             break;
-	case 6:
+		case 6:
             spawn_hostile("010_cr_goblin06");
             break;
 	}

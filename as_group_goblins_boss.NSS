@@ -59,10 +59,10 @@ void main() {
         case 1:
             spawn_hostile("dpss_goblin01");
             break;
-	case 2:
+		case 2:
             spawn_hostile("abr_cr_hu_hobgoblin000");
             break;
-	case 3:
+		case 3:
             spawn_hostile("010_cr_goblin_mount");
             break;
 	}

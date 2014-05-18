@@ -43,14 +43,13 @@
 // This is the main function, which is what the spawn system runs when this
 // spawn group is spawned.
 void main();
-
 ////////////////////////////////////////////////////////////////////////////////
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
 void main() {
 
-	switch(Random(5)) 
+	switch(Random(4)) 
 	{
         case 0:
             spawn_hostile("010_cr_goblin_warrior00");
@@ -62,11 +61,8 @@ void main() {
             spawn_hostile("010_cr_goblin_warrior02");
             break;
         case 3:
-	case 4:
             spawn_hostile("010_cr_goblin_archer00");
             break;
-	
 	}
-
 	spawn_group("goblins_low",0.5);
 }
