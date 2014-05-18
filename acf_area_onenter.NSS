@@ -23,7 +23,6 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 #include "acr_area_i"
-#include "dpss_include"
 //#include "acr_time_i"
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -62,8 +61,6 @@ void main() {
 		refresh_seed();
 		
     ACR_AreaOnEnter();
-	
-	DPSS_SPAWN_AREA(OBJECT_SELF,GetEnteringObject());
 	
 //	SendMessageToAllDMs(GetName(GetEnteringObject())+" is entering area "+GetName(OBJECT_SELF)+" at time "+IntToString(GetTimeSecond()));
     // Custom code goes below this line.
