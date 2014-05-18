@@ -15,7 +15,7 @@ void main()
 		if(GetIsPC(oPC))
 		{
 			int nQuest = ACR_RetrieveQuestState("010_intro", oPC);
-			if(nQuest == 102 || nQuest == 302)
+			if(nQuest == 102 || nQuest == 202 || nQuest == 302 ||  nQuest == 402 || nQuest == 502)
 			{
 				bDespawn = FALSE;
 			}

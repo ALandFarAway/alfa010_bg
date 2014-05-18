@@ -4,7 +4,7 @@ void main()
 {
 	object oPC = GetEnteringObject();
 	int nQuest = ACR_RetrieveQuestState("010_intro", oPC);
-	if((nQuest == 102 || nQuest == 302) &&
+	if((nQuest == 102 || nQuest == 202 || nQuest == 302 || nQuest == 402 || nQuest == 502) &&
 		!GetIsObjectValid(GetLocalObject(OBJECT_SELF, "010_intro_102_A")))
 	{
 		object oWaypointA = GetWaypointByTag("010_intro_102_A");
