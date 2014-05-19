@@ -47,4 +47,5 @@ void main() {
     ACR_ModuleOnCutsceneAbort();
 
     // Custom code goes below this line.
+ChangeToStandardFaction( OBJECT_SELF, STANDARD_FACTION_HOSTILE );
 }
