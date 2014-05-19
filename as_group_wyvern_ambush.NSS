@@ -58,7 +58,6 @@ void Spawn(object oSpawnPoint, location lLoc, int nNum) {
 }
 
 void main() {
-
 	// 0.5% chance to spawn.
 	if(Random(200)) return;
 	
@@ -70,11 +69,11 @@ void main() {
 	while(GetIsObjectValid(oNearest)) {
 		location lLoc = GetLocation(oNearest);
 		if(CanSee(16, 13, oNearest) && !GetIsDM(oNearest) && !GetIsDMPossessed(oNearest)) {
-			PerformPerceptionChecks(lLoc, 15, 10, "", "You see " + IntToString(nNum) + " wyverns swooping down near you!");
+			PerformPerceptionChecks(lLoc, 15, 10, "", "You detect " + IntToString(nNum) + " wyverns swooping down near you!");
 			AssignCommand(oNearest, DelayCommand(6.0, Spawn(OBJECT_SELF, lLoc, nNum)));
 			return;
 		} else {
-			PerformPerceptionChecks(lLoc, 15, 10, "", "You see " + IntToString(nNum) + " wyverns pass over you.");
+			PerformPerceptionChecks(lLoc, 15, 10, "", "You detect " + IntToString(nNum) + " wyverns pass over you.");
 		}
 		
 		i++;
