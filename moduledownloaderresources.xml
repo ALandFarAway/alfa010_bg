@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="Tlk" hash="4DAFEE1CB9D9EC859F7430AA5E1F7B9160763DBD" downloadHash="F3058D09D67C4D2C251265EA9D6C5482E1FC723F" name="alfa_acr02.tlk" dlsize="146727" size="1182965" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -6,13 +6,13 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="C2904FC9AEF05B698334B73019FC50F216B20433" downloadHash="1DBD6A763944D9888F2C50E8A9DD6F2640771426" name="alfa2_2da.hak" dlsize="374147" size="18250846" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="32B6E21F1EAABE0802438177B889E384459A28F8" downloadHash="6F519601F0014299AA7F281028984FED01829D5B" name="alfa2_2da.hak" dlsize="374388" size="18258543" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="DC9AD9E392D5BA5362AAD1980633FA6A90177058" downloadHash="12189437953FC4264B3052166AB7E80FBA9F6C85" name="alfa2_acr.hak" dlsize="2871440" size="112390122" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="B318BFE38B1E6D89F4AD832A30A6E138F4DDD8E7" downloadHash="1B444E882DBCCE45CD4EB3D512C115D40ED5791E" name="alfa2_acr.hak" dlsize="2876605" size="112981149" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
