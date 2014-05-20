@@ -47,35 +47,6 @@ void main();
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-void main()
-{
-	int i;
-	for (i=0; i<d3(); ++i) {
-
-	switch(Random(7)) 
-	{
-        case 0:
-            spawn_hostile("010_cr_goblin00");
-            break;
-        case 1:
-            spawn_hostile("010_cr_goblin01");
-            break;
-        case 2:
-            spawn_hostile("010_cr_goblin02");
-            break;
-        case 3:
-            spawn_hostile("010_cr_goblin03");
-            break;	
-		case 4:
-            spawn_hostile("010_cr_goblin04");
-            break;
-		case 5:
-            spawn_hostile("010_cr_goblin05");
-            break;
-		case 6:
-            spawn_hostile("010_cr_goblin06");
-            break;
-	}
-
-	}
+void main() {
+	SpawnRandomNumber( 1, 3, "abr_cr_hu_goblin_melee" );
 }

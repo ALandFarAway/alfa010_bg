@@ -54,7 +54,7 @@ void main() {
 	spawn_placeable("phat_lewt_corpse_male",0.5);
 	
 	for (i=0; i<d3()+2; ++i) {
-			spawn_hostile_npc("010_cr_humanoid_bugbear");
+			spawn_hostile_npc("010_cr_hu_bugbear");
 	}
 
 }

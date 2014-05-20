@@ -43,12 +43,12 @@
 // This is the main function, which is what the spawn system runs when this
 // spawn group is spawned.
 void main();
-
 ////////////////////////////////////////////////////////////////////////////////
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
 void main() {
-	SpawnRandomNumber( 4, 9, "abr_cr_hu_goblin_melee" );
+	SpawnRandomNumber( 9, 23, "abr_cr_hu_goblin_melee" );
 	spawn_hostile( "abr_cr_hu_goblin_sergeant", 1.0, 0.0 );
+	SpawnRandomNumber( 3, 5, "abr_cr_mb_worg" );	
 }

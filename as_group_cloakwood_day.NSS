@@ -149,10 +149,10 @@ void main() {
 			spawn_group("complex");
 			break;		
 		case 16:
-			spawn_hostile_npc("010_cr_an_wolf_timber");
-			spawn_hostile_npc("010_cr_an_wolf_timber");
-			spawn_hostile_npc("010_cr_an_wolf_timber",0.5);
-			spawn_hostile_npc("010_cr_an_wolf_timber",0.5);
+			spawn_hostile_npc("abr_cr_an_wolf");
+			spawn_hostile_npc("abr_cr_an_wolf");
+			spawn_hostile_npc("abr_cr_an_wolf",0.5);
+			spawn_hostile_npc("abr_cr_an_direwolf",0.5);
             break;
 		case 17:
             spawn_hostile_npc("abr_cr_vm_beetle_stag");
@@ -162,20 +162,19 @@ void main() {
 			spawn_hostile_npc("010_cr_undead_wight1",0.5);
 			break;			
 		case 19:
-			switch (Random(6)) {
+			switch (Random(5)) {
 				case 0:
-				case 1:
-					spawn_group("shadows_low");
+					spawn_hostile_npc("abr_cr_mb_worg");
 					break;
-				case 2:
+				case 1:
 					spawn_hostile_npc("abr_cr_gt_ogremage");
 					spawn_hostile_npc("abr_cr_gt_ogre");
 					break;
-				case 3:
+				case 2:
 					spawn_hostile_npc("abr_cr_dragon_wyvern");
 					break;
-				case 4:
-					spawn_group("shadows_high");
+				case 3:
+					spawn_hostile_npc("abr_cr_an_direwolf");
 					break;
 				default:
 					spawn_hostile_npc("abr_cr_gt_giant_hill_m");

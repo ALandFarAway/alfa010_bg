@@ -48,21 +48,5 @@ void main();
 ////////////////////////////////////////////////////////////////////////////////
 
 void main() {
-
-	switch(Random(4)) 
-	{
-        case 0:
-            spawn_hostile("010_cr_goblin_warrior00");
-            break;
-        case 1:
-            spawn_hostile("010_cr_goblin_warrior01");
-            break;
-        case 2:
-            spawn_hostile("010_cr_goblin_warrior02");
-            break;
-        case 3:
-            spawn_hostile("010_cr_goblin_archer00");
-            break;
-	}
-	spawn_group("goblins_low",0.5);
+	SpawnRandomNumber( 3, 5, "abr_cr_hu_goblin_melee" );
 }

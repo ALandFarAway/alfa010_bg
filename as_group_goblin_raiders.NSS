@@ -53,12 +53,8 @@ void main();
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-// 7,634
 void main() {
-	int i;
-	
-	spawn_group("as_group_goblins_low");
-	spawn_group("as_group_goblins_low", 0.5);
-	spawn_group("as_group_goblins_low", 0.5);
-	spawn_group("as_group_goblins_boss");
+	spawn_hostile( "abr_cr_an_wolf", 1.0, 0.0 );
+	spawn_hostile( "abr_cr_an_wolf", 0.5, 0.0 );
+	spawn_group( "as_group_goblins_boss" );
 }

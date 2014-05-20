@@ -50,44 +50,44 @@ void main();
 
 void main() {
  if(Random(5) > 2)
- 	{ACR_SpawnObject("010_cr_wolf", OBJECT_TYPE_CREATURE);}
+ 	{ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);}
             
   	switch(Random(4)) {
         case 0:
-            ACR_SpawnObject("010_cr_wolf0", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
             break;
 		case 1:
-            ACR_SpawnObject("010_cr_wolf0", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
             break;
 		case 2:
-            ACR_SpawnObject("010_cr_wolfdire", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_direwolf", OBJECT_TYPE_CREATURE);
             break;	
 		}				
 
 		switch(Random(4)) {
         case 0:
-            ACR_SpawnObject("010_cr_wolf", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
             break;
 		case 1:
-            ACR_SpawnObject("010_cr_wolfdire", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_direwolf", OBJECT_TYPE_CREATURE);
             break;
 		case 2:
-            ACR_SpawnObject("010_cr_wolf0", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
             break;	
 		}				
 
 			switch(Random(4)) {
         case 0:
-            ACR_SpawnObject("010_cr_wolf0", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
             break;
 		case 1:
-            ACR_SpawnObject("010_cr_wolf0", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
             break;
 		case 2:
-            ACR_SpawnObject("010_cr_wolfdire", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_direwolf", OBJECT_TYPE_CREATURE);
             break;
 		case 3:
-            ACR_SpawnObject("010_cr_wolf", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
             break;		
 		}				
 
