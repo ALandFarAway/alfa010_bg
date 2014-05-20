@@ -300,7 +300,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2DC41FEC159DC53790E9CA7DEF241C2567A657A6" downloadHash="623A90BC39EE3D1766DE73C81C3DD2170E39CAC4" name="sharpteeth_04_cave0.trx" dlsize="293401" size="1107960" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="90A5A529C3A82BF86833BC66785A3660679CC7C5" downloadHash="DE83A0291C9191C92FA384B22D08F4023FB461E4" name="sharpteeth_04_cave0.trx" dlsize="290130" size="1100620" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -552,31 +552,31 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="348749C4D142523EF682712CBBFD868D001CDF4F" downloadHash="7600CADBC26511EE6AE4DED396CE70B2FFAA4CFF" name="sharpteeth_03.trx" dlsize="2765020" size="15382585" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E70FE22FDC78FF02E72EF8FA76A6D4FC6BDB271A" downloadHash="B270C5E6D317C9722F87A122E7F860AC407BE208" name="sharpteeth_03.trx" dlsize="2556652" size="15196585" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F7D4643BB0D42E9E6576517F0DF06D6FA1C733FB" downloadHash="28EC373433AF089E587C6AE03152FDE90F4063DF" name="sharpteeth_04.trx" dlsize="1842698" size="10871858" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EB5FD6C6E54E9059457890A670B96458AEF132DD" downloadHash="CA069A20193B5170DF95C8832304A4FACF8A1989" name="sharpteeth_04.trx" dlsize="1581637" size="10645448" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9AA3306C91C38B51DCD4FE93E1735D4C7C59CDF1" downloadHash="B4FB282C66C67838874EF265E234938F0A16EE22" name="sharpteeth_05.trx" dlsize="1177268" size="8672388" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C1DCEC5ECCAEC947C05B0463AD2D71DAD13E4FA7" downloadHash="7B102694289A9BD8A8CF1A78F422D66AD9A5F91B" name="sharpteeth_05.trx" dlsize="1129091" size="8625247" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FD6598A129EDAE476B3B654DD06FAEAB1F1F9686" downloadHash="6B0F78B1CF459F8B6303452B05041F6593F99A61" name="sharpteeth_06.trx" dlsize="3033065" size="18501253" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="652C81F1231AF2CFB94D9B53144FEA2AA180E24D" downloadHash="189C5E6CD0B2844CBD232072B82FD45E92CFAD2D" name="sharpteeth_06.trx" dlsize="2871338" size="18384424" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="50D7702342B27B00B630ED9E34504BDDBD5CEE1A" downloadHash="9F08CB4D34ADAEAB7570DBCB6E4263FD670F024A" name="sharpteeth_07.trx" dlsize="4064065" size="19671494" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="001DA7D822B61BEFFE0E32C44F922B734864C33A" downloadHash="854EDC748B23C801C759D2A6D28A92930086E6E0" name="sharpteeth_07.trx" dlsize="3968906" size="19571348" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -624,7 +624,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9200BCACCBD688AB940286BCACA5340E3C6B613D" downloadHash="2F390ECF4E090892BE47527171BD23172C46B252" name="sharpteeth_04_cave1.trx" dlsize="1017333" size="4443401" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D30805093AF1B9B9B538D26807A54F505364AFFC" downloadHash="713D407729F3825EA42A09E2327882B4ABCEB6D9" name="sharpteeth_04_cave1.trx" dlsize="995629" size="4418851" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -720,7 +720,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="41E6A86C13EF0427F289D5FC51D9B524335C6BC2" downloadHash="53A9C38339A0AD403F12ADA5B67DBFAEA3D7942B" name="nashkel_town.trx" dlsize="7171619" size="26258221" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5FFE2B5CC2EE040C06044324206BDE797387953B" downloadHash="2D0E03449A04D4D403DFB1DEF763AEF16851EB54" name="nashkel_town.trx" dlsize="7162532" size="26242944" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -918,7 +918,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DE2CCC03CE5EB71ECB370504AABB028572F8E0BA" downloadHash="6FFBAE7A72CD890974DF608E7B0B51F60B2EB65B" name="ulgoth_northbank.trx" dlsize="1997577" size="15364159" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ABAFD744EF77C68BEB02FD1F674F8F30E5F9B134" downloadHash="16C7DBBF742611896CCF36D680006FF47D300D12" name="ulgoth_northbank.trx" dlsize="1963558" size="15382760" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1026,7 +1026,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4F02010ED6B02FA5B6E579775963C66E8111D679" downloadHash="035AAFC2BC02EC72D31699629A6B73DFE323EAC3" name="cloakwood_hill_02.trx" dlsize="1245750" size="7924299" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="36C26C0E7F1A6B7F7735397BA415704CCF95B917" downloadHash="0D8E920A829D6BC1DC24C9FE490E89616E6B0113" name="cloakwood_hill_02.trx" dlsize="1280049" size="7958864" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1038,7 +1038,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="06DB6C0285E7B41B3979A8342A78337AA84329B2" downloadHash="F2CB21805DC9B85E35263BB619BE81293B6A80B5" name="cloakwood_hill_01.trx" dlsize="4079444" size="20296182" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D5999A78B712664BDABFCA4D5960073D7562DF37" downloadHash="510D5A0F587E3197759B35F2FEFBC687EBA62C58" name="cloakwood_hill_01.trx" dlsize="4077152" size="20298885" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1310,7 +1310,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DDD36BAE0BECCC9AA6AF4A731A4D189E93E2A081" downloadHash="0563AFDD4069E33D0F859D9BA487399F6B9DE523" name="ulgoth_town.trx" dlsize="2862050" size="16340394" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD658F1CF9D3EB31831671D265F18AD729F7CEEE" downloadHash="5B3D18E5BD751964303C0B62A2AB701D6ADCC6FE" name="ulgoth_town.trx" dlsize="2834052" size="16313836" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
