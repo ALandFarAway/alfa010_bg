@@ -228,7 +228,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B74A92DE7C7C7A0856936FB5A748396AD734D396" downloadHash="B928AF6E1194DEB81B8923B719DB1C3AA3B96AFF" name="bgcity-market.trx" dlsize="2398915" size="9351874" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ED7E3D22B69F37A405967010A44820A13E51B0A1" downloadHash="BBD0C3C9DD8F0948EABEAC9E3B5EF1FF39946AA0" name="bgcity-market.trx" dlsize="2598455" size="9553295" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -432,13 +432,13 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="67064886F0CDEBFC1DC6E19A2279382FF72E24D9" downloadHash="B0599EBDEE7299BB291DE96F4211955D557B2735" name="bgcity-castle.trx" dlsize="4190378" size="13891802" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="683873373AE97415E468BC719F18522CBE683B71" downloadHash="9C3900D539EC0649336DFD648ECB32B057A54626" name="bgcity-castle.trx" dlsize="4758307" size="14467427" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="13DCDD70D8A470CA27FB6500967BDB3BDF595E5E" downloadHash="016B18AC9DF9423B30C129349BCD0718D517CEAE" name="cloakwood_11.trx" dlsize="1474099" size="12506151" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9BD6D9435214A4EC0AB2033D66A065107C43F797" downloadHash="1D22FB4B23DD22C7B5A478EADF8CEF6D14BAD24E" name="cloakwood_11.trx" dlsize="1507937" size="12615924" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -636,7 +636,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C5B995C35078EBDA4A6D5F97998D1B2C83079B67" downloadHash="D8CDE036B43F84272D0EC37C284419B36677AE2D" name="bgcity-harborwest.trx" dlsize="3299661" size="14756015" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A2C6490A4AD703405AC51121E32606BE21EDF7A2" downloadHash="DA3FAB81CEFE9FCEA1C0A33DFDF1BA731AB10BDF" name="bgcity-harborwest.trx" dlsize="3299277" size="14755408" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -690,7 +690,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5DAE0C408517643F518519DD4D093B4E04E67D62" downloadHash="8660A634D102B8A63283E8D57E7F77FB89E07A54" name="cloakwood_04.trx" dlsize="1939548" size="14044310" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4ED068CA54C886E3DD78A9D85CF15C245E901DCA" downloadHash="C8547354C3B12C9C55799136CBA45CC58541A714" name="cloakwood_04.trx" dlsize="2073844" size="14250362" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -822,13 +822,13 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2F06820A323ABB01A4E6240A31632BAB465398B9" downloadHash="86690BC06A2B5F427445DF118BA85671F50C4881" name="cloakwood_01.trx" dlsize="1462169" size="12114275" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="51A0439BCF1DE84F2EAB3C5B09EBFC7644CD9BD3" downloadHash="5EDFE3EDB3D7FF23273FAA3533828AD0E6371644" name="cloakwood_01.trx" dlsize="1653666" size="12373801" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DECD9F583348D3B9B1CF1569D189FDB977DE4968" downloadHash="8D0C1EC387F8860101B96E6210CF93850A9FBF38" name="cloakwood_03.trx" dlsize="2094662" size="13245225" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F166CED371B057714C0533F08EB87277D31A3694" downloadHash="A83EC24224BCCAE785D6D6136C35CCAF0A12A020" name="cloakwood_03.trx" dlsize="2011883" size="13219314" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -948,7 +948,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="930883DF41B62BFFF23769595E2832855F15DBC3" downloadHash="E17EC1539BA04F8FB1AE12DB3B0B6687BD7B7D97" name="cloakwood_02.trx" dlsize="1597825" size="12535280" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FC4C9B3A49EA632CDC9B25E18BBC9836C2C65298" downloadHash="3B1D46ADD1A131A983F1021EE000A78B3B580665" name="cloakwood_02.trx" dlsize="1703483" size="12705013" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -972,7 +972,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC206AA32B8A5F56AB631761CAC3AFC8E909405F" downloadHash="E4630BC8CED2955686BE9560EB5E629AFE41F81B" name="bgcity-upperwest.trx" dlsize="3771196" size="13857591" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F954C04FB7808DFB1F5C2DFD8EE88EF8110F8D14" downloadHash="4AEE2DC5B790AC637366A7F12A7C71862B983919" name="bgcity-upperwest.trx" dlsize="4255307" size="14345715" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1050,7 +1050,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6C2D0979A48CEBD5CF48393CC03F6E483781EE57" downloadHash="3F082C214851525D6BADECD9F3E48D2EE5DE3D6F" name="bgcity-harboreast.trx" dlsize="2385806" size="11830397" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C56C2B7707387E88B24A92EE7036378C34C30124" downloadHash="EE04FBB6F99FD461A31B6BB110EA9CB259F07A43" name="bgcity-harboreast.trx" dlsize="2507171" size="11953431" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2763,7 +2763,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="072BA5624BDAE8633CA669C3EA415670EE8F2F3F" downloadHash="75BADEAD3995F8FAE100C91F5B54D5A7F2FA82ED" name="gullykin_owl_burrow.trx" dlsize="241493" size="917969" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="09DFD40FCF5BDCA62B61812C123E5D55C343B3B4" downloadHash="50DCF6DC75D8E30E250C0086C9C9AC3C179D4932" name="gullykin_owl_burrow.trx" dlsize="241801" size="916618" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2971,6 +2971,16 @@
     <server-ref>
       <string>0</string>
       <string>2</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CDD0D73A41A7A1DC8005A8E179E8341428D0A46E" downloadHash="E5F1DB63008EF35B198793F6C6394D7AB2043CAE" name="unlinked_cave4.trx" dlsize="810922" size="3449619" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="65E5F4CA88F7577BCC8E0397C7229A259C8266F8" downloadHash="044D645D6B9E38B92472F9969F27506D4891F62A" name="unlinked_duergar mine.trx" dlsize="440245" size="756048" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
