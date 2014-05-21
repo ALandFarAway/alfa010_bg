@@ -2763,7 +2763,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="09DFD40FCF5BDCA62B61812C123E5D55C343B3B4" downloadHash="50DCF6DC75D8E30E250C0086C9C9AC3C179D4932" name="gullykin_owl_burrow.trx" dlsize="241801" size="916618" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A91BA32CA4B68FBDA2CF18C033729EFA2236A33" downloadHash="576C042B099B439507542916A735567B38A06B11" name="gullykin_owl_burrow.trx" dlsize="242987" size="918334" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
