@@ -11,4 +11,3 @@ void main()
     else
         PlayVoiceChat(VOICE_CHAT_CUSS);
 }
-

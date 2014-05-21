@@ -47,4 +47,3 @@ void drug_overdose_effect(object oPC)
 
 	SendMessageToPC(oPC, "The narcotic overwhelms you entirely, leaving you stunned.");
 }
-

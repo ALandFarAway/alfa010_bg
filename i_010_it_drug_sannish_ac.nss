@@ -46,4 +46,3 @@ void drug_overdose_effect(object oPC)
 	SendMessageToPC(oPC, "You sink into a numbing stupor, unable to do much of anything.");
 	ApplyEffectToObject(DURATION_TYPE_TEMPORARY, ExtraordinaryEffect(eDaze), oPC, HoursToSeconds(d4(2))); 
 }
-

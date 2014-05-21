@@ -44,4 +44,3 @@ void drug_overdose_effect(object oPC)
 
 	ApplyEffectToObject(DURATION_TYPE_PERMANENT, ExtraordinaryEffect(eCon), oPC);
 }
-

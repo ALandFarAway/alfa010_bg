@@ -15,4 +15,3 @@ void main()
         ActionOpenDoor(oDoor); // door is open, close it
 
 }
-

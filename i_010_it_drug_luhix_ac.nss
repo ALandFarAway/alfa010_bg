@@ -65,4 +65,3 @@ void drug_overdose_effect(object oPC)
 	ApplyEffectToObject(DURATION_TYPE_INSTANT, ExtraordinaryEffect(sDeath), oPC, 0.0f);
 
 }
-

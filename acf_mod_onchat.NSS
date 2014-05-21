@@ -71,4 +71,3 @@ int StartingConditional(object oSpeaker, object oTarget, int nMode, string sText
 
 	return TRUE;
 }
-

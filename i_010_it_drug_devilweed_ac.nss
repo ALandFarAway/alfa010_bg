@@ -36,4 +36,3 @@ void drug_overdose_effect(object oPC)
 {
 	// none
 }
-

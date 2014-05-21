@@ -93,4 +93,3 @@ Environment:
 			NWScriptVM_AutoProfiler_Continuation( ) )
 		);
 }
-
