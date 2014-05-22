@@ -636,7 +636,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A2C6490A4AD703405AC51121E32606BE21EDF7A2" downloadHash="DA3FAB81CEFE9FCEA1C0A33DFDF1BA731AB10BDF" name="bgcity-harborwest.trx" dlsize="3299277" size="14755408" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A6752BB9DD4FA7A31175AD3E3628F28930F05626" downloadHash="52D42828D928753C28BFFAE1C14D0F4DBDFDE07C" name="bgcity-harborwest.trx" dlsize="3545137" size="15004835" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1260,7 +1260,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AAC2043E6FA430CD2585A4ADBF0E8D3543840841" downloadHash="878D39818853491AFED6630935C24BE09D5872CC" name="bg-eastgate_housing.trx" dlsize="1174007" size="2449347" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7B0F17B20EA35A319FAE80CDDA77ED852AF4D560" downloadHash="9E5C5E01E82A646020F0FF62FF6B4BBA06B134C4" name="bg-eastgate_housing.trx" dlsize="973158" size="2247938" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1286,7 +1286,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E06673545E0D98EBEB6D1EC556B7BE6C09EA0CAE" downloadHash="3F3D4EEA397F9FEAED6C3F5CD78198FE60320915" name="beregost_housing.trx" dlsize="167965" size="301499" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F636F06AC086E246C71E6E434CE389E621ADF7EB" downloadHash="25EA0FA638FEA970F83BCBAFC720CE580108EEE4" name="beregost_housing.trx" dlsize="166733" size="300478" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2973,7 +2973,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CDD0D73A41A7A1DC8005A8E179E8341428D0A46E" downloadHash="E5F1DB63008EF35B198793F6C6394D7AB2043CAE" name="unlinked_cave4.trx" dlsize="810922" size="3449619" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C9A990AF8C9F1017F9C56621ADCCD87599A65A81" downloadHash="ED8E0ECB7A47DF761C04BA3D5CE96AEB57909A65" name="unlinked_cave4.trx" dlsize="794537" size="3474380" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
