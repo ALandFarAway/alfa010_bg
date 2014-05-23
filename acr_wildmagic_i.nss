@@ -1,3 +1,5 @@
+// THIS SCRIPT IS NOT A PART OF ACR
+
 const int _WILD_MAGIC_NORMAL	= 0;
 const int _WILD_MAGIC_MAX	= 1;
 const int _WILD_MAGIC_NOEX	= 2;

@@ -1,3 +1,5 @@
+// THIS SCRIPT IS NOT A PART OF ACR
+
 #include "acr_xp_i"
 #include "acr_time_i"
 
