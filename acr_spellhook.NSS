@@ -23,6 +23,8 @@
 //  2008/02/13 AcadiusLost - Added tradescroll hooks
 //  2010/09/22 AcadiusLost - Added exception to spelltracking for Cast Spell items
 
+// THIS SCRIPT IS NOT A PART OF ACR - IT DEVIATES FOR WILDMAGIC
+
 //////////////////////////////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -31,6 +33,7 @@
 #include "acr_spells_i"
 #include "acr_spelltrack_i"
 #include "acr_tradescroll_i"
+// wild magic deviates from ACR
 #include "acr_wildmagic_i"
 #include "acr_combat_actions_i"
 #include "acr_craft_progress_i"
@@ -72,7 +75,6 @@ void main()
 	if(ACR_CraftingSpellhook(oCaster, oTarget, oItem, nSpellId))
 		return;
 
-
 	// Hook spells cast by wizards at spellbooks for tradescrolls.
 	_DoTradeScrollSpellHook();	
 	// if it is a familiar casting, and the master is unconscious, the spell fails.
@@ -86,6 +88,17 @@ void main()
 		}
 	}
 	
+	// Combat Mode Hooks
+	if(GetIsFightingDefensively(oCaster))
+	{
+		FightNormally(oCaster);
+		SetLocalInt(oCaster, POST_SPELLCAST_NO_COMBAT_MODE, 1);
+		DelayCommand(4.5f, ExecuteScript("acr_restartcombatmode", oCaster)); // Because this is in the impact script, it's 4.5 seconds until next round.
+	}
+	
+	
+	
+	// Wild Magic stuff deviatse from ACR
 	if (GetLocalInt(oCaster, "ACR_WILD_MAGIC_ZONE")) {
 		nRes = ACR_HandleWildMagic(oCaster,oTarget,lTarget,nSpellId,oItem);
 	}
