@@ -942,7 +942,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D9B5A8732F87AF3289D43F0FDCF4AB53D8DC808" downloadHash="D6876B182F89F90856C466B28083393E10EA54D8" name="tradeway_n_04.trx" dlsize="11536110" size="32556998" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E073F195664BF4F14898C9AEBFF5D2F706E99A17" downloadHash="6A20968B056D76EA41DDE4623D6E9E3C3D2E630C" name="tradeway_n_04.trx" dlsize="11547821" size="32573726" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1050,7 +1050,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C56C2B7707387E88B24A92EE7036378C34C30124" downloadHash="EE04FBB6F99FD461A31B6BB110EA9CB259F07A43" name="bgcity-harboreast.trx" dlsize="2507171" size="11953431" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9250BA9E1E484377407A0CBCF0A69FA47FDF478C" downloadHash="85144D9ACB8B6BDBA711AE9D74632802DC458671" name="bgcity-harboreast.trx" dlsize="2497725" size="11939997" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
