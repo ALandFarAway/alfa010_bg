@@ -750,7 +750,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A41E81A9946FB20EF6A3975F7C02D87215E139DE" downloadHash="CAD5C7BFAFA07763B91D088D23CBA9C38B791E8F" name="cloakwood_23.trx" dlsize="1229377" size="11708163" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD4D8AD3B68F920C91595E41F3657047B25B36C2" downloadHash="D4CD89362691887148295FEF946E0C2494CDB147" name="cloakwood_23.trx" dlsize="1229140" size="11706898" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
