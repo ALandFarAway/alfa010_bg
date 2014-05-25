@@ -234,7 +234,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE229E61201D914D61729568D00369EE2D9F0D87" downloadHash="E7EA04A33C31A65E648F23ADF15A22B41A1C0E28" name="cloakwood_13.trx" dlsize="1070838" size="9424133" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="898204A6FA581FCAEB6725CB508EE3508A2BB1E4" downloadHash="63853D3191FB057FBBBE99848FF1E9DD617686A3" name="cloakwood_13.trx" dlsize="1346463" size="9706810" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -312,7 +312,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FA94C7C74EED33E80CD9C33B2C6DF7267DF986F7" downloadHash="5426CE4D5E5D139609C3202CF34E2C22E53E9742" name="cloakwood_12.trx" dlsize="3045804" size="20219553" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B4FDEF74F0CEDA1E652AAFD05758A7E71EFBA7F" downloadHash="A56BA2AF39746780DF55645BA3780D6B3CA77E55" name="cloakwood_12.trx" dlsize="4000022" size="21266512" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -558,19 +558,19 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EB5FD6C6E54E9059457890A670B96458AEF132DD" downloadHash="CA069A20193B5170DF95C8832304A4FACF8A1989" name="sharpteeth_04.trx" dlsize="1581637" size="10645448" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FF90BA2EDBCC80D514466E611C6FCB3086A7D7F5" downloadHash="6DFC55C6D526F89066D5E612711FDEB646AEF35F" name="sharpteeth_04.trx" dlsize="1814812" size="10857289" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C1DCEC5ECCAEC947C05B0463AD2D71DAD13E4FA7" downloadHash="7B102694289A9BD8A8CF1A78F422D66AD9A5F91B" name="sharpteeth_05.trx" dlsize="1129091" size="8625247" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D7391F8A4110ABDA1DBB02E2675BE6B5B35E7CE7" downloadHash="6EC2243FC55FCE044DA6E04EA9A8C9FEE9563E2D" name="sharpteeth_05.trx" dlsize="1124763" size="8625145" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="652C81F1231AF2CFB94D9B53144FEA2AA180E24D" downloadHash="189C5E6CD0B2844CBD232072B82FD45E92CFAD2D" name="sharpteeth_06.trx" dlsize="2871338" size="18384424" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9E278A11EE3836C00CEDA567604FF35E74600707" downloadHash="090FF8570EEF3A7F5C39198CA503CAAB7F1D6227" name="sharpteeth_06.trx" dlsize="2900022" size="18403584" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -654,7 +654,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6861554C46B6866854F78126F1F42679509689CF" downloadHash="2F40DC8A68D8386D918680C2BA63F92A6D869969" name="cloakwood_02_cave1.trx" dlsize="672066" size="680812" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="34A01E309F8A81AD81AB6AF58359A258B406EEDF" downloadHash="51A6B9EC3F5F5A5973F4A32558EA8D235F1F05D8" name="cloakwood_02_cave1.trx" dlsize="723063" size="730028" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -750,7 +750,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0E11407A3195AA731263DF6DF74B7C87FD81EB99" downloadHash="66F6C5C511786E1A6202AEBDB8E1F310F96AE8FA" name="cloakwood_23.trx" dlsize="1043989" size="11480026" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F60BCDB14578145DAADEDDBE3210A8379A5F7493" downloadHash="30B9378463D6AC06483ED7893D1034BB2E5F004A" name="cloakwood_23.trx" dlsize="1191451" size="11666427" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -858,7 +858,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5EF3380B7B3D4B835666F9AA5BAAFF9FFB7D06C3" downloadHash="37DAC003091F5C40BA11821799BB73B75090769C" name="cloakwood_02_cave0.trx" dlsize="694166" size="702541" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="50ADBC89F5CF7B7B46772FC52284C4D774BEDDD3" downloadHash="26821DA9C9E7D4F16952B2E2041533DDEBEFEBF7" name="cloakwood_02_cave0.trx" dlsize="686565" size="695035" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -948,7 +948,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FC4C9B3A49EA632CDC9B25E18BBC9836C2C65298" downloadHash="3B1D46ADD1A131A983F1021EE000A78B3B580665" name="cloakwood_02.trx" dlsize="1703483" size="12705013" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="033173A747A30F0D49F97EE06C3C1B34C1370318" downloadHash="0AFB2381B80C06E76EB79924F9D32DEFE712E808" name="cloakwood_02.trx" dlsize="1683107" size="12687107" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
