@@ -55,21 +55,21 @@ void main() {
 
 	for (i=0; i<Random(4)+1; ++i) {
 		o = spawn_hostile_npc("010_cr_st_thief00");
-		SetFirstName(o,"Dark Man");
+		SetFirstName(o,"Non-descript Man");
 		SetLastName(o,"");
 	}
 	
-	spawn_hostile_npc("10_ksiel_shadowthief_assaassin01",0.2);
+	spawn_hostile_npc("10_ksiel_shadowthief_assaassin01",0.67);
 	
 	if (GetIsObjectValid(o)) {
-		SetFirstName(o,"Shadowy Figure");
+		SetFirstName(o,"Suspicious Female");
 		SetLastName(o,"");
 	}
 
-	spawn_hostile_npc("10_ksiel_shadowthief_assaassin02",0.2);
+	spawn_hostile_npc("10_ksiel_shadowthief_assaassin02",0.67);
 	
 	if (GetIsObjectValid(o)) {
-		SetFirstName(o,"Shadowy Figure");
+		SetFirstName(o,"Suspicious Male");
 		SetLastName(o,"");
 	}
 }
