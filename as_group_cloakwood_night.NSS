@@ -181,7 +181,7 @@ void main() {
 					spawn_hostile_npc("abr_cr_mb_basilisk");
 					break;
 				case 4:
-					spawn_hostile_npc("bg_hastebear");
+					spawn_hostile_npc("010_cr_beardire");
 					break;
 				default:
 					spawn_hostile_npc("abr_cr_gt_giant_hill_m");
