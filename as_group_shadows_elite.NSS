@@ -81,6 +81,6 @@ void main() {
 			ACR_SpawnObject("010_cr_undead_shadow_medium", OBJECT_TYPE_CREATURE);
 			break;
 		default:
-			ACR_SpawnObject("010_cr_undead_shadow_medium_greater", OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("010_cr_undead_shadow_medium", OBJECT_TYPE_CREATURE);
 	}		
 }

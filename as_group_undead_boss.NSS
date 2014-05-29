@@ -51,14 +51,14 @@ void main() {
 
 	switch(Random(10)) {
         case 0:
-            ACR_SpawnObject("abr_un_bodak", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_bodak", OBJECT_TYPE_CREATURE);
             break;
         case 1:
-            ACR_SpawnObject("abr_un_ghoul_soultaker", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_ghoul_soultaker", OBJECT_TYPE_CREATURE);
             break;
         case 2:
-            ACR_SpawnObject("abr_un_ghast_spellstitched", OBJECT_TYPE_CREATURE);
-			ACR_SpawnObject("abr_un_ghast_spellstitched", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_ghast_spellstitched", OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_un_ghast_spellstitched", OBJECT_TYPE_CREATURE);
             break;
 		case 3:
             ACR_SpawnObject("010_cr_undead_shadow_greater", OBJECT_TYPE_CREATURE);
