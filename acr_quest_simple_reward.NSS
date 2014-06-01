@@ -19,7 +19,7 @@ void main(string plot, int gp, int xp, float reset_days, float cr)
 	val += FloatToInt(reset_days*ACR_GetGameToRealTimeRatio());
 	
 	GiveGoldToCreature(oPC,gp);
-	ACR_AwardStaticQuestXP(oPC,plot,xp); 
+	ACR_AwardStaticQuestXP(oPC,plot,xp,cr); 
    
 	// Prevent re-doing until n days
 	ACR_SetPersistentInt(oPC, name, val);
