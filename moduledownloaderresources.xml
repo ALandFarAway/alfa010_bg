@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="Tlk" hash="4DAFEE1CB9D9EC859F7430AA5E1F7B9160763DBD" downloadHash="F3058D09D67C4D2C251265EA9D6C5482E1FC723F" name="alfa_acr02.tlk" dlsize="146727" size="1182965" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -6,13 +6,13 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="32B6E21F1EAABE0802438177B889E384459A28F8" downloadHash="6F519601F0014299AA7F281028984FED01829D5B" name="alfa2_2da.hak" dlsize="374388" size="18258543" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="A22A5B338AEBDA653A8E27163C47B5C02265C0B0" downloadHash="A9C3F2B168BAA39072773C020B438A3BB97A0F5D" name="alfa2_2da.hak" dlsize="374578" size="18258543" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="08EBFA5F68525E3F0984494FAD1A3EB2A2C0EEF4" downloadHash="E0CBA334D68D29FDFBCC3B0A11ADDF93378F7899" name="alfa2_acr.hak" dlsize="2883844" size="113795066" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="2EDD478BAB74E36747E22CDDFE829C7778900178" downloadHash="1A056DBF4FEF6DB3F168ED9576F622A50749865C" name="alfa2_acr.hak" dlsize="2886445" size="113794994" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -66,7 +66,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="5EC55CBEFC109E807401E81C512D3B9936AF3D60" downloadHash="FB22C860A6A21653A7E0ABB69B08A9B89983DC9B" name="alfa2_templates.hak" dlsize="190978" size="8645425" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="F54A854CC2837F091F27FCA688783805AC9FBED7" downloadHash="5D66F6DA3E3A3BD735409EE0B86A672DE710E481" name="alfa2_templates.hak" dlsize="190865" size="8634817" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
