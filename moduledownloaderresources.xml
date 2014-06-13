@@ -474,7 +474,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F4787043F8462D9D31B3C140F842E829210CE06E" downloadHash="9B4136163273309117C0F7E39CC19C86AF2F17C0" name="candlekeep_lionsway_01.trx" dlsize="4029963" size="15521523" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2BF848432FBA779913125A66E04C83AAF743CB69" downloadHash="2FF3E5275439B4606E104A1B50951C8D2DE1E796" name="candlekeep_lionsway_01.trx" dlsize="4023779" size="15518404" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -534,7 +534,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="475DF676AEB0B803D1D3032363FFCE3EDFFE4C46" downloadHash="E94692E3B21E2C420A1F96D68286C5ADBD153F5D" name="sharpteeth_00.trx" dlsize="5587001" size="23309569" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F2D55D7DC97E65B109A1B47EA14593883CFCECDE" downloadHash="2774E3487AD4833FD77A807663C50C2FCD05C853" name="sharpteeth_00.trx" dlsize="5583125" size="23311167" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -720,7 +720,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5FFE2B5CC2EE040C06044324206BDE797387953B" downloadHash="2D0E03449A04D4D403DFB1DEF763AEF16851EB54" name="nashkel_town.trx" dlsize="7162532" size="26242944" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2D72BB7C08444B1A577385440E7F42C7D3AB677C" downloadHash="55BC57732BDB151D733DE95B624C849C10B33D3C" name="nashkel_town.trx" dlsize="7139179" size="26214344" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1056,7 +1056,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A199F98AF429248A59A8FC78C0A295031F998A64" downloadHash="FC400FE08A3128C43957C53CE7223CAF6B2A9C63" name="candlekeep_lionsway_02.trx" dlsize="3380208" size="15918858" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="049541E6B3046E45A6422F0908DBDBD53E516D1B" downloadHash="B17B71B1E4FF3FE7E010947AA0675B899467B534" name="candlekeep_lionsway_02.trx" dlsize="3418869" size="15948112" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
