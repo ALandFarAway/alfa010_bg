@@ -76,21 +76,21 @@ void main() {
             spawn_group("animal_rabbit");
             spawn_group("animal_rabbit",0.5);
             break;			
-	case 8:
+		case 8:
             ACR_SpawnObject("010_cr_badgerdire2", OBJECT_TYPE_CREATURE);
 			ACR_SpawnObject("010_cr_badgerdire1", OBJECT_TYPE_CREATURE);
 			ACR_SpawnObject("010_cr_badgerdire1", OBJECT_TYPE_CREATURE);
             break;
         case 9:
-            ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
-			ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
-			ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
+            spawn_group("animal_deer");
+            spawn_group("animal_deer");
+			spawn_group("animal_deer");
 			break;
 		case 10:
-			ACR_SpawnObject("abr_cr_an_direwolf", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("010_cr_an_weasel", OBJECT_TYPE_CREATURE);
             break;
 		case 11:	
-			ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
+            spawn_group("animal_deer");
 			ACR_SpawnObject("abr_cr_an_direwolf", OBJECT_TYPE_CREATURE);
 			break;
 		case 12:	
@@ -101,7 +101,7 @@ void main() {
             break;			
 		case 14:
 	        spawn_group("animal_boar");
-            	spawn_group("animal_boar",0.5);
+            spawn_group("animal_boar",0.5);
             break;			
 		case 15:	
 			ACR_SpawnObject("abr_cr_an_wolf", OBJECT_TYPE_CREATURE);
