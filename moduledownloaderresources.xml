@@ -1260,7 +1260,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7B0F17B20EA35A319FAE80CDDA77ED852AF4D560" downloadHash="9E5C5E01E82A646020F0FF62FF6B4BBA06B134C4" name="bg-eastgate_housing.trx" dlsize="973158" size="2247938" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6658A3FC934DE7A0BB81872BFDBF2ED89413AEA5" downloadHash="95148833E8AEB4DEE0396DC3FB2DEA560CB28CE9" name="bg-eastgate_housing.trx" dlsize="976219" size="2247938" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1286,7 +1286,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F636F06AC086E246C71E6E434CE389E621ADF7EB" downloadHash="25EA0FA638FEA970F83BCBAFC720CE580108EEE4" name="beregost_housing.trx" dlsize="166733" size="300478" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2EAA749D17CFE88328433A3223A590ADEC91498D" downloadHash="1FF09F7614AB927FFC9554863004352757B60505" name="beregost_housing.trx" dlsize="165904" size="299328" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2984,6 +2984,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="51C2F5DE73AE280FE60416F4C343EA7ADA84A913" downloadHash="87A2F992B1F337D2829526CBA7E1AE4CA7A91D7B" name="tradeway_s_05a.trx" dlsize="1594070" size="11817253" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5CA80FCB68CE2440794EF571D578658B5912559B" downloadHash="2E656BD8FB6F5BE2F76DD01DAAC4A4B22F8523E6" name="candlekeep_lionsway_02_inn.trx" dlsize="93141" size="94172" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
