@@ -49,14 +49,4 @@ void main()
     ACR_CreatureOnDeath();
 
     // Custom code goes here.
-	
-	if (GetLocalInt(o,"DPSS_CREATURE")) {
-		cont = GetLocalObject(o,"CONTROLLER");
-		newcr = GetLocalInt(cont,"CURRENT_CR");
-		
-		newcr -= delta;
-		
-		SetLocalInt(cont,"CURRENT_CR", newcr);
-	}
-		
 }
