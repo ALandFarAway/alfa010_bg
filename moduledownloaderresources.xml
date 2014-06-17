@@ -1260,7 +1260,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6658A3FC934DE7A0BB81872BFDBF2ED89413AEA5" downloadHash="95148833E8AEB4DEE0396DC3FB2DEA560CB28CE9" name="bg-eastgate_housing.trx" dlsize="976219" size="2247938" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1005A19478BCAC9C7EAB621A58CC4429CF9F1395" downloadHash="1957562192081DD997F475BA2FFA9D3C0045FD37" name="bg-eastgate_housing.trx" dlsize="957173" size="2275659" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
