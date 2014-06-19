@@ -81,12 +81,7 @@ void main() {
     ACR_ModuleOnModuleLoad();
 
     // Custom code goes below this line.
-	object oInitialize = CreateObject(OBJECT_TYPE_ITEM, "n2_it_spoon", GetStartingLocation());
-	DestroyCampaignDatabase("_acr_test");
-	ACR_SetPersistentObject(GetModule(), "1", oInitialize, "_acr_test");
-	DelayCommand(4.0, DestroyObject(oInitialize));
-	DelayCommand(4.1, WriteTimestampedLogEntry("There is no spoon."));
-	
+
 	DelayCommand(6.0, InitializeDoors());
 	DelayCommand(12.0, InitializeSpawnResets());
 
