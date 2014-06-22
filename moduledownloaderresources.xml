@@ -558,7 +558,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FF90BA2EDBCC80D514466E611C6FCB3086A7D7F5" downloadHash="6DFC55C6D526F89066D5E612711FDEB646AEF35F" name="sharpteeth_04.trx" dlsize="1814812" size="10857289" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4913DDD3533DD376276B36530CAB479E1C4C95AD" downloadHash="6DFC55C6D526F89066D5E612711FDEB646AEF35F" name="sharpteeth_04.trx" dlsize="1814812" size="10840460" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
