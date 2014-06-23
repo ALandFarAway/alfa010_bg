@@ -1056,7 +1056,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="049541E6B3046E45A6422F0908DBDBD53E516D1B" downloadHash="B17B71B1E4FF3FE7E010947AA0675B899467B534" name="candlekeep_lionsway_02.trx" dlsize="3418869" size="15948112" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4F84841CB66FDA3CE3FEFFD0B3469B929D49BE9A" downloadHash="4189C87F70A11B4D743F1B8FC16A496DF13D843B" name="candlekeep_lionsway_02.trx" dlsize="3423774" size="15956145" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2989,6 +2989,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="175C599664704EF6F7E20C541BB63B26FF508701" downloadHash="2A162720EB1904770E41CF0A406BDBA96C6529A5" name="candlekeep_lionsway_02_inn.trx" dlsize="97857" size="98840" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6B3DB2A86760B999374788989ADD4B699A104C30" downloadHash="560F3C21C540E27F48507FAA5D1C341357CBDEF4" name="candlekeep_lionsway_02_centipede.trx" dlsize="209102" size="212993" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
