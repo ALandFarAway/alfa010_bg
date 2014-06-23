@@ -2998,4 +2998,44 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="E75F324354B132A22C2A6033261E7672373180C2" downloadHash="D63D7FCCA1A0E6C73F8DC32E3B46CC84A93E55D3" name="candlekeep_wilds_n_2a.trx" dlsize="2491254" size="13748613" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B6930515F160645C1889993E74AD419CB068D588" downloadHash="9AAEC57250C75A2832B6571D2023906A2DEB574F" name="candlekeep_wilds_n_2c.trx" dlsize="2561678" size="14524147" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BC77BBDD267624F15D3914738C099A9FAD66428C" downloadHash="5DB825E6BBB1D37C6B1C09592FCD1CA028EE89C9" name="candlekeep_wilds_n_2b.trx" dlsize="3554814" size="17120236" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="80D4796D2665400298E65A80939900D119FE4581" downloadHash="EAE04ADB5466040067A13F88F5C3B941F4C6488A" name="tradeway_s_05b.trx" dlsize="4766936" size="21289650" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="52919F1DFEB3DB06F81F8609E89EEF5BF27D16C8" downloadHash="92D3004335F50F622152CD212DC182FE38D26666" name="cloakwood_05.trx" dlsize="2289974" size="13273120" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FF2E64EE8ABC684BC616438421D196A129DF9699" downloadHash="D0C97305C3B725DC8904C0327F440A82C9EA0035" name="candlekeep_wilds_n_1a.trx" dlsize="3884699" size="20904631" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="952DFA5D14D91ABD604A6E21CC23FCEFB02D03E1" downloadHash="EA68A91A119E7D6FAADEC864168CE4B1FA8240C2" name="candlekeep_wilds_n_1c.trx" dlsize="2978830" size="15426453" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C9558F51EE0CBCB072393E80F88C3BD3D0566000" downloadHash="A18748F1D7E72457ED3C3EF45C5D6393AF456AEE" name="candlekeep_wilds_n_1b.trx" dlsize="2492786" size="15297368" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
