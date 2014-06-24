@@ -3023,7 +3023,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="92036E8D446280443A55E32490CE8348D91B9FFA" downloadHash="CFDA0E58064CF5DC761621006A7E35C90EA909B3" name="candlekeep_wilds_n_1a.trx" dlsize="3940389" size="20953602" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F46F739B271A4B3C635299B467FF714ABE1B2032" downloadHash="EB7600A97A7BFF301AB631C81420408386FD77BE" name="candlekeep_wilds_n_1a.trx" dlsize="3947781" size="20953604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3034,6 +3034,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="EB4849B71E9C67724C82B3197874EDA67796C638" downloadHash="8B7B72716D64CDFC268489A2ED6EFDFE2BBE9C78" name="candlekeep_wilds_n_1b.trx" dlsize="2528463" size="15330871" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8025D1AECEB0BD531755972478F64F95896F09C5" downloadHash="DFC72EF30060B67C3462B14F1FD330522895CE4A" name="candlekeep_wilds_n_1a_cave0.trx" dlsize="83273" size="1164512" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
