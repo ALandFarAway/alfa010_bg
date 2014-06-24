@@ -3038,7 +3038,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8025D1AECEB0BD531755972478F64F95896F09C5" downloadHash="DFC72EF30060B67C3462B14F1FD330522895CE4A" name="candlekeep_wilds_n_1a_cave0.trx" dlsize="83273" size="1164512" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C9473CD3C27AC3598F612348D4790083CBA1CE2E" downloadHash="C54D94DF7D29F08009B8982E6E9152794CB1A97A" name="candlekeep_wilds_n_1a_cave0.trx" dlsize="84127" size="1170027" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
