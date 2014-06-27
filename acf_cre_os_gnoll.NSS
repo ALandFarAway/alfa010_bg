@@ -46,8 +46,6 @@ void main()
 {
 	ACR_CreatureOnSpawnIn();
 
-	ExecuteScript("acf_advanced_spawn", OBJECT_SELF);
-
 	RandomizeNPCScale();
 
 	string sArmType, sHelmType, sShldType, sWeapType;

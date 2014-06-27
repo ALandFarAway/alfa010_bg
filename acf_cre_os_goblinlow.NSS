@@ -55,6 +55,4 @@ void main()
 	AssignCommand(OBJECT_SELF,ActionEquipItem(oArmour,1));
 	AssignCommand(OBJECT_SELF,ActionEquipItem(oHelmet,0));
 	AssignCommand(OBJECT_SELF,ActionEquipItem(oWeapon,4));
-
-	ExecuteScript("acf_advanced_spawn", OBJECT_SELF);
 }

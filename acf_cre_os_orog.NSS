@@ -46,8 +46,6 @@ void main()
 {
 	ACR_CreatureOnSpawnIn();
 
-	ExecuteScript("acf_advanced_spawn", OBJECT_SELF);
-
 	RandomizeNPCScale();
 	
 	//create one of the two types of fist chain armour, and one of three of the relevant types of helmet
