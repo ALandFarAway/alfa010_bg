@@ -3042,4 +3042,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="2C095CFEEB9000DADF6550A4BCAA12E486D26A4E" downloadHash="0E89078432AEEA2E056B53277A7BCC61575B18AB" name="candlekeep_wilds_n_2b_cave0.trx" dlsize="62715" size="331208" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
