@@ -143,7 +143,7 @@ void main() {
 		default:
 			switch(Random(16)) {
 				case 0:
-					spawn_hostile_npc("010_cr_aberration_drider");
+					spawn_hostile_npc("010_cr_ab_drider");
 					break;
 				case 1:
 					spawn_group("shadows_med");
@@ -178,7 +178,7 @@ void main() {
 					spawn_group("trolls");
 					break;
 				case 13:
-					spawn_hostile_npc("010_cr_aber_beholder");
+					spawn_hostile_npc("010_cr_ab_beholder");
 					break;
 				case 14:
 					spawn_group("kuotoa");
