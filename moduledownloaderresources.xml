@@ -882,7 +882,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B2B1047CA3C8EEDDB1681EB34DD900D100079C6" downloadHash="5709E57A44930C67311CBE2F10500C56F47B0F9F" name="candlekeep.trx" dlsize="2090022" size="18554458" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="10A316F9C575CA0D6E32C6CB539C7DD21D42557B" downloadHash="CCC6E6FADF6D0497FFE6599DA0F4681B492A2A54" name="candlekeep.trx" dlsize="2055792" size="18520989" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
