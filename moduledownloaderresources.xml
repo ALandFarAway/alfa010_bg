@@ -714,7 +714,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2D72BB7C08444B1A577385440E7F42C7D3AB677C" downloadHash="55BC57732BDB151D733DE95B624C849C10B33D3C" name="nashkel_town.trx" dlsize="7139179" size="26214344" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9597082339FE30DEC8BEBBE8315C02458608AE6C" downloadHash="B0C7D0880E20EC0E4C020FF7ABBD93E934C6A699" name="nashkel_town.trx" dlsize="7172709" size="26254523" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -882,7 +882,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="10A316F9C575CA0D6E32C6CB539C7DD21D42557B" downloadHash="CCC6E6FADF6D0497FFE6599DA0F4681B492A2A54" name="candlekeep.trx" dlsize="2055792" size="18520989" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DDE5FF7909BD1F9666B921C25639B8BC17F0AF32" downloadHash="3743FF7EAB6DFA54BE793428BF8E576DC72E3F98" name="candlekeep.trx" dlsize="2113808" size="18578802" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
