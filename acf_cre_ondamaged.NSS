@@ -44,36 +44,14 @@
 void main()
 {
 	ACR_CreatureOnDamaged();
-	object o,self = OBJECT_SELF;
-	int i;
-	
-	if (GetLocalInt(self,"ACR_MAKE_HOSTILE")) {
-		ChangeToStandardFaction(self,STANDARD_FACTION_HOSTILE);
-		DeleteLocalInt(self, "ACR_MAKE_HOSTILE");
-
-		o = self;
-		i = 1;
-
-		while (GetIsObjectValid(o)) {
-			o = GetNearestCreature(CREATURE_TYPE_PLAYER_CHAR, PLAYER_CHAR_NOT_PC, self, i);
-
-			if (GetLocalInt(o,"ACR_MAKE_HOSTILE") && GetDistanceBetween(self, o) < 15.0) {
-				ChangeToStandardFaction(o,STANDARD_FACTION_HOSTILE);
-				DeleteLocalInt(o, "ACR_MAKE_HOSTILE");
-			}
-			++i;
-		}
-	}
-	
-	int nSubraceType = GetSubRace(self);
-	
+	int nSubraceType = GetSubRace(OBJECT_SELF);
 	if(nSubraceType == 67) { // Vampire
-		if(GetCurrentHitPoints(self) < 1) {
-			ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectResurrection(), self);
+		if(GetCurrentHitPoints(OBJECT_SELF) < 1) {
+			ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectResurrection(), OBJECT_SELF);
 			SpeakString("<i>*evaporates into mist*</i>");
-			ApplyEffectAtLocation(DURATION_TYPE_TEMPORARY, EffectNWN2SpecialEffectFile("fx_shrouding_fog_hit"), GetLocation(self), 6.0);
-			ForceRest(self);
-			SendCreatureToLimbo(self);
+			ApplyEffectAtLocation(DURATION_TYPE_TEMPORARY, EffectNWN2SpecialEffectFile("fx_shrouding_fog_hit"), GetLocation(OBJECT_SELF), 6.0);
+			ForceRest(OBJECT_SELF);
+			SendCreatureToLimbo(OBJECT_SELF);
 		}
 	}
 }
