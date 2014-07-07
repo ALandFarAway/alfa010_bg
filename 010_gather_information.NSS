@@ -78,6 +78,19 @@ void main()
 			}
 			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_100", 1);
 		}
+		else if(nIntro == 104 || nIntro == 204 || nIntro == 304 || nIntro == 404 || nIntro == 504)
+		{
+			if(GetLocalInt(OBJECT_SELF, IntToString(nID) + "_104")) return;
+			
+			if(ACR_SkillCheck(SKILL_GATHER_INFORMATION, oPC, 15, TRUE, FALSE))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nSomeone is looking for you.", 
+							"You catch word that there was a man looking for someone with your description. The last anyone saw him, he was heading into the post office near the city's eastern gate.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+			}
+			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_104", 1);
+		}
 	}
 	else if(sLocale == "ULGOTH")
 	{
@@ -92,6 +105,22 @@ void main()
 							"Ulgoth's Beard is a settlement existing primarily to warn Baldur's Gate in the event of river pirates, who might seek to move up the Chionthar River and attack the valuable Baldurian port. It keeps a very small population and, in recent years, its management and protection has been assigned to a group of Banites calling themselves the Iron Gauntlet, though they are apparently unrelated to the Zhent order.", 
 							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
 				SetLocalInt(oPC, "GI_ULGOTH", 1);
+			}
+		}
+	}
+	else if(sLocale == "BEREGOST")
+	{
+		int nIntro = ACR_RetrieveQuestState("010_intro", oPC);
+		if(nIntro == 105 || nIntro == 205 || nIntro == 305 || nIntro == 405 || nIntro == 505)
+		{
+						// If this PC hasn't yet been told about BG city, give them a blurb.
+			if(!GetLocalInt(oPC, "GI_BEREGOST"))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nBeregost.", 
+							"Beregost is a village on the Trade Way which centers on a large temple to the Morninglord, Lathander. The people are goodly and simple, lead primarily by their governor Kelddath Ormlyr, but the village has traditionally remained neutral to avoid being caught up in the frequent conflicts between Baldurian and Amnian interests.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+				SetLocalInt(oPC, "GI_BEREGOST", 1);
 			}
 		}
 	}
