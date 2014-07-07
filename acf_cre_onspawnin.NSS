@@ -53,6 +53,11 @@ void main()
 	int animal_lvls;
 	object oCreature = OBJECT_SELF;
 	
+	// Override ACR creature behavior stuff.
+	if ( GetLocalInt( GetModule(), "FORCE_ACR_BEHAVIOR_OFF" ) ) {
+		DeleteLocalString( oCreature, "ACR_CREATURE_BEHAVIOR" );
+	}
+	
 	ACR_CreatureOnSpawnIn();
 
 				
