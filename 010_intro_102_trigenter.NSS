@@ -12,11 +12,6 @@ void main()
 		object oWaypointC = GetWaypointByTag("010_intro_102_C");
 		object oWaypointD = GetWaypointByTag("010_intro_102_D");
 		
-		SendMessageToPC(oPC, IntToString(ObjectToInt(oWaypointA)));
-		SendMessageToPC(oPC, IntToString(ObjectToInt(oWaypointB)));
-		SendMessageToPC(oPC, IntToString(ObjectToInt(oWaypointC)));
-		SendMessageToPC(oPC, IntToString(ObjectToInt(oWaypointD)));
-		
 		object oTransporterA = CreateObject(OBJECT_TYPE_CREATURE, "010_npc_intro_102", GetLocation(oWaypointA));
 		object oTransporterB = CreateObject(OBJECT_TYPE_CREATURE, "010_npc_intro_102", GetLocation(oWaypointB));
 		object oTransporterC = CreateObject(OBJECT_TYPE_CREATURE, "010_npc_intro_102", GetLocation(oWaypointC));
