@@ -49,19 +49,9 @@ void main();
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-void refresh_seed()
+void main() 
 {
-	int i,tmp,limit=50;
-	for (i=0;ACR_GetGameHoursSinceStart()%limit>i;++i)
-		tmp = Random(limit);
-}
-
-void main() {
-
 	DescribeWinds(GetEnteringObject(), GetLocalInt(OBJECT_SELF, WIND_FORCE_LI));
-
-	if (GetIsPC(GetEnteringObject()))
-		refresh_seed();
 		
     ACR_AreaOnEnter();
 	
