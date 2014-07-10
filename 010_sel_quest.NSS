@@ -49,4 +49,9 @@ void main(string sQuest, int nAct)
 			GiveGoldToCreature(oPC, nGold, TRUE);
 		}
 	}
+	else if(sQuest == "Evil")
+	{
+		/* This action simply marks the PC as having been subjected to a detect evil */
+		SetLocalInt(GetModule(), sPC+"SSIL_EVIL", 1);
+	}
 }

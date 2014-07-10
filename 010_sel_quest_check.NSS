@@ -66,5 +66,10 @@ int StartingConditional(string sChain, int nCheck)
 			oItem = GetNextItemInInventory(oPC);
 		}
 	}
+	if(sChain == "Evil")
+	{
+		if(GetLocalInt(GetModule(), sPC+"SSIL_EVIL"))
+			return TRUE;
+	}
 	return FALSE;
 }
