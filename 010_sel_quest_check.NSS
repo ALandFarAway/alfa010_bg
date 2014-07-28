@@ -32,10 +32,15 @@ int StartingConditional(string sChain, int nCheck)
 		else if(nCheck == 3)
 		/* Check 3 checks if Ssil has given the PC work. */
 		{
-			int nVar = GetLocalInt(GetModule(), sPC+"SSIL_WORK");
-			if(nVar == 3)
-			/* The work Ssil has given is already in progress. */
-				return TRUE;		
+			object oPCInParty = GetFirstFactionMember(oPC, TRUE);
+			while(GetIsObjectValid(oPCInParty))
+			{
+				int nVar = GetLocalInt(GetModule(), GetName(oPCInParty)+"SSIL_WORK");
+				if(nVar == 3)
+				/* The work Ssil has given is already in progress. */
+					return TRUE;
+				oPCInParty = GetNextFactionMember(oPC, TRUE);
+			}
 		}
 		else if(nCheck == 4)
 		/* Check 4 checks if the work is unrewarded. */

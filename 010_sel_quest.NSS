@@ -37,8 +37,17 @@ void main(string sQuest, int nAct)
 		/* Ssil has given the PC quest #1. */
 			SetLocalInt(GetModule(), sPC+"SSIL_WORK", 3);
 		else if(nAct == 4)
+		{
 		/* Quest #1 from Ssil is complete, but the PC has not been paid. */
-			SetLocalInt(GetModule(), sPC+"SSIL_WORK", 4);
+			object oPCInParty = GetFirstFactionMember(oPC, TRUE);
+			while(GetIsObjectValid(oPCInParty))
+			{
+				int currentState = GetLocalInt(GetModule(), GetName(oPCInParty)+"SSIL_WORK");
+				if(currentState == 1 || currentState == 3)
+					SetLocalInt(GetModule(), GetName(oPCInParty)+"SSIL_WORK", 4);
+				oPCInParty = GetNextFactionMember(oPC, TRUE);
+			}
+		}
 		else if(nAct == 5)
 		/* Quest #1 from Ssil is complete, and the PC is getting paid. */
 		{
