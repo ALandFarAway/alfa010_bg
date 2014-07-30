@@ -102,7 +102,7 @@ void CreateQuestStep(object QuestWP, int count)
 		string spawnedCritter = "";
 		string spawnedCritterName = "";
 		int CR = 0;
-		switch(Random(6))
+		switch(Random(5))
 		{
 			case 0:
 				spawnedCritter = "010_cr_badgerdire";
@@ -148,7 +148,7 @@ void CreateQuestStep(object QuestWP, int count)
 		string spawnedCritter = "";
 		string spawnedCritterName = "";
 		int CR = 0;
-		switch(Random(6))
+		switch(Random(8))
 		{
 			case 0:
 				spawnedCritter = "abr_cr_an_direbadger";
