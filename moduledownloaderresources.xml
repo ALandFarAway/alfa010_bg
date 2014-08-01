@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="Tlk" hash="4DAFEE1CB9D9EC859F7430AA5E1F7B9160763DBD" downloadHash="F3058D09D67C4D2C251265EA9D6C5482E1FC723F" name="alfa_acr02.tlk" dlsize="146727" size="1182965" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -3022,7 +3022,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DDCD8DDC11D7AD31B558998F66EA99E89EBACC7B" downloadHash="F0B9928A4FF1435057559817090D5988EEAB2AFE" name="candlekeep_wilds_n_1c.trx" dlsize="3009580" size="15455841" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="52F9DBB686B2DA91E85D6E5A3A082C90920C5489" downloadHash="D772F997253EC087DDA099511A27A6DCB62472C6" name="candlekeep_wilds_n_1c.trx" dlsize="2998774" size="15444154" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3047,7 +3047,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C9473CD3C27AC3598F612348D4790083CBA1CE2E" downloadHash="C54D94DF7D29F08009B8982E6E9152794CB1A97A" name="candlekeep_wilds_n_1c_cave0.trx" dlsize="84127" size="1170027" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7631A45BEC9DCC48EB8F25244A709E3FF7FFB2CB" downloadHash="A0733986D9CD46B38CF6CF611A3B41C613A34608" name="candlekeep_wilds_n_1c_cave0.trx" dlsize="86917" size="87140" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
