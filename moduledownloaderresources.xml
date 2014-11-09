@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="Tlk" hash="3F98D2A98D702EAA7771159BC63645B0FE9F30FB" downloadHash="D9050BCB49B9474D7F7FEE1516441FEAF047C71B" name="alfa_acr02.tlk" dlsize="148273" size="1191162" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -12,7 +12,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="8BA3FAE79D50DEF513125348C9573CA5B84CFA05" downloadHash="8E875AF926148AC134A776A5E95DF42A107530BB" name="alfa2_acr.hak" dlsize="4077842" size="119668506" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="B0DFFC3C52F62FEBAA10ACC3984EDF0D8FC3EA0F" downloadHash="97F4038D1E42CB8A6BFF4C1ABF430C1ABFCA645B" name="alfa2_acr.hak" dlsize="4029608" size="119846829" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -30,7 +30,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="0927DD7C3DCB4D0419E2BC68952837E2D34464E3" downloadHash="2D0A079EC5B8BC5C9367718C7B1F8ED1A44ACBB8" name="alfa2_gui.hak" dlsize="10121027" size="42362859" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="DA2A23EB5E72F7E67EA2DE492A52E5ADE520F997" downloadHash="A8CA0B9CE99BBBA030970D42452DB088E1470388" name="alfa2_gui.hak" dlsize="10125502" size="42385281" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -66,7 +66,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="F54A854CC2837F091F27FCA688783805AC9FBED7" downloadHash="5D66F6DA3E3A3BD735409EE0B86A672DE710E481" name="alfa2_templates.hak" dlsize="190865" size="8634817" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="5070D9D7049E0F5F59D0A87544BD7E59582D0AEB" downloadHash="2FD7FF957C23CB67B28E38BD366BD79A20415F57" name="alfa2_templates.hak" dlsize="191611" size="8644035" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -2987,7 +2987,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B3DB2A86760B999374788989ADD4B699A104C30" downloadHash="560F3C21C540E27F48507FAA5D1C341357CBDEF4" name="candlekeep_lionsway_02_centipede.trx" dlsize="209102" size="212993" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EFB4FCD6F87C2857B1440723996CD58AB0EC8501" downloadHash="560F3C21C540E27F48507FAA5D1C341357CBDEF4" name="candlekeep_lionsway_02_centipede.trx" dlsize="209102" size="1913607" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3037,7 +3037,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E58B3330395CDB8EA54BF1CD214B5E0B993DE2D5" downloadHash="70053E0BB9B96C600FBCBDBD916A1B69F5EA418A" name="candlekeep_wilds_n_2a_cave0.trx" dlsize="403441" size="5927295" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04BEAA0ADCDB762F6D37998913B234625C0FE76D" downloadHash="70053E0BB9B96C600FBCBDBD916A1B69F5EA418A" name="candlekeep_wilds_n_2a_cave0.trx" dlsize="403441" size="5928036" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3048,6 +3048,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7631A45BEC9DCC48EB8F25244A709E3FF7FFB2CB" downloadHash="A0733986D9CD46B38CF6CF611A3B41C613A34608" name="candlekeep_wilds_n_1c_cave0.trx" dlsize="86917" size="87140" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5AA532DEF6188AAF7129A31B09918A0FB6F8A963" downloadHash="" name="candlekeep_wilds_n_2a_cave1.trx" dlsize="0" size="1545026" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
