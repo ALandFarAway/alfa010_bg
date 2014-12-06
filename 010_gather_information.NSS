@@ -124,4 +124,52 @@ void main()
 			}
 		}
 	}
+	else if(sLocale == "WILDS")
+	{
+		int nIntro = ACR_RetrieveQuestState("010_intro", oPC);
+		if(nIntro == 113 || nIntro == 213 || nIntro == 313 || nIntro == 413 || nIntro == 513)
+		{
+			// If this PC hasn't yet been sent across dangerous territory, give a little advice.
+			if(!GetLocalInt(oPC, "GI_WILDS"))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nDangerous Territory.", 
+							"There are some areas that are not patroled as regularly as others, like this road. There might be some dangerous creatures on it, but you should be able to avoid them if you keep alert and give anything that looks dangerous a wide berth.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+				SetLocalInt(oPC, "GI_WILDS", 1);
+			}
+		}
+	}
+	else if(sLocale == "RUQEL")
+	{
+		int nIntro = ACR_RetrieveQuestState("010_intro", oPC);
+		if(nIntro == 113 || nIntro == 213 || nIntro == 313 || nIntro == 413 || nIntro == 513)
+		{
+			// If this PC hasn't yet been sent across dangerous territory, give a little advice.
+			if(!GetLocalInt(oPC, "GI_RUQEL"))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nRuqel.", 
+							"Ruqel is a tiny theocracy recently established with an alliance to Candlekeep. They are lead by a champion of Selûne, Teresa Irithyl, and hold the Guardians of Light, an order of Selûne's paladins which had until its found since the days of Netheril. The nation's reputation is mixed, being known both for improving the safety of the region and aggression toward that goal.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+				SetLocalInt(oPC, "GI_RUQEL", 1);
+			}
+		}
+	}
+	else if(sLocale == "CANDLEKEEP")
+	{
+		int nIntro = ACR_RetrieveQuestState("010_intro", oPC);
+		if(nIntro == 113 || nIntro == 213 || nIntro == 313 || nIntro == 413 || nIntro == 513)
+		{
+			// If this PC hasn't yet been sent across dangerous territory, give a little advice.
+			if(!GetLocalInt(oPC, "GI_CANDLEKEEP"))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nCandlekeep.", 
+							"Candlekeep is an isolationist settlement on the coast, dominated by its temple to Oghma, the god of knowledge, and its impressive library. They carefully chronicle lore and history here, including the purportedly-infallible prophecies of Alaundo, but access to these records is notoriously strict-- only allowed to noteworthy scholars or exceptional people who manage to advance knowledge by other means-- and even among members, punishment for damaging the facilities are notoriously brutal.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+				SetLocalInt(oPC, "GI_CANDLEKEEP", 1);
+			}
+		}
+	}
 }
