@@ -35,7 +35,10 @@ int StartingConditional(string sChain, int nCheck)
 			object oPCInParty = GetFirstFactionMember(oPC, TRUE);
 			while(GetIsObjectValid(oPCInParty))
 			{
-				int nVar = GetLocalInt(GetModule(), GetName(oPCInParty)+"SSIL_WORK");
+				string sThisPC = GetName(oPCInParty);
+				if(GetStringLength(sThisPC) > 15)
+					sPC = GetStringLeft(sPC, 15);	
+				int nVar = GetLocalInt(GetModule(), sThisPC+"SSIL_WORK");
 				if(nVar == 3)
 				/* The work Ssil has given is already in progress. */
 					return TRUE;

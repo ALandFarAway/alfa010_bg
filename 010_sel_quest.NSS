@@ -42,9 +42,12 @@ void main(string sQuest, int nAct)
 			object oPCInParty = GetFirstFactionMember(oPC, TRUE);
 			while(GetIsObjectValid(oPCInParty))
 			{
-				int currentState = GetLocalInt(GetModule(), GetName(oPCInParty)+"SSIL_WORK");
+				string sThisPC = GetName(oPCInParty);
+				if(GetStringLength(sThisPC) > 15)
+					sPC = GetStringLeft(sPC, 15);
+				int currentState = GetLocalInt(GetModule(), sThisPC+"SSIL_WORK");
 				if(currentState == 1 || currentState == 3)
-					SetLocalInt(GetModule(), GetName(oPCInParty)+"SSIL_WORK", 4);
+					SetLocalInt(GetModule(), sThisPC+"SSIL_WORK", 4);
 				oPCInParty = GetNextFactionMember(oPC, TRUE);
 			}
 		}
