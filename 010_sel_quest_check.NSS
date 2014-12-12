@@ -37,7 +37,7 @@ int StartingConditional(string sChain, int nCheck)
 			{
 				string sThisPC = GetName(oPCInParty);
 				if(GetStringLength(sThisPC) > 15)
-					sPC = GetStringLeft(sPC, 15);	
+					sThisPC = GetStringLeft(sThisPC, 15);	
 				int nVar = GetLocalInt(GetModule(), sThisPC+"SSIL_WORK");
 				if(nVar == 3)
 				/* The work Ssil has given is already in progress. */
