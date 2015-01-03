@@ -1050,7 +1050,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4F84841CB66FDA3CE3FEFFD0B3469B929D49BE9A" downloadHash="4189C87F70A11B4D743F1B8FC16A496DF13D843B" name="candlekeep_lionsway_02.trx" dlsize="3423774" size="15956145" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="892E5FD8F8843C178B6B495850D46FD0C348690F" downloadHash="1B59B886E4F5404FF3519690FDB1DEFFC8710994" name="candlekeep_lionsway_02.trx" dlsize="3428888" size="15964502" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
