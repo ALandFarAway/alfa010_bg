@@ -11,6 +11,6 @@ void main() {
 	
 	if(GetArea(oDest) != OBJECT_INVALID) {
 		ApplyEffectAtLocation(DURATION_TYPE_INSTANT, EffectVisualEffect(33), GetLocation(oPC));
-		DelayCommand(3.0, AssignCommand(oPC, ActionJumpToLocation(GetLocation(oDest))));
+		DelayCommand(1.0f, AssignCommand(oPC, ActionJumpToLocation(GetLocation(oDest))));
 	}
 }
