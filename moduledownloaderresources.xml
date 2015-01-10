@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C81A440095C77454601CAAFEF49C2CA940357031" downloadHash="D7145221E7BCA72CB6F0F497DAE53D463376DD4F" name="und_n0_outpost.trx" dlsize="1499709" size="11686891" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B4CB794B80D0A19CD975F04E401459E93D2380C" downloadHash="B02F6CBAEEE2EDEDE54A60588BDCB16BC1C52FA7" name="und_n0_outpost.trx" dlsize="1365722" size="11573601" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3053,6 +3053,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="5AA532DEF6188AAF7129A31B09918A0FB6F8A963" downloadHash="4948083CF8B1B65380225A2DF3D961B1071DFEBC" name="candlekeep_wilds_n_2a_cave1.trx" dlsize="1445733" size="1545026" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C6202601A30F40132E923CD84ECE7767F7420526" downloadHash="DDF47A8AAC7006D7EC7DF125290398AC050006A3" name="und_sshamath_central.trx" dlsize="1791314" size="11481765" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="86E4644E2FEEBA6E424D48A792A65238CD8840BF" downloadHash="C36F9F2505878778444B99CD3D9983491F8A8A55" name="und_sshamath_south.trx" dlsize="1646319" size="11604378" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1FF2BC574416E845178190A2CAE373A30F577872" downloadHash="06AC06868963B3B9E63235339B973B9D8FA3365B" name="und_sshamath_surrounds.trx" dlsize="562843" size="566769" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D65E4F56FA5A61CBAD6B7CFAC505B94F7DB5FDD7" downloadHash="455502FC592993FEF4DA41E0BB7360B71279B734" name="und_sshamath_north.trx" dlsize="1210639" size="9593904" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
