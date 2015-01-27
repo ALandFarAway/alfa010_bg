@@ -384,7 +384,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AE6AFA2DECA547BA71DE55C0F595710DCD4918D4" downloadHash="82BA826AFBEAA72D4AC58E3048F8E288573D8DF5" name="tradeway_s_07.trx" dlsize="1755015" size="12145098" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C01154D8D556FD39590DD1D0CB21FD0A423A04FD" downloadHash="F8C49FBEE23FC6C49062D3DA036EFD0BF82268CC" name="tradeway_s_07.trx" dlsize="1751577" size="12145101" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -552,7 +552,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8936C8B9623022A87EF2C043A00FDA712EDEF809" downloadHash="CD62AF40594AA4977511283BE91E8DDDE0810380" name="sharpteeth_04.trx" dlsize="1798276" size="10838124" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C8B2DB1AE59F1B0B7D5D802F053AF69D7C33F71C" downloadHash="ADF981C4475A794A5451A4D3DC1BDAA5CBAD8FA4" name="sharpteeth_04.trx" dlsize="1788407" size="10838124" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1335,7 +1335,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2747312D9D038CE4F18FB675B62A01117527F7B0" downloadHash="337DA2FCED752640D6425443337D959E58287CD8" name="und_a3_warrens_tomb.trx" dlsize="43998" size="44086" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="78D72AC6EC6E9ACF62C10EF583FC789D5D2062A6" downloadHash="A09AB1159475CA047B5D18DDCA9945CCD155A255" name="und_a3_warrens_tomb.trx" dlsize="44768" size="44866" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C81A440095C77454601CAAFEF49C2CA940357031" downloadHash="D7145221E7BCA72CB6F0F497DAE53D463376DD4F" name="und_n0_outpost.trx" dlsize="1499709" size="11686891" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="35925FB50CCFDE6FD887207FC55C6A33ADC7B95E" downloadHash="A358A66D9E59BA405B83CEF58597442DB6CEC2BB" name="und_n0_outpost.trx" dlsize="1365266" size="11573602" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1510,7 +1510,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6E62168D673F307C55624B2FAD1695415CC5CF2E" downloadHash="300C61DB1FAA224EB604A6F2CFA830487A76BE81" name="und_a3_warrens_link.trx" dlsize="79642" size="1985438" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ACB5E922AABBDFC15928E15D9BDCF43BA3A61A1F" downloadHash="F44DAE22E54331C8E8FA50CF75445992810B960B" name="und_a3_warrens_link.trx" dlsize="149724" size="3426918" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1545,7 +1545,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="80E8DD9C51079E445D726ECFB721C72FCEE19E8D" downloadHash="A75940BF2977580DC05B7B75A67005FFAB3FFC44" name="und_a5_forestcave.trx" dlsize="166446" size="167295" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4525B0CE75617876BE757EE9624947A3FA82C1CD" downloadHash="2D7CA14CDDA2550EC35DADD9CA81763695D68EF2" name="und_a5_forestcave.trx" dlsize="165360" size="166375" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3047,12 +3047,42 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A271B5D87241D378363F52C5AB931482CAA64B27" downloadHash="67345DCC30971E213C5ECF8AD81AC8CA16B90529" name="candlekeep_wilds_n_1c_cave0.trx" dlsize="86608" size="86834" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9255BE887456E8876CB1E9B174CA75C41BB9E58A" downloadHash="A331C3562D7C27488E4A12B44182233927498B0F" name="candlekeep_wilds_n_1c_cave0.trx" dlsize="87716" size="87915" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="5AA532DEF6188AAF7129A31B09918A0FB6F8A963" downloadHash="4948083CF8B1B65380225A2DF3D961B1071DFEBC" name="candlekeep_wilds_n_2a_cave1.trx" dlsize="1445733" size="1545026" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C6202601A30F40132E923CD84ECE7767F7420526" downloadHash="DDF47A8AAC7006D7EC7DF125290398AC050006A3" name="und_sshamath_central.trx" dlsize="1791314" size="11481765" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="86E4644E2FEEBA6E424D48A792A65238CD8840BF" downloadHash="C36F9F2505878778444B99CD3D9983491F8A8A55" name="und_sshamath_south.trx" dlsize="1646319" size="11604378" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4D8973EAE073AAE08E980433343B490E6A774BF6" downloadHash="BF43F592E8B6A0D4B63533D4AB939FC9DE439E97" name="sharpteeth_4a_01.trx" dlsize="443052" size="458276" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1FF2BC574416E845178190A2CAE373A30F577872" downloadHash="06AC06868963B3B9E63235339B973B9D8FA3365B" name="und_sshamath_surrounds.trx" dlsize="562843" size="566769" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D65E4F56FA5A61CBAD6B7CFAC505B94F7DB5FDD7" downloadHash="455502FC592993FEF4DA41E0BB7360B71279B734" name="und_sshamath_north.trx" dlsize="1210639" size="9593904" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FFFC379A5658EE4B1E03EEF806103BC7A1D3A3A3" downloadHash="FE84FD257B5754B2C8E09DBA8787A27BA6B0B91F" name="sharpteeth_04a.trx" dlsize="351275" size="6235196" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
