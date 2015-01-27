@@ -1,4 +1,4 @@
-#include "acr_xp_i"
+#include "acr_quest_i"
 
 int GoldToXP(int nGold, object oPC)
 {
@@ -65,5 +65,11 @@ void main(string sQuest, int nAct)
 	{
 		/* This action simply marks the PC as having been subjected to a detect evil */
 		SetLocalInt(GetModule(), sPC+"SSIL_EVIL", 1);
+	}
+	else if(sQuest == "rep")
+	{
+		int nRep = ACR_RetrieveQuestState("sel_reputation", oPC);
+		if(nRep < nAct) nRep++;
+		ACR_AddPersistentJournalQuestEntry("sel_reputation", nRep, oPC, FALSE, FALSE, FALSE, 0, 0.0f);
 	}
 }
