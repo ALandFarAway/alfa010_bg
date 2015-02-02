@@ -9,6 +9,8 @@ const float _SIZE_STD_Z = 0.04f;
 const float _SIZE_MEAN_MALE = 1.0f;
 const float _SIZE_MEAN_FEMALE = 0.925f;
 
+const string VAR_RANDOMIZE_NPC = "010_RANDOMIZE_NPC";
+
 
 void RandomizeNPCName(object oNPC = OBJECT_SELF)
 {
@@ -24,6 +26,15 @@ void RandomizeNPCName(object oNPC = OBJECT_SELF)
 			if (!Random(4))
 				s1 = RandomNameGnome(gender,1);
 			break;
+		case RACIAL_TYPE_ELF:
+			switch ( GetSubRace( oNPC ) ) {
+				case RACIAL_SUBTYPE_DROW:
+					s0 = RandomNameDrow(gender);
+					break;
+				default:
+					s0 = RandomNameHuman(gender);
+					s1 = RandomNameHuman(0);
+			}
 		default:
 			s0 = RandomNameHuman(gender);
 			s1 = RandomNameHuman(0);
@@ -37,15 +48,14 @@ void RandomizeNPCName(object oNPC = OBJECT_SELF)
 
 void RandomizeNPCAppearance(object oNPC = OBJECT_SELF)
 {
-	float f = 0.3;
-	int rand = 999,skin=Random(3);
+	// Adjust facial hair chance by race.
+	float fFacialHairChance = 0.5;
+	switch( GetRacialType( oNPC ) ) {
+		case RACIAL_TYPE_DWARF: fFacialHairChance = 0.8; break;	// Dwarves have a higher beard chance.
+		case RACIAL_TYPE_ELF: fFacialHairChance = 0.0; break;	// Elves don't get beards.
+	}
 
-
-	// Give dwarves higher chance of beard
-	if (GetRacialType(oNPC) == RACIAL_TYPE_DWARF)
-		f = 0.8;
-
-	ACR_RandomizeAppearance(oNPC,rand,rand,rand,rand,rand,rand,skin,rand,f);
+	ACR_RandomizeAppearance( oNPC, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, fFacialHairChance );
 }
 
 void RandomizeNPCScale(object oNPC = OBJECT_SELF, int autoscale = 1, float std_x = _SIZE_STD_X, float std_y = _SIZE_STD_Y, float std_z = _SIZE_STD_Z)
@@ -353,4 +363,11 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 		break;
 	}
 	return sResRef;
+}
+
+void RandomizeNPC_OnSpawnIn( object oSpawn ) {
+	// First check to see if we are calling the random NPC system.
+	if ( GetLocalInt( oSpawn, VAR_RANDOMIZE_NPC ) ) {
+		RandomizeNPC( oSpawn, 1, 1 );
+	}
 }

@@ -23,6 +23,7 @@
 #include "acr_creature_i"
 #include "NW_I0_GENERIC"
 #include "NW_O2_CONINCLUDE"
+#include "010_randomnpc_i"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -150,4 +151,7 @@ void main()
 	if (GetLocalInt(OBJECT_SELF, "ACR_HENCHMAN")) {
 		SetLocalInt(OBJECT_SELF,"ACR_NPC", 0);
 	}
+	
+	// BG randomization hook.
+	RandomizeNPC_OnSpawnIn( OBJECT_SELF );
 }
