@@ -1,3 +1,4 @@
+#include "acr_quest_i"
 
 int StartingConditional(string sChain, int nCheck)
 {
@@ -78,6 +79,12 @@ int StartingConditional(string sChain, int nCheck)
 	{
 		if(GetLocalInt(GetModule(), sPC+"SSIL_EVIL"))
 			return TRUE;
+	}
+	if(sChain == "minrep")
+	{
+		int nRep = ACR_RetrieveQuestState("sel_reputation", oPC);
+		if(nRep > 899) return FALSE; // These are the bad reputations resulting from betrayal or quest failure
+		else if(nRep >= nCheck) return TRUE;
 	}
 	return FALSE;
 }
