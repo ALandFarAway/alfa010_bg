@@ -1050,7 +1050,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="892E5FD8F8843C178B6B495850D46FD0C348690F" downloadHash="1B59B886E4F5404FF3519690FDB1DEFFC8710994" name="candlekeep_lionsway_02.trx" dlsize="3428888" size="15964502" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DC8375F1925BBF9310B8EB3FF7CD095EF486F8C4" downloadHash="2570B8E8EAB4CB4AAFF34FA49446C94BE7B82419" name="candlekeep_lionsway_02.trx" dlsize="3417503" size="15966163" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3083,6 +3083,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="FFFC379A5658EE4B1E03EEF806103BC7A1D3A3A3" downloadHash="FE84FD257B5754B2C8E09DBA8787A27BA6B0B91F" name="sharpteeth_04a.trx" dlsize="351275" size="6235196" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2FD59313147ECC8D6CD593764EA543E33D7B5935" downloadHash="71C463B34BE5F2C9397CFCA3F51871E2DD785CD6" name="candlekeep_lionsway_02_wpn.trx" dlsize="112305" size="112881" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
