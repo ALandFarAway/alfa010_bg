@@ -3092,4 +3092,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="7186BFB15E73EA4033374C7020A392DABF657546" downloadHash="C94588620EC7072223CFC9B08BFFCC99099FFDF9" name="und_sshamath_interior.trx" dlsize="11260" size="11267" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
