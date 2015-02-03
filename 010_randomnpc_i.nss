@@ -37,12 +37,13 @@ void RandomizeNPCName(object oNPC = OBJECT_SELF)
 					s0 = RandomNameHuman(gender);
 					s1 = RandomNameHuman(0);
 			}
+			break;
 		default:
 			s0 = RandomNameHuman(gender);
 			s1 = RandomNameHuman(0);
 	}
 
-	s0 += "{Random}";
+	s1 += "{Random}";
 
 	SetFirstName(oNPC, s0);
 	SetLastName(oNPC, s1);
