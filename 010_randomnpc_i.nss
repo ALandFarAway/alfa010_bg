@@ -10,6 +10,8 @@ const float _SIZE_MEAN_MALE = 1.0f;
 const float _SIZE_MEAN_FEMALE = 0.925f;
 
 const string VAR_RANDOMIZE_NPC = "010_RANDOMIZE_NPC";
+const string VAR_RANDOMIZE_NPC_EQUIP = "010_RANDOMIZE_NPC_EQUIP";
+const string VAR_RANDOMIZE_NPC_NAME = "010_RANDOMIZE_NPC_NAME";
 
 
 void RandomizeNPCName(object oNPC = OBJECT_SELF)
@@ -368,6 +370,6 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 void RandomizeNPC_OnSpawnIn( object oSpawn ) {
 	// First check to see if we are calling the random NPC system.
 	if ( GetLocalInt( oSpawn, VAR_RANDOMIZE_NPC ) ) {
-		RandomizeNPC( oSpawn, 1, 1 );
+		RandomizeNPC( oSpawn, GetLocalInt( oSpawn, VAR_RANDOMIZE_NPC_EQUIP ), GetLocalInt( oSpawn, VAR_RANDOMIZE_NPC_NAME ) );
 	}
 }
