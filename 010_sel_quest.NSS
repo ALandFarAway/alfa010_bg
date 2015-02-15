@@ -44,7 +44,7 @@ void main(string sQuest, int nAct)
 			{
 				string sThisPC = GetName(oPCInParty);
 				if(GetStringLength(sThisPC) > 15)
-					sPC = GetStringLeft(sPC, 15);
+					sThisPC = GetStringLeft(sThisPC, 15);
 				int currentState = GetLocalInt(GetModule(), sThisPC+"SSIL_WORK");
 				if(currentState == 1 || currentState == 3)
 					SetLocalInt(GetModule(), sThisPC+"SSIL_WORK", 4);
