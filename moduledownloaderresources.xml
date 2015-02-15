@@ -3057,7 +3057,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AA5438D7430B28C01010F3F5839AD79EB46FA00F" downloadHash="3722E762A0A9E7AB6C9113DE0895EB547067F1AD" name="und_sshamath_central.trx" dlsize="1794261" size="11482706" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2F1F506296EDCF7164F21E2BD82274CD300EF6EB" downloadHash="E3480AF970C6DC43AA0CAC6DAB6B4B205DAAD619" name="und_sshamath_central.trx" dlsize="1786581" size="11475350" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3092,7 +3092,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7186BFB15E73EA4033374C7020A392DABF657546" downloadHash="C94588620EC7072223CFC9B08BFFCC99099FFDF9" name="und_sshamath_interior.trx" dlsize="11260" size="11267" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="62C2F687633F14F2C55E0B871CC05B581C9B7EA7" downloadHash="C9931FA7D442A4A8B872851F4A9145BB0D2701EB" name="und_sshamath_interior.trx" dlsize="25953" size="25956" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
