@@ -51,14 +51,32 @@ void RandomizeNPCName(object oNPC = OBJECT_SELF)
 
 void RandomizeNPCAppearance(object oNPC = OBJECT_SELF)
 {
-	// Adjust facial hair chance by race.
+	// Racial overrides.
 	float fFacialHairChance = 0.5;
-	switch( GetRacialType( oNPC ) ) {
-		case RACIAL_TYPE_DWARF: fFacialHairChance = 0.8; break;	// Dwarves have a higher beard chance.
-		case RACIAL_TYPE_ELF: fFacialHairChance = 0.0; break;	// Elves don't get beards.
+	int nHair1Color = ACR_FEATURE_TYPE_RANDOM;
+	int nHair2Color = ACR_FEATURE_TYPE_RANDOM;
+	switch( GetSubRace( oNPC ) ) {
+		case RACIAL_SUBTYPE_GOLD_DWARF:
+		case RACIAL_SUBTYPE_GRAY_DWARF:
+		case RACIAL_SUBTYPE_SHIELD_DWARF:
+			// Dwarves have a higher beard chance.
+			fFacialHairChance = 0.8;
+			break;
+		case RACIAL_SUBTYPE_DROW:
+			// Drow only have white hair.
+			nHair1Color = 1;
+			nHair2Color = 0;
+		case RACIAL_SUBTYPE_MOON_ELF:
+		case RACIAL_SUBTYPE_SUN_ELF:
+		case RACIAL_SUBTYPE_WILD_ELF:
+		case RACIAL_SUBTYPE_WOOD_ELF:
+			// Elves don't get beards.
+			fFacialHairChance = 0.0;
+			break;
+			
 	}
 
-	ACR_RandomizeAppearance( oNPC, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, fFacialHairChance );
+	ACR_RandomizeAppearance( oNPC, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, nHair1Color, nHair2Color, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, ACR_FEATURE_TYPE_RANDOM, fFacialHairChance );
 }
 
 void RandomizeNPCScale(object oNPC = OBJECT_SELF, int autoscale = 1, float std_x = _SIZE_STD_X, float std_y = _SIZE_STD_Y, float std_z = _SIZE_STD_Z)
