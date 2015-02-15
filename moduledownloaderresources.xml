@@ -3057,7 +3057,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2F1F506296EDCF7164F21E2BD82274CD300EF6EB" downloadHash="E3480AF970C6DC43AA0CAC6DAB6B4B205DAAD619" name="und_sshamath_central.trx" dlsize="1786581" size="11475350" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="05EFAAEC7000F74B0BE83C61A0B8270286C98418" downloadHash="42F2122CF0FF15587E8626D0DAA4CF19B547E9D5" name="und_sshamath_central.trx" dlsize="1790477" size="11477009" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
