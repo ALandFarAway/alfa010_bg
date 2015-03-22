@@ -70,6 +70,7 @@ void main(string sQuest, int nAct)
 	{
 		int nRep = ACR_RetrieveQuestState("sel_reputation", oPC);
 		if(nRep < nAct) nRep++;
+		else if(nRep == 900) nRep = 0;
 		ACR_AddPersistentJournalQuestEntry("sel_reputation", nRep, oPC, FALSE, FALSE, FALSE, 0, 0.0f);
 	}
 }
