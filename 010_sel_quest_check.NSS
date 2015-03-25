@@ -11,8 +11,7 @@ int StartingConditional(string sChain, int nCheck)
 		if(GetSkillRank(nCheck, oPC) > 0)
 			return TRUE;	
 	}
-	
-	if(sChain == "ssil")
+	else if(sChain == "ssil")
 	{
 		if(nCheck == 1)
 		{
@@ -63,7 +62,7 @@ int StartingConditional(string sChain, int nCheck)
 				return TRUE;		
 		}
 	}
-	if(sChain == "member")
+	else if(sChain == "member")
 	{
 		object oItem = GetFirstItemInInventory(oPC);
 		while(GetIsObjectValid(oItem))
@@ -75,16 +74,22 @@ int StartingConditional(string sChain, int nCheck)
 			oItem = GetNextItemInInventory(oPC);
 		}
 	}
-	if(sChain == "Evil")
+	else if(sChain == "Evil")
 	{
 		if(GetLocalInt(GetModule(), sPC+"SSIL_EVIL"))
 			return TRUE;
 	}
-	if(sChain == "minrep")
+	else if(sChain == "minrep")
 	{
 		int nRep = ACR_RetrieveQuestState("sel_reputation", oPC);
 		if(nRep > 899) return FALSE; // These are the bad reputations resulting from betrayal or quest failure
 		else if(nRep >= nCheck) return TRUE;
+	}
+	else if(sChain == "exped")
+	{
+		if(GetLocalInt(GetArea(OBJECT_SELF), "EXPED"+IntToString(nCheck)))
+			return TRUE;
+		return FALSE;
 	}
 	return FALSE;
 }

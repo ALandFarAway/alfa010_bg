@@ -73,4 +73,18 @@ void main(string sQuest, int nAct)
 		else if(nRep == 900) nRep = 0;
 		ACR_AddPersistentJournalQuestEntry("sel_reputation", nRep, oPC, FALSE, FALSE, FALSE, 0, 0.0f);
 	}
+	else if(sQuest == "expedstart")
+	{
+		if(!GetLocalInt(GetArea(OBJECT_SELF), "EXPED"+IntToString(nAct)))
+		{
+			string tileSet = "sunken";
+			string spawnType = "vermin";
+			CreateRandomDungeon("EXPED"+IntToString(nAct), tileSet, nAct);
+			AssignSpawnTableToDungeon("EXPED"+IntToString(nAct), "vermin");
+			AssignTrapTableToDungeon("EXPED"+IntToString(nAct), "physical");
+			AssignQuestToDungeon("EXPED"+IntToString(nAct), "sel_exped"+IntToString(nAct));
+			SetLocalInt(GetArea(OBJECT_SELF), "EXPED"+IntToString(nAct), 1);
+		}
+		SendCreatureToDungeon(GetPCSpeaker(), "EXPED"+IntToString(nAct));
+	}
 }

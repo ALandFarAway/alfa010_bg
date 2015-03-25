@@ -27,6 +27,7 @@
 #include "acr_db_persist_i"
 #include "010_door_i"
 #include "010_throrgar_spire_i"
+#include "acr_quest_i"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -93,4 +94,9 @@ void main() {
 	CreateObject(OBJECT_TYPE_PLACEABLE, "x0_mod_treasure_med_admin", GetLocation(GetWaypointByTag("WP_ADMIN_LOOT_MED")));
 	CreateObject(OBJECT_TYPE_PLACEABLE, "x0_mod_treasure_high_admin", GetLocation(GetWaypointByTag("WP_ADMIN_LOOT_HIGH")));
 	CreateObject(OBJECT_TYPE_PLACEABLE, "x0_mod_treasure_uniq_admin", GetLocation(GetWaypointByTag("WP_ADMIN_LOOT_UNIQ")));
+	
+	AddSpawnToDungeonTable("vermin", 0, "010_cr_an_rat");
+	AddSpawnToDungeonTable("vermin", 1, "010_cr_ratdire");
+	AddTrapToDungeonTable("physical", 0, "shooting_spikes_1");
+	AddTrapToDungeonTable("physical", 1, "shooting_spikes_1");
 }
