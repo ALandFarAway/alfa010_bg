@@ -78,13 +78,32 @@ void main(string sQuest, int nAct)
 		if(!GetLocalInt(GetArea(OBJECT_SELF), "EXPED"+IntToString(nAct)))
 		{
 			string tileSet = "sunken";
-			string spawnType = "vermin";
+			string spawnType = "rats";
+			if(d2(1) == 2) spawnType = "bugs";
 			CreateRandomDungeon("EXPED"+IntToString(nAct), tileSet, nAct);
-			AssignSpawnTableToDungeon("EXPED"+IntToString(nAct), "vermin");
+			AssignSpawnTableToDungeon("EXPED"+IntToString(nAct), spawnType);
 			AssignTrapTableToDungeon("EXPED"+IntToString(nAct), "physical");
 			AssignQuestToDungeon("EXPED"+IntToString(nAct), "sel_exped"+IntToString(nAct));
 			SetLocalInt(GetArea(OBJECT_SELF), "EXPED"+IntToString(nAct), 1);
 		}
 		SendCreatureToDungeon(GetPCSpeaker(), "EXPED"+IntToString(nAct));
+	}
+	else if(sQuest == "expedend")
+	{
+		int bDispose = TRUE;
+		object oPC = GetFirstPC(FALSE);
+		while(GetIsObjectValid(oPC))
+		{
+			if(GetLocalString(GetArea(oPC), "DUNGEON_NAME") == "EXPED"+IntToString(nAct))
+			{
+				bDispose = FALSE;
+			}
+			oPC = GetNextPC(FALSE);
+		}
+		if(bDispose)
+		{
+			DisposeDungeon("EXPED"+IntToString(nAct));
+			DeleteLocalInt(GetArea(OBJECT_SELF), "EXPED"+IntToString(nAct));
+		}
 	}
 }
