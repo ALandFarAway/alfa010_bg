@@ -1050,7 +1050,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DC8375F1925BBF9310B8EB3FF7CD095EF486F8C4" downloadHash="2570B8E8EAB4CB4AAFF34FA49446C94BE7B82419" name="candlekeep_lionsway_02.trx" dlsize="3417503" size="15966163" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3CE25103479FEA215115BC2956C6170676230372" downloadHash="177DE35D571A8B0B0A41389B1933F2DBFD5E26AD" name="candlekeep_lionsway_02.trx" dlsize="3424170" size="15965644" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3093,6 +3093,41 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="62C2F687633F14F2C55E0B871CC05B581C9B7EA7" downloadHash="C9931FA7D442A4A8B872851F4A9145BB0D2701EB" name="und_sshamath_interior.trx" dlsize="25953" size="25956" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D68944A6C3ED5F3AA148B52773A996640B3246F6" downloadHash="7A1B3326247429392F33CCD434684FB3EE855E9E" name="sunken_001000.trx" dlsize="194210" size="199814" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="48BE6C6AC984B93E7CA88595BD951B8D07E5F9EC" downloadHash="D9559C88F2233898AA227A16B782EDC65DE3C543" name="candlekeep_lionsway_02_exped.trx" dlsize="90281" size="90953" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="213D38F86CDD4B22A8FE29171B172C1F140AB4E8" downloadHash="B560ED1D5D7F62B5E2E05B8E24B9B2B5264F7ACE" name="sunken_000100.trx" dlsize="159045" size="169213" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FE532F9F0462D0E8D0D53D659E57AD0E651BA853" downloadHash="D7B0290AD6FD1F99C6384D21AEEE575F2FAC9DA1" name="generic_fairgrounds.trx" dlsize="288020" size="6247076" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C0527BB658975CF585F37A5DCCAD761EE6F8DD1C" downloadHash="81E8C17A2C87DEBB7A66638F4804B1A4775EB6E4" name="sunken_100000.trx" dlsize="165225" size="172959" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2C627C400957FA91E3FC3E1ECF63808E4FAABA0E" downloadHash="F1DFB09CE4D05F3C0BA270195705C621692B4BC5" name="sunken_010000.trx" dlsize="182399" size="189118" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="76110DB093A0101D55035605449658E4ED6077D6" downloadHash="01F4094231E08478DD32DED2E4DDD4C72318E124" name="sunken_101000.trx" dlsize="161402" size="168968" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
