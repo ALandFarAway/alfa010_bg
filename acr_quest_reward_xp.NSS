@@ -19,7 +19,7 @@ void main(string sQuest, int nGold, int bPartyWide, int nXP, float fCR)
 		object oAlly = GetFirstFactionMember(oPC);
 		while(GetIsObjectValid(oAlly))
 		{
-			ACR_AwardStaticQuestXP(oPC, sQuest, nXP, fCR);
+			ACR_AwardStaticQuestXP(oAlly, sQuest, nXP, fCR);
 			oAlly = GetNextFactionMember(oPC);
 		}
 	}
