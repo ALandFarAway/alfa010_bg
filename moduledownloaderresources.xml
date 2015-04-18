@@ -228,7 +228,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED7E3D22B69F37A405967010A44820A13E51B0A1" downloadHash="BBD0C3C9DD8F0948EABEAC9E3B5EF1FF39946AA0" name="bgcity-market.trx" dlsize="2598455" size="9553295" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8A766FC056965E69CEAF8477A18AB130DA0B578B" downloadHash="F422C3598F54B24BB5E99194E973123D1D78F6A0" name="bgcity-market.trx" dlsize="2566871" size="9523544" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -762,7 +762,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F9AA5C5C6C0207D7786649CF52956E807B82A31C" downloadHash="615B35CAFA7E51A79A15FB18C75E4A5E443B20DD" name="bg-eastgate_elfsong.trx" dlsize="179991" size="181211" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C7E9F04A149F6B42A7A355E2B04E14F78ED7D8B" downloadHash="767EC8489AF901CB609F2901E2B1FF72C46B6972" name="bg-eastgate_elfsong.trx" dlsize="179397" size="180655" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1044,7 +1044,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9250BA9E1E484377407A0CBCF0A69FA47FDF478C" downloadHash="85144D9ACB8B6BDBA711AE9D74632802DC458671" name="bgcity-harboreast.trx" dlsize="2497725" size="11939997" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A501AB260CA97B60B2A5E39FDE8EB4B80AA4AD32" downloadHash="BE56C5EABBB0CBDC7F04CADEF54DEA96CB14F134" name="bgcity-harboreast.trx" dlsize="2500164" size="11939997" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3097,7 +3097,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D68944A6C3ED5F3AA148B52773A996640B3246F6" downloadHash="7A1B3326247429392F33CCD434684FB3EE855E9E" name="sunken_001000.trx" dlsize="194210" size="199814" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="76000ABC4ADC267AF159C8406046CBA74C65F6BD" downloadHash="BB7F73403ECAF74F394744CB033A534622D37602" name="sunken_001000.trx" dlsize="186370" size="192209" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3128,6 +3128,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="76110DB093A0101D55035605449658E4ED6077D6" downloadHash="01F4094231E08478DD32DED2E4DDD4C72318E124" name="sunken_101000.trx" dlsize="161402" size="168968" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BC2B885AE92C21D8D44E389C94A00E2D292C4580" downloadHash="8AEEE33B852E63818D0B13EDC85737DC0DA306CB" name="sunken_111100.trx" dlsize="216192" size="225256" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B2F4F03B3E6283EFA790FCE9D06D686241ECDC41" downloadHash="207E65AE7D78B04E4617B64CAE86BC79F316BF35" name="sunken_011000.trx" dlsize="152747" size="160086" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="13CE43BBA8BD4F2796A534D28CDA17640BE126AD" downloadHash="7B74EC30809AD5C7E72C1BE3DE6E24F1373ED5C7" name="bg-sewers-dreadchamber.trx" dlsize="34924" size="667555" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="889D6A8C6BFCA0970EEE4A86B561D43A55682333" downloadHash="FF8E36DABDD3810357E7CA19CB9A08FCDF7216CB" name="sunken_001100.trx" dlsize="145800" size="153315" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
