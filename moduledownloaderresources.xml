@@ -228,7 +228,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8A766FC056965E69CEAF8477A18AB130DA0B578B" downloadHash="F422C3598F54B24BB5E99194E973123D1D78F6A0" name="bgcity-market.trx" dlsize="2566871" size="9523544" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3AE0A8D9C41FF3403CAC67A2469322EC607563C2" downloadHash="DB4F1E8A14D71EDA21CCDA84D07DC27062BBB7BC" name="bgcity-market.trx" dlsize="2570336" size="9523544" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -762,7 +762,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C7E9F04A149F6B42A7A355E2B04E14F78ED7D8B" downloadHash="767EC8489AF901CB609F2901E2B1FF72C46B6972" name="bg-eastgate_elfsong.trx" dlsize="179397" size="180655" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2CA2761314A7126C9705C8E20036B2D50E733EDF" downloadHash="F0C5FD43294F970F24FB2F4D1235E526A069B99B" name="bg-eastgate_elfsong.trx" dlsize="178022" size="179277" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
