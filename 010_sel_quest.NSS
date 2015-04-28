@@ -79,7 +79,10 @@ void main(string sQuest, int nAct)
 		{
 			string tileSet = "sunken";
 			string spawnType = "rats";
-			if(d2(1) == 2) spawnType = "bugs";
+			switch(d3(1))
+				case 1: spawnType = "bugs";
+				case 2: spawnType = "undead";
+				default: spawnType = "rats";
 			CreateRandomDungeon("EXPED"+IntToString(nAct), tileSet, nAct);
 			AssignSpawnTableToDungeon("EXPED"+IntToString(nAct), spawnType);
 			AssignTrapTableToDungeon("EXPED"+IntToString(nAct), "physical");
