@@ -3152,4 +3152,14 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="13CE43BBA8BD4F2796A534D28CDA17640BE126AD" downloadHash="7B74EC30809AD5C7E72C1BE3DE6E24F1373ED5C7" name="dread chamber.trx" dlsize="34924" size="667555" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6FAE6B18DAF8725B9F0DBCFFF431441799072564" downloadHash="67D7864D6D13D9F5A9CDDB359553C0C16D2B65FE" name="sunken_010100.trx" dlsize="152855" size="160139" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
