@@ -107,6 +107,10 @@ void main() {
 	AddSpawnToDungeonTable("rats", 1, "010_cr_ratdire4");
 	AddSpawnToDungeonTable("rats", 2, "010_cr_ratdire5");
 	AddSpawnToDungeonTable("rats", 2, "010_cr_ratdire6");
+	AddSpawnToDungeonTable("rats", 2, "abr_wererat");
+	AddSpawnToDungeonTable("rats", 3, "abr_wererat_3");
+	AddSpawnToDungeonTable("rats", 4, "abr_wererat_4");
+	AddSpawnToDungeonTable("rats", 5, "abr_wererat_5");
 	
 	// Monsters for an insect-themed dungeon
 	AddSpawnToDungeonTable("bugs", 0, "abr_cr_ve_centi_tiny");
@@ -118,12 +122,31 @@ void main() {
 	AddSpawnToDungeonTable("bugs", 1, "abr_cr_vm_spider_mediumhunt");
 	AddSpawnToDungeonTable("bugs", 2, "abr_cr_ve_centi_huge");
 	AddSpawnToDungeonTable("bugs", 2, "abr_cr_vm_spider_largehunt");
-	// TODO: Find a CR 3-4 bug
+	AddSpawnToDungeonTable("bugs", 3, "abr_cr_ve_centi_huge3");
+	AddSpawnToDungeonTable("bugs", 4, "abr_cr_ve_centi_huge4");
+	AddSpawnToDungeonTable("bugs", 5, "abr_cr_ve_centi_huge5");
 	AddSpawnToDungeonTable("bugs", 5, "abr_cr_vm_spider_hugehunt");
 	AddSpawnToDungeonTable("bugs", 6, "abr_cr_ve_centi_garg");
-	// TODO: Find a CR 5 bug
+	AddSpawnToDungeonTable("bugs", 7, "abr_cr_ve_centi_garg7");
+	AddSpawnToDungeonTable("bugs", 8, "abr_cr_ve_centi_garg8");
 	AddSpawnToDungeonTable("bugs", 8, "abr_cr_vm_spider_gargantuanhunt");
 	AddSpawnToDungeonTable("bugs", 9, "abr_cr_ve_centi_colos");
+	AddSpawnToDungeonTable("bugs", 10, "abr_cr_vm_spider_colossal");
+	
+	// Monsters for an undead-themed dungeon
+	AddSpawnToDungeonTable("undead", 0, "abr_cr_un_zombie01");
+	AddSpawnToDungeonTable("undead", 0, "abr_cr_un_zombie02");
+	AddSpawnToDungeonTable("undead", 0, "abr_cr_un_zombie03");
+	AddSpawnToDungeonTable("undead", 0, "abr_cr_un_zombie04");
+	AddSpawnToDungeonTable("undead", 0, "010_cr_undead_zombie");
+	AddSpawnToDungeonTable("undead", 1, "abr_cr_un_ghoul");
+	AddSpawnToDungeonTable("undead", 2, "010_cr_undead_bonebat");
+	AddSpawnToDungeonTable("undead", 3, "abr_cr_un_dreadwarrior");
+	AddSpawnToDungeonTable("undead", 3, "010_cr_undead_wight1");
+	AddSpawnToDungeonTable("undead", 3, "010_cr_undead_wight");
+	AddSpawnToDungeonTable("undead", 4, "abr_cr_un_vampirespawn");
+	AddSpawnToDungeonTable("undead", 5, "010_cr_undead_mummy");
+	AddSpawnToDungeonTable("undead", 5, "abr_cr_un_skeleton_giant");
 	
 	// Traps that operate by hitting or shooting the target with physical things
 	AddTrapToDungeonTable("physical", 0, "shooting_spikes_1");
@@ -147,4 +170,26 @@ void main() {
 	AddTrapToDungeonTable("physical", 18, "shooting_spikes_18");
 	AddTrapToDungeonTable("physical", 19, "shooting_spikes_19");
 	AddTrapToDungeonTable("physical", 20, "shooting_spikes_20");
+	
+	AddTrapToDungeonTable("physical", 0, "bouncing_betty_1");
+	AddTrapToDungeonTable("physical", 1, "bouncing_betty_1");
+	AddTrapToDungeonTable("physical", 2, "bouncing_betty_2");
+	AddTrapToDungeonTable("physical", 3, "bouncing_betty_3");
+	AddTrapToDungeonTable("physical", 4, "bouncing_betty_4");
+	AddTrapToDungeonTable("physical", 5, "bouncing_betty_5");
+	AddTrapToDungeonTable("physical", 6, "bouncing_betty_6");
+	AddTrapToDungeonTable("physical", 7, "bouncing_betty_7");
+	AddTrapToDungeonTable("physical", 8, "bouncing_betty_8");
+	AddTrapToDungeonTable("physical", 9, "bouncing_betty_9");
+	AddTrapToDungeonTable("physical", 10, "bouncing_betty_10");
+	AddTrapToDungeonTable("physical", 11, "bouncing_betty_11");
+	AddTrapToDungeonTable("physical", 12, "bouncing_betty_12");
+	AddTrapToDungeonTable("physical", 13, "bouncing_betty_13");
+	AddTrapToDungeonTable("physical", 14, "bouncing_betty_14");
+	AddTrapToDungeonTable("physical", 15, "bouncing_betty_15");
+	AddTrapToDungeonTable("physical", 16, "bouncing_betty_16");
+	AddTrapToDungeonTable("physical", 17, "bouncing_betty_17");
+	AddTrapToDungeonTable("physical", 18, "bouncing_betty_18");
+	AddTrapToDungeonTable("physical", 19, "bouncing_betty_19");
+	AddTrapToDungeonTable("physical", 20, "bouncing_betty_20");
 }
