@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="Tlk" hash="9797D2458F42AC1F862C265E1D7F1FEE8BEF48BC" downloadHash="8340781C7C20468E8B6CE149A762D70F7B717849" name="alfa_acr02.tlk" dlsize="148333" size="1191579" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -228,7 +228,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3AE0A8D9C41FF3403CAC67A2469322EC607563C2" downloadHash="DB4F1E8A14D71EDA21CCDA84D07DC27062BBB7BC" name="bgcity-market.trx" dlsize="2570336" size="9523544" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ED7E3D22B69F37A405967010A44820A13E51B0A1" downloadHash="BBD0C3C9DD8F0948EABEAC9E3B5EF1FF39946AA0" name="bgcity-market.trx" dlsize="2598455" size="9553295" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -762,7 +762,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2CA2761314A7126C9705C8E20036B2D50E733EDF" downloadHash="F0C5FD43294F970F24FB2F4D1235E526A069B99B" name="bg-eastgate_elfsong.trx" dlsize="178022" size="179277" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F9AA5C5C6C0207D7786649CF52956E807B82A31C" downloadHash="615B35CAFA7E51A79A15FB18C75E4A5E443B20DD" name="bg-eastgate_elfsong.trx" dlsize="179991" size="181211" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1044,7 +1044,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A501AB260CA97B60B2A5E39FDE8EB4B80AA4AD32" downloadHash="BE56C5EABBB0CBDC7F04CADEF54DEA96CB14F134" name="bgcity-harboreast.trx" dlsize="2500164" size="11939997" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9250BA9E1E484377407A0CBCF0A69FA47FDF478C" downloadHash="85144D9ACB8B6BDBA711AE9D74632802DC458671" name="bgcity-harboreast.trx" dlsize="2497725" size="11939997" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3158,6 +3158,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="6FAE6B18DAF8725B9F0DBCFFF431441799072564" downloadHash="67D7864D6D13D9F5A9CDDB359553C0C16D2B65FE" name="sunken_010100.trx" dlsize="152855" size="160139" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B2F4F03B3E6283EFA790FCE9D06D686241ECDC41" downloadHash="207E65AE7D78B04E4617B64CAE86BC79F316BF35" name="sunken_011100.trx" dlsize="152747" size="160086" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C0527BB658975CF585F37A5DCCAD761EE6F8DD1C" downloadHash="81E8C17A2C87DEBB7A66638F4804B1A4775EB6E4" name="sunken_100100.trx" dlsize="165225" size="172959" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
