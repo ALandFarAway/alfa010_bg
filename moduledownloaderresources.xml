@@ -78,12 +78,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="98AF70C942E315ED5D99C438C51484535340F6CB" downloadHash="179C60775F9D613EFC7E5A669DF7C8BFA63B959C" name="makefile." dlsize="570" size="1085" critical="false" exclude="true" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="BC7402DAE14834487CF93E26FA4985E4DC4D3946" downloadHash="B9D07C48E4C66F1386210D2DDB000C3133A3AE3A" name="fx_icebody.SEF" dlsize="335" size="855" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -426,7 +420,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="683873373AE97415E468BC719F18522CBE683B71" downloadHash="9C3900D539EC0649336DFD648ECB32B057A54626" name="bgcity-castle.trx" dlsize="4758307" size="14467427" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C1F744A68836A3AE67C7EC0AD74FC6936C62A527" downloadHash="61E51DC0049C5A71DE83F3839805B776CC816694" name="bgcity-castle.trx" dlsize="4744368" size="14448834" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2763,24 +2757,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C9E4EDD1925B0130180A4F50EBE4F5CB9A96F0F5" downloadHash="014F8CB6B85D9A78399CEAD5C48CF7C4FA269A0E" name="und_sshamath_market_ward.trx" dlsize="1163791" size="11542671" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A0B3C9DA4EB372401FB68114E817E0AEDC682393" downloadHash="73186DDD713C0B3AF86B0D47FE38033E7DF3E854" name="und_sshamath_commons_ward.trx" dlsize="962238" size="9956923" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="55EA8C341802317044C8E32215FD94A5D0B7AD0C" downloadHash="7CACB1FC0D10BD94C4257D80F9C1EB7BF5E0F650" name="und_sshamath_temple_ward.trx" dlsize="943308" size="9972567" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="33EA47E38993F0DDA4865ADEF2B8668967A9E904" downloadHash="28B1CAA7DB3B293A16DF9EC2DF4B9840464178B1" name="tradeway_s_13_gnoll_country.trx" dlsize="2412365" size="15201604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -3138,11 +3114,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B2F4F03B3E6283EFA790FCE9D06D686241ECDC41" downloadHash="207E65AE7D78B04E4617B64CAE86BC79F316BF35" name="sunken_011000.trx" dlsize="152747" size="160086" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="13CE43BBA8BD4F2796A534D28CDA17640BE126AD" downloadHash="7B74EC30809AD5C7E72C1BE3DE6E24F1373ED5C7" name="bg-sewers-dreadchamber.trx" dlsize="34924" size="667555" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
