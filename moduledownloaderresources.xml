@@ -1044,7 +1044,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3CE25103479FEA215115BC2956C6170676230372" downloadHash="177DE35D571A8B0B0A41389B1933F2DBFD5E26AD" name="candlekeep_lionsway_02.trx" dlsize="3424170" size="15965644" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D56DA5B551F80017BEE203C98BBBC895DD3021E4" downloadHash="92AF2190E907845B6F11444F53605138E934EF0F" name="candlekeep_lionsway_02.trx" dlsize="3439939" size="15977748" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3159,6 +3159,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="73230D5173B8E2543F986817F73DAFD0D62C8C90" downloadHash="6D767224E6CB370CB7EDE73540BA1CE72730B58A" name="sunken_101100.trx" dlsize="180304" size="190462" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="11DBA7083CE61C54627669FDB265FFFA9AFAE2A6" downloadHash="63B190E42B3590B734FE0F1984A3F6F6F5D4C6AE" name="candlekeep_lionsway_02_tailor.trx" dlsize="82323" size="82346" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
