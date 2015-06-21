@@ -3188,4 +3188,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="0D3997B88FA402BB2569E121FB7327292DD9817F" downloadHash="2906DF48F074E78428F2A0F761C89EAF564870FE" name="candlekeep_lionsway_hills_03_02.trx" dlsize="4623284" size="26929147" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
