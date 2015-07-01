@@ -3188,7 +3188,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0D3997B88FA402BB2569E121FB7327292DD9817F" downloadHash="2906DF48F074E78428F2A0F761C89EAF564870FE" name="candlekeep_lionsway_hills_03_02.trx" dlsize="4623284" size="26929147" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D05CE52370A15E25C62940E814024552B8C53E0" downloadHash="1F1BE38130005091E94930A038D29FC03630F565" name="candlekeep_lionsway_hills_03_02.trx" dlsize="4625923" size="26941625" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="917421E209335659266F398C723FDFA6C8E062D2" downloadHash="D9445EB3571C2581FFADB6CFA6EA16097E4268A3" name="ck_bg_ship_ext.trx" dlsize="141514" size="6486057" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
