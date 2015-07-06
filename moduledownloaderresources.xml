@@ -552,7 +552,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D7391F8A4110ABDA1DBB02E2675BE6B5B35E7CE7" downloadHash="6EC2243FC55FCE044DA6E04EA9A8C9FEE9563E2D" name="sharpteeth_05.trx" dlsize="1124763" size="8625145" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2000D7C017F0702E07AB8305732B9626C977BDFF" downloadHash="438C87DE5B5240FCC07386E272CA08510DAB387C" name="sharpteeth_05.trx" dlsize="1120466" size="8619479" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3194,6 +3194,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="917421E209335659266F398C723FDFA6C8E062D2" downloadHash="D9445EB3571C2581FFADB6CFA6EA16097E4268A3" name="ck_bg_ship_ext.trx" dlsize="141514" size="6486057" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AAECD717E8F96C0E640A165D2F289F7B51D731A8" downloadHash="EB171F12FF8B9FCA714A26535F554AFB296FDB37" name="sharpteeth_05_cellar.trx" dlsize="153119" size="155071" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
