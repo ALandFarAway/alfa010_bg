@@ -53,7 +53,7 @@ void main() {
 	int spawned = 1;
 
 	switch (Random(14)) {
-		// 35.7%
+		// 35.7% - Garnishcap
 		case 0:
 		case 1:
 		case 2:
@@ -61,36 +61,34 @@ void main() {
 		case 4:
 			ACR_SpawnObject("010_herb_shroom1", OBJECT_TYPE_PLACEABLE);
 			break;
-		// 21.4%
+		// 21.4% - Magpie Mushroom
 		case 5:
 		case 6:
 		case 7:
 			ACR_SpawnObject("010_herb_shroom0", OBJECT_TYPE_PLACEABLE);
 			break;
-		// 7.1%
+		// 7.1% - Bat Guano
 		case 8:
 			ACR_SpawnObject("010_herb_spell0", OBJECT_TYPE_PLACEABLE);
 			break;
-		// 7.1%
+		// 7.1% - Garclive
 		case 9:
 			ACR_SpawnObject("010_herb_herb2", OBJECT_TYPE_PLACEABLE);
 			break;
-		// 7.1%
+		// 7.1% - Elderberry
 		case 10:
 			ACR_SpawnObject("010_herb_herb3", OBJECT_TYPE_PLACEABLE);
 			break;
 		default:
-
-			// 1.1%
+			// 1.1% - Corpse
 			if (!Random(20))
 				ACR_SpawnObject("010_herb_corpse", OBJECT_TYPE_PLACEABLE);
 			else
 				spawned = 0;
-			
 			break;
 	}
 
-	// 17.9%
+	// 17.9% - Destroy spawn.
 	if (spawned && (!Random(5)))
 		ACR_DestroySpawnPoint(OBJECT_SELF);
 }

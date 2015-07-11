@@ -58,62 +58,53 @@ void main()
 
 
 	switch(Random(5)) {
-			// 60%
-			case 0:
-			case 1:
-			case 2:
-				if (Random(3)) {
-					o = ACR_SpawnLootDetector();
-		
-					if (Random(2))
-						SetLocalString(o, "PL_RESREF", "phat_lewt_chest_small");
-					else
-						SetLocalString(o, "PL_RESREF", "phat_lewt_crate");
+		// 60% 0 Phat Lewt
+		case 0:
+		case 1:
+		case 2:
+			if (Random(3)) {
+				o = ACR_SpawnLootDetector();
+				if (Random(2))
+					SetLocalString(o, "PL_RESREF", "phat_lewt_chest_small");
+				else
+					SetLocalString(o, "PL_RESREF", "phat_lewt_crate");
+			} else {
+				switch (Random(3)) {
+					case 0:
+		        		ACR_SpawnObject("phat_lewt_rubble", OBJECT_TYPE_PLACEABLE);
+						break;
+					case 1:
+		        		ACR_SpawnObject("phat_lewt_chest_small_lock", OBJECT_TYPE_PLACEABLE);
+						break;
+					case 2:
+		        		ACR_SpawnObject("phat_lewt_bag", OBJECT_TYPE_PLACEABLE);
+						break;
 				}
-				else {
-					switch (Random(3)) {
-						case 0:
-			        			ACR_SpawnObject("phat_lewt_rubble", OBJECT_TYPE_PLACEABLE);
-							break;
-						case 1:
-			        			ACR_SpawnObject("phat_lewt_chest_small_lock", OBJECT_TYPE_PLACEABLE);
-							break;
-
-						case 2:
-			        			ACR_SpawnObject("phat_lewt_bag", OBJECT_TYPE_PLACEABLE);
-							break;
-					}
-				}
-
-				break;
-				
-			case 3:
-			case 4: 
-				
-				nRand = Random(100);
-
-				// 10%
-				if (nRand < 25) {
-			        	ACR_SpawnObject("010_herb_corpse", OBJECT_TYPE_PLACEABLE);
-				}
-				// 10%
-				else if (nRand < 50) {
-					ACR_SpawnObject("010_herb_spell1", OBJECT_TYPE_PLACEABLE);
-				}
-				// 10%
-				else if (nRand < 75) {
-					ACR_SpawnObject("010_herb_shroom2", OBJECT_TYPE_PLACEABLE);
-				}
-				// 10%
-				else {
-					ACR_SpawnObject("010_herb_shroom1", OBJECT_TYPE_PLACEABLE);
-				}
-				break;
-
+			}
+			break;
+		case 3:
+		case 4: 
+			nRand = Random(100);
+			// 10% - Corpse
+			if (nRand < 25) {
+		        ACR_SpawnObject("010_herb_corpse", OBJECT_TYPE_PLACEABLE);
+			}
+			// 10% - Phosphorescent Moss
+			else if (nRand < 50) {
+				ACR_SpawnObject("010_herb_spell1", OBJECT_TYPE_PLACEABLE);
+			}
+			// 10% - Gloomshroom
+			else if (nRand < 75) {
+				ACR_SpawnObject("010_herb_shroom2", OBJECT_TYPE_PLACEABLE);
+			}
+			// 10% - Garnishcap
+			else {
+				ACR_SpawnObject("010_herb_shroom1", OBJECT_TYPE_PLACEABLE);
+			}
+			break;
 	}
  
-	// 20%
-	if (!Random(5))
-		ACR_DestroySpawnPoint(oWP);
+	// 20% - Destroy spawn.
+	if (!Random(5)) ACR_DestroySpawnPoint(oWP);
 
 }
