@@ -91,6 +91,32 @@ void main()
 			}
 			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_104", 1);
 		}
+		
+		int nBloodMaw = ACR_RetrieveQuestState("sel_bloodmaw_1", oPC);
+		if(nBloodMaw == 1)
+		{
+			if(GetLocalInt(OBJECT_SELF, IntToString(nID) + "_bloodmaw1")) return;
+			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_bloodmaw1", 1);
+			
+			if(ACR_SkillCheck(SKILL_GATHER_INFORMATION, oPC, 15, TRUE, FALSE))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nYou hear something about a certain paladin.", 
+							"It sounds like the man you're looking for did pass through Baldur's Gate, but he did not stay. He asked a number of people, not terribly quietly, about members of his family before deciding that they must have gone south and leaving for Beregost.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+				
+				
+				object oAlly = GetFirstFactionMember(oPC, TRUE);
+				while(GetIsObjectValid(oPC))
+				{
+					if(ACR_RetrieveQuestState("010_intro", oAlly) == 1)
+					{
+						ACR_AddPersistentJournalQuestEntry("sel_bloodmaw_1", 2, oAlly, FALSE);
+					}
+					oAlly = GetNextFactionMember(oPC, TRUE);
+				}
+			}
+		}
 	}
 	else if(sLocale == "ULGOTH")
 	{
@@ -121,6 +147,31 @@ void main()
 							"Beregost is a village on the Trade Way which centers on a large temple to the Morninglord, Lathander. The people are goodly and simple, lead primarily by their governor Kelddath Ormlyr, but the village has traditionally remained neutral to avoid being caught up in the frequent conflicts between Baldurian and Amnian interests.", 
 							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
 				SetLocalInt(oPC, "GI_BEREGOST", 1);
+			}
+		}
+		
+		int nBloodMaw = ACR_RetrieveQuestState("sel_bloodmaw_1", oPC);
+		if(nBloodMaw == 2)
+		{
+			if(GetLocalInt(OBJECT_SELF, IntToString(nID) + "_bloodmaw1")) return;
+			SetLocalInt(OBJECT_SELF, IntToString(nID) + "_bloodmaw1", 1);
+						
+			if(ACR_SkillCheck(SKILL_GATHER_INFORMATION, oPC, 20, TRUE, FALSE))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nYou hear something about a certain paladin.", 
+							"It sounds like the man you're looking for made it to Beregost, but mostly talked to the merchants in the town, and they have since moved on. A few remember him, though, and thought it was odd that he became convinced that he had to ask after them in Gullykin.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+				
+				object oAlly = GetFirstFactionMember(oPC, TRUE);
+				while(GetIsObjectValid(oPC))
+				{
+					if(ACR_RetrieveQuestState("sel_bloodmaw_1", oAlly) == 2)
+					{	
+						ACR_AddPersistentJournalQuestEntry("sel_bloodmaw_1", 3, oAlly, FALSE);
+					}
+					oAlly = GetNextFactionMember(oPC, TRUE);
+				}
 			}
 		}
 	}
@@ -169,6 +220,33 @@ void main()
 							"Candlekeep is an isolationist settlement on the coast, dominated by its temple to Oghma, the god of knowledge, and its impressive library. They carefully chronicle lore and history here, including the purportedly-infallible prophecies of Alaundo, but access to these records is notoriously strict-- only allowed to noteworthy scholars or exceptional people who manage to advance knowledge by other means-- and even among members, punishment for damaging the facilities are notoriously brutal.", 
 							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
 				SetLocalInt(oPC, "GI_CANDLEKEEP", 1);
+			}
+		}
+	}
+	else if(sLocale == "GULLYKIN")
+	{
+		int nBloodMaw = ACR_RetrieveQuestState("sel_bloodmaw_1", oPC);
+		if(nBloodMaw == 3)
+		{
+			if(GetLocalInt(OBJECT_SELF, IntToString(nID) + "_bloodmaw1")) return;
+			
+			if(ACR_SkillCheck(SKILL_GATHER_INFORMATION, oPC, 20, TRUE, FALSE))
+			{
+				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
+							"\nYou hear something about a certain paladin.", 
+							"It sounds like the man you were looking for was wounded by the time he made it to Gullykin, and spoke increasingly-irrationally to the villagers about his family. It's something of a task to get anyone to talk to you about where he went, as most people just want to talk about how very strange it was. One does tell you, however, that he returned to the north, convinced that he should be checking the fringes of the 'woods'.", 
+							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
+				
+				object oAlly = GetFirstFactionMember(oPC, TRUE);
+				while(GetIsObjectValid(oPC))
+				{
+					if(ACR_RetrieveQuestState("sel_bloodmaw_1", oAlly) == 3)
+					{	
+						ACR_AddPersistentJournalQuestEntry("sel_bloodmaw_1", 4, oAlly, FALSE);
+					}
+					oAlly = GetNextFactionMember(oPC, TRUE);
+				}
+				SetLocalInt(OBJECT_SELF, IntToString(nID) + "_bloodmaw1", 1);
 			}
 		}
 	}

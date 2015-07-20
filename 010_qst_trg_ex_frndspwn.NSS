@@ -32,7 +32,7 @@ void main()
 				if(!GetIsObjectValid(GetItemPossessor(oDespawn)))
 					DestroyObject(oDespawn, 0.0f);
 			}
-			else
+			else if(GetLocalInt(oDespawn, "NO_DESPAWN") == 0)
 			{
 				DestroyObject(oDespawn, 0.0f);
 			}
