@@ -1044,7 +1044,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ACED9F0C78AD6A0EDEF6B58608E97A89E623167B" downloadHash="30C7FEF7CB7CF534BD8930F118EBB84EC4E5EC3A" name="candlekeep_lionsway_02.trx" dlsize="3445844" size="15977550" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C88FEA78BC6BC973EAEBC71EF6256F4A227BBDAF" downloadHash="8247E14F7BA54B3805024FAB2680890860BA19AC" name="candlekeep_lionsway_02.trx" dlsize="3478049" size="16007403" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3199,6 +3199,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="AAECD717E8F96C0E640A165D2F289F7B51D731A8" downloadHash="EB171F12FF8B9FCA714A26535F554AFB296FDB37" name="sharpteeth_05_cellar.trx" dlsize="153119" size="155071" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EFF888A0DA11FB456BAF6521FD9A654D77EB14E2" downloadHash="C3BBD7A9048BED08FE07D1F067AF1878F15FB126" name="candlekeep_lionsway_02_deldiv.trx" dlsize="109328" size="152114" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
