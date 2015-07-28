@@ -1274,7 +1274,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="25DE3610E0302741F7BD571534D8B5DC0B86CCBA" downloadHash="3E8A9D9490F33A161AF882A98581E4D38A31990C" name="beregost_housing.trx" dlsize="166329" size="299583" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="966D6CF0AFB6B881EDF108FDAD7A1B4B67A7ECD4" downloadHash="9E2D6D8B01FE806E2357AD93CD4AEF896A921E58" name="beregost_housing.trx" dlsize="166324" size="299571" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3204,6 +3204,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="EFF888A0DA11FB456BAF6521FD9A654D77EB14E2" downloadHash="C3BBD7A9048BED08FE07D1F067AF1878F15FB126" name="candlekeep_lionsway_02_deldiv.trx" dlsize="109328" size="152114" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9C25C6EF0A94EB29936B4BEB3E9AB061EA8F9A7C" downloadHash="4D5E910BA13CEF91B3AA26C4F1B3B5F8067D17E2" name="beregost_housing1.trx" dlsize="166146" size="299571" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
