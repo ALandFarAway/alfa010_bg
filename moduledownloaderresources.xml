@@ -1274,7 +1274,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2EAA749D17CFE88328433A3223A590ADEC91498D" downloadHash="1FF09F7614AB927FFC9554863004352757B60505" name="beregost_housing.trx" dlsize="165904" size="299328" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="25DE3610E0302741F7BD571534D8B5DC0B86CCBA" downloadHash="3E8A9D9490F33A161AF882A98581E4D38A31990C" name="beregost_housing.trx" dlsize="166329" size="299583" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
