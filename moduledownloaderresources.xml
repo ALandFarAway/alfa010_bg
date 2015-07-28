@@ -3208,9 +3208,4 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C25C6EF0A94EB29936B4BEB3E9AB061EA8F9A7C" downloadHash="4D5E910BA13CEF91B3AA26C4F1B3B5F8067D17E2" name="beregost_housing1.trx" dlsize="166146" size="299571" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
 </content>
