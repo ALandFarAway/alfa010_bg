@@ -1,6 +1,17 @@
+// Operates a ship trip.
+// =======================================================================================
+// startWP -- the waypoint representing the start of the trip
+// endWP -- the waypoint representing the end of the trip
+// tripLength -- the length of time, in minutes, that the trip should last
+// =======================================================================================
+// of note that the ship stays at the dock before the trip starts for two minutes. This is
+// to allow full groups time to board. One of the main uses of a ship ride is to get to
+// talk without all of those disruptive ATs.
+// =======================================================================================
+
 #include "acr_area_instance_i"
 
-void _FuckTheCompiler(int a, string b, location c, int d, string e)
+void CreateObjectNoReturn(int a, string b, location c, int d, string e)
 {
 	CreateObject(a,b,c,d,e);
 }
@@ -10,8 +21,8 @@ void _AddDock(object oArea)
 	object oPlac = GetFirstObjectInArea(oArea);
 	while(GetIsObjectValid(oPlac))
 	{
-		if(GetTag(oPlac) == "PLANK_POSITION")     DelayCommand(1.0f, _FuckTheCompiler(OBJECT_TYPE_PLACEABLE, "plc_hss_plank_str", GetLocation(oPlac), TRUE, "TEMP"));
-		else if(GetTag(oPlac) == "DOCK_POSITION") DelayCommand(1.0f, _FuckTheCompiler(OBJECT_TYPE_PLACEABLE, "plc_bc_dockg8", GetLocation(oPlac), TRUE, "TEMP"));
+		if(GetTag(oPlac) == "PLANK_POSITION")     DelayCommand(1.0f, CreateObjectNoReturn(OBJECT_TYPE_PLACEABLE, "plc_hss_plank_str", GetLocation(oPlac), TRUE, "TEMP"));
+		else if(GetTag(oPlac) == "DOCK_POSITION") DelayCommand(1.0f, CreateObjectNoReturn(OBJECT_TYPE_PLACEABLE, "plc_bc_dockg8", GetLocation(oPlac), TRUE, "TEMP"));
 		oPlac = GetNextObjectInArea(oArea);
 	}
 }
@@ -99,7 +110,7 @@ object GetShipTemplate(object oPC)
 		return OBJECT_INVALID;
 	}
 }
-object GetShip(object oStartWP, object oEndWP, object oPC)
+object GetShip(object oStartWP, object oEndWP, object oPC, float tripLength)
 {
 	int count = 0;
 	object oArea = GetLocalObject(OBJECT_SELF, ObjectToString(oStartWP) + "_" + ObjectToString(oEndWP) + "_" + IntToString(count));
@@ -119,7 +130,7 @@ object GetShip(object oStartWP, object oEndWP, object oPC)
 	SetLocalObject(oArea, "EXIT_WP", oStartWP);
 	_AddDock(oArea);
 	DelayCommand(2.0f * 60.0f, StartShipTrip(oArea));
-	DelayCommand(17.0f * 60.0f, EndShipTrip(oArea, oStartWP, oEndWP));
+	DelayCommand((2.0f + tripLength) * 60.0f, EndShipTrip(oArea, oStartWP, oEndWP));
 	return oArea;
 }
 
@@ -135,19 +146,19 @@ object GetShipWaypoint(object oShip, object oPC)
 	return OBJECT_INVALID;
 }
 
-void ManageShip(string startWP, string endWP, object oPC)
+void ManageShip(string startWP, string endWP, object oPC, float tripLength)
 {
 	object oStartWP = GetWaypointByTag(startWP);
 	object oEndWP = GetWaypointByTag(endWP);
-	object oShip = GetShip(oStartWP, oEndWP, oPC);
+	object oShip = GetShip(oStartWP, oEndWP, oPC, tripLength);
 	if(!GetIsObjectValid(oShip)) return;
 	object oWP = GetShipWaypoint(oShip, oPC);
 	if(!GetIsObjectValid(oWP)) return;
 	AssignCommand(oPC, JumpToObject(oWP));
 }
 
-void main(string startWP, string endWP)
+void main(string startWP, string endWP, float tripLength)
 {
 	object oPC = GetPCSpeaker();
 	SendMessageToPC(oPC, "You're shown to the ship, and make ready to depart.");
-	AssignCommand(GetModule(), ManageShip(startWP, endWP, oPC));}
+	AssignCommand(GetModule(), ManageShip(startWP, endWP, oPC, tripLength));}
