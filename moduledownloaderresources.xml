@@ -1044,7 +1044,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C88FEA78BC6BC973EAEBC71EF6256F4A227BBDAF" downloadHash="8247E14F7BA54B3805024FAB2680890860BA19AC" name="candlekeep_lionsway_02.trx" dlsize="3478049" size="16007403" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A5477AB861697A3E93851C74E6EB18BD44DAECDF" downloadHash="48615FE0D84FFDDDA961C2758B3E28C02F5D3577" name="candlekeep_lionsway_02.trx" dlsize="3469236" size="16008037" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3058,7 +3058,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FFFC379A5658EE4B1E03EEF806103BC7A1D3A3A3" downloadHash="FE84FD257B5754B2C8E09DBA8787A27BA6B0B91F" name="sharpteeth_04a.trx" dlsize="351275" size="6235196" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EA22AB1EA92377A0F594E5A02C85E118AC5A0608" downloadHash="E3D6102DEE8A17EE56578AFAD2CD989306953D10" name="sharpteeth_04a.trx" dlsize="353252" size="6235196" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3204,6 +3204,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="EFF888A0DA11FB456BAF6521FD9A654D77EB14E2" downloadHash="C3BBD7A9048BED08FE07D1F067AF1878F15FB126" name="candlekeep_lionsway_02_deldiv.trx" dlsize="109328" size="152114" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="99EC3ECDCE7AC6A8B9E76CCFBCD818150213BDA9" downloadHash="5BE8334D4D67ED805F2FFCD1479AA79610D4721E" name="ck_bg_ship_pirates_int.trx" dlsize="68140" size="72150" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8697C8A54DB8EE5B54750C447BA51377583AA0BF" downloadHash="936A413F5F5C396EBAC4193D4CAC832F3BC26144" name="ck_bg_ship_pirates_ext.trx" dlsize="275261" size="7885734" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
