@@ -102,5 +102,15 @@ int StartingConditional(string sChain, int nCheck)
 			oAlly = GetNextFactionMember(oPC, TRUE);
 		}
 	}
+	else if(sChain == "bloodmaw_4_ship")
+	{
+		object oAlly = GetFirstFactionMember(oPC, TRUE);
+		while(GetIsObjectValid(oAlly))
+		{
+			int nQuest = ACR_RetrieveQuestState("sel_bloodmaw_4", oAlly);
+			if(nQuest == nCheck) return TRUE;
+			oAlly = GetNextFactionMember(oPC, TRUE);
+		}
+	}
 	return FALSE;
 }
