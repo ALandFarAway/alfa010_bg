@@ -1038,7 +1038,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9250BA9E1E484377407A0CBCF0A69FA47FDF478C" downloadHash="85144D9ACB8B6BDBA711AE9D74632802DC458671" name="bgcity-harboreast.trx" dlsize="2497725" size="11939997" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="61B61CA6E3D0B2C2C4C703695AAE4D238C035CBB" downloadHash="2280989114582C165E5CD565686DA8CDBDA2B8CE" name="bgcity-harboreast.trx" dlsize="2488749" size="11936942" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3214,6 +3214,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="8697C8A54DB8EE5B54750C447BA51377583AA0BF" downloadHash="936A413F5F5C396EBAC4193D4CAC832F3BC26144" name="ck_bg_ship_pirates_ext.trx" dlsize="275261" size="7885734" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0F4002D0AEA3BB073444E9A9E38A7CD7894CF81F" downloadHash="2C23514875CEF593B2F7092DACF001861204AFE0" name="bloodmaw_ruin_ext.trx" dlsize="322683" size="5019340" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AC6C0FCD95B0A539B6E0BA68FFFA8DA7FE490020" downloadHash="59D312D26F17164C0D9591D5AACCB4DF6150C56F" name="bloodmaw_camp_ext.trx" dlsize="506594" size="7270135" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
