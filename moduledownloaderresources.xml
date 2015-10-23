@@ -2978,7 +2978,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="30CE1FD5B45D0EA1E7C3210423E9802362767283" downloadHash="ADC5EFED908DABBB65703DFE2210AC8DEA6B4EA8" name="candlekeep_wilds_n_2b.trx" dlsize="3564999" size="17120793" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="53CAE4B4ED1B5C59BC1BD40D16041572A45F8778" downloadHash="ADC5EFED908DABBB65703DFE2210AC8DEA6B4EA8" name="candlekeep_wilds_n_2b.trx" dlsize="3564999" size="17119213" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3224,6 +3224,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="AC6C0FCD95B0A539B6E0BA68FFFA8DA7FE490020" downloadHash="59D312D26F17164C0D9591D5AACCB4DF6150C56F" name="bloodmaw_camp_ext.trx" dlsize="506594" size="7270135" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="85C7089493025F5303462EB4558CD251BFDA3CC7" downloadHash="6A2ADCBDF0254F2D46C47E8BAC2815C6B8BBBA3B" name="candlekeep_wilds_n_2b_cave1.trx" dlsize="122320" size="1291286" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
