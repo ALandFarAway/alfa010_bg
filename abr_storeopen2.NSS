@@ -37,38 +37,25 @@
 	opening object will be inform that the script failed to hide the items.
 */
 
-#include "1sc_searchable"
-#include "1sc_searchable_treasure"
+#include "acr_wealth_i"
 
 const string _ACR_RTN_POINTER = "ACR_RETURNS_POINTER";
 
-void main() {
+void main() 
+{
+	object oPC = GetLastOpenedBy();
+	object oReturnsTrigger = GetLocalObject(oPC, _ACR_RTN_POINTER);
+	SetLocalInt(oPC, "ACR_GOLD", GetGold(oPC));
+	SetLocalObject(oPC, "ACR_STORE", OBJECT_SELF);
 
-
-object oPC = GetLastOpenedBy();
-object oReturnsTrigger = GetLocalObject(oPC, _ACR_RTN_POINTER);
-SetLocalInt(oPC, "ACR_GOLD", GetGold(oPC));
-SetLocalObject(oPC, "ACR_STORE", OBJECT_SELF);
-
-if (oReturnsTrigger != OBJECT_INVALID) 
+	if (oReturnsTrigger != OBJECT_INVALID) 
 	{
-	// PC is inside a Returns trigger, should be good to go
-	// SendMessageToPC(oPC, "Gold stored: "+IntToString(GetGold(oPC)));
-	SetLocalObject(oReturnsTrigger, _ACR_RTN_POINTER, OBJECT_SELF);
-	
+		SetLocalObject(oReturnsTrigger, _ACR_RTN_POINTER, OBJECT_SELF);
 	}
-
 	
-	// This is the Unique version of the loot script 
-	FillContainer(TREASURE_TYPE_UNIQUE,TREASURE_TYPE_UNIQUE,TREASURE_TYPE_UNIQUE,TREASURE_TYPE_UNIQUE);
-	// Do a search check 
-	int iCheck = d20(1);
-	int iSkill = GetSkillRank(SKILL_SEARCH, GetLastOpenedBy(), FALSE);
-	int iTotalDC = iCheck + iSkill;
-	//SendMessageToPC(GetLastOpenedBy(), ("Searching container " + IntToString(iCheck) + 
-	//									" + " + IntToString(iSkill) + 
-	//									" = " +  IntToString(iTotalDC)));
-	// Fill the chest with items that can be found with the 
-	// DC that has been rolled							
-	SearchChest(iTotalDC);
+	if(!GetLocalInt(OBJECT_SELF, "LOOT_GENERATED"))
+	{
+		ACR_GenerateTreasure(oPC, GetLocalInt(OBJECT_SELF, "RANDOM_TREASURE_VALUE"));
+		SetLocalInt(OBJECT_SELF, "LOOT_GENERATED", 1);
 	}
+}
