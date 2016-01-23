@@ -107,9 +107,9 @@ void main()
 				
 				
 				object oAlly = GetFirstFactionMember(oPC, TRUE);
-				while(GetIsObjectValid(oPC))
+				while(GetIsObjectValid(oAlly))
 				{
-					if(ACR_RetrieveQuestState("010_intro", oAlly) == 1)
+					if(ACR_RetrieveQuestState("sel_bloodmaw_1", oAlly) == 1)
 					{
 						ACR_AddPersistentJournalQuestEntry("sel_bloodmaw_1", 2, oAlly, FALSE);
 					}
@@ -164,7 +164,7 @@ void main()
 							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
 				
 				object oAlly = GetFirstFactionMember(oPC, TRUE);
-				while(GetIsObjectValid(oPC))
+				while(GetIsObjectValid(oAlly))
 				{
 					if(ACR_RetrieveQuestState("sel_bloodmaw_1", oAlly) == 2)
 					{	
@@ -238,7 +238,7 @@ void main()
 							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
 				
 				object oAlly = GetFirstFactionMember(oPC, TRUE);
-				while(GetIsObjectValid(oPC))
+				while(GetIsObjectValid(oAlly))
 				{
 					if(ACR_RetrieveQuestState("sel_bloodmaw_1", oAlly) == 3)
 					{	
