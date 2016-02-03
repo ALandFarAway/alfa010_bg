@@ -162,7 +162,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A79C7F6C6AF5CEAAEF85038C2E345779A65DEFA5" downloadHash="C6C1FEF93411C238F8300AA7305706888F11691F" name="nashkel_pass_05_wilds.trx" dlsize="4361725" size="16357221" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="395BD1835F09C998E1CB7F9809C1578DF2BA86B4" downloadHash="DE12C2FB54C9344576BFAE77F0525D9B353BCEAC" name="nashkel_pass_05_wilds.trx" dlsize="4345357" size="16344664" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -330,7 +330,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E46710CB9C1F1C601FA884BC77476DE7406DA6F8" downloadHash="12C7FE550C2AD8A763810AE2E458F18BBC1BA802" name="tradeway_s_08.trx" dlsize="1020874" size="8542191" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D43869EA89F23597A36F1B56BB7AAE54C553E236" downloadHash="1DBEA184EB0F489709C022B020A608C3A9FE8F6A" name="tradeway_s_08.trx" dlsize="1023982" size="8542192" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -372,13 +372,13 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4667DCCB5A6739D0B6D8ABD8E0D8FD69EC287223" downloadHash="053D58D7960FDC50EACC0E0B30F0CFEE0AD40FF3" name="tradeway_s_06.trx" dlsize="1638175" size="10260551" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ED2C53524A78DF1343204F9C2E43F3A5EA161E12" downloadHash="99FEA90E684B330B23D878BAF9E0D50F07A33BE3" name="tradeway_s_06.trx" dlsize="1645159" size="10274661" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C01154D8D556FD39590DD1D0CB21FD0A423A04FD" downloadHash="F8C49FBEE23FC6C49062D3DA036EFD0BF82268CC" name="tradeway_s_07.trx" dlsize="1751577" size="12145101" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B705B07D2189E2B22CF2B51A454EC02577443496" downloadHash="147D49BEC1BF3085823E6C586C6760308ABEBB88" name="tradeway_s_07.trx" dlsize="1750757" size="12145097" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -528,19 +528,19 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C3B681D592DDFAE3828835B57D63D22BDBE05496" downloadHash="539E16ADC0C359CF7F2DFA549FE6AF628258E1F9" name="sharpteeth_01.trx" dlsize="1885916" size="11340856" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5E54488496FA342194FC683032A0196AC0B01421" downloadHash="E8E39A0799DD50987899B576FBAB394E6A793C8D" name="sharpteeth_01.trx" dlsize="1879782" size="11341458" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CA797E049AF521A5148463BAD6F70C85FCBAEFFA" downloadHash="3AAFC047162A94E6B9F55D4199F8E2F75A57EA8C" name="sharpteeth_02.trx" dlsize="2855491" size="14891119" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B84768FDBC164E2137ED5CD1304F0B849E89E19F" downloadHash="2CE836DA766E57321DC449A7A8A84DD12FFC01D5" name="sharpteeth_02.trx" dlsize="2878977" size="14919064" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E70FE22FDC78FF02E72EF8FA76A6D4FC6BDB271A" downloadHash="B270C5E6D317C9722F87A122E7F860AC407BE208" name="sharpteeth_03.trx" dlsize="2556652" size="15196585" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0FCBC6484B3972BC75EAE29573CD28055B5084F6" downloadHash="6B2798A29BF706583180A1FD02163D7FD1967F88" name="sharpteeth_03.trx" dlsize="2555315" size="15189199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -732,7 +732,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D98A9098F6998F5F09E78AEBFD822B031343BB4D" downloadHash="3AC931796B16801B27AFAC02E4A64727767CB3B3" name="nashkel_pass_05.trx" dlsize="2915477" size="9185619" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8989C26E2FFF7F92076A46BA54CD4F2B4D4531A7" downloadHash="90037AF2A3E9DB4D29307373EE84670E78612640" name="nashkel_pass_05.trx" dlsize="2918837" size="9185620" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -978,7 +978,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="46A7485EAE296D9FC776644A81801FE5FBB71A6A" downloadHash="1D9E0F8E3C493005F6065A3CF2C6A3546639C00B" name="nashkel_pass_04.trx" dlsize="2882727" size="15566464" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DEC81381BA214CB26727BFD5F64AD1640F20D6D5" downloadHash="840A264BE34D9B034A7A6825B52FA83A46E8BAD2" name="nashkel_pass_04.trx" dlsize="2876655" size="15566464" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1098,7 +1098,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED89E8495C728E818CEC55EC797B4931581F8226" downloadHash="5C923EB9C3AD875DCF8E666E42C6C9C1CAA767EF" name="bg-lower_festhall.trx" dlsize="81301" size="81456" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="46920A9FF38EB3672A5B714B5F1F74FEF88B02CF" downloadHash="6B7C4195C642793ED604166EE9E0DC6B9FA54ACF" name="bg-lower_festhall.trx" dlsize="76056" size="76236" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3188,7 +3188,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8D05CE52370A15E25C62940E814024552B8C53E0" downloadHash="1F1BE38130005091E94930A038D29FC03630F565" name="candlekeep_lionsway_hills_03_02.trx" dlsize="4625923" size="26941625" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1BCD082DBCA5882F69493EDFCD224650E8FAA00B" downloadHash="676C94480AB3CAD07FA8573727B72742F3278491" name="candlekeep_lionsway_hills_03_02.trx" dlsize="4638355" size="26948290" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
