@@ -972,7 +972,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A3344EE23A73C8665C68A22B304FFB6072384039" downloadHash="99C05CB67BC51A1216C5A8762CD150194E19920E" name="beregost_templeoflathander.trx" dlsize="476816" size="840432" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BF06B66B482367A731D21322EE023A2A6074D21A" downloadHash="0CC05407021D2598472ED9619816CD6E67E71C2E" name="beregost_templeoflathander.trx" dlsize="468468" size="832106" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
