@@ -16,7 +16,7 @@
 //  the server's customized code they may have added.
 //
 //  Revision History
-//   2010/12/24  AcadiusLost - interim ModuleLoad code hack for server population and IP Address -
+//   2010/12/24  AcadiusLost - interim ModuleLoad code hack for server population and IP Address
 ////////////////////////////////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////////////////////////////////
