@@ -61,7 +61,7 @@ void main() {
 	// 0.5% chance to spawn.
 	if(Random(200)) return;
 	
-	int nNum = Random(5) + Random(5) + Random(5) - 6;
+	int nNum = Random(4) - 1;
 	if(nNum <= 0) nNum = 1;
 
 	object oNearest = GetNearestCreatureToLocation(CREATURE_TYPE_PLAYER_CHAR, PLAYER_CHAR_IS_PC, ACR_GetSpawnLocation(), 1);
@@ -70,7 +70,7 @@ void main() {
 		location lLoc = GetLocation(oNearest);
 		if(CanSee(16, 13, oNearest) && !GetIsDM(oNearest) && !GetIsDMPossessed(oNearest)) {
 			PerformPerceptionChecks(lLoc, 15, 10, "", "You detect " + IntToString(nNum) + " wyverns swooping down near you!");
-			AssignCommand(oNearest, DelayCommand(6.0, Spawn(OBJECT_SELF, lLoc, nNum)));
+			AssignCommand(oNearest, DelayCommand(18.0, Spawn(OBJECT_SELF, lLoc, nNum)));
 			return;
 		} else {
 			PerformPerceptionChecks(lLoc, 15, 10, "", "You detect " + IntToString(nNum) + " wyverns pass over you.");

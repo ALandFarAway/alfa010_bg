@@ -74,7 +74,7 @@ void CreateQuestStep(object QuestWP, int count)
 				CR = 5;
 				break;
 			case 1:
-				spawnedCritter = "abr_cr_vm_spider_huge";
+				spawnedCritter = "abr_cr_vm_spider_hugehunt";
 				spawnedCritterName = " monstrous spider";
 				CR = 5;
 				break;
@@ -171,7 +171,7 @@ void CreateQuestStep(object QuestWP, int count)
 				CR = 2;
 				break;
 			case 4:
-				spawnedCritter = "abr_cr_ve_spider_large";
+				spawnedCritter = "abr_cr_vm_spider_largehunt";
 				spawnedCritterName = " monstrous spider";
 				CR = 2;
 				break;
@@ -181,7 +181,7 @@ void CreateQuestStep(object QuestWP, int count)
 				CR = 1;
 				break;
 			case 6:
-				spawnedCritter = "abr_cr_vm_spider_medium";
+				spawnedCritter = "abr_cr_vm_spider_mediumhunt";
 				spawnedCritterName = " monstrous spider";
 				CR = 1;
 				break;
