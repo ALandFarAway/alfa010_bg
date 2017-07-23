@@ -69,7 +69,7 @@ void main() {
 	}
  else if(Random(5) > 0)
  	{ACR_SpawnObject("abr_cr_vm_spider_smallhunt", OBJECT_TYPE_CREATURE);
-	ACR_SpawnObject("abr_cr_vm_spider_small", OBJECT_TYPE_CREATURE);
+	ACR_SpawnObject("abr_cr_vm_spider_smallhunt", OBJECT_TYPE_CREATURE);
 	}
 
   
