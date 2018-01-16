@@ -1080,7 +1080,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C3CD8E7DFA881F03A443D1F38D4094EF102FEAF5" downloadHash="2B3F0A748D77568B544BA6C30E1D304F27C88C0C" name="tradeway_n_04_tavern.trx" dlsize="42888" size="42958" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8414EC6CEC4FBA84D4BA21710BFA483FC3C74919" downloadHash="561DA50D51156E7CDCA127E5F49A05182BDA6B39" name="tradeway_n_04_tavern.trx" dlsize="33421" size="33448" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3229,6 +3229,36 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="85C7089493025F5303462EB4558CD251BFDA3CC7" downloadHash="6A2ADCBDF0254F2D46C47E8BAC2815C6B8BBBA3B" name="candlekeep_wilds_n_2b_cave1.trx" dlsize="122320" size="1291286" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0A980469B222FC7173CFDD08C7B1396203AB5259" downloadHash="0B75174685ACD58A4B5F2A816104E87EE3E66D01" name="tradeway_s_04_fai_ext.trx" dlsize="2306117" size="12971053" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C2C38FB355A37B401A3815EA560A0906A10A4E90" downloadHash="23686401F4474DB6E36ADCCD8A4169A8F692453D" name="tradeway_n_03_citadel.trx" dlsize="1888211" size="10667259" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EC01EB1E659F51983BD7BE688153EEB375CEF122" downloadHash="3A05A7689DCCAAC079A2D0778AA2884783D1C372" name="tradeway_n_01_dragongate.trx" dlsize="2368149" size="9395463" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0EA0A4E0B3710668161C4D566E182B8A29E58C73" downloadHash="E8F440B9B395B77ABB5620CB1CF51C11E858E626" name="tradeway_n_04_tempus_tears.trx" dlsize="11552054" size="32574426" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="299C14B9687013C8E9C62595A6E2F8F68B9D1CE8" downloadHash="CBE58D12D6F946C2D89BF5B8988D38BA8DDCB7AE" name="tradeway_n_02_darfleet.trx" dlsize="5564585" size="24065169" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5D5A5934DA234D3CDADFB6CFA18341352D685AD9" downloadHash="CE88ADD3F5C9DE4FBAFA4E88000563CF77A33B33" name="tradeway_n_04_tempus_tears_int.trx" dlsize="248124" size="293088" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
