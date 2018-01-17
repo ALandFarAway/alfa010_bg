@@ -1080,7 +1080,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8414EC6CEC4FBA84D4BA21710BFA483FC3C74919" downloadHash="561DA50D51156E7CDCA127E5F49A05182BDA6B39" name="tradeway_n_04_tavern.trx" dlsize="33421" size="33448" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F74E7C15E377A9849915EFAA3ABDC9EF7B26882A" downloadHash="A9E0D38DBC458ACCF3E05E2F55E374EDAC93630E" name="tradeway_n_04_tavern.trx" dlsize="46748" size="46796" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3258,7 +3258,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5D5A5934DA234D3CDADFB6CFA18341352D685AD9" downloadHash="CE88ADD3F5C9DE4FBAFA4E88000563CF77A33B33" name="tradeway_n_04_tempus_tears_int.trx" dlsize="248124" size="293088" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="59988F052EAF716903F62A0D501BB291185E8B12" downloadHash="AD81E408ECBDE6FF420348537732A0638C6690A3" name="tradeway_n_04_tempus_tears_int.trx" dlsize="255286" size="300356" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
