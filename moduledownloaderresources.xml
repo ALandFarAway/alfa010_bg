@@ -1349,7 +1349,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C92E447C3D211F6F147D628124E4946E5D45F24D" downloadHash="AF3B5035D4B33820AE1BE41B51E7B9E1C57D88BB" name="und_n8_underway.trx" dlsize="1300697" size="11582157" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EBA4D539BD589381BE89B2F1682680C587C40AC1" downloadHash="11FD7EBA2818DDF6681EC83FEB618F2DBFCE5630" name="und_n8_underway.trx" dlsize="1305785" size="11581944" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1364,7 +1364,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2F8301A3D93F1094BEAE43D989FDD26097AF2CD4" downloadHash="FAEF4F968C8F613C4268C343CA5AE1A9BD723043" name="und_n4_underway.trx" dlsize="1691574" size="12151257" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="537B591AF486B3393C060111154D9E0613919BCD" downloadHash="F4856DD0D92FD9FB293F352AD26A3276A0E4C575" name="und_n4_underway.trx" dlsize="1563345" size="12021951" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1479,7 +1479,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A979B06C260E281D5314DD7CAF63D90DC7B0FA04" downloadHash="882124002A45FD1E390555B9D30A463FBB071BE5" name="und_z4_underway.trx" dlsize="640983" size="656214" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="030580B17A2DB75B7DD66E317018AADC7B0D34EE" downloadHash="A0F6918F26940B76118D8225AD4F91DC79342A3F" name="und_z4_underway.trx" dlsize="640936" size="656242" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1539,7 +1539,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4525B0CE75617876BE757EE9624947A3FA82C1CD" downloadHash="2D7CA14CDDA2550EC35DADD9CA81763695D68EF2" name="und_a5_forestcave.trx" dlsize="165360" size="166375" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EB8D03C596930E33132E3720E4C58F04A634020D" downloadHash="7BC6C92C5A5086E9D58DD504C83C1E091F510E68" name="und_a5_forestcave.trx" dlsize="162257" size="163160" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1594,7 +1594,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AA5655686FA28B16FC6B210DB857FD365C3F0CFE" downloadHash="6D59877ADFF8E065ADF98B54772B4CE7AEAA7390" name="und_z4_outpost.trx" dlsize="155276" size="243135" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="88B8CF4E595CA7CA0F2919194BF5D0854E5A2F24" downloadHash="41B89841695E661953C03C18ADB5061DF1B67B44" name="und_z4_outpost.trx" dlsize="148005" size="235376" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3248,7 +3248,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0EA0A4E0B3710668161C4D566E182B8A29E58C73" downloadHash="E8F440B9B395B77ABB5620CB1CF51C11E858E626" name="tradeway_n_04_tempus_tears.trx" dlsize="11552054" size="32574426" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="74CBAAB24E4D9A2A455F26B06CDFFDEA97948A9E" downloadHash="81B7E271125440784271A044E1DFCCDE4BE39F8E" name="tradeway_n_04_tempus_tears.trx" dlsize="11631725" size="32647816" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3259,6 +3259,81 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="59988F052EAF716903F62A0D501BB291185E8B12" downloadHash="AD81E408ECBDE6FF420348537732A0638C6690A3" name="tradeway_n_04_tempus_tears_int.trx" dlsize="255286" size="300356" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A5477AB861697A3E93851C74E6EB18BD44DAECDF" downloadHash="48615FE0D84FFDDDA961C2758B3E28C02F5D3577" name="candlekeep_lionsway_02_ruqel.trx" dlsize="3469236" size="16008037" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E50D8150111AA41B1831FA99A20DE4BD9775E2F9" downloadHash="7C7F9304F2AB934C60FC0622B66B5C6F2927E8F5" name="tradeway_s_13_dirtpath.trx" dlsize="1678358" size="10374889" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ED2C53524A78DF1343204F9C2E43F3A5EA161E12" downloadHash="99FEA90E684B330B23D878BAF9E0D50F07A33BE3" name="tradeway_s_06_lionsway_crsrd.trx" dlsize="1645159" size="10274661" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D43869EA89F23597A36F1B56BB7AAE54C553E236" downloadHash="1DBEA184EB0F489709C022B020A608C3A9FE8F6A" name="tradeway_s_08_highhedge.trx" dlsize="1023982" size="8542192" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B705B07D2189E2B22CF2B51A454EC02577443496" downloadHash="147D49BEC1BF3085823E6C586C6760308ABEBB88" name="tradeway_s_07_smlake.trx" dlsize="1750757" size="12145097" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6BBAC32DBC582AB1F836174153FAD2E4B2E1B8A7" downloadHash="26640C547CB9A4CEFFB4430FBE58E07C3062AF4E" name="tradeway_s_03_bridgefarm.trx" dlsize="2215524" size="14627345" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1224FEFA6AF26FB6E60991008F32BF6CC48814D4" downloadHash="9FA34E8870055D8EB6CCE77FBDCBA6625E8750B5" name="tradeway_s_11_crsrd_uldoontrail.trx" dlsize="2091003" size="13101546" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="059940CD831A7622550FE5077A94B9DB91E0E58C" downloadHash="1E741990FB67918BB44207F7745D369B1589C376" name="tradeway_s_10_inn_int.trx" dlsize="151754" size="419368" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7DAA0B819439CC0CA52162FC868D6A224F6A8687" downloadHash="9F6CC1D8D26A32A9717A952D9D566745656500E2" name="fields_ofthe_dead_ne_01.trx" dlsize="7064369" size="28992582" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="13796B84C32A2E41D3F5D4128FE787413659A8F6" downloadHash="FEC7FD4F6A22C2D7472461722F23EC16EF9F3C73" name="tradeway_s_12_highsong_abbey.trx" dlsize="1838949" size="12226193" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="99C1D658353480E11A2EBFC9566CDD11F1FFD2B4" downloadHash="2773639FDC75BFD56D35AD7CD02D1C27E59B99E7" name="tradeway_s_02_kylanderfarm.trx" dlsize="2167178" size="14431206" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0C87C454BF72BA66D6EFD34D2B97200581389A02" downloadHash="0F3FB644F29A79B6AA6E78F2B58E2E5C67BF322C" name="tradeway_s_10_jollycalishite.trx" dlsize="1281650" size="12036907" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7AAB33C755586A5E435443D3B68DDA8ED867B337" downloadHash="EB1A7E76DF602DC12B9751F203A430E2BA704F49" name="tradeway_s_01_eastgate.trx" dlsize="2313080" size="13771231" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="51C2F5DE73AE280FE60416F4C343EA7ADA84A913" downloadHash="87A2F992B1F337D2829526CBA7E1AE4CA7A91D7B" name="tradeway_s_05a_crystalshard.trx" dlsize="1594070" size="11817253" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="955B993CFC8E3C08E904914C51BAE4B42FBD31DD" downloadHash="637079AF78C6C1B1DA1B9455260358F8049079F1" name="tradeway_s_05b_canyon.trx" dlsize="4759401" size="21275694" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
