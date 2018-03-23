@@ -222,7 +222,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED7E3D22B69F37A405967010A44820A13E51B0A1" downloadHash="BBD0C3C9DD8F0948EABEAC9E3B5EF1FF39946AA0" name="bgcity-market.trx" dlsize="2598455" size="9553295" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4D4D0E89B25BC92F704AED275DF2DE08195ED046" downloadHash="1C21A367B168A3D71B8E7DAF98EC1E4578C77C5F" name="bgcity-market.trx" dlsize="2586932" size="9539431" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -624,7 +624,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A6752BB9DD4FA7A31175AD3E3628F28930F05626" downloadHash="52D42828D928753C28BFFAE1C14D0F4DBDFDE07C" name="bgcity-harborwest.trx" dlsize="3545137" size="15004835" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="99AE52995A1FDE4EF2EDA3A103C26AB3369E2C20" downloadHash="93E5F8D88CCB03620221D286DD725CA1512CC70B" name="bgcity-harborwest.trx" dlsize="3592036" size="15045733" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1038,7 +1038,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="61B61CA6E3D0B2C2C4C703695AAE4D238C035CBB" downloadHash="2280989114582C165E5CD565686DA8CDBDA2B8CE" name="bgcity-harboreast.trx" dlsize="2488749" size="11936942" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0283AEFA14F0D88327CC847B587DC8C884BDA987" downloadHash="58D428453638F1E01D74AF6DDF5589341A789391" name="bgcity-harboreast.trx" dlsize="2500447" size="11943252" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1364,7 +1364,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="537B591AF486B3393C060111154D9E0613919BCD" downloadHash="F4856DD0D92FD9FB293F352AD26A3276A0E4C575" name="und_n4_underway.trx" dlsize="1563345" size="12021951" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8E7FA17776A1F66CE0C8A27B349DCBB27CD1C9C1" downloadHash="56A8014840BBB884EC66A3403D06F6C4D4B2D86F" name="und_n4_underway.trx" dlsize="1554663" size="12016814" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3033,7 +3033,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05EFAAEC7000F74B0BE83C61A0B8270286C98418" downloadHash="42F2122CF0FF15587E8626D0DAA4CF19B547E9D5" name="und_sshamath_central.trx" dlsize="1790477" size="11477009" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DFDF4EC1222BABC464799E882B795319F85D45FD" downloadHash="9E5982FC5B139A162C76D85E7496C314FCE6259A" name="und_sshamath_central.trx" dlsize="1807146" size="11489101" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3068,7 +3068,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="62C2F687633F14F2C55E0B871CC05B581C9B7EA7" downloadHash="C9931FA7D442A4A8B872851F4A9145BB0D2701EB" name="und_sshamath_interior.trx" dlsize="25953" size="25956" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E19309B2A0493227B34A0FC52E6BB6F1D550760A" downloadHash="E8C2CF620C5B52CE7257FA5498420178CBDF9938" name="und_sshamath_interior.trx" dlsize="153075" size="153706" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3203,7 +3203,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EFF888A0DA11FB456BAF6521FD9A654D77EB14E2" downloadHash="C3BBD7A9048BED08FE07D1F067AF1878F15FB126" name="candlekeep_lionsway_02_deldiv.trx" dlsize="109328" size="152114" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F7D6FA4FABC13784B088CDABAA67B0A84D16051B" downloadHash="F3F02F3B11F2700ADAE80CEA13212DF524E766C0" name="candlekeep_lionsway_02_deldiv.trx" dlsize="114603" size="157835" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3303,7 +3303,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CFBC3B894362189602B39545B1FC4E100E560586" downloadHash="354E9F636A5AED231865347B830C890A7F02ADC7" name="fields_ofthe_dead_ne_01.trx" dlsize="7924274" size="30693917" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A347BC181092A7C11B29C05F04C34171596E7DDC" downloadHash="DA5A1FD049DC8142D1194200B705AB1E4D9F6770" name="fields_ofthe_dead_ne_01.trx" dlsize="7919748" size="30699388" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3338,7 +3338,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="640B79CADCB55848665CFF93F13C5C03CDC9BE9B" downloadHash="E1594DA9F9D5466904A6F7A4A211DE496FCE9094" name="fields_ofthe_dead_ne_01_int.trx" dlsize="219395" size="309467" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7709F005E582E0231BE4C07C4224A670DB511F00" downloadHash="F292BEC1DC51609834FC4A8C87498F798341FDF2" name="fields_ofthe_dead_ne_01_int.trx" dlsize="237316" size="371564" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
