@@ -3248,7 +3248,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E71B70376679437BFAD200E996AF754DCF69E3FD" downloadHash="A6FA9002374D3D8B2364072A8BBE89C4071C1505" name="tradeway_n_04_tempus_tears.trx" dlsize="11598004" size="32616269" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A5C04F8759AD82E1C0196781181A98C494396AAF" downloadHash="8FCCEF6DA3FC17B19638DD48BD2BBBD0C573A3A5" name="tradeway_n_04_tempus_tears.trx" dlsize="11628495" size="32639689" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3258,7 +3258,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="59988F052EAF716903F62A0D501BB291185E8B12" downloadHash="AD81E408ECBDE6FF420348537732A0638C6690A3" name="tradeway_n_04_tempus_tears_int.trx" dlsize="255286" size="300356" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6572E4EF948AF75C65908BAA7D6A7DA441A8AE6A" downloadHash="AE17477E37E57DA4E733619879E45598E3B51534" name="tradeway_n_04_tempus_tears_int.trx" dlsize="245077" size="290109" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3303,7 +3303,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="87AE70F752C809A7D51EEE92D2CD5518B508A20A" downloadHash="EADF2A3FCB55A95625862C415DDA27CA162A0EF1" name="fields_ofthe_dead_ne_01.trx" dlsize="8320718" size="31101072" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8936E52480347181A4ED7CFF310125BE56E1CF51" downloadHash="BED93CDE5D63DEEC1239B1F8BD568C5D0318A65F" name="fields_ofthe_dead_ne_01.trx" dlsize="8351589" size="31102429" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3339,6 +3339,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="2D555924C2D8AD7997B8644C6B7608DDC9DA6211" downloadHash="D3D867BA09563D497F33CC668671F5F22BEB1CC4" name="fields_ofthe_dead_ne_01_int.trx" dlsize="228293" size="362469" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ECCA8C7A450394271A1CBC3C730690D07BBA705C" downloadHash="FB2D91B4B247156091E266B7EECC9ABA17E9C16F" name="tradeway_s_09_southofbergost.trx" dlsize="2583515" size="17485411" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="82E3733A2BDB14A44401635755EE51156A888DC0" downloadHash="A3EEE1A56306BE081AB69326ED201F2C4421233F" name="uldoon_trail_01_ext_tower.trx" dlsize="7137062" size="25105412" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
