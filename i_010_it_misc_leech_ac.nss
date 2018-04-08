@@ -4,7 +4,6 @@ void main()
 {
 	object oPC  = GetItemActivator();
 	object oTarget = GetItemActivatedTarget();
-	string sMsg = "They worked!";
 
 	if (GetDistanceBetween(oPC, oTarget) <= FLOAT_RANGE_SHORT)
 	{
@@ -13,7 +12,7 @@ void main()
 		AssignCommand(oPC, ActionSpeakString("*applies some leeches on "+GetName(oTarget)+"*"));
 		if (iLeech >= 90)
 		{
-			sMsg = "They worked!";
+			SendMessageToPC(oPC, "The leeches seem to have helped!");
 
 			effect eEffect = GetFirstEffect(oTarget);
 
@@ -29,13 +28,13 @@ void main()
 		}
 		else
 		{
-			sMsg = "They didn't seem to help.";
+			SendMessageToPC(oPC, "The leeches didn't seem to help.");
 
 			if (iLeech <= 25)
 				ApplyEffectToObject(DURATION_TYPE_INSTANT,EffectDamage(1,DAMAGE_TYPE_PIERCING),oTarget);
 		}
 
-		AssignCommand(oPC, ActionSpeakString(sMsg));
+		AssignCommand(oPC, ActionSpeakString("The leeches seem to have harmed your patient!"));
 	}
 	else
 	{
