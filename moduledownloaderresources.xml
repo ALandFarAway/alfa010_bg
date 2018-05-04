@@ -3142,7 +3142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A5C04F8759AD82E1C0196781181A98C494396AAF" downloadHash="8FCCEF6DA3FC17B19638DD48BD2BBBD0C573A3A5" name="tradeway_n_04_tempus_tears.trx" dlsize="11628495" size="32639689" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="768B91214D0B71C508471AF581252AB6F3D970F6" downloadHash="BF65DAEA1F1A90CD1F58BFC69AD473B8742A81A7" name="tradeway_n_04_tempus_tears.trx" dlsize="11588307" size="32614833" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3197,7 +3197,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8936E52480347181A4ED7CFF310125BE56E1CF51" downloadHash="BED93CDE5D63DEEC1239B1F8BD568C5D0318A65F" name="fields_ofthe_dead_ne_01.trx" dlsize="8351589" size="31102429" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6F9E00D624102CC1C1D86F3B374FD186BD8CB490" downloadHash="94E4B17D6CF789549E730FA9678EAF2664676791" name="fields_ofthe_dead_ne_01.trx" dlsize="8448360" size="31310562" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3232,7 +3232,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2D555924C2D8AD7997B8644C6B7608DDC9DA6211" downloadHash="D3D867BA09563D497F33CC668671F5F22BEB1CC4" name="fields_ofthe_dead_ne_01_int.trx" dlsize="228293" size="362469" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="800335E9F1647DB5E37FE9527357148EE0D1B201" downloadHash="BC6836B8F3D747D47158B40A01761D0226D9D543" name="fields_ofthe_dead_ne_01_int.trx" dlsize="228422" size="362497" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
