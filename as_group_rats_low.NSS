@@ -50,13 +50,13 @@ void main();
 
 void main() {
 
-ACR_SpawnObject("010_cr_rat", OBJECT_TYPE_CREATURE);
-ACR_SpawnObject("010_cr_rat", OBJECT_TYPE_CREATURE);
+ACR_SpawnObject("010_cr_an_rat", OBJECT_TYPE_CREATURE);
+ACR_SpawnObject("010_cr_ratdire", OBJECT_TYPE_CREATURE);
 if(Random(5) > 2)
- 	{ACR_SpawnObject("010_cr_rat", OBJECT_TYPE_CREATURE);}
+ 	{ACR_SpawnObject("010_cr_ratdire2", OBJECT_TYPE_CREATURE);}
 if(Random(5) > 2)
- 	{ACR_SpawnObject("010_cr_rat", OBJECT_TYPE_CREATURE);}
+ 	{ACR_SpawnObject("010_cr_ratdire3", OBJECT_TYPE_CREATURE);}
 if(Random(5) > 2)
- 	{ACR_SpawnObject("010_cr_rat", OBJECT_TYPE_CREATURE);}
+ 	{ACR_SpawnObject("010_cr_ratdire4", OBJECT_TYPE_CREATURE);}
   
 }
