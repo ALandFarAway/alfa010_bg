@@ -2649,7 +2649,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1B5762DE90C76DA4BFC0F64077D4B4B1AFB98C0B" downloadHash="A83FB7D7B83D770BC4B42D433A2E1D4C5A53848E" name="tradeway_n_03_barracks.trx" dlsize="255834" size="344832" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5870E9654BEC16E9CA6A723CB06A25070630622B" downloadHash="3F2B3B384B690AAE2D8CBD47BE20C460D5BC4A24" name="tradeway_n_03_barracks.trx" dlsize="253022" size="342219" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3132,7 +3132,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C2C38FB355A37B401A3815EA560A0906A10A4E90" downloadHash="23686401F4474DB6E36ADCCD8A4169A8F692453D" name="tradeway_n_03_citadel.trx" dlsize="1888211" size="10667259" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E849B3253CC6107DA2DAE11DC741B7DC577470BD" downloadHash="99128E26C8320F54A0C0FD0A29436252307766E9" name="tradeway_n_03_citadel.trx" dlsize="1954140" size="10666344" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3243,6 +3243,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="82E3733A2BDB14A44401635755EE51156A888DC0" downloadHash="A3EEE1A56306BE081AB69326ED201F2C4421233F" name="uldoon_trail_01_ext_tower.trx" dlsize="7137062" size="25105412" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EC0B3C0EF8487A6720ECC1CDAE010E7D6F865DBE" downloadHash="E0544D517A5982277F4D4CBB2D40407E2614BE79" name="tradeway_n_03_citadel_temp.trx" dlsize="220351" size="223819" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
