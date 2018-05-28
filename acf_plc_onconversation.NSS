@@ -47,4 +47,12 @@ void main()
     ACR_PlaceableOnConversation();
 
     // Custom code goes here.
+	
+
+	object oUser = GetLastUsedBy();
+    ActionStartConversation(oUser);
 }
+	
+	
+	
+	

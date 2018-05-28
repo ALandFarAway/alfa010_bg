@@ -3132,7 +3132,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="59C608EFA796392FB73046B871CB65D0F7EEC8D5" downloadHash="692F47B31D39C78B8764205B130AE2D3E6812031" name="tradeway_n_03_citadel.trx" dlsize="2008888" size="10708327" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F6703C17A03D9189B45CF02C4650DFF3836D214D" downloadHash="C7BF21E1C610E30A1DEC71235AC4A2924C7F430E" name="tradeway_n_03_citadel.trx" dlsize="1995616" size="10692393" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3247,7 +3247,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="496E9FAE96DC7E76D9FD90E71CAAE763421FA32E" downloadHash="827375C23B0374D11165DBAAE2C67E0A1CB027A9" name="tradeway_n_03_citadel_temp.trx" dlsize="360311" size="365356" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="80CA1710EA60471E6EC4840F568FF694E586FE2A" downloadHash="A77C5019689ADF3D61009245221C0D1E3E456794" name="tradeway_n_03_citadel_temp.trx" dlsize="362387" size="367207" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
