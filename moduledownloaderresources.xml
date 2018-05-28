@@ -3252,4 +3252,14 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="268AFE673BDBAD43B35E043E296F45E875834850" downloadHash="F08F5BDB1A856D8FFB7397B57EE325DBEE876774" name="tradeway_n_02_dar_cave1.trx" dlsize="75298" size="76082" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="12EE1FA655F27BA5CED97DE4E9E6C2AA3C1170A7" downloadHash="FA27D25EAF171809466410E4C4189C9307D4AD9D" name="tradeway_n_02_dar_cave0.trx" dlsize="64708" size="107456" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>

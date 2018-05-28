@@ -51,4 +51,7 @@ void main() {
   
     // Custom code goes here.
 	
+	object oUser = GetLastUsedBy();
+    ActionStartConversation(oUser);
+	
 }
