@@ -3097,7 +3097,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F7D6FA4FABC13784B088CDABAA67B0A84D16051B" downloadHash="F3F02F3B11F2700ADAE80CEA13212DF524E766C0" name="candlekeep_lionsway_02_deldiv.trx" dlsize="114603" size="157835" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="53C061DBB9B317505BC4B5A34B61F242B2A58EFD" downloadHash="B5F2B51B8CA7DBD92FBF581EC0098F6907C1A9EC" name="candlekeep_lionsway_02_deldiv.trx" dlsize="108928" size="151747" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3247,7 +3247,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="80CA1710EA60471E6EC4840F568FF694E586FE2A" downloadHash="A77C5019689ADF3D61009245221C0D1E3E456794" name="tradeway_n_03_citadel_temp.trx" dlsize="362387" size="367207" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6B24FAB0C3556469906427C338F1EE26D81342E2" downloadHash="73093ED066F4FAE3FE06C312BD044F781BE67EEC" name="tradeway_n_03_citadel_temp.trx" dlsize="367280" size="372393" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
