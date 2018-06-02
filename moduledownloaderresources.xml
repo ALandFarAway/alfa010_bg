@@ -240,7 +240,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D4D0E89B25BC92F704AED275DF2DE08195ED046" downloadHash="1C21A367B168A3D71B8E7DAF98EC1E4578C77C5F" name="bgcity-market.trx" dlsize="2586932" size="9539431" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8320B259DEF769ECF371D048185EF2C7B3ADB724" downloadHash="5DF1A0A55958CDA3B74B04DC012C2A5CF88731DC" name="bgcity-market.trx" dlsize="2576361" size="9533230" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3247,7 +3247,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="27B14D693C6E5D51BC3D103BB79B954B1955527C" downloadHash="90464ECDCDF12DC25EF11C706D3E3F920D317390" name="tradeway_n_03_citadel_temp.trx" dlsize="387321" size="392278" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="95DC02F2411647E354C10B2F27291F50B6005B88" downloadHash="72C0301847CF6B4776ED651529EBB4339E7D0417" name="tradeway_n_03_citadel_temp.trx" dlsize="385761" size="390799" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
