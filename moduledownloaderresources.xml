@@ -3197,7 +3197,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="59C1994FD63C27D3E43F35EC8F38677497F16C93" downloadHash="D65EDAF258EBB135B3563FA62B15137B81849281" name="fields_ofthe_dead_ne_01.trx" dlsize="8493687" size="31462998" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1BB45ABD1EA8470B67058807D01DAD9422E2A5C9" downloadHash="D6F291B8E3129DE9F590FA2752E2B355C949D8DF" name="fields_ofthe_dead_ne_01.trx" dlsize="8527492" size="31486894" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3232,7 +3232,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BF1A6C7554A629EABA066674625FD5A24AB33A4E" downloadHash="4725E0C22FB527A9F3E341D694DB267E90D974B4" name="fields_ofthe_dead_ne_01_int.trx" dlsize="228415" size="362496" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1DB9555D16E57AEAB15D104FEBA59102F87ED26E" downloadHash="9D1E511BC899873746F572841411D91620E4205E" name="fields_ofthe_dead_ne_01_int.trx" dlsize="433387" size="614597" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
