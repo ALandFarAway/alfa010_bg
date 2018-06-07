@@ -2649,7 +2649,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="177F0D58AE9614217FE38A1C333ECA29CD6BCF2E" downloadHash="910DA5E29418E4A9CC39D82AAE2E77A90BEB2B62" name="tradeway_n_03_barracks.trx" dlsize="254321" size="343439" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9744B9F1C8A02F2DDA90C27381FF056E87ED2720" downloadHash="1538D6A54D7A6ABD9CE2C0756E1EE56CC3D03A18" name="tradeway_n_03_barracks.trx" dlsize="253644" size="342801" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
