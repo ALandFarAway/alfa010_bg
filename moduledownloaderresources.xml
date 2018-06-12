@@ -3217,7 +3217,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7AAB33C755586A5E435443D3B68DDA8ED867B337" downloadHash="EB1A7E76DF602DC12B9751F203A430E2BA704F49" name="tradeway_s_01_eastgate.trx" dlsize="2313080" size="13771231" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7B1795CC4E5F1382F7E1962A8E83FD9215D35E71" downloadHash="28B7C0F9D88B2323B83160D0972503EB7B7CC617" name="tradeway_s_01_eastgate.trx" dlsize="2304035" size="13757496" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
