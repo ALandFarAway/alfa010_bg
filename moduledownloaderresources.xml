@@ -222,7 +222,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="27CE650A8C0E0EED06309053BC0772B77C407791" downloadHash="6177B40324218A94425BEB0E51CD47E0B9752009" name="bg-lower_slum.trx" dlsize="24606" size="24576" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3205F73C7827AD212A09120C84FEA3C5B551AC87" downloadHash="8225DFE372A70219C334C772EBC27E945FA1517B" name="bg-lower_slum.trx" dlsize="25379" size="25306" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3197,7 +3197,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1BB45ABD1EA8470B67058807D01DAD9422E2A5C9" downloadHash="D6F291B8E3129DE9F590FA2752E2B355C949D8DF" name="fields_ofthe_dead_ne_01.trx" dlsize="8527492" size="31486894" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="564160D2A1CF40FF832CB3B3FEE70099399F42F6" downloadHash="D317B6141D46B9F7C89B4D0C80EFF98DF2B451FC" name="fields_ofthe_dead_ne_01.trx" dlsize="8545417" size="31505401" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3258,6 +3258,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="12EE1FA655F27BA5CED97DE4E9E6C2AA3C1170A7" downloadHash="FA27D25EAF171809466410E4C4189C9307D4AD9D" name="tradeway_n_02_dar_cave0.trx" dlsize="64708" size="107456" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5FAFF50E57D915CD5A3A0A123D3798CEEF26E058" downloadHash="BEEF38E8CE4FFA146CCF5EFA89846F65E5E86DCE" name="fields_ofthe_dead_ne_01_caves.trx" dlsize="434022" size="616343" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D147E60FF282645C3529D9598F96340D744E9509" downloadHash="0514FCB9B35F7D874ED3BEB862C1D023077E899A" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="141388" size="143780" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
