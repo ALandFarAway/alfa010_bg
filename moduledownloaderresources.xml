@@ -270,7 +270,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EDF28F15562A91303C386275C49FF7E721980217" downloadHash="9D8E9E5B0D5270A0E1211392F8782765967D1960" name="bg-lower_mermaid.trx" dlsize="287390" size="289216" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="33C5DD73A6176987CE437E84E2EBC61511FFC66E" downloadHash="60FA321DAC1123EE861EAC6FD74099145BDF1A26" name="bg-lower_mermaid.trx" dlsize="270606" size="272256" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -624,7 +624,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0243133FBDBB2FC4FC21647FA654792D6B9B535E" downloadHash="5D689BECE19EA8B023DAD54BE1E6D6A00A785DE5" name="bg-lower_warehouse.trx" dlsize="82458" size="82963" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CC5D72EE6F1E3A5CC3B41C3CEC903B4F98BA90BA" downloadHash="23447C4320B3C873725AA2E1F0A4549FD1D933B7" name="bg-lower_warehouse.trx" dlsize="82457" size="82965" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -948,7 +948,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0283AEFA14F0D88327CC847B587DC8C884BDA987" downloadHash="58D428453638F1E01D74AF6DDF5589341A789391" name="bgcity-harboreast.trx" dlsize="2500447" size="11943252" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B7C715CE79262FA3596844FF40C49110D1519689" downloadHash="7DD509789AE9BE15C2EFCB14E67C6D3320183389" name="bgcity-harboreast.trx" dlsize="2552009" size="11989168" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2811,7 +2811,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9D875A620E6DF946C457CC8AC4D16841BBBD24C1" downloadHash="1C87D43F5E97DD12F47196C62D499D440A16962F" name="unlinked_noblehouse.trx" dlsize="44386" size="44449" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="58A91F2B25AC8DF387904C2CDA18FC422492688B" downloadHash="E0D016F8E27603368EF08411A128C9E67997FAC4" name="unlinked_noblehouse.trx" dlsize="49969" size="50050" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3268,6 +3268,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D147E60FF282645C3529D9598F96340D744E9509" downloadHash="0514FCB9B35F7D874ED3BEB862C1D023077E899A" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="141388" size="143780" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A5348336FFE22C87E349956BFDBF364FDE8C743F" downloadHash="B098859349D54E6F3B8A7771F445DB2C5B9C4725" name="bg-lower_warehouses.trx" dlsize="356424" size="363965" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
