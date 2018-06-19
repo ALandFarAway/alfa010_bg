@@ -948,7 +948,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B7C715CE79262FA3596844FF40C49110D1519689" downloadHash="7DD509789AE9BE15C2EFCB14E67C6D3320183389" name="bgcity-harboreast.trx" dlsize="2552009" size="11989168" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F28A9ADEB28CE42E1C2D7552C6EE685CA13390FF" downloadHash="7F924D9A9735652C23E89B503262E592CB39DB1C" name="bgcity-harboreast.trx" dlsize="2553443" size="11989574" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3197,7 +3197,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="564160D2A1CF40FF832CB3B3FEE70099399F42F6" downloadHash="D317B6141D46B9F7C89B4D0C80EFF98DF2B451FC" name="fields_ofthe_dead_ne_01.trx" dlsize="8545417" size="31505401" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9DB538599FE30AD8210E418D5AA620720FDAAD08" downloadHash="F10F4BFA4D373952883F508EA20BF0A2969EEF68" name="fields_ofthe_dead_ne_01.trx" dlsize="8534338" size="31506742" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3267,12 +3267,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D147E60FF282645C3529D9598F96340D744E9509" downloadHash="0514FCB9B35F7D874ED3BEB862C1D023077E899A" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="141388" size="143780" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="23654304CCD8C99612D735B7B4B9B95076F60694" downloadHash="02236FBAEF41877E4A905C798E13CF961843F272" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="143137" size="145535" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A5348336FFE22C87E349956BFDBF364FDE8C743F" downloadHash="B098859349D54E6F3B8A7771F445DB2C5B9C4725" name="bg-lower_warehouses.trx" dlsize="356424" size="363965" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D800CCBAEA67888DFA0E04094773A5AB7FDA0AA2" downloadHash="3EFEF661F142C87F143DCBA4BA85E133598E51FA" name="bg-lower_warehouses.trx" dlsize="352413" size="360074" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
