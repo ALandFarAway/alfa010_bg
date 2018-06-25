@@ -570,7 +570,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="99AE52995A1FDE4EF2EDA3A103C26AB3369E2C20" downloadHash="93E5F8D88CCB03620221D286DD725CA1512CC70B" name="bgcity-harborwest.trx" dlsize="3592036" size="15045733" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A4327189FD2F45FEDDF1B513027006153368F8A" downloadHash="047543FBEC9613684C003FA9DE6630DF46A99204" name="bgcity-harborwest.trx" dlsize="3584721" size="15032910" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3273,6 +3273,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D800CCBAEA67888DFA0E04094773A5AB7FDA0AA2" downloadHash="3EFEF661F142C87F143DCBA4BA85E133598E51FA" name="bg-lower_warehouses.trx" dlsize="352413" size="360074" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EF40E27FF7236B9D69BB323B2C7A821739EA2874" downloadHash="9FC0094847823D96D890C3EB30B2DC7D7BD521BE" name="bg-lower_e_warehouses.trx" dlsize="333095" size="342695" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="622C7F64B481A66284A8DD36D29450390DF6ACA3" downloadHash="C14871E7EF41F937F13906196E5A23C6F8D40B80" name="bg-lower_guildhall.trx" dlsize="122939" size="124658" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
