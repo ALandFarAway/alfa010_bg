@@ -570,7 +570,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5A4327189FD2F45FEDDF1B513027006153368F8A" downloadHash="047543FBEC9613684C003FA9DE6630DF46A99204" name="bgcity-harborwest.trx" dlsize="3584721" size="15032910" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="85068C56CF04A43AB6D86B59E3B5C8908714793C" downloadHash="D71DE7D2531E64F190600EB69402DCDBD58FE337" name="bgcity-harborwest.trx" dlsize="3577813" size="15032930" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3207,7 +3207,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="99C1D658353480E11A2EBFC9566CDD11F1FFD2B4" downloadHash="2773639FDC75BFD56D35AD7CD02D1C27E59B99E7" name="tradeway_s_02_kylanderfarm.trx" dlsize="2167178" size="14431206" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="96C86EC5D268DCC91CA8132634F0F43B8AAFB6EA" downloadHash="3FCB9EF7F0AB03BAAADC52447E90F8BD301F765C" name="tradeway_s_02_kylanderfarm.trx" dlsize="2131793" size="14399180" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3282,7 +3282,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="622C7F64B481A66284A8DD36D29450390DF6ACA3" downloadHash="C14871E7EF41F937F13906196E5A23C6F8D40B80" name="bg-lower_guildhall.trx" dlsize="122939" size="124658" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ACEE970E40F47C6647DAB6550E2E5542A5CA29AE" downloadHash="F575E4B6166230B87C278CAA4AC2159C68024C42" name="bg-lower_guildhall.trx" dlsize="124815" size="126554" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
