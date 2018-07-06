@@ -3287,4 +3287,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="C171070E58DB64FD5964214E5EA77231549E77C4" downloadHash="26F29BD03572D17206ED06E790AB342645DB54B3" name="tradeway_n_04_tower_biddle.trx" dlsize="27977" size="28020" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
