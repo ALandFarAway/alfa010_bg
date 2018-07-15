@@ -228,7 +228,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9509ABD5234F1DF0D975FB09595336BFFF3E07AE" downloadHash="7A04FA029C8B48CD3E8B0141E6ECF5892BBB21BD" name="bg-upper_swordsedge.trx" dlsize="161048" size="205611" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CC15A9DB39F36E367884015419524B9B1D07BC4E" downloadHash="BD328AFC8C889BF3C5F32D2A5D3BB8DD4770F221" name="bg-upper_swordsedge.trx" dlsize="160948" size="205158" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -240,7 +240,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8320B259DEF769ECF371D048185EF2C7B3ADB724" downloadHash="5DF1A0A55958CDA3B74B04DC012C2A5CF88731DC" name="bgcity-market.trx" dlsize="2576361" size="9533230" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2D9C3EF4B8CF26E490FA75F8A1D52FBFD6B642F5" downloadHash="2E4E54CD3491ACA76CC6BA31AD5828E103A645AF" name="bgcity-market.trx" dlsize="2580336" size="9535927" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3277,12 +3277,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EF40E27FF7236B9D69BB323B2C7A821739EA2874" downloadHash="9FC0094847823D96D890C3EB30B2DC7D7BD521BE" name="bg-lower_e_warehouses.trx" dlsize="333095" size="342695" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F332735AADA5976268B12A550E28BA139E994E14" downloadHash="1EAA96CEA5F4D7338833F78E6CA2D0B9CDA27DDD" name="bg-lower_e_warehouses.trx" dlsize="331924" size="339548" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ACEE970E40F47C6647DAB6550E2E5542A5CA29AE" downloadHash="F575E4B6166230B87C278CAA4AC2159C68024C42" name="bg-lower_guildhall.trx" dlsize="124815" size="126554" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41B0AE57DED6295DEC11D243A5CD9ED33BB4417C" downloadHash="B40717454594595EEACA2C76E42CAE0EACA037F5" name="bg-lower_guildhall.trx" dlsize="147788" size="149434" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
