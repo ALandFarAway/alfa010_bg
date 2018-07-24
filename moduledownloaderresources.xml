@@ -228,7 +228,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC15A9DB39F36E367884015419524B9B1D07BC4E" downloadHash="BD328AFC8C889BF3C5F32D2A5D3BB8DD4770F221" name="bg-upper_swordsedge.trx" dlsize="160948" size="205158" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="17F6C51CB393BEA777B46F28C8AD3A65E2EEE0DC" downloadHash="21187A4A69F3557E7DB67F2EC39E6E39323CE596" name="bg-upper_swordsedge.trx" dlsize="160807" size="205144" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3288,6 +3288,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C171070E58DB64FD5964214E5EA77231549E77C4" downloadHash="26F29BD03572D17206ED06E790AB342645DB54B3" name="tradeway_n_04_tower_biddle.trx" dlsize="27977" size="28020" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0F10B96100B3A29A5BC732CD320962CEA0BE21E8" downloadHash="5F14E31CAD830688C8449E18CD37A5DCD5EBE080" name="bg-lower_festhall_luckysword.trx" dlsize="70973" size="71178" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ECC810A40EB0B880C08A3C3D843029D0F9249925" downloadHash="18DBCD7DA7B4BE0B7745F08B8FAFEF187747D087" name="unlinked_misc houses.trx" dlsize="110666" size="111698" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
