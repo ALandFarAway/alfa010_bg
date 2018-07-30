@@ -3147,7 +3147,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="299C14B9687013C8E9C62595A6E2F8F68B9D1CE8" downloadHash="CBE58D12D6F946C2D89BF5B8988D38BA8DDCB7AE" name="tradeway_n_02_darfleet.trx" dlsize="5564585" size="24065169" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7000A5A042C532782DDEFC6D00BA2146F977974" downloadHash="A7DB705DF21F36136CD50FE1FBA22B52A5BADBE0" name="tradeway_n_02_darfleet.trx" dlsize="5499986" size="23995636" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3298,6 +3298,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="ECC810A40EB0B880C08A3C3D843029D0F9249925" downloadHash="18DBCD7DA7B4BE0B7745F08B8FAFEF187747D087" name="unlinked_misc houses.trx" dlsize="110666" size="111698" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EB4849B71E9C67724C82B3197874EDA67796C638" downloadHash="8B7B72716D64CDFC268489A2ED6EFDFE2BBE9C78" name="candlekeep_wilds_n_1b_ponds.trx" dlsize="2528463" size="15330871" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4E978E4A0CC876A191803548534A6300148A8531" downloadHash="599FA482263C231D639A66713048EF870C8BC006" name="tradeway_nw_02a.trx" dlsize="3219269" size="17095459" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
