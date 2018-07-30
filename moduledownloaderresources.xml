@@ -3147,7 +3147,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A7000A5A042C532782DDEFC6D00BA2146F977974" downloadHash="A7DB705DF21F36136CD50FE1FBA22B52A5BADBE0" name="tradeway_n_02_darfleet.trx" dlsize="5499986" size="23995636" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8614DA37E002E182B0DDCEDB8CF8C8F5DBEEE360" downloadHash="E1FC960388D46A755184C51EE53A34487E29331B" name="tradeway_n_02_darfleet.trx" dlsize="5494317" size="23995632" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3297,7 +3297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ECC810A40EB0B880C08A3C3D843029D0F9249925" downloadHash="18DBCD7DA7B4BE0B7745F08B8FAFEF187747D087" name="unlinked_misc houses.trx" dlsize="110666" size="111698" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9764B439967BF7881696EF7AF6C381FAAA1CC2C9" downloadHash="7B33F7795A0F99C42EAD6F52FA98596D312BE2F7" name="unlinked_misc houses.trx" dlsize="110590" size="111545" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3308,6 +3308,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="4E978E4A0CC876A191803548534A6300148A8531" downloadHash="599FA482263C231D639A66713048EF870C8BC006" name="tradeway_nw_02a.trx" dlsize="3219269" size="17095459" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C4079934AE248A24FBFAA3DFB4B3B53ACA261C8E" downloadHash="C4464A34C3A922B7968F446899CE7AFCF8692FDC" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3341450" size="17228024" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
