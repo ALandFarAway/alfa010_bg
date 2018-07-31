@@ -3147,7 +3147,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8614DA37E002E182B0DDCEDB8CF8C8F5DBEEE360" downloadHash="E1FC960388D46A755184C51EE53A34487E29331B" name="tradeway_n_02_darfleet.trx" dlsize="5494317" size="23995632" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3B148B8E209EFBFEE52EA38BA70EB46DE0202450" downloadHash="29FD5385D75BCE4CE25C07654832FBBA6D13792F" name="tradeway_n_02_darfleet.trx" dlsize="5496416" size="24003913" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3312,7 +3312,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C4079934AE248A24FBFAA3DFB4B3B53ACA261C8E" downloadHash="C4464A34C3A922B7968F446899CE7AFCF8692FDC" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3341450" size="17228024" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D4638E488160D7FEC8D93C42D32D2FD18AC4354A" downloadHash="C7688775731F80960E31695FCCE0A472B97CF380" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3712829" size="18177698" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BA29AE9EEAC66A69B4688532DD0DD0F8F310E7AE" downloadHash="077B6D1E0A37EA5F71AF588AB2834EAF1E697922" name="tradeway_nw_02a_temple.trx" dlsize="69363" size="70013" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
