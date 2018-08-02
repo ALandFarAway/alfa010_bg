@@ -3312,7 +3312,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E98338874EFA6084FC2BEB5BB1F064F469FE24B3" downloadHash="F8D00D57E16629D04055C93E0A26EFE4C7473A6E" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3729558" size="18182516" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7FB87B40032C534946BC786F15BE044DBAEBBBAE" downloadHash="521ACE0F1B6277D3774742C71C8D835FCDFCCB6E" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3729176" size="18178774" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
