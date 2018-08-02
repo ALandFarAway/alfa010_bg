@@ -3312,12 +3312,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D4638E488160D7FEC8D93C42D32D2FD18AC4354A" downloadHash="C7688775731F80960E31695FCCE0A472B97CF380" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3712829" size="18177698" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E98338874EFA6084FC2BEB5BB1F064F469FE24B3" downloadHash="F8D00D57E16629D04055C93E0A26EFE4C7473A6E" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3729558" size="18182516" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BA29AE9EEAC66A69B4688532DD0DD0F8F310E7AE" downloadHash="077B6D1E0A37EA5F71AF588AB2834EAF1E697922" name="tradeway_nw_02a_temple.trx" dlsize="69363" size="70013" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FA1A2F97D434D503D57CCBFBCE7D6DAA77F57AAF" downloadHash="40FBEB780D7C7BC56184A3A99A449E0E59FCF408" name="tradeway_nw_02a_temple.trx" dlsize="247012" size="250208" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
