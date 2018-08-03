@@ -3317,7 +3317,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FA1A2F97D434D503D57CCBFBCE7D6DAA77F57AAF" downloadHash="40FBEB780D7C7BC56184A3A99A449E0E59FCF408" name="tradeway_nw_02a_temple.trx" dlsize="247012" size="250208" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C35B2AF35240CD5CD9F4C510046D6A7A052CA12A" downloadHash="66693F9E226DCED1A2C095E19EE14E2055724F88" name="tradeway_nw_02a_temple.trx" dlsize="258959" size="262186" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
