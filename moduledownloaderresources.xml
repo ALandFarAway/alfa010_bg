@@ -486,7 +486,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0FCBC6484B3972BC75EAE29573CD28055B5084F6" downloadHash="6B2798A29BF706583180A1FD02163D7FD1967F88" name="sharpteeth_03.trx" dlsize="2555315" size="15189199" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E373F77B817ADB447DCEC0D62AC501F2B292E459" downloadHash="A429B306858238FE37E8BEFA7DF77C8496D0A608" name="sharpteeth_03.trx" dlsize="2555688" size="15189190" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3237,7 +3237,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ECCA8C7A450394271A1CBC3C730690D07BBA705C" downloadHash="FB2D91B4B247156091E266B7EECC9ABA17E9C16F" name="tradeway_s_09_southofbergost.trx" dlsize="2583515" size="17485411" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B8FC933F2E8579941C137F0E20BBB503C8A14C28" downloadHash="0E614F9F242FAA6700CB70A0112F19F3170D2085" name="tradeway_s_09_southofbergost.trx" dlsize="2595990" size="17501419" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3312,12 +3312,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B36A4815FBE8F2D4AABD5A305DE404BC412E8E16" downloadHash="494503B0197F3B3E68772192423E9128D6818528" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3849048" size="18263538" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="68D401CA5A71D6EF7FE885E81B0A81C921B1F60E" downloadHash="F58797A62A9C487067EFE0C3639FABDCA55DD11C" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3782163" size="18190386" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C35B2AF35240CD5CD9F4C510046D6A7A052CA12A" downloadHash="66693F9E226DCED1A2C095E19EE14E2055724F88" name="tradeway_nw_02a_temple.trx" dlsize="258959" size="262186" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8E6D091089DF3908E6E3FCBAC7F225F69B6F1A68" downloadHash="BD0EFE3A37D06AF8BE98BF639F8F4A4D369531DA" name="tradeway_nw_02a_abbey.trx" dlsize="303039" size="305864" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
