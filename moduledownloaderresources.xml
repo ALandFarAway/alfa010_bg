@@ -810,7 +810,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DDE5FF7909BD1F9666B921C25639B8BC17F0AF32" downloadHash="3743FF7EAB6DFA54BE793428BF8E576DC72E3F98" name="candlekeep.trx" dlsize="2113808" size="18578802" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="29EF8BBA1B9866C7DDCCA9DE6F9D6328B921A918" downloadHash="0D95E3460E01EFB951723280EB36A3206718B851" name="candlekeep.trx" dlsize="2122460" size="18578805" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1116,7 +1116,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A73D9F3F1F6D0EEE0E855F3DD3D787A5DD4EED1D" downloadHash="7BD3809ADEDE286E380E5C95795CFD474CD414C2" name="gullykin_trail1.trx" dlsize="3717213" size="15904472" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C27A3953B97F2AB997014CE12CDF0D17C73F434E" downloadHash="E5DB713BC27C2D7FDEA0968DD8089DD53295723E" name="gullykin_trail1.trx" dlsize="6139466" size="24952455" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3127,7 +3127,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0A980469B222FC7173CFDD08C7B1396203AB5259" downloadHash="0B75174685ACD58A4B5F2A816104E87EE3E66D01" name="tradeway_s_04_fai_ext.trx" dlsize="2306117" size="12971053" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="513E46B98D7187085B92A452505D6DEB29E0142E" downloadHash="C465E3F136836B01E2C046FA5799CB626CFD6197" name="tradeway_s_04_fai_ext.trx" dlsize="2300914" size="12970347" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3177,7 +3177,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B705B07D2189E2B22CF2B51A454EC02577443496" downloadHash="147D49BEC1BF3085823E6C586C6760308ABEBB88" name="tradeway_s_07_smlake.trx" dlsize="1750757" size="12145097" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="516964A404DB0A39AC534FDEB47B5376F1D286F7" downloadHash="CB22294247A1F3CDA127295ED0F8E28C5641AA48" name="tradeway_s_07_smlake.trx" dlsize="1818485" size="12332467" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3312,7 +3312,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="68D401CA5A71D6EF7FE885E81B0A81C921B1F60E" downloadHash="F58797A62A9C487067EFE0C3639FABDCA55DD11C" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3782163" size="18190386" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0444F0CA708B18171B76584665B391EF5CBCA2A6" downloadHash="C58D3C60D35EB6F3D7C5EA59670154C781AC5126" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3847978" size="18199503" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3322,7 +3322,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8E6D091089DF3908E6E3FCBAC7F225F69B6F1A68" downloadHash="BD0EFE3A37D06AF8BE98BF639F8F4A4D369531DA" name="tradeway_nw_02a_abbey.trx" dlsize="303039" size="305864" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D29FB8000B828086DA65C5CB7920136EE2A28F2" downloadHash="74DCF98FC0FF1585CED540BA803ECE00E6FEF5AC" name="tradeway_nw_02a_abbey.trx" dlsize="303057" size="305863" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="36C26C0E7F1A6B7F7735397BA415704CCF95B917" downloadHash="0D8E920A829D6BC1DC24C9FE490E89616E6B0113" name="cloakwood_hill_02_ruin.trx" dlsize="1280049" size="7958864" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5E882C73BE51105E6D03556AFA3EACEDF45E8237" downloadHash="19156438C49132DC75942BD4FA82710AAC12BA1A" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4134746" size="23633667" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="82E3733A2BDB14A44401635755EE51156A888DC0" downloadHash="A3EEE1A56306BE081AB69326ED201F2C4421233F" name="uldoon_trail_01_ext_durlag.trx" dlsize="7137062" size="25105412" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
