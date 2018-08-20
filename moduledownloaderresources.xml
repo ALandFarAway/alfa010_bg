@@ -1116,7 +1116,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C27A3953B97F2AB997014CE12CDF0D17C73F434E" downloadHash="E5DB713BC27C2D7FDEA0968DD8089DD53295723E" name="gullykin_trail1.trx" dlsize="6139466" size="24952455" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EDC108BF1FAF8A3734E01F6150CA36696AAD3A0F" downloadHash="6C5B16D30C022E57AEBE5EB5F9339D3391EEBD87" name="gullykin_trail1.trx" dlsize="6265314" size="25094132" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3338,6 +3338,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="82E3733A2BDB14A44401635755EE51156A888DC0" downloadHash="A3EEE1A56306BE081AB69326ED201F2C4421233F" name="uldoon_trail_01_ext_durlag.trx" dlsize="7137062" size="25105412" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="43F853E25A6F75FB01750FED5F98FDB4B9D6DCEA" downloadHash="01E55DE00564A5F2054A7B2FB6DF9C015C17518D" name="gullykin_trail1_cave.trx" dlsize="368226" size="640507" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
