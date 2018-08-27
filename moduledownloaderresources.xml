@@ -594,7 +594,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2450B93D1E1E0FC7FC9052B1CE37BB1CF71F5886" downloadHash="0BF2CBB469229BAD0325EBD1FD6F6D9022EEC3DA" name="gullykin.trx" dlsize="6465254" size="24405857" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FD9FCBA0FA1D6E2C40107A246FB7456588BCC5EC" downloadHash="B24BE9440FDA8716C1EDC7BEFC19809E4EBB6312" name="gullykin.trx" dlsize="6485854" size="24434863" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3343,6 +3343,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="43F853E25A6F75FB01750FED5F98FDB4B9D6DCEA" downloadHash="01E55DE00564A5F2054A7B2FB6DF9C015C17518D" name="gullykin_trail1_cave.trx" dlsize="368226" size="640507" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F99110EF1566E3BBBEB2F7DEAB4A833A0E0A3830" downloadHash="D90F495EBE3AF5859D06DD185F4AA2A2BACDB27F" name="gullykin_brewhouse.trx" dlsize="13054" size="13060" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
