@@ -22,7 +22,7 @@ void main()
     object oPC = GetEnteringObject();
     string sCategoryTag = "sQuestName";
     string sItem = "sItemTag";
-    int nEntryID =4;
+    int nEntryID =99;
 
     if (GetIsPC(oPC) && !GetIsDM(oPC) && GetJournalEntry(sCategoryTag, kL_GetRealPC(oPC)) > 0)
     {
