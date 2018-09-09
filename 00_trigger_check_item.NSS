@@ -1,9 +1,9 @@
 // returns the OwnedPC object of oCreature
 //    - oCreature must be PC-faction;
 //        else, returns OBJECT_INVALID
-/*  string sCategoryTag = "sQuestName";
-    string sItem = "sItemTag";
-    int nEntryID = 99;
+/*  (string) sCategoryTag = "sQuestName";
+    (string) sItem = "sItemTag";
+    (int) nEntryID = 99;
 ^
 The variables above control what item to check and what journal quest entry to add.
 sCategoryTag : the plot identifier used in the toolset's Journal Editor
@@ -22,7 +22,7 @@ void main()
     object oPC = GetEnteringObject();
     string sCategoryTag = "sQuestName";
     string sItem = "sItemTag";
-    int nEntryID =99;
+    int nEntryID =4;
 
     if (GetIsPC(oPC) && !GetIsDM(oPC) && GetJournalEntry(sCategoryTag, kL_GetRealPC(oPC)) > 0)
     {
