@@ -12,7 +12,7 @@ sItem  : the tag of the item you want to check.(edited)[Place them in the variab
 trigger]*/
 //Put this script in the OnEnter slot of the selected trigger
 
-
+#include "acr_trigger_i"
 
 object kL_GetRealPC(object oCreature = OBJECT_SELF);
 
