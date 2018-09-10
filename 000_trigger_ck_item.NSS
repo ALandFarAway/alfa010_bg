@@ -25,7 +25,7 @@ void main()
         {
             if (GetIsObjectValid(GetItemPossessedBy(oFM, sItem)))
             {
-                AddJournalQuestEntry(ACR_QST_NAME, ACR_QST_UPPER_STATE, kL_GetRealPC(oPC), FALSE, FALSE, FALSE);
+                ACR_AddPersistentJournalQuestEntry(ACR_QST_NAME, ACR_QST_UPPER_STATE, kL_GetRealPC(oPC), FALSE, FALSE, FALSE);
                 break;
             }
             oFM = GetNextFactionMember(oPC, FALSE);
