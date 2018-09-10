@@ -29,6 +29,7 @@ void main()
                 break;
             }
             oFM = GetNextFactionMember(oPC, FALSE);
+			SendMessageToPC(oPC, "Found Item");
         }
     }
 }
