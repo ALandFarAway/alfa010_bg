@@ -11,21 +11,21 @@ object kL_GetRealPC(object oCreature = OBJECT_SELF);
 void main()
 {
     object oPC = GetEnteringObject();
-    string sCategoryTag = "yoloquest";
-    string sItem = "test_item_tag";
-    int nEntryIDFrom = GetLocalInt(OBJECT_SELF, "from");
-    int nEntryIDTo = GetLocalInt(OBJECT_SELF, "to");
+    string ACR_QST_NAME = "sQuestName";
+    string sItem = "sItemTag";
+    int ACR_QST_LOWER_STATE = GetLocalInt(OBJECT_SELF, "from");
+    int ACR_QST_UPPER_STATE = GetLocalInt(OBJECT_SELF, "to");
 
     SendMessageToPC(oPC, "OnEnter");
 
-    if (GetIsPC(oPC) && !GetIsDM(oPC) && GetJournalEntry(sCategoryTag, kL_GetRealPC(oPC)) == nEntryIDFrom)
+    if (GetIsPC(oPC) && !GetIsDM(oPC) && GetJournalEntry(ACR_QST_NAME, kL_GetRealPC(oPC)) == ACR_QST_LOWER_STATE)
     {
         object oFM = GetFirstFactionMember(oPC, FALSE);
         while (GetIsObjectValid(oFM))
         {
             if (GetIsObjectValid(GetItemPossessedBy(oFM, sItem)))
             {
-                AddJournalQuestEntry(sCategoryTag, nEntryIDTo, kL_GetRealPC(oPC), FALSE, FALSE, FALSE);
+                AddJournalQuestEntry(ACR_QST_NAME, ACR_QST_UPPER_STATE, kL_GetRealPC(oPC), FALSE, FALSE, FALSE);
                 break;
             }
             oFM = GetNextFactionMember(oPC, FALSE);
