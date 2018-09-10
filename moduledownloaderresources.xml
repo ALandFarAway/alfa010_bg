@@ -696,7 +696,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C62BF52E789F64DD9F872BBEED0D68E1C276D2B" downloadHash="6BC3B889B45F40EA0113345659A35FFB28477233" name="bg-eastgate_elfsong.trx" dlsize="178890" size="180137" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="31D8F13D2ED75F2F30D4D62A59053E1E0480708F" downloadHash="1F0A26FF8DD3F9036BAFE0C7B0B9E8418ADA409A" name="bg-eastgate_elfsong.trx" dlsize="179766" size="181122" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1116,7 +1116,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EDC108BF1FAF8A3734E01F6150CA36696AAD3A0F" downloadHash="6C5B16D30C022E57AEBE5EB5F9339D3391EEBD87" name="gullykin_trail1.trx" dlsize="6265314" size="25094132" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6473C02FFED1B4AB2DCDF542B0DE744B4A350D89" downloadHash="473B3B7F3A91F7C50C02D2CD4B8666CA60676819" name="gullykin_trail1.trx" dlsize="6286026" size="25113951" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3342,7 +3342,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="43F853E25A6F75FB01750FED5F98FDB4B9D6DCEA" downloadHash="01E55DE00564A5F2054A7B2FB6DF9C015C17518D" name="gullykin_trail1_cave.trx" dlsize="368226" size="640507" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="149A1D0C02F5353EDBD0ECEAF691C9543A556518" downloadHash="FD4CBB73F9B2DF8A83D9857C5CBFB7B9C8C15657" name="gullykin_trail1_cave.trx" dlsize="365653" size="638064" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
