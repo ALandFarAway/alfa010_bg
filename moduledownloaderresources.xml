@@ -696,7 +696,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="31D8F13D2ED75F2F30D4D62A59053E1E0480708F" downloadHash="1F0A26FF8DD3F9036BAFE0C7B0B9E8418ADA409A" name="bg-eastgate_elfsong.trx" dlsize="179766" size="181122" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="66709960B7D281B03ADB6CC2F86AD270BEEB18F7" downloadHash="834ED23EFA4CB9D3DFEE9DE0CDBB9498C835F794" name="bg-eastgate_elfsong.trx" dlsize="179768" size="181123" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3277,7 +3277,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F332735AADA5976268B12A550E28BA139E994E14" downloadHash="1EAA96CEA5F4D7338833F78E6CA2D0B9CDA27DDD" name="bg-lower_e_warehouses.trx" dlsize="331924" size="339548" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="912C56E91A08E9384E63F4181F052159B1BF0B1D" downloadHash="373F06ECDA00306948681ED93FE6C4D069B9C5B7" name="bg-lower_e_warehouses.trx" dlsize="371175" size="378569" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
