@@ -3142,7 +3142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="768B91214D0B71C508471AF581252AB6F3D970F6" downloadHash="BF65DAEA1F1A90CD1F58BFC69AD473B8742A81A7" name="tradeway_n_04_tempus_tears.trx" dlsize="11588307" size="32614833" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FC312F747CEA9E87D0EEE6C1EB6E71D06A3D1262" downloadHash="1D9EA17E9E0D8DA6C1D7A24F613C504663ABEB5B" name="tradeway_n_04_tempus_tears.trx" dlsize="11625349" size="32644822" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3197,7 +3197,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9DB538599FE30AD8210E418D5AA620720FDAAD08" downloadHash="F10F4BFA4D373952883F508EA20BF0A2969EEF68" name="fields_ofthe_dead_ne_01.trx" dlsize="8534338" size="31506742" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5E6AD803E9E52C640E6F838A2835F9ABE5F9D7F6" downloadHash="F7FB5E47352EA1E564548D76B23F763AAB26E2EE" name="fields_ofthe_dead_ne_01.trx" dlsize="8536482" size="31505774" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3252,12 +3252,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="268AFE673BDBAD43B35E043E296F45E875834850" downloadHash="F08F5BDB1A856D8FFB7397B57EE325DBEE876774" name="tradeway_n_02_dar_cave1.trx" dlsize="75298" size="76082" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D996D9F3DE3937867E07A7C001701A9C9D09CAFA" downloadHash="90F6FD9B51D2FE424FEED0329F00D801BA17EA98" name="tradeway_n_02_dar_cave1.trx" dlsize="76295" size="77042" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="12EE1FA655F27BA5CED97DE4E9E6C2AA3C1170A7" downloadHash="FA27D25EAF171809466410E4C4189C9307D4AD9D" name="tradeway_n_02_dar_cave0.trx" dlsize="64708" size="107456" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1A7F51EB50A03A43CEB16B51F9AB80804E432D1A" downloadHash="9BF109C463221B0CEA4B612727467171B9A82E83" name="tradeway_n_02_dar_cave0.trx" dlsize="64756" size="107564" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
