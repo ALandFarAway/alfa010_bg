@@ -22,22 +22,18 @@ void main()
     if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
         return;
 
-    /*/ Only fire once per PC.
-    if ( GetLocalInt(oPC, "DO_ONCE__" + GetTag(OBJECT_SELF)) )
-        return;
-    SetLocalInt(oPC, "DO_ONCE__" + GetTag(OBJECT_SELF), TRUE);
-
-    // Spawn "resref here".
-    oTarget = GetWaypointByTag("shroom waypoint");
-    oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "resref here", GetLocation(oTarget));*/
+  
 
     // If the PC is at least at stage 1 of journal quest "qst_arsa_bloodwine_shrooms".
-    if ( GetLocalInt(oPC, "NW_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") >= 1 )
+    if ( GetLocalInt(oPC, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") >= 1 )
     {
+	  // Spawn "resref here".
+    oTarget = GetWaypointByTag("qst_arsa_bw_mushroom");
+    oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mushroom", GetLocation(oTarget));
     }
-    else
+    /*else
     {
         // Spawn "shroom resref".
         oTarget = GetWaypointByTag("qst_arsa_bw_mushroom");
-        oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mushroom", GetLocation(oTarget));
-}}
+        oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mushroom", GetLocation(oTarget));*/
+}
