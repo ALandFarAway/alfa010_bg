@@ -4,7 +4,7 @@ void main()
     int nGetJournalEntry,bGetJournalEntry;
 	string sMsg, sRef, sTag;
 	
-	//GetJournalEntry = "bg_arsa_bloodwine_shrooms";
+	GetJournalEntry = "bg_arsa_bloodwine_shrooms";
 	
 	oPC = GetLastUsedBy();
 
@@ -13,15 +13,14 @@ void main()
 	//	SendMessageToPC(oPC, "You see nothing worth harvesting.");
 	//	return;
 //	}
-     
-	sTag = GetTag(OBJECT_SELF);
-	 // Abort if the PC is not exactly at stage 1 of journal quest "bg_arsa_bloodwine_shrooms".
+      // Abort if the PC is not exactly at stage 1 of journal quest "bg_arsa_bloodwine_shrooms".
     if ( GetLocalInt(oPC, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") != 1 )
         return;
-	else if 
-	(sTag == "qst_arsa_bw_mushroom") {
+	 }
+	sTag = GetTag(OBJECT_SELF);
+	else if (sTag == "qst_arsa_bw_mushroom") {
 	 
-	   // nGetJournalEntry = 1;
+	    nGetJournalEntry = 1;
 		sMsg = "This mushroom has already been harvested";
 		sRef = "qst_arsa_bloodwine1";
 	}
@@ -102,17 +101,17 @@ void main()
 //	bHealCheck = GetSkillRank(SKILL_HEAL, oPC, TRUE) >= nHeal;
 //	bSurvCheck = GetSkillRank(SKILL_SURVIVAL, oPC, TRUE) >= nSurv;
 //	bSpellCheck = GetSkillRank(SKILL_SPELLCRAFT, oPC, TRUE) >= nSpell;*/
-   // bGetJournalEntry = GetGlobalInt(ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms,oPC,TRUE) != nGetJournalEntry; 
-	// If any of the required checks fail, return
-	//if (!bGetJournalEntry ||!nGetJournalEntry)
+    bGetJournalEntry = GetGlobalInt(ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms,oPC,TRUE) != nGetJournalEntry; 
+    If any of the required checks fail, return
+    if (!bGetJournalEntry ||!nGetJournalEntry)
 /*(	(!bHealCheck || !nHeal) &&
 		(!bSurvCheck || !nSurv) &&
 		(!bSpellCheck || !nSpell))*/
-//	{
-	//	SendMessageToPC(oPC, sMsg);
-		//SetLocalInt(OBJECT_SELF, "HERB_" + ObjectToString(oPC), 1);
-	//	return;
-//	}
+	{
+		SendMessageToPC(oPC, sMsg);
+	//	SetLocalInt(OBJECT_SELF, "HERB_" + ObjectToString(oPC), 1);
+		return;
+	}
 	
 	resval = CreateItemOnObject(sRef, oPC);
 		

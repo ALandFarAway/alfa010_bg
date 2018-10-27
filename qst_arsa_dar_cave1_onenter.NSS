@@ -28,7 +28,7 @@ void main()
     if ( GetLocalInt(oPC, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") >= 1 )
     {
 	  // Spawn "resref here".
-    oTarget = GetWaypointByTag("qst_arsa_bw_mushroom");
+    oTarget = GetWaypointByTag("qst_arsa_bw_mush");
     oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mushroom", GetLocation(oTarget));
     }
     /*else
