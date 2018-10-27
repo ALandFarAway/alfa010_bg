@@ -3252,7 +3252,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D996D9F3DE3937867E07A7C001701A9C9D09CAFA" downloadHash="90F6FD9B51D2FE424FEED0329F00D801BA17EA98" name="tradeway_n_02_dar_cave1.trx" dlsize="76295" size="77042" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AC9D6A2E13955EFEAF94E4B5FF6C1CB4FBC1BE06" downloadHash="4FE4924CE5235D7E27190E37ECA5657F006BF880" name="tradeway_n_02_dar_cave1.trx" dlsize="76114" size="76813" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
