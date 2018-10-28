@@ -22,18 +22,14 @@ void main()
     if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
         return;
 
-  
-
     // If the PC is at least at stage 1 of journal quest "qst_arsa_bloodwine_shrooms".
-    if ( GetLocalInt(oPC, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") >= 1 )
+    if ( GetLocalInt(oPC, "NW_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") != 1 )
+	// Send a message to the player's chat window.
+    SendMessageToPC(oPC, "you enter a dark dank cave");
     {
 	  // Spawn "resref here".
     oTarget = GetWaypointByTag("qst_arsa_bw_mush");
     oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mushroom", GetLocation(oTarget));
     }
-    /*else
-    {
-        // Spawn "shroom resref".
-        oTarget = GetWaypointByTag("qst_arsa_bw_mushroom");
-        oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mushroom", GetLocation(oTarget));*/
+   
 }
