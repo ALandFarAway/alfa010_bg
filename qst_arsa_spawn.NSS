@@ -2,7 +2,7 @@
 
 
 void main()
-{
+{/*
     object oTarget;
     object oSpawn;
 
@@ -16,4 +16,10 @@ void main()
     // Spawn "qst_arsa_bw_mush".
     oTarget = GetWaypointByTag("wp_qst_arsa_bw_mush");
     oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mushroom", GetLocation(oTarget));
-}
+}*/
+
+int i = 0;
+while(i<5){
+SpeakString ("Hello World!");
+i++;
+}}
