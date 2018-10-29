@@ -366,7 +366,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DA45A7A00FF8369B35B48D6FF970E37ADB271D67" downloadHash="129985543F09A1B5F20B72CEE8F1CC2E2DA660FB" name="cloakwood_23_cave.trx" dlsize="411595" size="2950428" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C90711C48A51DB6128B5797028FA58457523DD45" downloadHash="F7F9C206DE87B8B3DE9796B6BA2C06C1BE7525CC" name="cloakwood_23_cave.trx" dlsize="411227" size="2952782" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3252,7 +3252,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AC9D6A2E13955EFEAF94E4B5FF6C1CB4FBC1BE06" downloadHash="4FE4924CE5235D7E27190E37ECA5657F006BF880" name="tradeway_n_02_dar_cave1.trx" dlsize="76114" size="76813" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="14DA5D16B52DA36EBC07C64625201DB3ECFB2CED" downloadHash="857FCC4ADACE70A6735552B8B4EE43889AC074A2" name="tradeway_n_02_dar_cave1.trx" dlsize="76434" size="77112" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3353,6 +3353,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="103CB0C2184C30F68E004A46120E7A2039233538" downloadHash="6B006FAE30E772F27852A59AB9222CA24BEEF122" name="bg-lower_tguildhall.trx" dlsize="273682" size="285490" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0B4FDEF74F0CEDA1E652AAFD05758A7E71EFBA7F" downloadHash="A56BA2AF39746780DF55645BA3780D6B3CA77E55" name="cloakwood_12_goblincave.trx" dlsize="4000022" size="21266512" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="09A9150956BC7391326E9ACEC7E287518124975F" downloadHash="FBF333751E0E24BC787277CFAA20A897FE936B9C" name="cloakwood_23_swordcoast.trx" dlsize="1230697" size="11706897" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="00974A125D0849C6163DBCFF1C9CD06705032C5E" downloadHash="5964786E24EC7716A03F179EBE6EAA4876A81DD6" name="cloakwood_05_coasthouse.trx" dlsize="2301364" size="13288074" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4ED068CA54C886E3DD78A9D85CF15C245E901DCA" downloadHash="C8547354C3B12C9C55799136CBA45CC58541A714" name="cloakwood_04_smugglers.trx" dlsize="2073844" size="14250362" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
