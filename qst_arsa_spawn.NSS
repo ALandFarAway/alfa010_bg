@@ -14,6 +14,6 @@ void main()
         return;
 
     // Spawn "qst_arsa_bw_mush".
-    oTarget = GetWaypointByTag("qst_arsa_bw_mush");
+    oTarget = GetWaypointByTag("wp_qst_arsa_bw_mush");
     oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mushroom", GetLocation(oTarget));
 }
