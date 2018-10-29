@@ -26,10 +26,10 @@ void main()
     if ( GetLocalInt(oPC, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") != 1 )
 	// Send a message to the player's chat window.
     SendMessageToPC(oPC, "you enter a dark, dank cave");
-    {
+    
 	  // Spawn "resref here".
     oTarget = GetWaypointByTag("qst_arsa_bw_mush");
     oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mushroom", GetLocation(oTarget));
     }
    
-}
+
