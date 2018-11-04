@@ -12,13 +12,13 @@ void main()
     oEnterer = GetEnteringObject();
     if (GetIsPC(oEnterer) && !GetIsDM(oEnterer))
 	return;
-	
-	// If the PC is at least at stage 1 of journal quest "qst_arsa_bloodwine_shrooms".
- //   if ( GetLocalInt(oEnterer, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") != 1 )
-    // Send a message to the player's chat window.
-//    SendMessageToPC(oEnterer, "you enter a dark, dank cave");
-//	return;
 	{
+	// If the PC is at least at stage 1 of journal quest "qst_arsa_bloodwine_shrooms".
+    if ( GetLocalInt(oEnterer, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") != 1 )
+    // Send a message to the player's chat window.
+    SendMessageToPC(oEnterer, "you enter a dark, dank cave");
+
+	
 	int n = GetLocalInt(OBJECT_SELF, "Done");
 	if (n != 0) return;
 	//check that the entering creature is a PC or DM
