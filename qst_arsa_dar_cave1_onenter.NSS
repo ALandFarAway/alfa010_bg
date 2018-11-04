@@ -14,10 +14,10 @@ void main()
 	return;
 	
 	// If the PC is at least at stage 1 of journal quest "qst_arsa_bloodwine_shrooms".
-    if ( GetLocalInt(oEnterer, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") != 1 )
+ //   if ( GetLocalInt(oEnterer, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") != 1 )
     // Send a message to the player's chat window.
-    SendMessageToPC(oEnterer, "you enter a dark, dank cave");
-	return;
+//    SendMessageToPC(oEnterer, "you enter a dark, dank cave");
+//	return;
 	{
 	int n = GetLocalInt(OBJECT_SELF, "Done");
 	if (n != 0) return;
