@@ -21,8 +21,8 @@ void main()
    // nInt=GetLocalInt(oEnterer, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms");
      //if (nInt < 1)
 		int nQst = ACR_RetrieveQuestState("bg_arsa_bloodwine_shrooms", oEnterer);
-		if(nQst != 1)
-     return;
+		if(nQst == 1)
+     //return;
   {
 	 
     // Send a message to the player's chat window.
