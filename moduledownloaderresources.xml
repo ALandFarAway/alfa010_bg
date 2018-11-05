@@ -3252,7 +3252,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="94EF8EC76151220E51D9656D8AE75045A42F2EC9" downloadHash="B826314E7D7714E37BF4442E51546B3F3AA2202E" name="tradeway_n_02_dar_cave1.trx" dlsize="76721" size="77464" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="59B65500895EBFC548CB1682898E8504A3A9243A" downloadHash="DF7F328BCD40EC516BF73CA923C124E6F6A1231A" name="tradeway_n_02_dar_cave1.trx" dlsize="76429" size="77178" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3362,7 +3362,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="09A9150956BC7391326E9ACEC7E287518124975F" downloadHash="FBF333751E0E24BC787277CFAA20A897FE936B9C" name="cloakwood_23_swordcoast.trx" dlsize="1230697" size="11706897" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CBE14CF9431F4B5BA541A6DD1243F11F2054B8AE" downloadHash="80AD7817EB114AB78DDF516D2AC559D71B7C7D5E" name="cloakwood_23_swordcoast.trx" dlsize="1244023" size="11714910" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
