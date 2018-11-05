@@ -12,14 +12,15 @@ void main()
     oEnterer = GetEnteringObject();
     if (GetIsPC(oEnterer) && !GetIsDM(oEnterer))
 	return;
-	{
+	
 	// If the PC is at least at stage 1 of journal quest "qst_arsa_bloodwine_shrooms".
     //if ( GetLocalInt(oEnterer, "NW_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") == 1 )
 	int nInt;
-    nInt=GetLocalInt(oEnterer, "NW_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms");
+    nInt=GetLocalInt(oEnterer, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms");
 
    if (nInt < 1)
      return;
+	 {
     // Send a message to the player's chat window.
     SendMessageToPC(oEnterer, "you enter a dark, dank cave");
 
