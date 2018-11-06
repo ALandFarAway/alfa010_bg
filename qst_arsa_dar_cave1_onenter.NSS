@@ -2,6 +2,7 @@
 //works  11/2018  
 #include "acr_quest_i"
 #include "acr_placeable_i"
+#include "acr_notifications_i"
 
 void main()
 {
@@ -14,17 +15,20 @@ void main()
     oEnterer = GetEnteringObject();
     if (GetIsPC(oEnterer) && !GetIsDM(oEnterer))
 	return;
- {
+
 	// Check If the PC is at least at stage 1 of journal quest "qst_arsa_bloodwine_shrooms".
     //if ( GetLocalInt(oEnterer, "NW_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms") == 1 )
 	//int nInt;
    // nInt=GetLocalInt(oEnterer, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms");
      //if (nInt < 1)
-		int nQst = ACR_RetrieveQuestState("bg_arsa_bloodwine_shrooms", oEnterer);
-		if(nQst == 1)
+		int nState = ACR_RetrieveQuestState("bg_arsa_bloodwine_shrooms", oEnterer);
+		if(nState == 1)
+		
      //return;
   {
 	 
+  if(!GetLocalInt(oEnterer, "bg_arsa_bloodwine_shrooms"))
+  {
     // Send a message to the player's chat window.
     SendMessageToPC(oEnterer, "you enter a dark, dank cave");
 
@@ -47,4 +51,5 @@ void main()
 	}
   }
  }
+
 }
