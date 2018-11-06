@@ -21,13 +21,17 @@ void main()
 	//int nInt;
    // nInt=GetLocalInt(oEnterer, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms");
      //if (nInt < 1)
-		int nState = ACR_RetrieveQuestState("bg_arsa_bloodwine_shrooms", oEnterer);
-		if(nState == 1)
-		
-     //return;
-  {
+	//	int nState = ACR_RetrieveQuestState("bg_arsa_bloodwine_shrooms", oEnterer);
+	//	if(nState == 1)
+		int nInt;
+       nInt=GetLocalInt(oEnterer, "ACR_RetrieveQuestStatebg_arsa_bloodwine_shrooms");
+
+       if (nInt < 1)
+    
+     return;
+ // {
 	 
-  if(!GetLocalInt(oEnterer, "bg_arsa_bloodwine_shrooms"))
+ // if(!GetLocalInt(oEnterer, "bg_arsa_bloodwine_shrooms"))
   {
     // Send a message to the player's chat window.
     SendMessageToPC(oEnterer, "you enter a dark, dank cave");
@@ -52,4 +56,4 @@ void main()
   }
  }
 
-}
+//}
