@@ -15,11 +15,7 @@ void main()//
  {
 
     if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) == 1)
-	
-     
-	
-	
-  {//
+	 {//
   SendMessageToPC(oPC, "you enter a dark, dank cave");
 int n = 0;//
 object oTarget = GetObjectByTag("wp_qst_arsa_bwmush");//

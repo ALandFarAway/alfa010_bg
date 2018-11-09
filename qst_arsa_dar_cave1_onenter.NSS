@@ -23,8 +23,8 @@ void main()
    // nInt=GetLocalInt(oEnterer, "ACR_JOURNAL_ENTRYbg_arsa_bloodwine_shrooms");
      //if (nInt < 1)
 	 //ACR_RetrieveLowestPartyQuestState
-		int nState = ACR_RetrieveQuestState("bg_arsa_bw_shrooms" oEnterer);
-		if(nState == 1)
+		int nState = ACR_RetrieveQuestState("bg_arsa_bw_shrooms", oEnterer);
+		if(nState = 1)
 	//	if(!GetLocalInt(GetArea(OBJECT_SELF), "bg_arsa_bloodwine_shrooms"))
       // nInt=GetLocalInt(oEnterer, "ACR_RetrieveQuestStatebg_arsa_bloodwine_shrooms");
       // if (nInt == 1)
