@@ -24,6 +24,8 @@ while (GetIsObjectValid(oTarget))//
     CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mshrm", GetLocation(oTarget));//
     n++;//
     oTarget = GetObjectByTag("wp_qst_arsa_bwmush", n);//
+	
+	
  }
 	    }//
   }
