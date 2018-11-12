@@ -3142,12 +3142,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FC312F747CEA9E87D0EEE6C1EB6E71D06A3D1262" downloadHash="1D9EA17E9E0D8DA6C1D7A24F613C504663ABEB5B" name="tradeway_n_04_tempus_tears.trx" dlsize="11625349" size="32644822" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7045CE2E59167ADC083B724B064E13B238217F78" downloadHash="3F5C59046BB88560368AEDBB66A9F6EA8AAEF18B" name="tradeway_n_04_tempus_tears.trx" dlsize="11622909" size="32648379" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3B148B8E209EFBFEE52EA38BA70EB46DE0202450" downloadHash="29FD5385D75BCE4CE25C07654832FBBA6D13792F" name="tradeway_n_02_darfleet.trx" dlsize="5496416" size="24003913" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E04933F661DEE89E9475767A76B096D95E6F3A0C" downloadHash="F9A0958018C89B02670C41D2C74E779E746868FB" name="tradeway_n_02_darfleet.trx" dlsize="5504260" size="23988666" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3197,7 +3197,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5E6AD803E9E52C640E6F838A2835F9ABE5F9D7F6" downloadHash="F7FB5E47352EA1E564548D76B23F763AAB26E2EE" name="fields_ofthe_dead_ne_01.trx" dlsize="8536482" size="31505774" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9E83C0FB8E9D12FAC28287E7479687043E6A5C92" downloadHash="85069560D6A39AD47FEDE59D68351E0AD8D360FE" name="fields_ofthe_dead_ne_01.trx" dlsize="8538925" size="31512552" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
