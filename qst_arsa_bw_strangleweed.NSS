@@ -14,11 +14,6 @@ void main()//
 	if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC)) && !GetLocalInt(OBJECT_SELF, "DoOnce"))//
 	if (!GetIsPC(oPC)) return;
 
-int DoOnce = GetLocalInt(OBJECT_SELF, GetTag(OBJECT_SELF));
-
-if (DoOnce==TRUE) return;
-
-SetLocalInt(OBJECT_SELF, GetTag(OBJECT_SELF), TRUE);
 {
 
     if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) == 1)
