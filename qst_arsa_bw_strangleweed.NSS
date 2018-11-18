@@ -25,10 +25,10 @@ object oTarget = GetObjectByTag("wp_qst_arsa_strgweed");//
 while (GetIsObjectValid(oTarget))//
     {//
     CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_strangleweed", GetLocation(oTarget));//
-	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
+	
     n++;//
     oTarget = GetObjectByTag("wp_qst_arsa_strgweed", n);//
-	
+	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
 	}
 	 }//
  }

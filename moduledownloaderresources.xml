@@ -216,7 +216,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0F4E8794DB4B5B136FC5A23A1429AD103070DB71" downloadHash="BC69A641906D9D17F7808A6C0DBDDA922A2F71E1" name="gullykin_firewine_ruin_1.trx" dlsize="87314" size="11751110" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="226BEE40D47D0E9C526DE7902BE73A82F7531BA9" downloadHash="5577A0D20CFB7941CA72AD67FA9180602B2A5712" name="gullykin_firewine_ruin_1.trx" dlsize="292305" size="11965733" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -564,7 +564,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B19ACFB7D8E27157D13969FC053AA4837FE04FE" downloadHash="3652A52EE92660984642A5879F45EB3C698EA655" name="gullykin_firewine.trx" dlsize="6066124" size="21706126" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="87AB2C9C7B69EA262A2FCB8F08E462CE257C029E" downloadHash="2B030C9A46C7A925686AFF2EACC2A08FBBFA6765" name="gullykin_firewine.trx" dlsize="6087046" size="21727678" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -918,7 +918,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6D380BD035E86A608DB4D48BF1F94FC3E3332AFC" downloadHash="BFD67EB536C8A0616371C0D29CB52C5CD94163A4" name="gullykin_firewine_crypt.trx" dlsize="311683" size="314097" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="892363DB21212598EF946958AADF0DEA41BB8AB4" downloadHash="66C53B0FF5A9C321DD55115D2EA65B93F7D0C537" name="gullykin_firewine_crypt.trx" dlsize="316726" size="319969" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3147,7 +3147,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8A61DBF5FBBD7EC72D0CD8BB8D67DE1CF1EEC29B" downloadHash="C180CF8615BD2F014306ACC30FD8CE390EF3FBDF" name="tradeway_n_02_darfleet.trx" dlsize="5524269" size="24008839" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5EE88F6E2B721D8A9B0400398B0092B99B7EBCA6" downloadHash="1A822026561A899C6AC82FB6FFDA761A571A46FE" name="tradeway_n_02_darfleet.trx" dlsize="5598266" size="24090666" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3247,7 +3247,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="95DC02F2411647E354C10B2F27291F50B6005B88" downloadHash="72C0301847CF6B4776ED651529EBB4339E7D0417" name="tradeway_n_03_citadel_temp.trx" dlsize="385761" size="390799" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="38DE1F27E6EE2419BA20E8186DA2E5AE1840A358" downloadHash="3E09AF13A64EAA79B73C57C63E4BD5969F539DEA" name="tradeway_n_03_citadel_temp.trx" dlsize="385722" size="390809" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3257,7 +3257,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1A7F51EB50A03A43CEB16B51F9AB80804E432D1A" downloadHash="9BF109C463221B0CEA4B612727467171B9A82E83" name="tradeway_n_02_dar_cave0.trx" dlsize="64756" size="107564" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="416F6AF005B0B9C0EF9FE3F2D05353889EC1037F" downloadHash="817609DB2B98AE1F9C3080420191CEA7C5E395C4" name="tradeway_n_02_dar_cave0.trx" dlsize="64787" size="107563" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3337,7 +3337,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="82E3733A2BDB14A44401635755EE51156A888DC0" downloadHash="A3EEE1A56306BE081AB69326ED201F2C4421233F" name="uldoon_trail_01_ext_durlag.trx" dlsize="7137062" size="25105412" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4CC2FF4FFA85F238706A7DF6A9835D59E5948A4D" downloadHash="06A3B168BA1CFAB96BDCAEAF683A2C3CCBA76E92" name="uldoon_trail_01_ext_durlag.trx" dlsize="7131700" size="25101409" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3373,6 +3373,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="4ED068CA54C886E3DD78A9D85CF15C245E901DCA" downloadHash="C8547354C3B12C9C55799136CBA45CC58541A714" name="cloakwood_04_smugglers.trx" dlsize="2073844" size="14250362" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="541CF3052F5EAB0140FC35CA8366696F6BD6712D" downloadHash="BB94B2C8BF6D0B2A326A3F95D3985A58CD1E1CEA" name="tradeway_n_02_dar_int.trx" dlsize="19451" size="19459" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
