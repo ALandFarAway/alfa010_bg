@@ -29,6 +29,8 @@ while (GetIsObjectValid(oTarget))//
     n++;//
     oTarget = GetObjectByTag("wp_qst_arsa_strgweed", n);//
 	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
+	
+	AddJournalQuestEntry("qst_arsa_strangleweed", 2, oPC, TRUE, FALSE);
 	}
 	 }//
  }
