@@ -30,6 +30,8 @@ while (GetIsObjectValid(oTarget))//
 	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE);
     n++;//
     oTarget = GetObjectByTag("wp_qst_arsa_bwmush", n);//
+	
+	AddJournalQuestEntry("bg_arsa_bw_shrooms", 2, oPC, TRUE, FALSE);
 	}
 	 }//
  }
