@@ -3147,7 +3147,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="781DB29FEA97363D3A2BA8A06D2B575581D04B6F" downloadHash="C56F35466A56C93931C2140F0E6B3AD4D6E4CCAE" name="tradeway_n_02_darfleet.trx" dlsize="5512080" size="24014048" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CA70B3F1B1F205BFE349053D4B97D138052CA05B" downloadHash="5DF8BCFD44C578BE31EEE89F68F463A947F8C814" name="tradeway_n_02_darfleet.trx" dlsize="5521147" size="24000649" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
