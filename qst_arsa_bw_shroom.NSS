@@ -29,7 +29,7 @@ while (GetIsObjectValid(oTarget))//
     CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mshrm", GetLocation(oTarget));//
 	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE);
     n++;//
-   // oTarget = GetObjectByTag("wp_qst_arsa_bwmush", n);//
+    oTarget = GetObjectByTag("wp_qst_arsa_bwmush", n);//
 	
 	AddJournalQuestEntry("bg_arsa_bw_shrooms", 2, oPC, TRUE, FALSE);
 	}
