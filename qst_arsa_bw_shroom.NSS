@@ -23,7 +23,7 @@ void main()//
  
   
 int n = 0;//
-object oTarget = GetObjectByTag("wp_qst_arsa_bwmush");//
+//object oTarget = GetObjectByTag("wp_qst_arsa_bwmush");//
 while (GetIsObjectValid(oTarget))//
     {//
     CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_bw_mshrm", GetLocation(oTarget));//
