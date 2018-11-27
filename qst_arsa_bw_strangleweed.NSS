@@ -16,7 +16,7 @@ void main()//
 
 {
 
-    if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) >= 1)
+    if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) == 1)
 	 {//
   SendMessageToPC(oPC, "you enter a desolate area");
  
