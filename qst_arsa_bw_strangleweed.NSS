@@ -30,7 +30,7 @@ while (GetIsObjectValid(oTarget))//
     oTarget = GetObjectByTag("wp_qst_arsa_strgweed", n);//
 	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
 	
-	AddJournalQuestEntry("bg_arsa_strangleweed", 2, oPC, TRUE, FALSE, TRUE);// allows overide if greater than 1
+	AddJournalQuestEntry("bg_arsa_strangleweed", 2, oPC, TRUE, FALSE);// 
 	}
 	 }//
  }
