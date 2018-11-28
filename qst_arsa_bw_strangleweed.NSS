@@ -2,6 +2,9 @@
 // lines with  // after them work to spawn the mushrooms
 
 
+#include "acr_quest_i"
+
+
 void main()//
  {//
     object oPC = GetEnteringObject();//
@@ -21,7 +24,7 @@ void main()//
   SendMessageToPC(oPC, "you enter a desolate area");
  
 int n = 0;//
-//object oTarget = GetObjectByTag("wp_qst_arsa_strgweed");//
+object oTarget = GetObjectByTag("wp_qst_arsa_strgweed");//
 while (GetIsObjectValid(oTarget))//
     {//
     CreateObject(OBJECT_TYPE_PLACEABLE, "qst_arsa_strangleweed", GetLocation(oTarget));//
@@ -30,7 +33,7 @@ while (GetIsObjectValid(oTarget))//
     oTarget = GetObjectByTag("wp_qst_arsa_strgweed", n);//
 	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
 	
-	AddJournalQuestEntry("bg_arsa_strangleweed", 2, oPC, TRUE, FALSE);// 
+	ACR_AddPersistentJournalQuestEntry("bg_arsa_strangleweed", 2, oPC, TRUE, FALSE);// 
 	}
 	 }//
  }
