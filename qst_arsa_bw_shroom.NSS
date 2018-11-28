@@ -1,6 +1,7 @@
 // Put this script OnEnter of a Trigger
 // lines with  // after them work to spawn the mushrooms
 
+#include "acr_quest_i"
 
 void main()//
  {//
@@ -31,7 +32,8 @@ while (GetIsObjectValid(oTarget))//
     n++;//
     oTarget = GetObjectByTag("wp_qst_arsa_bwmush", n);//
 	
-	AddJournalQuestEntry("bg_arsa_bw_shrooms", 2, oPC, TRUE, FALSE);
+	ACR_AddPersistentJournalQuestEntry("bg_arsa_bw_shrooms",2, oPC, TRUE,FALSE,FALSE);
+	
 	}
 	 }//
  }
