@@ -3362,7 +3362,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CBE14CF9431F4B5BA541A6DD1243F11F2054B8AE" downloadHash="80AD7817EB114AB78DDF516D2AC559D71B7C7D5E" name="cloakwood_23_swordcoast.trx" dlsize="1244023" size="11714910" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="864B19CB91DD978BE75CBD1EC1F62B8D8AFAC514" downloadHash="7DAF26DFB5C39C0B86CD9C0864C409E548901372" name="cloakwood_23_swordcoast.trx" dlsize="1336403" size="12044695" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
