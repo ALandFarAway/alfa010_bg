@@ -420,7 +420,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2BF848432FBA779913125A66E04C83AAF743CB69" downloadHash="2FF3E5275439B4606E104A1B50951C8D2DE1E796" name="candlekeep_lionsway_01.trx" dlsize="4023779" size="15518404" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6438543FA33032492DF8C2457DDBDA1220622118" downloadHash="9FDC8F3B755ED2872E4DC860B28C29BDD4E69C4B" name="candlekeep_lionsway_01.trx" dlsize="4130848" size="16135330" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1493,7 +1493,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="089366885DBC12BE7FB2D384F67062E8D766F9C3" downloadHash="2C6A26F4A8593026A050AD16F14C49C67B737E42" name="candlekeep_lionsway_hills_01.trx" dlsize="6135717" size="23067367" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="46DF43423BBDCFDCC5F8D34383E4A14792E521A2" downloadHash="49993FC46D69061174EE0B3AD7DBED6C28BEA857" name="candlekeep_lionsway_hills_01.trx" dlsize="6563070" size="24413777" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3222,7 +3222,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="51C2F5DE73AE280FE60416F4C343EA7ADA84A913" downloadHash="87A2F992B1F337D2829526CBA7E1AE4CA7A91D7B" name="tradeway_s_05a_crystalshard.trx" dlsize="1594070" size="11817253" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CBD694224837981C9B951D60F11A0B10F0CC6853" downloadHash="768D0D3117733CD9416C34F90D71BC73F55EF9D7" name="tradeway_s_05a_crystalshard.trx" dlsize="1599769" size="11815731" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3378,6 +3378,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C5F0331B49B6D11E94F58454D2219B9C4DCECCF4" downloadHash="7940BD0FE2C80C17E209B74C2B5C90AA061A7501" name="tradeway_n_02_dar_int.trx" dlsize="19465" size="19457" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ED769F4F177CFC3FA2D99F9DA73C01F35BB8E715" downloadHash="44C6CEE56B484D28A2F77355DDF91CA82C281639" name="tradeway_n_03_citadel_int.trx" dlsize="380879" size="385430" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
