@@ -564,7 +564,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="87AB2C9C7B69EA262A2FCB8F08E462CE257C029E" downloadHash="2B030C9A46C7A925686AFF2EACC2A08FBBFA6765" name="gullykin_firewine.trx" dlsize="6087046" size="21727678" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="61F1AC47478109F3B501CA68195623CC0614EAEC" downloadHash="ED82617F3582C157E683BBD3496CAC28B9EF12E4" name="gullykin_firewine.trx" dlsize="6100772" size="21741248" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
