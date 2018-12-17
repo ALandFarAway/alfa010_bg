@@ -1493,7 +1493,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="46DF43423BBDCFDCC5F8D34383E4A14792E521A2" downloadHash="49993FC46D69061174EE0B3AD7DBED6C28BEA857" name="candlekeep_lionsway_hills_01.trx" dlsize="6563070" size="24413777" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0A55085B16C88212BEB21D72F5F9B4AF62DAB32D" downloadHash="1D94A064A5C10089E72EDC7DCB42DD03D2607E08" name="candlekeep_lionsway_hills_01.trx" dlsize="6567750" size="24427295" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3277,7 +3277,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="912C56E91A08E9384E63F4181F052159B1BF0B1D" downloadHash="373F06ECDA00306948681ED93FE6C4D069B9C5B7" name="bg-lower_e_warehouses.trx" dlsize="371175" size="378569" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B9233DA46E8CA45F8367E6913560E409FBD22BA1" downloadHash="FF827C95CC86B321506B9174A934CECE22A0A39D" name="bg-lower_e_warehouses.trx" dlsize="372085" size="378322" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
