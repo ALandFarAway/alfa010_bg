@@ -12,7 +12,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="B7EA66C81F4BCCBBCF2A814124F004E1643B56F0" downloadHash="9DD4D446C41829901371EC38C940840C8F2D9487" name="alfa2_acr.hak" dlsize="4089795" size="133582320" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="30EAAFC15071F6C1E44361AD720F32D3404E5B63" downloadHash="63FD11A78AE7D04C8779DCDF73BB149A5FE3FA1B" name="alfa2_acr.hak" dlsize="4087704" size="133573264" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -270,7 +270,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="33C5DD73A6176987CE437E84E2EBC61511FFC66E" downloadHash="60FA321DAC1123EE861EAC6FD74099145BDF1A26" name="bg-lower_mermaid.trx" dlsize="270606" size="272256" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E076265A891126CAE05F307708CB7332E964B01A" downloadHash="ACF9B66A2BD45E09106EBF1465A1D0B5D589DB75" name="bg-lower_mermaid.trx" dlsize="270217" size="271979" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -948,7 +948,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F28A9ADEB28CE42E1C2D7552C6EE685CA13390FF" downloadHash="7F924D9A9735652C23E89B503262E592CB39DB1C" name="bgcity-harboreast.trx" dlsize="2553443" size="11989574" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3F9A8418F6C99BEAA698A1C38A5D2CA4D52D46FF" downloadHash="9D5AF8832F18FE825409CCBD80BF9A58D1DCA74A" name="bgcity-harboreast.trx" dlsize="2511782" size="11955939" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3297,7 +3297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9764B439967BF7881696EF7AF6C381FAAA1CC2C9" downloadHash="7B33F7795A0F99C42EAD6F52FA98596D312BE2F7" name="unlinked_misc houses.trx" dlsize="110590" size="111545" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="46597F0C3FD758D13D44A18906E174E34F5068B8" downloadHash="B2EB660335B985B7A8F66E7084DD37B0F2F7B86C" name="unlinked_misc houses.trx" dlsize="246402" size="248551" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
