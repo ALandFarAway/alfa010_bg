@@ -468,7 +468,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F2D55D7DC97E65B109A1B47EA14593883CFCECDE" downloadHash="2774E3487AD4833FD77A807663C50C2FCD05C853" name="sharpteeth_00.trx" dlsize="5583125" size="23311167" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="52889877D6126C54928B631836F5A77B44FD76C5" downloadHash="A8754E95CAE89B833C4D51465DFBA0FC5413191F" name="sharpteeth_00.trx" dlsize="5591772" size="23319645" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -606,7 +606,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="74F2A5D4DF4E871EA677A48B6CCEEFF6DDF34AC5" downloadHash="4C03DD2F8482155294A1CCDF5C1C958B3161A58D" name="bg-upper_ramazith.trx" dlsize="62938" size="62915" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AEEEB07809560EFA026C32A18FFF9C25D197780C" downloadHash="387B30AC64C7810B11E1113FC481D469F1B0E996" name="bg-upper_ramazith.trx" dlsize="63719" size="63717" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -792,7 +792,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A72FB993C02E1BD31F0210414F0A56BD4BB7A353" downloadHash="43F323AB36469AAC83A4EA7FE1DAB52A4E7CBA40" name="sharpteeth_00_cave.trx" dlsize="150681" size="330101" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E372D1F11FC03279E6394945984A5142FCE04DDA" downloadHash="356E6AB7AF0D927B69A0440FE8A171F21F785276" name="sharpteeth_00_cave.trx" dlsize="147724" size="326944" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
