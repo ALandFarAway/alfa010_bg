@@ -876,7 +876,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F954C04FB7808DFB1F5C2DFD8EE88EF8110F8D14" downloadHash="4AEE2DC5B790AC637366A7F12A7C71862B983919" name="bgcity-upperwest.trx" dlsize="4255307" size="14345715" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="569C4BDB53BDA97E69A80EC5914EC2116710803B" downloadHash="98A7B28715390FDA4A0E568BC6B00757BDF91759" name="bgcity-upperwest.trx" dlsize="4262354" size="14345887" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3132,7 +3132,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B6556BCDF4C367EF142782AE5FC1B1AC8AB8FF10" downloadHash="4D3EA0D0A411379A7903317E85F432DFF272848B" name="tradeway_n_03_citadel.trx" dlsize="2003132" size="10698960" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DA8276E6C77B1F0893DA262AA0BA07D98E1E4381" downloadHash="42D2C838438E3594230DF36BBCE8B2E2D794CFC0" name="tradeway_n_03_citadel.trx" dlsize="1984043" size="10675304" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3382,7 +3382,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED769F4F177CFC3FA2D99F9DA73C01F35BB8E715" downloadHash="44C6CEE56B484D28A2F77355DDF91CA82C281639" name="tradeway_n_03_citadel_int.trx" dlsize="380879" size="385430" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="223E368F9FA3BAC32F13ACB0F4B68372B49FA04D" downloadHash="999F5C8CAD2A5C6A77CB3F691CDD485EDF750D40" name="tradeway_n_03_citadel_int.trx" dlsize="380837" size="385429" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="211A8E6DE247727AA87EA9BB100B9594FAC6DDFD" downloadHash="8F6BA80C238C65A8CFC3A60C9222D93F537FE09B" name="bgcity-castledist.trx" dlsize="4726316" size="14426325" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
