@@ -330,7 +330,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FC4BC3DE6D1A29B5FE60CA2C7A4231340958FC6F" downloadHash="6A8FE1692C38B80AB4DC255D765C11DDDF8974FE" name="bg-undercellar.trx" dlsize="329061" size="6905881" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="27BE892DA118B51753CC6C60B6C3646B6A33D922" downloadHash="7778A005F895F1F701A1CDD75D7EACEB6704B8B5" name="bg-undercellar.trx" dlsize="403596" size="6971396" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
