@@ -240,7 +240,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2D9C3EF4B8CF26E490FA75F8A1D52FBFD6B642F5" downloadHash="2E4E54CD3491ACA76CC6BA31AD5828E103A645AF" name="bgcity-market.trx" dlsize="2580336" size="9535927" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="67DA6EA13A95118D74AFB31315C891414AD919F0" downloadHash="C843910BBCC95E81D42F05B70046B776732BE4FF" name="bgcity-market.trx" dlsize="2585118" size="9535186" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -330,7 +330,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C6568460F71513F1B78C151B2D38B099DE6AB40E" downloadHash="F86C3DEC175D277247A69E65C1CAED21D0525AE4" name="bg-undercellar.trx" dlsize="373859" size="2096319" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0AB8174C968649CF03A569B971DDEFA637A476B6" downloadHash="AC6C77660AF3B7023FD520D09A15B9848B76CFA4" name="bg-undercellar.trx" dlsize="375149" size="2098467" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -342,7 +342,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3EE13B6D9C0FF41949A7758C87EE174DA8CB6D72" downloadHash="22AD0D15AC4C86CBA25D378D95E6C050B0535F12" name="bg-upper_bathhouse.trx" dlsize="150459" size="735834" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6489D78B3A591669B774DA8801E626DD78DA00B4" downloadHash="F2EA85D3372D4CD883EAB135842C26DD58005CFE" name="bg-upper_bathhouse.trx" dlsize="150481" size="736711" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -420,7 +420,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6438543FA33032492DF8C2457DDBDA1220622118" downloadHash="9FDC8F3B755ED2872E4DC860B28C29BDD4E69C4B" name="candlekeep_lionsway_01.trx" dlsize="4130848" size="16135330" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BC4D6D1DD375D5D4033079BE455C74DD1CD770A9" downloadHash="7FC96F6D7478F789B12B23137502D90536410177" name="candlekeep_lionsway_01.trx" dlsize="4187080" size="16269854" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
