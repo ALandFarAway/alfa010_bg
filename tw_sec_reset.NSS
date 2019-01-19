@@ -7,6 +7,6 @@
 void main()
 {
     if (GetUserDefinedEventNumber() == EVENT_SECRET_REVEALED) {
-        DelayCommand(20.0, ResetSecretItem());
+        DelayCommand(30.0, ResetSecretItem());
     }
 }
