@@ -642,7 +642,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EC4747D2D79650E45FD0F4AE7685F3BD1E2217C3" downloadHash="18D518462C9349F767704C2A1223F41AE58F5988" name="beregost_barnstables.trx" dlsize="64739" size="64866" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="15EEA9D900ECB592B9B82BD43023C5FEDAFEB56A" downloadHash="7A21B3C65873DFADA1DC1914410B5FD26E1F07F5" name="beregost_barnstables.trx" dlsize="64434" size="64542" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -744,7 +744,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E158CB500DAE640CE94F8CBBA289D389C350C75D" downloadHash="805A896D1A2462BD851E1D327C1C62786A3A23FD" name="beregost_redsheaf.trx" dlsize="327524" size="333214" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="33A137DB070ECF270B8DA6644D1BE01D1E681E9E" downloadHash="84401A9F1383D44017CE3AA4E0B3BD0B8B3A2D85" name="beregost_redsheaf.trx" dlsize="318740" size="324863" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -846,7 +846,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AAA8096176960D0C288686D8EC53C9A8D99BFA69" downloadHash="8CF11985E5C2BC2FE59206A4041149221093F8DE" name="beregost_burningwizard.trx" dlsize="100425" size="100550" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="95E19732535E443A7956D9DAD2BF4CC5150D8D6A" downloadHash="6E64426C4CFE682C7A42DBD0C93E0CFD28E87EA7" name="beregost_burningwizard.trx" dlsize="100602" size="100776" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3017,7 +3017,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="999F523EAEDCC06C5D6B2C921DE6934C4E64E246" downloadHash="BA9394BF111782D86EBB700806D0D0A3EB43F1FB" name="dread chamber.trx" dlsize="40230" size="713445" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A3032EB3970ADCF55B00C74C7EABE9FD7CACE7FE" downloadHash="1B7095C348A014EAAC7CC8E242A3113A00625458" name="dread chamber.trx" dlsize="35797" size="759327" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3297,7 +3297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="46597F0C3FD758D13D44A18906E174E34F5068B8" downloadHash="B2EB660335B985B7A8F66E7084DD37B0F2F7B86C" name="unlinked_misc houses.trx" dlsize="246402" size="248551" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FBD62DF27E04196AA737DA09DB06EFC3F6C2D704" downloadHash="42605B7FD66480777C6AF93715B3A3F6857E4613" name="unlinked_misc houses.trx" dlsize="325243" size="328824" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3347,7 +3347,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F99110EF1566E3BBBEB2F7DEAB4A833A0E0A3830" downloadHash="D90F495EBE3AF5859D06DD185F4AA2A2BACDB27F" name="gullykin_brewhouse.trx" dlsize="13054" size="13060" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="980797BD3A99ECF38A43F174C10A8A461DA47A4E" downloadHash="61FB8C63940EA255DF1C32FBBA96CDFBB00BA0EA" name="gullykin_brewhouse.trx" dlsize="38548" size="38787" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3362,17 +3362,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="864B19CB91DD978BE75CBD1EC1F62B8D8AFAC514" downloadHash="7DAF26DFB5C39C0B86CD9C0864C409E548901372" name="cloakwood_23_swordcoast.trx" dlsize="1336403" size="12044695" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E2474189CE71CD2ACC4C55E43C85931B665368A8" downloadHash="A8CCA7FDAA9CBB43F19C3DA9D7AC6B6F74033B3E" name="cloakwood_23_swordcoast.trx" dlsize="1359749" size="12065766" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="00974A125D0849C6163DBCFF1C9CD06705032C5E" downloadHash="5964786E24EC7716A03F179EBE6EAA4876A81DD6" name="cloakwood_05_coasthouse.trx" dlsize="2301364" size="13288074" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="925C71ACB172F13435E5B846A4D75120640EC22C" downloadHash="64C000E2857F34CEC7FA8D0CCD313D4C45D0912D" name="cloakwood_05_coasthouse.trx" dlsize="2282190" size="13273663" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4ED068CA54C886E3DD78A9D85CF15C245E901DCA" downloadHash="C8547354C3B12C9C55799136CBA45CC58541A714" name="cloakwood_04_smugglers.trx" dlsize="2073844" size="14250362" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2F401D5BEBC4E65EB371F65938E78D67054E2A9F" downloadHash="0EFAFAB33CB07B299F449563705EC22345EC1167" name="cloakwood_04_smugglers.trx" dlsize="2092070" size="14277545" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
