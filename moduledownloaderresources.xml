@@ -402,7 +402,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2A91FA833156C6FF5E1DEF47F0A4A768FA86E5D4" downloadHash="27EBBC354C8B4D7571C39CB68C8522DEF64A5E6B" name="cloakwood_02_cave2.trx" dlsize="165780" size="167528" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C2A15689FF84DD69A04AC469D2A62A180D611A08" downloadHash="8C6DBC64F012E92F10ACB2D8AABBCB3565ABD26D" name="cloakwood_02_cave2.trx" dlsize="164315" size="166311" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -780,7 +780,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="50ADBC89F5CF7B7B46772FC52284C4D774BEDDD3" downloadHash="26821DA9C9E7D4F16952B2E2041533DDEBEFEBF7" name="cloakwood_02_cave0.trx" dlsize="686565" size="695035" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="59B6BC98A73CA351A762E9E839372865534757C0" downloadHash="1E69A50B563CD93F051AF7B6CD30811FF2BA3A34" name="cloakwood_02_cave0.trx" dlsize="686571" size="695035" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -852,7 +852,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="033173A747A30F0D49F97EE06C3C1B34C1370318" downloadHash="0AFB2381B80C06E76EB79924F9D32DEFE712E808" name="cloakwood_02.trx" dlsize="1683107" size="12687107" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B90750E10F234A6B9DA6F3C6E0232393C1D5E3F5" downloadHash="9F6BF6CF4941E27533F9CD6D79CD241771FDF482" name="cloakwood_02.trx" dlsize="1697725" size="12705541" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3297,7 +3297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FBD62DF27E04196AA737DA09DB06EFC3F6C2D704" downloadHash="42605B7FD66480777C6AF93715B3A3F6857E4613" name="unlinked_misc houses.trx" dlsize="325243" size="328824" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8BD28B2AA7A3F20A7D976AFE9DE622A53C86BDBE" downloadHash="09076CC1F4D4A7246D53EEEE2AD687F0246C7262" name="unlinked_misc houses.trx" dlsize="326082" size="329334" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3327,7 +3327,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="36C26C0E7F1A6B7F7735397BA415704CCF95B917" downloadHash="0D8E920A829D6BC1DC24C9FE490E89616E6B0113" name="cloakwood_hill_02_ruin.trx" dlsize="1280049" size="7958864" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="020388151C72F78509658FE80BD427F5E17A39FA" downloadHash="57B895F0E6CC0D1B0784F64413013AC899FF587D" name="cloakwood_hill_02_ruin.trx" dlsize="1975018" size="10169878" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3388,6 +3388,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="211A8E6DE247727AA87EA9BB100B9594FAC6DDFD" downloadHash="8F6BA80C238C65A8CFC3A60C9222D93F537FE09B" name="bgcity-castledist.trx" dlsize="4726316" size="14426325" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="136A5F370C2F76B1A856CAA6DF5FAA30186C1631" downloadHash="698A63EDAF66A7B5E97837B99248CCCCF387DFCF" name="cloakwood_hill_02_ruin0.trx" dlsize="151588" size="154291" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
