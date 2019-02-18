@@ -3402,4 +3402,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="A09A89CC361390D5815288CCBC06B232ED4B179A" downloadHash="C920BFFC9EDB947EF5F5812A7C7FE54E439FAFAB" name="tradeway_s_12_highsong_east_int.trx" dlsize="454556" size="2081263" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
