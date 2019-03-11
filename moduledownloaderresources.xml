@@ -336,7 +336,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3A90B5FDAA0885ACACE8955E1A9D94EDE3DC5821" downloadHash="0EFF0E4850304FE07E1909BDA53294ADD2C5396B" name="010_portal_belowdecks.trx" dlsize="160613" size="165366" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3693239F365D803F8D6226955FD6BA260E494D8E" downloadHash="EC4819492402198BCB8078C08E20D53A74345090" name="010_portal_belowdecks.trx" dlsize="160608" size="165327" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -648,7 +648,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9597082339FE30DEC8BEBBE8315C02458608AE6C" downloadHash="B0C7D0880E20EC0E4C020FF7ABBD93E934C6A699" name="nashkel_town.trx" dlsize="7172709" size="26254523" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DA52F5AD7160109FD66FA8B9F96A5BF0869B4C90" downloadHash="73DF48557AE29DB2BB35C97602E5147A10D88C4B" name="nashkel_town.trx" dlsize="7173521" size="26253741" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1142,7 +1142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2EFB8D4D51751440376C734F67326E0FFBF29246" downloadHash="B7C776134CFBA3774EE8C8F5D723657BAB9BBAC1" name="nashkel_sewer.trx" dlsize="127616" size="1259992" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FAACF3B179B36F824F85E80D7D9189EBE331B0D2" downloadHash="4FDD012260A34532DFD43483C83FFAE22C311EFF" name="nashkel_sewer.trx" dlsize="130015" size="1260033" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1196,7 +1196,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ADBA801997507D25D41FEB8C278EBB2BC9C19066" downloadHash="ED4A02BB17F9B6F610B9FA5AF5064796E23C7184" name="nashkel_cave1.trx" dlsize="262825" size="442724" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="15DBE6A7D75FACA5427CEB6BEC4C495679657E71" downloadHash="826D0D2B292F6286632D37CB77AD5913FDDEE0D0" name="nashkel_cave1.trx" dlsize="269216" size="449519" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1468,7 +1468,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6AF04175128E73085DE6315C7650B59ED7B8C713" downloadHash="8112CEF0BE240FCF1826CCDA844547B09F777B64" name="und_z2_underway.trx" dlsize="98787" size="99713" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2B878D0E76C5B983DD58D3C321DD6DB5E9C66C75" downloadHash="CF410A850DB02F7608F13354C97FD6454F6D5447" name="und_z2_underway.trx" dlsize="127277" size="128406" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3397,7 +3397,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E4CF9ED04BA8389864E3E6FBCEF4E028ECD32180" downloadHash="037AE3C148D6FA87564903A2AE0B75027F395037" name="tradeway_s_12_highsong_east.trx" dlsize="4554488" size="23501561" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EF33DEC70888E0FB341E41D7060586B246B92469" downloadHash="CE352318CE0558435F36908B9AF58D20F40E2AF2" name="tradeway_s_12_highsong_east.trx" dlsize="4599080" size="23531069" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
