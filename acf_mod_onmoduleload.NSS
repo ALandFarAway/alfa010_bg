@@ -77,7 +77,7 @@ void main() {
     SetGlobalInt(_ACR_SETTINGS_SERVER_ID, 10);
 	SetGlobalInt(_ACR_SETTINGS_SERVER_REGION, 3559);
 	SetGlobalString(_ACR_SETTINGS_SERVER_NAME, "ALFA 010 Baldur's Gate");
-	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "bg.alandfaraway.org");
+	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "bg.alandfaraway.info:5122");
 	
     ACR_ModuleOnModuleLoad();
 
