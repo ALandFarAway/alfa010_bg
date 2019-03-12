@@ -648,7 +648,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DA52F5AD7160109FD66FA8B9F96A5BF0869B4C90" downloadHash="73DF48557AE29DB2BB35C97602E5147A10D88C4B" name="nashkel_town.trx" dlsize="7173521" size="26253741" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BB32612036236D3D60B5C9A06DC224D1FBC995F3" downloadHash="F3DBE82A2304958226CA04ADC8B9AA14B5B88928" name="nashkel_town.trx" dlsize="7173824" size="26253741" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -720,7 +720,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="88C6B08267867151B05F01B8F9C42050B1AB1FAD" downloadHash="37ED213FB4F3B61564CBCC06F63AEC7D48F9BD96" name="nashkel_inn0.trx" dlsize="122168" size="166717" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7C3133DC7EC6256969855530FC892D3E64857471" downloadHash="C0C3206D2A507C8A41A403792983143D22BB2320" name="nashkel_inn0.trx" dlsize="126181" size="170814" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1142,7 +1142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FAACF3B179B36F824F85E80D7D9189EBE331B0D2" downloadHash="4FDD012260A34532DFD43483C83FFAE22C311EFF" name="nashkel_sewer.trx" dlsize="130015" size="1260033" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0617CBEF9A7187CAFBC686FF219FAB0154AFBA2B" downloadHash="E1F1392AED1622934C60DB3679B7B8F259E9953C" name="nashkel_sewer.trx" dlsize="487218" size="6479077" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1196,7 +1196,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="15DBE6A7D75FACA5427CEB6BEC4C495679657E71" downloadHash="826D0D2B292F6286632D37CB77AD5913FDDEE0D0" name="nashkel_cave1.trx" dlsize="269216" size="449519" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0A270C4DD3EDFFD537D904D33185DE0C98B1C2A4" downloadHash="50AA3F13B9420E0565B30ED2FEE648484A1440A1" name="nashkel_cave1.trx" dlsize="269216" size="449519" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
