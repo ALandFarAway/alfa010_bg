@@ -930,7 +930,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8747A249D0283D71033C37E243F71461F27B84CD" downloadHash="DB813858831C96EC4A376F17F50E5368F50AC30B" name="nashkel_outskirts.trx" dlsize="6205126" size="24295373" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EF0F50452641B06DE40334C279895CE5D0C2E6B0" downloadHash="EAAE6C34405D76CFDDB6576FB4155B09AD714EBB" name="nashkel_outskirts.trx" dlsize="6201327" size="24298877" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1142,7 +1142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0617CBEF9A7187CAFBC686FF219FAB0154AFBA2B" downloadHash="E1F1392AED1622934C60DB3679B7B8F259E9953C" name="nashkel_sewer.trx" dlsize="487218" size="6479077" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E15599A0AA263E71587EF793A562776ED6C8E85B" downloadHash="AB3249104E61BB8701FB231D6ED01CE1542350D5" name="nashkel_sewer.trx" dlsize="628807" size="6663954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
