@@ -59,8 +59,7 @@ void main() {
     // trying to spawn. For other object types, use OBJECT_TYPE_ITEM,
     // OBJECT_TYPE_PLACEABLE, OBJECT_TYPE_STORE or OBJECT_TYPE_WAYPOINT.
 
-  
-    ACR_SpawnObject("abr_cr_hu_troglodyte", OBJECT_TYPE_CREATURE);
+  //ACR_SpawnObject("abr_cr_hu_troglodyte", OBJECT_TYPE_CREATURE);
     ACR_SpawnObject("abr_cr_hu_troglodyte", OBJECT_TYPE_CREATURE);
     ACR_SpawnObject("abr_cr_hu_troglodyte", OBJECT_TYPE_CREATURE);
     
