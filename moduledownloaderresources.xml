@@ -3422,7 +3422,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C2967389D7F5DF06009FFB3A5CE200EF4EA9952E" downloadHash="05EE8F41B382369AD85FCA9EF89F65F9B38DE20B" name="tradeway_s_03_e1_plain.trx" dlsize="3611831" size="19747295" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="361F9B13DBBC146384DB22EA6EF8D90D8862E361" downloadHash="CA070B221E4F4ED436773D1599DB0C7C3615489E" name="tradeway_s_03_e1_plain.trx" dlsize="3638800" size="19793221" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
