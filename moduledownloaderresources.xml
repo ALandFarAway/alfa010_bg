@@ -3127,7 +3127,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="513E46B98D7187085B92A452505D6DEB29E0142E" downloadHash="C465E3F136836B01E2C046FA5799CB626CFD6197" name="tradeway_s_04_fai_ext.trx" dlsize="2300914" size="12970347" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A5F8CEB0FB15E56981A995F6A019F456178DB958" downloadHash="DDB8FD5E977EEB64D7A4619996372E5DE98756BE" name="tradeway_s_04_fai_ext.trx" dlsize="2309253" size="12977455" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3182,7 +3182,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6BBAC32DBC582AB1F836174153FAD2E4B2E1B8A7" downloadHash="26640C547CB9A4CEFFB4430FBE58E07C3062AF4E" name="tradeway_s_03_bridgefarm.trx" dlsize="2215524" size="14627345" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9F08BD3AA043BD73F8CCF00D35CF36B5FD3AFCDC" downloadHash="48E006942026457735EE8F775E082C7AB20640C0" name="tradeway_s_03_bridgefarm.trx" dlsize="2230315" size="14639157" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3207,7 +3207,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB04106995EE41810D4F95F899898E79B6AC1AAB" downloadHash="DE10A5FD370F3E0FBE8C4CA932D5AE073D8459FE" name="tradeway_s_02_kylanderfarm.trx" dlsize="2155920" size="14412337" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7D5FE20701910AD13D17F798C73385AB588475AA" downloadHash="D8FF21FA290397AA843CC68D5321A70592834B20" name="tradeway_s_02_kylanderfarm.trx" dlsize="2138285" size="14400123" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3312,7 +3312,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2DE0722C89F4925031B5F2ABD7F36EE0C452B402" downloadHash="61BBD978CC3358B84ED549D35EB9DC0B5E5A13EC" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3909403" size="18260074" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="67D567B7A5D273AEE34105969E87B5F52764E82F" downloadHash="1C2303A17A3D7D778E8136BA9E4F796BCFBA9459" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3895803" size="18260074" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3322,7 +3322,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D29FB8000B828086DA65C5CB7920136EE2A28F2" downloadHash="74DCF98FC0FF1585CED540BA803ECE00E6FEF5AC" name="tradeway_nw_02a_abbey.trx" dlsize="303057" size="305863" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="71DD5F1948B89B4760B57DC6B60F1C50F894ECDB" downloadHash="2693C4A2D2F8D3F980E49C3A6D507EFB1F05C945" name="tradeway_nw_02a_abbey.trx" dlsize="321720" size="327150" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3397,7 +3397,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CF848BC655A993BE34E4878C764DF2C38F1AD975" downloadHash="CCD6F47FDC0A19003375FF2889B188E909A0CCE9" name="tradeway_s_12_highsong_east.trx" dlsize="4704598" size="24044615" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CDA44BF879B21E5D721F3F5D5540C7F9675C3145" downloadHash="FE3EB5463B884A59F4146014241CF0D981A1C049" name="tradeway_s_12_highsong_east.trx" dlsize="4704394" size="24044615" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3407,17 +3407,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="61AFA2132BCBB4A26148BDFB3E24CE7DA6C3EC57" downloadHash="E6CC4D4DDC027D6DD47B35579E2C7FC8DCA5845A" name="tradeway_s_02_e1_plain.trx" dlsize="3390482" size="19773776" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="159284B6158C5B4E1E2D62427854F458753D23B4" downloadHash="213DF0123AEACBFC4C1925050A83BDD949BB86C6" name="tradeway_s_02_e1_plain.trx" dlsize="3420774" size="19790754" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="946BC31C31F11DB79FDA4FFF195D1BE09EBAE170" downloadHash="69A74682B266CE4C0EEF816ACDD95DE535F70D90" name="sharpteeth_00_outskirts.trx" dlsize="5597765" size="23319311" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5037AA33EFD530F4E799A84F0A8BFDBBA31CEE0D" downloadHash="A1A0E32BDA87A031E7039C852D243F626045792A" name="sharpteeth_00_outskirts.trx" dlsize="5595360" size="23322674" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="629A70299B7DFF7789E670FB38C042CB7A37BAD3" downloadHash="928EE090E8B3CC5A5BE0CC1E3E561C0F0929341B" name="tradeway_s_09_southofberegost.trx" dlsize="2512012" size="17411469" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C2967389D7F5DF06009FFB3A5CE200EF4EA9952E" downloadHash="05EE8F41B382369AD85FCA9EF89F65F9B38DE20B" name="tradeway_s_03_e1_plain.trx" dlsize="3611831" size="19747295" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
