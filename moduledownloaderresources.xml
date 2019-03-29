@@ -648,7 +648,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB32612036236D3D60B5C9A06DC224D1FBC995F3" downloadHash="F3DBE82A2304958226CA04ADC8B9AA14B5B88928" name="nashkel_town.trx" dlsize="7173824" size="26253741" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D4E9B2D864917C386E5FB88EAD21CE9FF53C2197" downloadHash="666669F9BE3CAAD913410B806F6D00B3BDC7976C" name="nashkel_town.trx" dlsize="7147956" size="26241618" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -714,7 +714,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="64D6822415B1FDD0D0A1AC93323C95C3CF300724" downloadHash="795C3DAA385DF59653804C717207BFAF2D2BC150" name="nashkel_helm_temple.trx" dlsize="3509" size="3485" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1DA47CC83C158E5602CDCC564B7820288A8D8300" downloadHash="33E15EA01C1507A96B72899096A638870551D799" name="nashkel_helm_temple.trx" dlsize="3500" size="3479" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3422,7 +3422,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="249730280FCCCCF83B105ED79074B234CB53C398" downloadHash="1E4FDE2349E8C510B5C535A0A9F0B5299EA7100C" name="tradeway_s_03_e1_plain.trx" dlsize="3712811" size="20130901" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4AE3502F291F8241A88AC8EA14D18E870F501B11" downloadHash="855BE37F38D288C63870879EFD3AD5ACA7ACAC3A" name="tradeway_s_03_e1_plain.trx" dlsize="3775820" size="20289392" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
