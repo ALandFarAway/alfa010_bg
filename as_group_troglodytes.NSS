@@ -60,7 +60,7 @@ void main() {
     // OBJECT_TYPE_PLACEABLE, OBJECT_TYPE_STORE or OBJECT_TYPE_WAYPOINT.
 
   //ACR_SpawnObject("abr_cr_hu_troglodyte", OBJECT_TYPE_CREATURE);
-    ACR_SpawnObject("abr_cr_hu_troglodyte", OBJECT_TYPE_CREATURE);
+   // ACR_SpawnObject("abr_cr_hu_troglodyte", OBJECT_TYPE_CREATURE);
     ACR_SpawnObject("abr_cr_hu_troglodyte", OBJECT_TYPE_CREATURE);
     
 	location lLoc = ACR_GetSpawnLocationFromDirectionAndFacing(
@@ -77,7 +77,7 @@ void main() {
         // reach 3, Random(3) returns a number from 0 to 2.
         case 0:
             // This is a level 2 barbarian / 1 humanoid orc.
-            ACR_SpawnObject("abr_cr_hu_troglodytechief", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_hu_rep_trog_lt2", OBJECT_TYPE_CREATURE);
             break;
         case 1:
            
