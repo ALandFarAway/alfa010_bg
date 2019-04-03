@@ -1142,7 +1142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C084976AE7DF58FBE58B0C05F21F20B6F5CF9A9C" downloadHash="C70395BBF44D29CA96D408515866E7A63B844A7C" name="nashkel_sewer.trx" dlsize="983537" size="8788856" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="331596B144504A32537D624DE32FEA0281963F04" downloadHash="E534DBC378B105F9C559ADB3B81CD64E2E112CD2" name="nashkel_sewer.trx" dlsize="998433" size="8788730" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3297,7 +3297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8BD28B2AA7A3F20A7D976AFE9DE622A53C86BDBE" downloadHash="09076CC1F4D4A7246D53EEEE2AD687F0246C7262" name="unlinked_misc houses.trx" dlsize="326082" size="329334" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BADBF8F44B78C97A0650B861AEE9C56757655110" downloadHash="24700989E90A6B338691AD0C3F7BE05C7822F29D" name="unlinked_misc houses.trx" dlsize="328181" size="331727" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3312,7 +3312,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="67D567B7A5D273AEE34105969E87B5F52764E82F" downloadHash="1C2303A17A3D7D778E8136BA9E4F796BCFBA9459" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3895803" size="18260074" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="53BC0F129E2C6869FAEF9D5C8D2DED8107032937" downloadHash="CEAE44484D2E986C4850B181737FD1B57E25673B" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3913902" size="18237464" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3367,7 +3367,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="925C71ACB172F13435E5B846A4D75120640EC22C" downloadHash="64C000E2857F34CEC7FA8D0CCD313D4C45D0912D" name="cloakwood_05_coasthouse.trx" dlsize="2282190" size="13273663" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="239001E08065CDDB6183D9C6D4C0829167F6083C" downloadHash="3DB1FAF5DB0F9A37A65F25F63B4F20600714E96F" name="cloakwood_05_coasthouse.trx" dlsize="2287350" size="13282171" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3422,7 +3422,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4AE3502F291F8241A88AC8EA14D18E870F501B11" downloadHash="855BE37F38D288C63870879EFD3AD5ACA7ACAC3A" name="tradeway_s_03_e1_plain.trx" dlsize="3775820" size="20289392" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="704F8696EED1096495C84E0C6E8D6D9BD0C9436F" downloadHash="13B8611F22415717B1F4B26C9DAF720D5EB84655" name="tradeway_s_03_e1_plain.trx" dlsize="3816413" size="20334434" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
