@@ -948,7 +948,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3F9A8418F6C99BEAA698A1C38A5D2CA4D52D46FF" downloadHash="9D5AF8832F18FE825409CCBD80BF9A58D1DCA74A" name="bgcity-harboreast.trx" dlsize="2511782" size="11955939" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2A6972645DD3F335DCFC18F5DB182A85737708C8" downloadHash="754581B27C398A42AB00AAC6DE30BE181BD37D7A" name="bgcity-harboreast.trx" dlsize="2507406" size="11957447" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3207,7 +3207,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7D5FE20701910AD13D17F798C73385AB588475AA" downloadHash="D8FF21FA290397AA843CC68D5321A70592834B20" name="tradeway_s_02_kylanderfarm.trx" dlsize="2138285" size="14400123" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7C4FB3AFEAEE7685F288E2E291B28F0F1139ADF8" downloadHash="75A9520379F97C7CFCF649AF38B387CB3BE560B6" name="tradeway_s_02_kylanderfarm.trx" dlsize="2155508" size="14422360" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3312,7 +3312,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="53BC0F129E2C6869FAEF9D5C8D2DED8107032937" downloadHash="CEAE44484D2E986C4850B181737FD1B57E25673B" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3913902" size="18237464" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F8F1FC6FB3E4B3B37F66442C7402C5436ED5C0C8" downloadHash="40477A4D848DFD8EF4C3835D62DEC1A1425DC989" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3934073" size="18237464" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3407,7 +3407,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="159284B6158C5B4E1E2D62427854F458753D23B4" downloadHash="213DF0123AEACBFC4C1925050A83BDD949BB86C6" name="tradeway_s_02_e1_plain.trx" dlsize="3420774" size="19790754" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="346AD4705DC77B9BB8741254FAB4489B0367476A" downloadHash="EB8634A7D684BD31106238BB0A4185C3F6C92409" name="tradeway_s_02_e1_plain.trx" dlsize="4687043" size="22204895" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3422,7 +3422,32 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="704F8696EED1096495C84E0C6E8D6D9BD0C9436F" downloadHash="13B8611F22415717B1F4B26C9DAF720D5EB84655" name="tradeway_s_03_e1_plain.trx" dlsize="3816413" size="20334434" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9541084432CBF8858D95BF28E3E07DBF94792942" downloadHash="DF1BECD3C95BD01715293C3E71D16DCA5B69264A" name="tradeway_s_03_e1_plain.trx" dlsize="3809439" size="20332735" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="39FE38B2C4B1D2A4A5D624110F998A42C877D7A8" downloadHash="994C574281A0E0F908AD56EE3EBD60DD00C12D8E" name="cold_cavern_area3.trx" dlsize="842159" size="2625483" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7289D2D145ED1F0B0E2F404A9B342C11F61F5276" downloadHash="F55AADD641E269019B79E1FBB56EBF1A8F2A740E" name="cold_cavern_area2.trx" dlsize="1241081" size="1323014" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="46ED68BC650391FAF1683F95334C1A617E180618" downloadHash="8E3676C1DBDCD498C877457010235A6B43C774E5" name="cold_cavern_area4.trx" dlsize="1393098" size="3153565" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E4F2A06F11A9C0073CD4E72154D34C9211CDB746" downloadHash="0CDBFE4955072BFE023862E4CB483483B824FF70" name="cold_cavern_area1.trx" dlsize="1529830" size="1979279" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1493987EC8C7EECDA7618FD443D120FC812B687E" downloadHash="46F345750214C8C733E79A11C5D6B2AECAB464AE" name="cold_cavern_area5.trx" dlsize="770220" size="1607420" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
