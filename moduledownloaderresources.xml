@@ -3427,12 +3427,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ACD2A5B81BDBFE85BB136A1C357583246937E84C" downloadHash="B8D96DA31860B0887FD234F43B4B84BED5C9B936" name="cold_cavern_area3.trx" dlsize="841485" size="2621473" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="47C3C693EC295E4695694A2414CFD558DC1F7204" downloadHash="D274A526FB04D96E4D0F2B0A2ED71DFFB68978B7" name="cold_cavern_area3.trx" dlsize="841909" size="2621472" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D65D9CF0301989FBA76F38BF1F0CE763B885A42" downloadHash="2BA5616751E1AF2DD81BCC83249B92C7ABDA3D81" name="cold_cavern_area2.trx" dlsize="1193619" size="2744811" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="204DB170FF06F4697F6A5DD4F5CA337605E26261" downloadHash="F7BA0EFEA5A03610DB698FB30D8E21E729B37173" name="cold_cavern_area2.trx" dlsize="1191770" size="2747055" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3442,7 +3442,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A19D566DD276EC60D7E3CAAA573444E60D16D06F" downloadHash="42C1309979CC39EC2141C04D932890BD9527DD94" name="cold_cavern_area1.trx" dlsize="1597739" size="3669126" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="68F6E3838FABA45387A06B952B97C7E9CA3081AA" downloadHash="0B1BE4255FA966B005437101A786AE798C6028AC" name="cold_cavern_area1.trx" dlsize="1600334" size="3715614" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
