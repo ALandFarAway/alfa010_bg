@@ -12,7 +12,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="30EAAFC15071F6C1E44361AD720F32D3404E5B63" downloadHash="63FD11A78AE7D04C8779DCDF73BB149A5FE3FA1B" name="alfa2_acr.hak" dlsize="4087704" size="133573264" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="209A8F416C70996089B306EFD54B5F3189755605" downloadHash="80B7C0687EBB213271A0E71CFA7DA94F508D9FD4" name="alfa2_acr.hak" dlsize="4092957" size="133574800" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -3407,7 +3407,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="45B0F807B8665209364F97071C5EDFBC423F4FF8" downloadHash="2D4560C72C354BD76F445EB58BA9439BCB03A063" name="tradeway_s_02_e1_plain.trx" dlsize="4664209" size="22234675" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="54FBF7908409A5601E00AFF90DA153A90EC98FE4" downloadHash="12949436AF08FAFC3A73B9C4505F061C52B8B9A0" name="tradeway_s_02_e1_plain.trx" dlsize="4708226" size="22270103" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3442,7 +3442,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DEFEECE163A8905EA5C5129B2298A0E03CCF8655" downloadHash="860915D658DD2B2975D45816817E85985112E321" name="cold_cavern_area1.trx" dlsize="1610629" size="3820667" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CEF0EDD2EB0B462A35770850D41B3BD9586610DC" downloadHash="CE6D05764D546B6A2AB7FAF432939471468A57A7" name="cold_cavern_area1.trx" dlsize="1598208" size="3805874" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
