@@ -954,7 +954,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B15081F22409D8715D8EB8E08A30C672BAC7091A" downloadHash="8522474E2E83F839B0E311CAA24631F21B4CE26B" name="sharpteeth_06_cave_a.trx" dlsize="291682" size="1417105" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7AD262BAB8CA0AD21288E9FF123748F8EF288F94" downloadHash="E767583AF6EE988FF4714788427D01B7AEBE1338" name="sharpteeth_06_cave_a.trx" dlsize="291691" size="1417105" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3452,7 +3452,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5BB34463D9D682CDEB23AF888DD5E45E8A4A90C3" downloadHash="5EB668B398870CF34435CFF012782DFB9504A929" name="sharpteeth_05_deserted_valley.trx" dlsize="1197520" size="8778686" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="985B0882310C925F65B357BE5531E8565DF40770" downloadHash="89D0F1A99675A96482548A854FA44E8515784868" name="sharpteeth_05_deserted_valley.trx" dlsize="1201192" size="8786081" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
