@@ -546,7 +546,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B7E98905E63480E6E316F72D9F370C731A8CA8AE" downloadHash="56D09472B05DECD41D3377D2EB055AB4A3E51048" name="sharpteeth_02_ruin.trx" dlsize="85476" size="399745" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E27EBC4607CFDB2095F01F1E2C2A1648340BC136" downloadHash="DBC3F3B7F51BF25EF42FBB2C9DA59AD847E24F39" name="sharpteeth_02_ruin.trx" dlsize="85595" size="399773" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -954,7 +954,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="10FC5CA8317B4C6FD03DE16D9F6C93C85C675E28" downloadHash="6B9C2B00FC630A2F1F1EF802B85756C55648D985" name="sharpteeth_06_cave_a.trx" dlsize="288474" size="1415253" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B15081F22409D8715D8EB8E08A30C672BAC7091A" downloadHash="8522474E2E83F839B0E311CAA24631F21B4CE26B" name="sharpteeth_06_cave_a.trx" dlsize="291682" size="1417105" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3448,6 +3448,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C4424C16EDD6E3B4E013112E27AA7A42D4A01C86" downloadHash="6F860D72A35D307F65B75CDC8A1240B26B3CF28E" name="cold_cavern_area5.trx" dlsize="773401" size="1607422" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5BB34463D9D682CDEB23AF888DD5E45E8A4A90C3" downloadHash="5EB668B398870CF34435CFF012782DFB9504A929" name="sharpteeth_05_deserted_valley.trx" dlsize="1197520" size="8778686" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="96C81FB218E2F9CF5593D94E8F1DD42A0DA47FCC" downloadHash="43E0BBD839C1877AE3CC6E9D2ACD690230E4234F" name="sharpteeth_06_lg_lake.trx" dlsize="2942617" size="18477003" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4D8973EAE073AAE08E980433343B490E6A774BF6" downloadHash="BF43F592E8B6A0D4B63533D4AB939FC9DE439E97" name="sharpteeth_04a_01.trx" dlsize="443052" size="458276" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
