@@ -3312,7 +3312,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F8F1FC6FB3E4B3B37F66442C7402C5436ED5C0C8" downloadHash="40477A4D848DFD8EF4C3835D62DEC1A1425DC989" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3934073" size="18237464" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A8221DCACF25D9309A9C4F57043A1E7AACE60D05" downloadHash="EEB923F51BF8429D19781D548FB2B27FC0A3085A" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3892874" size="18184177" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3437,12 +3437,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="65F84A4E3B4F987CFF21DF21668F7B376B734994" downloadHash="10E03B16F7C352B833E434454EF4481FC0C6102D" name="cold_cavern_area4.trx" dlsize="1429225" size="3178479" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BC0F12EAFAAC469ED1182EF53CDA0D6C22D5938F" downloadHash="15D35C2E32B3042B01ECDC2CC2C1BBEF91DD78D3" name="cold_cavern_area4.trx" dlsize="1441663" size="3190009" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CEF0EDD2EB0B462A35770850D41B3BD9586610DC" downloadHash="CE6D05764D546B6A2AB7FAF432939471468A57A7" name="cold_cavern_area1.trx" dlsize="1598208" size="3805874" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D116E1B9E85FB4495ACFFDE0DAF0A8CCE371A797" downloadHash="80CABC58D85221ED8F966D1F7428932988E85CB4" name="cold_cavern_area1.trx" dlsize="1610674" size="3821986" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3463,6 +3463,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="4D8973EAE073AAE08E980433343B490E6A774BF6" downloadHash="BF43F592E8B6A0D4B63533D4AB939FC9DE439E97" name="sharpteeth_04a_01.trx" dlsize="443052" size="458276" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="22F8AFFB917BE8B531F7E410367602060351DD81" downloadHash="DC99734F0F419DAB1C2C24B89CBED8C5F4EF8F97" name="tradeway_nw_02a_fieldofrest_cv1.trx" dlsize="563427" size="2020212" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
