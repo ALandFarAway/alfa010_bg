@@ -240,7 +240,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C018E93EF605E89F8B490EC1B46DF3462952B1B" downloadHash="3D2A3AF8B506BFCDA9F09DD988978C470954E87C" name="bgcity-market.trx" dlsize="2580086" size="9535189" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E995CCA453236DCA0232A8FFA944850E3ED28078" downloadHash="E042A2D91E25BF6643AAD578987D8710BDD56442" name="bgcity-market.trx" dlsize="2577243" size="9535188" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3468,6 +3468,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B8B8E1B5260FE720D397B441FC9E7093C4E0C3D5" downloadHash="E32B41FA676DFEF48A41544A307A8AB0EDB2F3BA" name="tradeway_nw_02a_fieldofrest_cv1.trx" dlsize="560727" size="2018418" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BCD1632B81FDB00E0AC1AAB49AA31894006CA859" downloadHash="548F3AEF5C40E83C32F2E50D08D0DF5A75DCC780" name="bg-sewers-market.trx" dlsize="513657" size="5092180" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
