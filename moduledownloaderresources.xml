@@ -240,7 +240,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E995CCA453236DCA0232A8FFA944850E3ED28078" downloadHash="E042A2D91E25BF6643AAD578987D8710BDD56442" name="bgcity-market.trx" dlsize="2577243" size="9535188" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0210DE20D105BBDE9868D4DE5672856D340A2446" downloadHash="D6318C254589740F3137B3393BF5E7F3A41B9863" name="bgcity-market.trx" dlsize="2569754" size="9521992" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3412,7 +3412,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FC382A4D10231989E46A7FA246768A33B39C0262" downloadHash="99759FAE6BB7AE3C1DC7A3CA118BC9219918BF45" name="sharpteeth_00_outskirts.trx" dlsize="5594171" size="23316621" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E55F4812369EEB3D1934DBB2BB514AB70C053747" downloadHash="7820598BCC597E4C2298773AE65A179A1DE142EC" name="sharpteeth_00_outskirts.trx" dlsize="5587753" size="23307284" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3472,7 +3472,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BCD1632B81FDB00E0AC1AAB49AA31894006CA859" downloadHash="548F3AEF5C40E83C32F2E50D08D0DF5A75DCC780" name="bg-sewers-market.trx" dlsize="513657" size="5092180" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="63E68C0DCC1D1ADE0990541DBF9C6B08C925D45D" downloadHash="93E12725FFF8519A619DA7E6076ECF0688F5946F" name="bg-sewers-market.trx" dlsize="519213" size="6292937" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2A83AAA9500360DB1E9EDB4A4229411DB4852A1B" downloadHash="FAD39D998AE49D80CE4E930624C3E85FF4EB53FE" name="unlinked_cabin_woods.trx" dlsize="1679655" size="9407908" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6E33EFB7370A88C764B5DF5385D949DDB351FAB5" downloadHash="804DDA297E2F00B2749FA29A5280FBAFA48FDD52" name="sharpteeth_12_river_edge.trx" dlsize="3507451" size="20962931" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
