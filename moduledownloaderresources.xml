@@ -492,7 +492,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AEEEB07809560EFA026C32A18FFF9C25D197780C" downloadHash="387B30AC64C7810B11E1113FC481D469F1B0E996" name="bg-upper_ramazith.trx" dlsize="63719" size="63717" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AA9F0D88DEEB9EDED897307A78B57AF1B8F2C631" downloadHash="7AAA563A79E44999B67B75FED0834AB66423E7ED" name="bg-upper_ramazith.trx" dlsize="66847" size="66693" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
