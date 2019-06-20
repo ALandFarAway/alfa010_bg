@@ -492,7 +492,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="470287C32889D79628265AEBF49D109CB454B5B5" downloadHash="7E8A57D2B4907C36AA495155B6ACDBBF6815A735" name="bg-upper_ramazith.trx" dlsize="78050" size="77910" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="190B6ABF63BC50388099B78A0E182DBADDA4FF16" downloadHash="E4F1F8C81A3BA4E671D6E397C7F13A1C5FAE50AD" name="bg-upper_ramazith.trx" dlsize="73063" size="72999" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -570,7 +570,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="66709960B7D281B03ADB6CC2F86AD270BEEB18F7" downloadHash="834ED23EFA4CB9D3DFEE9DE0CDBB9498C835F794" name="bg-eastgate_elfsong.trx" dlsize="179768" size="181123" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B3500B17D79FC1DCA8DD525A073B41BA8C60B184" downloadHash="E78A9F05215FB7FBD488533892CAC58170D05841" name="bg-eastgate_elfsong.trx" dlsize="180291" size="181593" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3156,7 +3156,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BFD3D9A52A0D7E0B3204E1A5B170B043A3D8A5EA" downloadHash="AEF9E5478125522485A88E9E4D4BFF8552E0877C" name="bgcity-castledist.trx" dlsize="4845951" size="14544778" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="45A6C7F48CBB00B280E32D598CD2CBA065A56C9B" downloadHash="DB75B32B98E6DECABACED4AF73B3AAFF19031A26" name="bgcity-castledist.trx" dlsize="4781629" size="14485558" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
