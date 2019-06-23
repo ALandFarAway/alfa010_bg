@@ -246,7 +246,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A809CC39F10931F39508239C68D363EFE85C33AA" downloadHash="00F8017B639A37F0DE2FA90561FF15E26F247898" name="bg-undercellar.trx" dlsize="378178" size="2098349" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="31D0A84BA1755B7ED843FEF2F9AF22BF1E5E78FD" downloadHash="5DBE7FAE128D9E208F8A0D21FAF6D2D8D9CBFE97" name="bg-undercellar.trx" dlsize="374457" size="2097823" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -474,7 +474,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B9F988E3272AA2CADBF2BB9B47F022720C98D420" downloadHash="75CAFA6A23FA64AA00C799BC21B9B80BF6A87814" name="cloakwood_02_cave1.trx" dlsize="723029" size="730028" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="50BE7E50939BACEE0E3FBF7C235CEA335693D188" downloadHash="7F72EDBCBE53516F2909B88FC82A6405447C814C" name="cloakwood_02_cave1.trx" dlsize="804338" size="810057" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -654,7 +654,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="59B6BC98A73CA351A762E9E839372865534757C0" downloadHash="1E69A50B563CD93F051AF7B6CD30811FF2BA3A34" name="cloakwood_02_cave0.trx" dlsize="686571" size="695035" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E9B6A40BE1B809A4BC6CD2FA5C8A730EC2837A53" downloadHash="4E240CBB2D9459BF7205458A9BE1C5837961F123" name="cloakwood_02_cave0.trx" dlsize="686563" size="695035" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1198,7 +1198,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7D24AB7B0461D3576CDAF500A991783643A29AF8" downloadHash="3B94FCE317319BAF219E66B0098A74D4A217D0CF" name="und_n4_cavern1.trx" dlsize="776461" size="795453" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B43F38A2E6C02BF7E5416DDE478EC78B5618DC57" downloadHash="E4028C17D9A6015D4D39AB54393AAED871B0CC98" name="und_n4_cavern1.trx" dlsize="777857" size="796703" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3091,7 +3091,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BC8974147EB3C7373815F70E18456A664FB5C78E" downloadHash="6296176F0410FB20946A88D0CE590DE7A2A7400C" name="tradeway_nw_02a_abbey.trx" dlsize="321727" size="327151" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A115DF39891D73B294E58A89C63FB642DBBFD324" downloadHash="AECFD19E6EB57286C68D6AD45A0904A167059022" name="tradeway_nw_02a_abbey.trx" dlsize="327257" size="332594" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3121,7 +3121,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="103CB0C2184C30F68E004A46120E7A2039233538" downloadHash="6B006FAE30E772F27852A59AB9222CA24BEEF122" name="bg-lower_tguildhall.trx" dlsize="273682" size="285490" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1A322E8A5DDD4873018446B4F92711CFAC05A33F" downloadHash="B408E63435C255D7AF03B6875497CFD2B7D35138" name="bg-lower_tguildhall.trx" dlsize="296861" size="308046" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
