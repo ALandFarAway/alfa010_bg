@@ -3121,7 +3121,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C8B901FB57A921D178295FDB7E4A2BC2060868BF" downloadHash="8786A2A2359913D3D03CD8CD6455B5A260856F39" name="bg-lower_tguildhall.trx" dlsize="302740" size="314078" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A69CC61BCBDC493806B1145BA1875243F5E92B13" downloadHash="ED0FE8273C9A3355825E17C4A8A94CA01634E5A4" name="bg-lower_tguildhall.trx" dlsize="306931" size="318703" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
