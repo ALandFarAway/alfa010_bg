@@ -600,7 +600,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="17AA0B7FBFFCA7BE24DA666FEF34958795CBF5A0" downloadHash="1958C8E7DA25E58F15CA5A9E90E1847D95EF8AF3" name="bg-undercellar_ruins_n.trx" dlsize="494020" size="509098" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="46C789A0F57B010956062593C43374EA944DD705" downloadHash="09CB8C8EE815C45217CFE02BDA89A3E6208A999B" name="bg-undercellar_ruins_n.trx" dlsize="529735" size="544308" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3121,7 +3121,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A69CC61BCBDC493806B1145BA1875243F5E92B13" downloadHash="ED0FE8273C9A3355825E17C4A8A94CA01634E5A4" name="bg-lower_tguildhall.trx" dlsize="306931" size="318703" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="899027F4079386C694A51CC56ACA1A5E2BDB1849" downloadHash="ED4F834FBE269E9451AFB780339EAB4211D7F20A" name="bg-lower_tguildhall.trx" dlsize="306928" size="318703" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
