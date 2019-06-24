@@ -1017,7 +1017,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="44E53037806662D9DA4E3CA12346F53D05EE241A" downloadHash="484D4D98913A1F0F106F8598F989EC44FB5B46C1" name="candlekeep_lionsway_02_temple1.trx" dlsize="820601" size="1368810" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="406A9A0757D06489482700BAEFB70FB76431A6B0" downloadHash="4DC25FF41BEACC80BD1459A1CCFEE238A5977B05" name="candlekeep_lionsway_02_temple1.trx" dlsize="820702" size="1368809" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1078,7 +1078,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F42D34AD0EE9590EEE872F10CB0D08919D6FCAF9" downloadHash="5900C5B509EE23613543FC86D70F874FC699CDA9" name="candlekeep_lionsway_02_temple2.trx" dlsize="1042452" size="1188776" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="49F5ECAE41BBC0A6290BCFDDFFF5885DB8782A72" downloadHash="4A68626553CA1801C652079B799C22A307438070" name="candlekeep_lionsway_02_temple2.trx" dlsize="1037491" size="1183244" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3121,7 +3121,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="899027F4079386C694A51CC56ACA1A5E2BDB1849" downloadHash="ED4F834FBE269E9451AFB780339EAB4211D7F20A" name="bg-lower_tguildhall.trx" dlsize="306928" size="318703" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A69CC61BCBDC493806B1145BA1875243F5E92B13" downloadHash="ED0FE8273C9A3355825E17C4A8A94CA01634E5A4" name="bg-lower_tguildhall.trx" dlsize="306931" size="318703" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
