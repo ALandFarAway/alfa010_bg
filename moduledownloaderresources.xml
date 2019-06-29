@@ -762,7 +762,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BF06B66B482367A731D21322EE023A2A6074D21A" downloadHash="0CC05407021D2598472ED9619816CD6E67E71C2E" name="beregost_templeoflathander.trx" dlsize="468468" size="832106" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1FAA790617FF27264A566F1A536141A3A8843689" downloadHash="3BD5D1D1CFB389FF6016A1CA7260B89B8F903BDB" name="beregost_templeoflathander.trx" dlsize="472828" size="836723" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -798,7 +798,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EF0F50452641B06DE40334C279895CE5D0C2E6B0" downloadHash="EAAE6C34405D76CFDDB6576FB4155B09AD714EBB" name="nashkel_outskirts.trx" dlsize="6201327" size="24298877" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1FA49F51D80FAF62824057296CB285C1013D96AC" downloadHash="2D92D034214B7488188681899CEE831580E6BB56" name="nashkel_outskirts.trx" dlsize="6209505" size="24304309" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1052,7 +1052,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DD658F1CF9D3EB31831671D265F18AD729F7CEEE" downloadHash="5B3D18E5BD751964303C0B62A2AB701D6ADCC6FE" name="ulgoth_town.trx" dlsize="2834052" size="16313836" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0AB3A92C9B0A57CC99C1FB72488351C53EF40902" downloadHash="CA3C71B8E338CECEDF1B2DF8F34E36AFB5C561C2" name="ulgoth_town.trx" dlsize="2828161" size="16281092" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3101,7 +3101,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5E882C73BE51105E6D03556AFA3EACEDF45E8237" downloadHash="19156438C49132DC75942BD4FA82710AAC12BA1A" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4134746" size="23633667" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F9BF26B54B7085A6538FC94B2FE78F59BB2C9A87" downloadHash="A8781D1AD295F94BE85830CF7684C6BE12BF3FBD" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4189050" size="24445960" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
