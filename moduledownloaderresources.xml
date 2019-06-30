@@ -798,7 +798,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1FA49F51D80FAF62824057296CB285C1013D96AC" downloadHash="2D92D034214B7488188681899CEE831580E6BB56" name="nashkel_outskirts.trx" dlsize="6209505" size="24304309" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BADDF3EFFA869A1FB3C34C5D6C25350A5731B42A" downloadHash="53C0F20FBA4EC963EF691F47C54C56B8F42EC15F" name="nashkel_outskirts.trx" dlsize="6213498" size="24305731" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3101,7 +3101,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F9BF26B54B7085A6538FC94B2FE78F59BB2C9A87" downloadHash="A8781D1AD295F94BE85830CF7684C6BE12BF3FBD" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4189050" size="24445960" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ACE782CA3C3A67D2FBA96BF6CE6BC0082F3384D7" downloadHash="769C61FA374F694184D8F0FFB2D20601B148221D" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4255361" size="24448602" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3252,6 +3252,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="6E33EFB7370A88C764B5DF5385D949DDB351FAB5" downloadHash="804DDA297E2F00B2749FA29A5280FBAFA48FDD52" name="sharpteeth_12_river_edge.trx" dlsize="3507451" size="20962931" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A115DF39891D73B294E58A89C63FB642DBBFD324" downloadHash="AECFD19E6EB57286C68D6AD45A0904A167059022" name="tradeway_nw_02a_abbey_sheaf.trx" dlsize="327257" size="332594" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
