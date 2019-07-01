@@ -246,7 +246,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="31D0A84BA1755B7ED843FEF2F9AF22BF1E5E78FD" downloadHash="5DBE7FAE128D9E208F8A0D21FAF6D2D8D9CBFE97" name="bg-undercellar.trx" dlsize="374457" size="2097823" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="51FFAFBEA8CCA5226EA4DE0ADE883D9FC2BCC11F" downloadHash="D01892E0443B9BCA0D6B6327B0E94C3C87C947C7" name="bg-undercellar.trx" dlsize="382694" size="2102409" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3101,7 +3101,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ACE782CA3C3A67D2FBA96BF6CE6BC0082F3384D7" downloadHash="769C61FA374F694184D8F0FFB2D20601B148221D" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4255361" size="24448602" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C0F8BACB8ABEC75438DF6965DB9A71B3255393E0" downloadHash="56F4EC2DCF9D7DC631F2D9B86D20D3614C79F86E" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4255466" size="24437329" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3121,7 +3121,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="827573DBEA67459B4A1147FFF7F69BA69C27BBBC" downloadHash="DA33FE0E21C2B2086A4A829AB5F76B11B7CD7E8C" name="bg-lower_tguildhall.trx" dlsize="308626" size="320248" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4278090FB47EEC4DF1EAD01F58B757C6B9E86987" downloadHash="D51DDD95E7D70C3BA0BEE9FBD63F24A58E75154A" name="bg-lower_tguildhall.trx" dlsize="308551" size="320260" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

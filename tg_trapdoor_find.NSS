@@ -22,6 +22,6 @@ oTarget = GetWaypointByTag("WP_bg_tg_tmpl_td_exit3");
 
 lTarget = GetLocation(oTarget);
 
-oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "bg_tg_tmpl_td_exit3", lTarget);
+oSpawn = CreateObject(OBJECT_TYPE_DOOR, "bg_tg_tmpl_td_exit3", lTarget);
 
 }
