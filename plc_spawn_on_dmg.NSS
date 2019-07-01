@@ -3,6 +3,8 @@
     which despite the name will fire on any attack not just melee attacks.
     The placeable will also need variables set to dictate the spawn behavior.
 */
+#include "acr_placeable_i"
+
 
 const string HP_TRACKING_VAR = "HP_TRACKING_VAR"; // Name of local integer on object to track health.
 const string DAMAGE_THRESHOLD = "DAMAGE_THRESHOLD"; // Local integer for how much damage causes a spawn check, will default to zero which will cause a spawn every time the script fires
@@ -11,6 +13,8 @@ const string SPAWN_MIN = "SPAWN_MIN"; // Minimum number of spawns to spawn, will
 const string SPAWN_MAX = "SPAWN_MAX"; // Maximum number of spawns to spawn, will default to SPAWN_MIN
 void main()
 {
+
+    ACR_PlaceableOnDamaged();
 //    Determine how much health the object has lost. OBJECT_SELF will be the object being attacked or damaged.
     int nHP = GetCurrentHitPoints();
     int nLastHP = GetLocalInt(OBJECT_SELF,HP_TRACKING_VAR);
