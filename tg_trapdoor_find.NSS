@@ -12,16 +12,24 @@ object oPC = GetEnteringObject();
 
 if (!GetIsPC(oPC)) return;
 
-if (GetItemPossessedBy(oPC, "10_it_key_tg_guildhouse")== OBJECT_INVALID)
+if (GetItemPossessedBy(oPC, "the guild key")== OBJECT_INVALID)
    return;
 
 object oTarget;
+oTarget = GetObjectByTag("the sight blocker");
+
+DestroyObject(oTarget, 0.0);
+
+oTarget = GetObjectByTag("the rug");
+
+DestroyObject(oTarget, 0.0);
+
 object oSpawn;
 location lTarget;
-oTarget = GetWaypointByTag("WP_bg_tg_tmpl_td_exit3");
+oTarget = GetWaypointByTag("the rug");
 
 lTarget = GetLocation(oTarget);
 
-oSpawn = CreateObject(OBJECT_TYPE_DOOR, "bg_tg_tmpl_td_exit3", lTarget);
+oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "the rolled rug", lTarget);
 
 }

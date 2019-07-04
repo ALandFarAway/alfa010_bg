@@ -342,7 +342,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F74523DA3E17313BAED1D7D9F95A43CF6C7C1C08" downloadHash="3D61818E196BF312649417004F9A545469F86F45" name="beregost.trx" dlsize="4246979" size="18838744" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B7B131590D1D6A6F0D5B182FEDDB892D42DF6305" downloadHash="72A332DEA5172D7AD6157927740DD76E92EE2FC8" name="beregost.trx" dlsize="4251253" size="18841768" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2951,7 +2951,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7045CE2E59167ADC083B724B064E13B238217F78" downloadHash="3F5C59046BB88560368AEDBB66A9F6EA8AAEF18B" name="tradeway_n_04_tempus_tears.trx" dlsize="11622909" size="32648379" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F6F1E4CFA88B341CB29A3470B428D940DDFAF332" downloadHash="CA96B6F1D2D06E8B1EA152D5E37BF82B5697D0D2" name="tradeway_n_04_tempus_tears.trx" dlsize="11636619" size="32645212" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3091,11 +3091,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A115DF39891D73B294E58A89C63FB642DBBFD324" downloadHash="AECFD19E6EB57286C68D6AD45A0904A167059022" name="tradeway_nw_02a_abbey.trx" dlsize="327257" size="332594" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="020388151C72F78509658FE80BD427F5E17A39FA" downloadHash="57B895F0E6CC0D1B0784F64413013AC899FF587D" name="cloakwood_hill_02_ruin.trx" dlsize="1975018" size="10169878" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -3121,7 +3116,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4278090FB47EEC4DF1EAD01F58B757C6B9E86987" downloadHash="D51DDD95E7D70C3BA0BEE9FBD63F24A58E75154A" name="bg-lower_tguildhall.trx" dlsize="308551" size="320260" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1856D2F795358A1DD8B1A23B37F40E83DDABCD0A" downloadHash="12761984D853177707C417B7CB4CF10BB76D9345" name="bg-lower_tguildhall.trx" dlsize="308727" size="320586" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
