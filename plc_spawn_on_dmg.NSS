@@ -50,7 +50,7 @@ void main()
 		
 		// Determine location to spawn creatures at
 		string sSpawnTag = GetLocalString(OBJECT_SELF,SPAWN_LOCATION_TAG); // Check for a tag variable
-		object oSpawnLocation = (sSpawnTag == "Cspawn")?OBJECT_SELF:GetObjectByTag(sSpawnTag); // If found, find the object by tag, otherwie use OBJECT_SELF
+		object oSpawnLocation = (sSpawnTag == "")?OBJECT_SELF:GetObjectByTag(sSpawnTag); // If found, find the object by tag, otherwie use OBJECT_SELF
 		location lSpawn = GetLocation(GetIsObjectValid(oSpawnLocation)?oSpawnLocation:OBJECT_SELF); // If the object is valid, find it's location
 		if (!GetIsLocationValid(lSpawn)) lSpawn = GetLocation(OBJECT_SELF); // Final check and default to locaiton of OBJECT_SELF in case of issue
 		
