@@ -342,7 +342,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B7B131590D1D6A6F0D5B182FEDDB892D42DF6305" downloadHash="72A332DEA5172D7AD6157927740DD76E92EE2FC8" name="beregost.trx" dlsize="4251253" size="18841768" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CC760DD03AB24BFB0E8BCF5375A024B33F4A4A08" downloadHash="68CDE0D9B050E69F23107F912775EF99CE7F3103" name="beregost.trx" dlsize="4265951" size="18845984" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -528,7 +528,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D4E9B2D864917C386E5FB88EAD21CE9FF53C2197" downloadHash="666669F9BE3CAAD913410B806F6D00B3BDC7976C" name="nashkel_town.trx" dlsize="7147956" size="26241618" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A8C0D0EB48B75F1C3E08B94F6CF9E8B7502C976C" downloadHash="F1E662247DECC6F5872BD81DCF35E80DE691DE22" name="nashkel_town.trx" dlsize="7162873" size="26249744" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -840,7 +840,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05C3C0B928C5AD5866156D03A0153D3F7A15EF5A" downloadHash="87360181B4786511AF14F6EF15C59A7136D13F3A" name="bg-eastgate_bladestars.trx" dlsize="153921" size="154499" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="78205A1F9EE5D9822441199C730C5EA7C18ABF6B" downloadHash="F339190C2231083F4E8C918A77350621841CE64D" name="bg-eastgate_bladestars.trx" dlsize="154075" size="154600" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -992,7 +992,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4CDC09D632318F6FEB475C6B93AF42F94F291557" downloadHash="E0CD83BE0CBD2A19EE99D59DE232245341990D53" name="nashkel_sewer.trx" dlsize="980793" size="8788731" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C0A901CA092BD6B960ECEEA79AC558BB4132F65" downloadHash="A1307A3157619EEF9FE9CB42A1B9BE465251FCFC" name="nashkel_sewer.trx" dlsize="1046841" size="8855089" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3096,7 +3096,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A5870C710549A1E9830B9C7F23629417945D0E0A" downloadHash="8F9C4FAEA242F24A8CFDD6095F77683D67072221" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4249684" size="24422857" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E2AF58337DB541197465E934E6D013274D6764BD" downloadHash="3D5A569852F64D4B2CA6DD476EE9C7808A90123F" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4368666" size="24582532" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3146,7 +3146,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="63997EA8730E962D45B82295416ABC2CE352E383" downloadHash="734E1067E88ED6EFD6E3B75056915DB5AFA896B7" name="tradeway_n_03_citadel_int.trx" dlsize="380827" size="385431" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E344CC8BA5CA4B2AC31F2B5C960866D70A1E0C2B" downloadHash="1E5E05281EEA34FEC6B8C0A4541177B976D589FB" name="tradeway_n_03_citadel_int.trx" dlsize="380667" size="385271" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
