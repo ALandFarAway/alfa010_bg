@@ -2706,7 +2706,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F095CF3295D3696B5DC230C86A7DC9FC5430713A" downloadHash="598779663BE6C59CF263626732F5A94686A3D8CF" name="candlekeep_lionsway_02_centipede.trx" dlsize="236877" size="1912899" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D52477F0D483B5E3E8C098DA714435D62A773ECF" downloadHash="B18A626F3B693EB4C7AEDCBE01BC328502FBD948" name="candlekeep_lionsway_02_centipede.trx" dlsize="236335" size="1912901" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3166,7 +3166,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D98227A5A32D25F4DBF71076AC94BFE84E1617E5" downloadHash="669F7129C70DFA5AB8B65219F13824206226B96D" name="tradeway_s_12_highsong_east_int.trx" dlsize="628754" size="2261184" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="72CFF97EC1B60ED700C35E12F96DCBCDB08CE08E" downloadHash="EE2CF58D74BAC56E7B1035D1787D89C962C45E27" name="tradeway_s_12_highsong_east_int.trx" dlsize="654125" size="2283395" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
