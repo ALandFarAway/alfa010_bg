@@ -3166,7 +3166,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="72CFF97EC1B60ED700C35E12F96DCBCDB08CE08E" downloadHash="EE2CF58D74BAC56E7B1035D1787D89C962C45E27" name="tradeway_s_12_highsong_east_int.trx" dlsize="654125" size="2283395" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8635B6791B594331124BD4B1805750A25D4EEC43" downloadHash="524A382C603B5917B778AD781AC4618815785F11" name="tradeway_s_12_highsong_east_int.trx" dlsize="638450" size="2267419" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
