@@ -19,7 +19,7 @@ void main()//
 
 {
 
-    if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) == 1)
+    if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) == 2)
 	 {//
   SendMessageToPC(oPC, "you enter a desolate area");
  
@@ -33,7 +33,7 @@ while (GetIsObjectValid(oTarget))//
     oTarget = GetObjectByTag("wp_qst_arsa_strgweed", n);//
 	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
 	
-	ACR_AddPersistentJournalQuestEntry("bg_arsa_strangleweed", 2, oPC, TRUE, FALSE);// 
+//	ACR_AddPersistentJournalQuestEntry("bg_arsa_strangleweed", 2, oPC, TRUE, FALSE);// 
 	}
 	 }//
  }
