@@ -3096,7 +3096,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F0156519D6A4C559064394A069E975213A706A70" downloadHash="78AFA0484EFF59EEE1941D5FF32AA9025C1A0CBE" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4389931" size="24585284" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D9FA10DF1FC074D63EE54ABB661EF2A05D9B9442" downloadHash="1FE34D216248C6E317DEDDC43C4D186CC2954ECB" name="candlekeep_lionsway_02_01_farms.trx" dlsize="4385997" size="24585283" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
