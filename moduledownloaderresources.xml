@@ -3246,12 +3246,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6E33EFB7370A88C764B5DF5385D949DDB351FAB5" downloadHash="804DDA297E2F00B2749FA29A5280FBAFA48FDD52" name="sharpteeth_12_river_edge.trx" dlsize="3507451" size="20962931" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1FF56BEE7EFCC0799677DAF57FA4408748F33044" downloadHash="0869E5F25C34DFCF79B43D28D26076FA97F5EF22" name="sharpteeth_12_river_edge.trx" dlsize="3529819" size="21010074" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="A115DF39891D73B294E58A89C63FB642DBBFD324" downloadHash="AECFD19E6EB57286C68D6AD45A0904A167059022" name="tradeway_nw_02a_abbey_sheaf.trx" dlsize="327257" size="332594" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9986B54CB268E44229007C2FB4C1AD23ACA918CA" downloadHash="49986B11C65E439FD9A707C68462106ECCC8103F" name="sharpteeth_12_river_int.trx" dlsize="266121" size="401785" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
