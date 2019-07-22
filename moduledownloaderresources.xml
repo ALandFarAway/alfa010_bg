@@ -3246,7 +3246,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1FF56BEE7EFCC0799677DAF57FA4408748F33044" downloadHash="0869E5F25C34DFCF79B43D28D26076FA97F5EF22" name="sharpteeth_12_river_edge.trx" dlsize="3529819" size="21010074" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="921742BE7F82A3E18BD81AB5C024AF015E96DA0F" downloadHash="E72A55D42F010C166CD7CC93441C0C0B5C715043" name="sharpteeth_12_river_edge.trx" dlsize="3541759" size="21017475" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3256,7 +3256,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9986B54CB268E44229007C2FB4C1AD23ACA918CA" downloadHash="49986B11C65E439FD9A707C68462106ECCC8103F" name="sharpteeth_12_river_int.trx" dlsize="266121" size="401785" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="261F0262974E1C9F33D0019382A263CF666E0427" downloadHash="A833A90BEC65C88E95601230B6C8299A43374FFF" name="sharpteeth_12_river_int.trx" dlsize="322507" size="457765" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
