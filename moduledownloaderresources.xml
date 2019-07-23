@@ -3256,7 +3256,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="261F0262974E1C9F33D0019382A263CF666E0427" downloadHash="A833A90BEC65C88E95601230B6C8299A43374FFF" name="sharpteeth_12_river_int.trx" dlsize="322507" size="457765" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A816AC7B5EF2BB5423A2146861D59D87DD11254A" downloadHash="365F29EB096C5C74DBF1658C2E8DEB527C82916F" name="sharpteeth_12_river_int.trx" dlsize="361787" size="499449" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
