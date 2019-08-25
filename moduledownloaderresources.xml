@@ -3061,7 +3061,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B9233DA46E8CA45F8367E6913560E409FBD22BA1" downloadHash="FF827C95CC86B321506B9174A934CECE22A0A39D" name="bg-lower_e_warehouses.trx" dlsize="372085" size="378322" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="389994227D161313933732E3B4F5829795012C1A" downloadHash="18E2D849FD1A7E28F387451E6170796FEB9E12AE" name="bg-lower_e_warehouses.trx" dlsize="409355" size="415088" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3257,6 +3257,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="DA8D85A1112BB915F8815D3067490CD2531ECF29" downloadHash="A29AF62B1B1882D683390EA2C66F2A62A40E238A" name="sharpteeth_12_river_int.trx" dlsize="371223" size="508374" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="33A219BB0F037A9FDC53CBE3DD87FF26F06D4BD2" downloadHash="24629AC8F713E29EC0C145C6608ECDC73A9AAF40" name="unlinked misc caves.trx" dlsize="150235" size="417107" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
