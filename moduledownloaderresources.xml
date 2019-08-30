@@ -126,7 +126,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D0445BA90ABDA8DD1D9E506714DD4453894FC44F" downloadHash="1AB9E826E07DABE6047098ED14A438338B7090E2" name="bg-eastgate_waukeen.trx" dlsize="236590" size="1048742" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BDFD88DFD06B888116721D2C1E39190A58B9A1C9" downloadHash="667D8C34BD0EC9A0878C9C172497A0B6B28E50A2" name="bg-eastgate_waukeen.trx" dlsize="249653" size="1017280" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3161,7 +3161,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E25DF880BFAA1F0C1A6FB4B9D044209935263691" downloadHash="31D5666127241A875D6D1A98B6FEE53EA40F8056" name="tradeway_s_12_highsong_east.trx" dlsize="4822978" size="24348191" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C27CBC23FE1322091567C3AFFA42070B9ED90507" downloadHash="972D7907D7716BAB04DF230DFA38C73024B80B2D" name="tradeway_s_12_highsong_east.trx" dlsize="4835402" size="24346189" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3186,17 +3186,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D64DD424BE15105D1C2F22B098F4CECE57C1DA81" downloadHash="A3AE1F270395942F2E51CC9C9B396A7944C6875A" name="tradeway_s_03_e1_plain.trx" dlsize="3789057" size="20321676" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="28E4EA308F63268366F919407F0FFC49E898835D" downloadHash="9651138144A47B65BFD7F53558367380254728AE" name="tradeway_s_03_e1_plain.trx" dlsize="3910096" size="20414746" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4DEB25C1F33AEE414742FAE87C62C3F4E88D7FCA" downloadHash="FB7683BEDE74DF6AE3F62B0141CA193570894599" name="cold_cavern_area3.trx" dlsize="843012" size="2621470" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="515A7279977CED090CDD858F279E251692E7FBB7" downloadHash="C7AE0A4AEC5624D776E77882E519EF17BCA7656B" name="cold_cavern_area3.trx" dlsize="1030990" size="5345421" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9D399A0D3956FFB0FC2EB1887750065D74902B2F" downloadHash="B17222BF361942E559E4B441D000814C05D3D814" name="cold_cavern_area2.trx" dlsize="1194229" size="2747054" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5BB169ED46D5AC415622914AF0ED0F32A1B04E25" downloadHash="8AFF9A78BBF87ED51049AC9B5B69ED4A802E1872" name="cold_cavern_area2.trx" dlsize="1255236" size="2804257" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3206,7 +3206,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="328350C6ABB63D71CB31384EFFA12CDC6AB272C9" downloadHash="76C7F1CAB8B35000C807CC33D3215A3748FF46F7" name="cold_cavern_area1.trx" dlsize="1619926" size="3825782" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2B16A1ED0D997E2AE3A1D5EAA08577BAEBC77207" downloadHash="1B8C95EDE803C048A7CEAC5427E1DC7C01255787" name="cold_cavern_area1.trx" dlsize="1618195" size="3825781" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3261,7 +3261,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="33A219BB0F037A9FDC53CBE3DD87FF26F06D4BD2" downloadHash="24629AC8F713E29EC0C145C6608ECDC73A9AAF40" name="unlinked misc caves.trx" dlsize="150235" size="417107" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="987FE3E699C8D7278366BC93474417AE3C6EAA61" downloadHash="0B99E25C774AA3F1171338B3C4E04F8264871575" name="unlinked misc caves.trx" dlsize="470360" size="785617" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BD0F9B6B4AE9F4E22A765B570D2AF9605447193F" downloadHash="5B2BBB426BAB93ADFAFCECFEA71C6F541EFC6A92" name="tradeway_s_03_e1_plain_cave2_2.trx" dlsize="373553" size="464384" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="21661183DDB46A6B247248EAFFE1D731BBE3D780" downloadHash="A6D70E2E01F4F86879E07AECC5FB15A4E610E02C" name="bg-eastgate_inside_shops.trx" dlsize="270803" size="272376" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="81CBA3B727955825E1E1BD7FB3A236FD38FB683B" downloadHash="FF51F6B1C5B1DF85626136DF843D787078D9E81D" name="tradeway_s_03_e1_plain_cave2.trx" dlsize="394829" size="753746" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
