@@ -162,7 +162,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0210DE20D105BBDE9868D4DE5672856D340A2446" downloadHash="D6318C254589740F3137B3393BF5E7F3A41B9863" name="bgcity-market.trx" dlsize="2569754" size="9521992" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ED578DB5A852BA0F5F868EADE9B9D9F2FDF31D30" downloadHash="AC000E6461B2AA2E37C90E136F087A0475E64C66" name="bgcity-market.trx" dlsize="2597153" size="9556398" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3271,7 +3271,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="21661183DDB46A6B247248EAFFE1D731BBE3D780" downloadHash="A6D70E2E01F4F86879E07AECC5FB15A4E610E02C" name="bg-eastgate_inside_shops.trx" dlsize="270803" size="272376" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C42036868B67F8E1FEF56F0C4C602545E591806C" downloadHash="717C61C451B74E6FC1225A620328E356BB1CD43A" name="bg-eastgate_inside_shops.trx" dlsize="288229" size="290351" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
