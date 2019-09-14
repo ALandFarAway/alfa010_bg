@@ -3271,12 +3271,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C42036868B67F8E1FEF56F0C4C602545E591806C" downloadHash="717C61C451B74E6FC1225A620328E356BB1CD43A" name="bg-eastgate_inside_shops.trx" dlsize="288229" size="290351" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B08F78DBAC2F0F3646C025C0FE7E5AC2F7E9F09A" downloadHash="FAE236C531BDBC63B8C186EAD9884A6E0C2E4E7B" name="bg-eastgate_inside_shops.trx" dlsize="287372" size="289392" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="81CBA3B727955825E1E1BD7FB3A236FD38FB683B" downloadHash="FF51F6B1C5B1DF85626136DF843D787078D9E81D" name="tradeway_s_03_e1_plain_cave2.trx" dlsize="394829" size="753746" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="60BC4AB1101DBEAC38FA3D8D93BC548823C6C4A9" downloadHash="FEA1B355F7586422536C5A345F6847E571447A4D" name="cold_cavern_area2a.trx" dlsize="782997" size="826302" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
