@@ -3191,7 +3191,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="515A7279977CED090CDD858F279E251692E7FBB7" downloadHash="C7AE0A4AEC5624D776E77882E519EF17BCA7656B" name="cold_cavern_area3.trx" dlsize="1030990" size="5345421" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41E731D56B6FC7E0BD0B3654A194EB75B2AC4370" downloadHash="F6AB9519B2BB891D83B7876C1957061EAF5FF9D1" name="cold_cavern_area3.trx" dlsize="1048462" size="5360345" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3201,7 +3201,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CA311E9FA3C075577B071CDE300F3A387D1CB17D" downloadHash="A436FF0A8E0BC280138A616404822CCCBD1D10EB" name="cold_cavern_area4.trx" dlsize="1440293" size="3189935" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="845D0DEA477FC02C4F9866BFFECBFD3857599F8F" downloadHash="568D76E87386E14E35B08AE0B4EEAC4B099F97EA" name="cold_cavern_area4.trx" dlsize="1547001" size="3293494" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3281,7 +3281,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="60BC4AB1101DBEAC38FA3D8D93BC548823C6C4A9" downloadHash="FEA1B355F7586422536C5A345F6847E571447A4D" name="cold_cavern_area2a.trx" dlsize="782997" size="826302" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E7D26DE0C0CD5FD484F125A9AE0BBA9B758AD6B9" downloadHash="81FC67D51089CD9E5415B2BA87C443FFDDE6F171" name="cold_cavern_area2a.trx" dlsize="762271" size="802534" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
