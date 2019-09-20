@@ -138,7 +138,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="226BEE40D47D0E9C526DE7902BE73A82F7531BA9" downloadHash="5577A0D20CFB7941CA72AD67FA9180602B2A5712" name="gullykin_firewine_ruin_1.trx" dlsize="292305" size="11965733" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A40B9F332688BC9AACD269CFA1F9D4308A5EEF09" downloadHash="EE3D6E24E46F36E9A5A5F07DEBF19F51E28EB78F" name="gullykin_firewine_ruin_1.trx" dlsize="291224" size="11965069" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -456,7 +456,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="354AE7DB3CA45D2EF82FD2E1FE91F201AE153AC3" downloadHash="DD52EA8991E614A2F2DE9A67F353622BE869418C" name="gullykin_firewine.trx" dlsize="6110108" size="21738006" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5321ED9543E461D080DAE30DA3AE464C455EC884" downloadHash="BE124A798259341E19BDA6CDA32CB13F68BDDC51" name="gullykin_firewine.trx" dlsize="6110698" size="21756346" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -792,7 +792,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="892363DB21212598EF946958AADF0DEA41BB8AB4" downloadHash="66C53B0FF5A9C321DD55115D2EA65B93F7D0C537" name="gullykin_firewine_crypt.trx" dlsize="316726" size="319969" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3B0CE80106C9461794F4CBE1E0B6C6DB21EB50FC" downloadHash="5E48F82696DD2D4860D16A6AC1B4EBE68B64C73E" name="gullykin_firewine_crypt.trx" dlsize="309337" size="312788" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -870,7 +870,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="87E832F1682BF2A4367757B68C49D9F1886BA6C1" downloadHash="03FE55FC3C953D0D2D7E7EA77911EAF0AF8F1152" name="gullykin_firewine_ruin_0.trx" dlsize="793821" size="11363694" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FC9E039F751BDCDC7A666A7E00E58FFE409D0AE3" downloadHash="CBC2858214E92D1ED06E9E905024BBAD898BE3FE" name="gullykin_firewine_ruin_0.trx" dlsize="796101" size="11367100" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3281,7 +3281,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7D26DE0C0CD5FD484F125A9AE0BBA9B758AD6B9" downloadHash="81FC67D51089CD9E5415B2BA87C443FFDDE6F171" name="cold_cavern_area2a.trx" dlsize="762271" size="802534" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04480321657D016C9886CE7BA9C1923FF60ACF45" downloadHash="00E3C236495AB8CA63BC31E76F20CA783627AC78" name="cold_cavern_area2a.trx" dlsize="820208" size="858360" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
