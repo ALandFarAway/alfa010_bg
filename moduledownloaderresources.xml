@@ -3056,7 +3056,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F69E4912B689EC00A0C40E4F6BEB5E61E1C22BB0" downloadHash="0F916BADD498A801E1D369CB3DEC50B77C22879F" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="258884" size="398723" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E74B8815908E1E8A0548AAEDDFDA3771F2030CED" downloadHash="4F79E742C8B5D1ED00135FBCD0094CB5AA59A736" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="261604" size="401426" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
