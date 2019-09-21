@@ -3056,12 +3056,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F8A0225C0C740AFDFEFA64615CEE470DA360BDEC" downloadHash="0CE71A3CB57E061EBDAFE7058F5DA8938EDDADAF" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="143133" size="145537" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F69E4912B689EC00A0C40E4F6BEB5E61E1C22BB0" downloadHash="0F916BADD498A801E1D369CB3DEC50B77C22879F" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="258884" size="398723" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="389994227D161313933732E3B4F5829795012C1A" downloadHash="18E2D849FD1A7E28F387451E6170796FEB9E12AE" name="bg-lower_e_warehouses.trx" dlsize="409355" size="415088" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="72AFBD2F9DBF14FC0885B85A6532A7DC0BB32843" downloadHash="6612AF7AFB7C53F289E238C0EEBE3A8918FD4362" name="bg-lower_e_warehouses.trx" dlsize="406725" size="412524" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
