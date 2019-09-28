@@ -792,7 +792,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3B0CE80106C9461794F4CBE1E0B6C6DB21EB50FC" downloadHash="5E48F82696DD2D4860D16A6AC1B4EBE68B64C73E" name="gullykin_firewine_crypt.trx" dlsize="309337" size="312788" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7CED63EB0F6B8EFC348D69B3F828E41E9E3EB85" downloadHash="9246689224A63FA7D912FD66C55438267E4FBE41" name="gullykin_firewine_crypt.trx" dlsize="309096" size="312603" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3051,7 +3051,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8C7607A479298ADF71DBE3D465D34482B8011663" downloadHash="6FF38FB0EDE0C304CED664ED7D3397CD5F627518" name="fields_ofthe_dead_ne_01_caves.trx" dlsize="433687" size="616338" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="867763F8BFD683CB4FAAA7B083E054FE7F968F17" downloadHash="359B635F330C3BE27402E2518389802936BEE6FC" name="fields_ofthe_dead_ne_01_caves.trx" dlsize="431558" size="613363" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3156,7 +3156,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="32751A3412FDE29176BEB61C08108695908602DA" downloadHash="A528656DAE4C426A0D447531D2A305EAC4F5D02F" name="cloakwood_hill_02_ruin0.trx" dlsize="342679" size="349450" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="39685E6B9EB2ADB351BC76ECE4DAB1092C7059F8" downloadHash="C37348233695778D0B4AA847AF7F6D4EBD588893" name="cloakwood_hill_02_ruin0.trx" dlsize="446306" size="632161" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3282,6 +3282,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="04480321657D016C9886CE7BA9C1923FF60ACF45" downloadHash="00E3C236495AB8CA63BC31E76F20CA783627AC78" name="cold_cavern_area2a.trx" dlsize="820208" size="858360" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7C78325E649FB0BA6F3A24EDFE06AFA739515C8E" downloadHash="176FA7C4E27F885198D0A6B31F263A3EAA36585F" name="cloakwood_hill_02_ruin1_2.trx" dlsize="133099" size="133673" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0291A4807ED2F1990B365DA67CD130C396418AA6" downloadHash="3092BD63AF687FEC247E764DAEA85A2E0436E94A" name="cloakwood_hill_02_ruin1.trx" dlsize="87383" size="87630" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
