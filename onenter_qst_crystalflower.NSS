@@ -72,7 +72,7 @@ else ApplyEffectAtLocation(DURATION_TYPE_INSTANT, EffectVisualEffect(VFX_COM_CHU
 
 DestroyObject(oTarget, 3.0);
 
-oTarget = GetObjectByTag("plc_qst_lion_crystalflower2");
+oTarget = GetObjectByTag("plc_qst_lion_crystalflower1");
 
 //Visual effects can't be applied to waypoints, so if it is a WP
 //the VFX will be applied to the WP's location instead
@@ -100,7 +100,7 @@ AssignCommand(oTarget, ActionAttack(oPC));
 
 AssignCommand(oTarget, DetermineCombatRound(oPC));
 
-oTarget = GetWaypointByTag("WP_WP_abr_cr_an_lion");
+oTarget = GetWaypointByTag("WP_abr_cr_an_lion9");
 
 lTarget = GetLocation(oTarget);
 
