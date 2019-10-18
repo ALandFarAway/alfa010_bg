@@ -2529,7 +2529,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2082C4049B58B226160AD58F1CBA804ABCB7F60E" downloadHash="D97AA72AC5F61907FA32A4F01612F83042DB8677" name="bg-lower_fightclub.trx" dlsize="144873" size="145124" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="573FBB5D3E074A3B424FE3CD215A4CC520EBF75D" downloadHash="0CE9BB1C838A5409EF2D6D6AE4D71D29F39875C9" name="bg-lower_fightclub.trx" dlsize="144867" size="145124" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2896,7 +2896,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="917421E209335659266F398C723FDFA6C8E062D2" downloadHash="D9445EB3571C2581FFADB6CFA6EA16097E4268A3" name="ck_bg_ship_ext.trx" dlsize="141514" size="6486057" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8EBD6E26FC9998E0A2DB34E44FFE91B8CB324831" downloadHash="0FE2ED2E3BA0597469699EFD23192C3C861F6AC9" name="ck_bg_ship_ext.trx" dlsize="153005" size="6485700" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3171,7 +3171,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="26BD66740041E7D18B0EBAF77BDA2A78495F3DEF" downloadHash="85506A53AC12CECBEAF61440AFF3C0F285F802EE" name="tradeway_s_02_e1_plain.trx" dlsize="4717655" size="22274340" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1EFAE5D0E4E95D1D575B38083652DB862B96ECF2" downloadHash="62276A61B12E24A0C2E2193B7E1E0BE3151E6D7C" name="tradeway_s_02_e1_plain.trx" dlsize="4714608" size="22265243" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3186,7 +3186,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="28E4EA308F63268366F919407F0FFC49E898835D" downloadHash="9651138144A47B65BFD7F53558367380254728AE" name="tradeway_s_03_e1_plain.trx" dlsize="3910096" size="20414746" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CA82BBDB4A83939659135909E822BCC9B2AAF3D1" downloadHash="8B1EFE27CDF2D321A9AA1BA59920E2C3EA43A04E" name="tradeway_s_03_e1_plain.trx" dlsize="3901248" size="20412861" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3292,6 +3292,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0291A4807ED2F1990B365DA67CD130C396418AA6" downloadHash="3092BD63AF687FEC247E764DAEA85A2E0436E94A" name="cloakwood_hill_02_ruin1.trx" dlsize="87383" size="87630" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FF7002580B7DA52A9B59B0A7C04F7847F0B0131E" downloadHash="FA0F73FDDC3203DD94DB36BFEDDA5E1D0EA7B4D8" name="cloakwood_23_cave2_2.trx" dlsize="375818" size="466843" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="55B9C836F3E94862F8EB043B27CDA4ACDE35CB7D" downloadHash="40D3275EB5A3530180899E0B7F67735E0D8B714E" name="cloakwood_23_cave2.trx" dlsize="396867" size="755520" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

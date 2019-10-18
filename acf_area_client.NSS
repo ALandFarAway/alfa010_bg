@@ -49,6 +49,6 @@ void main();
 
 void main() {
     ACR_AreaOnClientEnter();
-	//SendMessageToAllDMs(GetName(GetEnteringObject())+" Has Loaded area "+GetName(OBJECT_SELF)+" at time "+IntToString(GetTimeSecond()));
+	SendMessageToAllDMs(GetName(GetEnteringObject())+" Has Loaded area "+GetName(OBJECT_SELF)+" at time "+IntToString(GetTimeSecond()));
     // Custom code goes below this line.
 }

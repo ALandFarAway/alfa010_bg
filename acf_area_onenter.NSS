@@ -23,7 +23,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 #include "acr_area_i"
-//#include "acr_time_i"
+#include "acr_time_i"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -52,6 +52,6 @@ void main()
 {
     ACR_AreaOnEnter();
 	
-//	SendMessageToAllDMs(GetName(GetEnteringObject())+" is entering area "+GetName(OBJECT_SELF)+" at time "+IntToString(GetTimeSecond()));
+	SendMessageToAllDMs(GetName(GetEnteringObject())+" is entering area "+GetName(OBJECT_SELF)+" at time "+IntToString(GetTimeSecond()));
     // Custom code goes below this line.
 }
