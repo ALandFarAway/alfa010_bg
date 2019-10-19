@@ -3311,4 +3311,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="0452A35F4F2338C79E07C09B36AEB989B79E89A4" downloadHash="160FC8816D9C96374D101254AFC033D7207A6C3A" name="bg-lower_fightclub1.trx" dlsize="146165" size="146528" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
