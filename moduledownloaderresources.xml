@@ -204,7 +204,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4CF488547424B013EE520E33A6F3239A83E8E98F" downloadHash="349FE79AAFAB0FEC707B07263E478081C1366039" name="010_dmarea.trx" dlsize="213797" size="217810" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B120B53DD7D4193037FE2A02DA3AD572067ACC38" downloadHash="695D73D749B25950806695EC90DD434DA2D066A7" name="010_dmarea.trx" dlsize="208040" size="212443" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -270,7 +270,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7E26489D026625B80247504DD5AAAD379BBB4DA3" downloadHash="1F5679312F2BBC597E37241CEB0995E03328D07E" name="010_dpss.trx" dlsize="43182" size="44933" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="391F77C78625B4FF665C03D953751A636CC88C8F" downloadHash="E076C1E63B8C14E9172E4B99FD9F0A427290576E" name="010_dpss.trx" dlsize="52698" size="53740" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -558,7 +558,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC718ECBC9018D3D95D3F4BD7464E911F7CE8730" downloadHash="7E140D751ECEBB918BE95B7E83E1EB9AF8142AB1" name="010_starting_area.trx" dlsize="124916" size="125946" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="09CCF4AD1D354263D9B4AC25A0299675347905D0" downloadHash="7B78FAAF070663A86BE58D2329681F3941BADC74" name="010_starting_area.trx" dlsize="124906" size="125946" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3081,7 +3081,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EDB9D3B9315834E85033FCE0A28B5CB0D15A04FC" downloadHash="547CB89509E68D0D69DB16F4C8765971395B5E0E" name="candlekeep_wilds_n_1b_ponds.trx" dlsize="2511191" size="15323383" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A0DBC3B171A1C2D4A54EE5B4F2FCBDA316433C3B" downloadHash="00C08CFFD3D110325B7B187662BFA48B6078CA9A" name="candlekeep_wilds_n_1b_ponds.trx" dlsize="2675133" size="15487997" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3101,7 +3101,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4CC2FF4FFA85F238706A7DF6A9835D59E5948A4D" downloadHash="06A3B168BA1CFAB96BDCAEAF683A2C3CCBA76E92" name="uldoon_trail_01_ext_durlag.trx" dlsize="7131700" size="25101409" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="373E19160C6352F5441131A8182F22AEA8B3C5F9" downloadHash="66F7CE0454F3EB6910F9FAD4C5E3C7EDF365A048" name="uldoon_trail_01_ext_durlag.trx" dlsize="7136503" size="25102878" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3311,7 +3311,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0452A35F4F2338C79E07C09B36AEB989B79E89A4" downloadHash="160FC8816D9C96374D101254AFC033D7207A6C3A" name="bg-lower_fightclub1.trx" dlsize="146165" size="146528" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BD56BA082294226A3517E8556A5D62191DC13A7D" downloadHash="8268EFC743220CA120CE7041E5633CA4917ED77A" name="bg-lower_fightclub1.trx" dlsize="146224" size="146491" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="51A0439BCF1DE84F2EAB3C5B09EBFC7644CD9BD3" downloadHash="5EDFE3EDB3D7FF23273FAA3533828AD0E6371644" name="cloakwood_01_outskirts.trx" dlsize="1653666" size="12373801" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
