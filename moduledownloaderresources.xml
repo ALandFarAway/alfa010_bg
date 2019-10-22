@@ -12,7 +12,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="667B69A26892CC9D766F1B3E84248F677CF1B2BE" downloadHash="70A8F49A4A97490C7045E692FF71AF1788ECE3EC" name="alfa2_acr.hak" dlsize="4088561" size="133574792" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="366ACB5A4AAAD7AB1CD40090BD7B6A83F86B88B5" downloadHash="A02C76AEC8133A98CB2B0ED1E6BBAC03F42C407B" name="alfa2_acr.hak" dlsize="4089827" size="133574322" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -3317,6 +3317,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="51A0439BCF1DE84F2EAB3C5B09EBFC7644CD9BD3" downloadHash="5EDFE3EDB3D7FF23273FAA3533828AD0E6371644" name="cloakwood_01_outskirts.trx" dlsize="1653666" size="12373801" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9F5CE5B6F2298668FAE301865A6B385F84BB4C77" downloadHash="720A909460DC8141AA63D2C8BDA2E899571628ED" name="candlekeep_wilds_n_2a_coast.trx" dlsize="2475653" size="13830053" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B9E6917632876694CDDF930BB8EB9C90C5D71543" downloadHash="1ECD8961A4D9CB93822F9D73DAE7DD1BA4A2E5FB" name="candlekeep_wilds_n_2b_falls.trx" dlsize="3506800" size="17069179" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
