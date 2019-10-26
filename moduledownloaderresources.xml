@@ -1115,7 +1115,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="28732DFB5B9CA9FA6DD0A046AF82E195AC36413E" downloadHash="B9AAC43CCE3142674B90BFEE791D0E39D42307E7" name="und_z1_underway.trx" dlsize="543502" size="557789" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C871FB81168EA92EFB6A770C3690EAE5B15549A6" downloadHash="5850949B628F7FD0F0768F7753D972AE5A9289DF" name="und_z1_underway.trx" dlsize="538453" size="552646" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
