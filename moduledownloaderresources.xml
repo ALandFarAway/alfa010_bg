@@ -18,7 +18,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="D65505E2731B239000ABB48067726F743E635053" downloadHash="6AF4CC4F27A311D93C5E96D94376B6F8CE11B12C" name="alfa_fx.hak" dlsize="106441572" size="314582050" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="D65505E2731B239000ABB48067726F743E635053" downloadHash="6FFB32DA36C9D52A0DC1E3ACFB5C27059120661A" name="alfa_fx.hak" dlsize="106891649" size="314582050" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -462,7 +462,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="85068C56CF04A43AB6D86B59E3B5C8908714793C" downloadHash="D71DE7D2531E64F190600EB69402DCDBD58FE337" name="bgcity-harborwest.trx" dlsize="3577813" size="15032930" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="187788C7BA470298F144B1EF592E573043837EB4" downloadHash="D70AF2950A0AF4A90AD9BFF4EB116F847C20D69D" name="bgcity-harborwest.trx" dlsize="3586236" size="15037231" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3529,6 +3529,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3A6949ABB628D91398CC55AF771CC1887994C393" downloadHash="0EE3828973A0904661C6DCA3CC7C73A3FC4E9D37" name="tradeway_s_02_e1_plain_cave3.trx" dlsize="945611" size="1906196" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5710A588D2F187FD562C2617CF4487014802C111" downloadHash="CF2833D5F826C84826CDE38D3B174994A5147902" name="bgcity-harborwest_int.trx" dlsize="33186" size="33302" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
