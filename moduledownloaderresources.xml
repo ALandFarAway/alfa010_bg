@@ -3533,7 +3533,167 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5710A588D2F187FD562C2617CF4487014802C111" downloadHash="CF2833D5F826C84826CDE38D3B174994A5147902" name="bgcity-harborwest_int.trx" dlsize="33186" size="33302" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F62544A6C9513E72504F1049176384C39673E913" downloadHash="E51CE9DA8B985808680DAF8E413FF4BCDDD6E32E" name="bgcity-harborwest_int.trx" dlsize="157156" size="157960" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7AE7B0074B394F2DC403BA08BDABD070279A801A" downloadHash="6DF315FAC20E226973D7BF1AB6135A254E606D3B" name="bgcity-harborwest_umberleetemple.trx" dlsize="167563" size="170182" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ED578DB5A852BA0F5F868EADE9B9D9F2FDF31D30" downloadHash="AC000E6461B2AA2E37C90E136F087A0475E64C66" name="bgcity-eastgate ext.trx" dlsize="2597153" size="9556398" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9A16081CA33D3235049FCDB5DA4EF02B9FAB7316" downloadHash="18D952CD4A2B47775EE334EF5AC5AE2FA157A3FF" name="bgcity-castledist_bathhouse.trx" dlsize="152036" size="737429" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E867D086C34ED516CE793044BBE03DE869FE06F9" downloadHash="2F06040945FCD898965AC6A72DAD441B634FB0F3" name="bgcity-upperwest_flamingfist.trx" dlsize="167103" size="167895" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0F10B96100B3A29A5BC732CD320962CEA0BE21E8" downloadHash="5F14E31CAD830688C8449E18CD37A5DCD5EBE080" name="bgcity-harboreast_luckysword.trx" dlsize="70973" size="71178" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3205F73C7827AD212A09120C84FEA3C5B551AC87" downloadHash="8225DFE372A70219C334C772EBC27E945FA1517B" name="bgcity-harboreast_slum.trx" dlsize="25379" size="25306" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5B8EC1C9C6E2C5D971163E584C21F3DA47F8C2B5" downloadHash="BB0E3E886BEDADA9261B57E6DA3230E755FFCEFE" name="bgcity-eastgate_sorcsund.trx" dlsize="197387" size="601152" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0C8195972D1D349C8B90A382FEF5105C95FE2B1A" downloadHash="5790BD504CA22748175DAB81FD46702C0275B37B" name="bgcity-harborwest_ironthrone.trx" dlsize="47536" size="47631" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="67F3CD76A6B004A13EFAFACBFEB8866EC09A69C2" downloadHash="8B546ABF8DCC225E1EE96113EA9BC4BD79062CFB" name="bgcity-castledist_palace.trx" dlsize="374769" size="380310" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="516A6C78F42EAC20866D27348F141EF4992B9FDC" downloadHash="48328446F55C1A42FC47933458EEDAA9BA4ABD16" name="bgcity-castledist_housing.trx" dlsize="959705" size="2277304" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DE9A14BB92960480EB96DF8E4D840E2D989EF226" downloadHash="8065DDEAD895CA303B630EDF1B9E56DCA7A7BE0B" name="bgcity-harboreast_mermaid.trx" dlsize="267097" size="268826" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B2C072F3BD5A829F6A03C2E1260D27CB28CE2ED8" downloadHash="E662FCA17C79B67A594D932A8F4F51EA842DA8EF" name="bgcity-harborwest_watchpost.trx" dlsize="79551" size="79814" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CF5E76998EDA9C85CECFDE0D8AAA9F7FB5F9B667" downloadHash="4EAC4A093712C726F7295441FFDAC96251519BF9" name="bgcity-harboreast_tempus.trx" dlsize="149834" size="193189" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="190B6ABF63BC50388099B78A0E182DBADDA4FF16" downloadHash="E4F1F8C81A3BA4E671D6E397C7F13A1C5FAE50AD" name="bgcity-castledist_ramazith.trx" dlsize="73063" size="72999" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B3500B17D79FC1DCA8DD525A073B41BA8C60B184" downloadHash="E78A9F05215FB7FBD488533892CAC58170D05841" name="bgcity-eastgate_elfsong.trx" dlsize="180291" size="181593" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CC5D72EE6F1E3A5CC3B41C3CEC903B4F98BA90BA" downloadHash="23447C4320B3C873725AA2E1F0A4549FD1D933B7" name="bgcity-harboreast_warehouse.trx" dlsize="82457" size="82965" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2BDA93E541686F6608288BBAC79F4AB75EB4BD02" downloadHash="BBA266429B44C5FAA1A9D79CF7141D3F196AFD4F" name="bgcity-eastgate_int_shops.trx" dlsize="167662" size="168280" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BD56BA082294226A3517E8556A5D62191DC13A7D" downloadHash="8268EFC743220CA120CE7041E5633CA4917ED77A" name="bgcity-harboreast_fightclub.trx" dlsize="146224" size="146491" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E99DC5A788D515333F13EC4AD1C051BD5B1412FA" downloadHash="274AA8EAF28EB0EEFD12351F086BD2C9491F7915" name="bgcity-harborwest_tguildhall.trx" dlsize="308884" size="320767" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="49DB4C6F1D5CE03AD28B5EEE70213A7F58DE895E" downloadHash="B7A676D567589DB28BC46B56DDCC9149FACB43BF" name="bgcity-eastgate_architect.trx" dlsize="54009" size="96682" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EC801B3842DE23EA090E7C7CE1C19BE72E87E3B1" downloadHash="777A8649C89D0D50E544941CD5623D908B5C8832" name="bgcity-upperwest_ragefast.trx" dlsize="56346" size="56442" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="56771618A2B03DFFA53F5558CA13D88C8BB17DF5" downloadHash="83473A790C8F8966B5AE64813FE6F03F897C08FB" name="bgcity-upperwest_thayan.trx" dlsize="389998" size="394003" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B3DC10EB15C4ABB2F71E1379526EA0755B59305E" downloadHash="DB46A1E1D32795C40FBAA9CDEE7C578E776C7020" name="bgcity-castledist_swordsedge.trx" dlsize="159485" size="203829" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="759F701935F8235685FBB1DA6113EBDCF9150460" downloadHash="7BDFE6F4BA933E688E4812FA475C0FB31CC23376" name="bgcity-eastgate_hc_inn.trx" dlsize="146563" size="147415" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9A82AC59D69B04A940A05D319012174F5A900D76" downloadHash="A83EC90DECFF8F359EDE5A615E5AD1C8D72160A3" name="bgcity-castledist_gond.trx" dlsize="167607" size="170762" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="78205A1F9EE5D9822441199C730C5EA7C18ABF6B" downloadHash="F339190C2231083F4E8C918A77350621841CE64D" name="bgcity-eastgate_bladestars.trx" dlsize="154075" size="154600" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5DAF175B57439C4E84A8C25B56E9036F0C4A35C3" downloadHash="42B6D9F7109EB7876EFE932685914D4393D04335" name="bgcity-upperwest_tymora.trx" dlsize="41348" size="41435" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AEE9C2EEA03B7256DFE0AD610FF02F361D39C83F" downloadHash="2D8253ABCAE42E758E9F067D31E196F4BEFC4B44" name="bgcity-castledist_threekegs.trx" dlsize="257101" size="346298" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BDFD88DFD06B888116721D2C1E39190A58B9A1C9" downloadHash="667D8C34BD0EC9A0878C9C172497A0B6B28E50A2" name="bgcity-eastgate_waukeen.trx" dlsize="249653" size="1017280" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="52425A4A724312F7E37ED3E9235E52863CF6E17D" downloadHash="A4E5B3A5BFAB4F2F2963111E7E747BA80E592F72" name="bgcity-harboreast_harbormaster.trx" dlsize="54556" size="54589" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="72AFBD2F9DBF14FC0885B85A6532A7DC0BB32843" downloadHash="6612AF7AFB7C53F289E238C0EEBE3A8918FD4362" name="bgcity-harboreast_warehouses.trx" dlsize="406725" size="412524" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E55599FB71D6606A4652E7A86E05FE917D21B02B" downloadHash="725E951505DB2C21CC43382CE0DE14F01C31471C" name="bgcity-harboreast_lowlantern.trx" dlsize="166860" size="171140" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
