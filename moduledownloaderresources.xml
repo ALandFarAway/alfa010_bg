@@ -906,7 +906,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FDC253B314670F87E2144A7D8143366E617930E4" downloadHash="73C8016695ADA74D69BBA0169D9DF2BC6037AB85" name="unlinked_home.trx" dlsize="97561" size="98060" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5D3D2B4A37DC6A360A4B86450BC4F1B290DF7625" downloadHash="82F7A62EB4457121AA1AA6355C207C26A8F2F366" name="unlinked_home.trx" dlsize="97228" size="97806" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3420,13 +3420,13 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="38A0D2D71A221E968AD614361BA8141A5377AE0E" downloadHash="8F6AF01D29E9EB555BDA8CEF11A3ED9C071F803C" name="unlinked_cabin_woods.trx" dlsize="1669138" size="9397173" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CC5D11664068330640C8B56408A04B8D0C407B49" downloadHash="538EFB91FB41DABF11036521013220EE59C53E27" name="unlinked_cabin_woods.trx" dlsize="1669672" size="9393637" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AB87DD466BC869D9234C995B59644961E2334A46" downloadHash="3DE4B17CA6F477BE6FC57FE09237C93847816F4A" name="sharpteeth_12_river_edge.trx" dlsize="3354158" size="20821364" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6D9057E060A103E9C3DD1917378C5B291FE04E80" downloadHash="DAA4042E8552ABEF14AFF760D3E643A277EEC6A2" name="sharpteeth_12_river_edge.trx" dlsize="3532082" size="21012458" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3583,7 +3583,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1A924F0002D4E89ECFE0F618A392AFAD57DC735E" downloadHash="B39B4B24CA6E838338A5E61112BD8C82140F40E4" name="bgcity-castledist_housing.trx" dlsize="957616" size="2277304" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E1FC0B37F927073976A6E6DCB298C89EB347D140" downloadHash="7325DFC9E5DD707E14FE1A745F75F83ADBAD1315" name="bgcity-castledist_housing.trx" dlsize="957877" size="2276763" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3663,7 +3663,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="78205A1F9EE5D9822441199C730C5EA7C18ABF6B" downloadHash="F339190C2231083F4E8C918A77350621841CE64D" name="bgcity-eastgate_bladestars.trx" dlsize="154075" size="154600" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="96F7BD772C842216E6461A6C7DA60845B14E6C73" downloadHash="8FE2294DE40FA13286EE39A2D6B6D7CE27122289" name="bgcity-eastgate_bladestars.trx" dlsize="154755" size="155319" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
