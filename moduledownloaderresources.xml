@@ -906,7 +906,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5D3D2B4A37DC6A360A4B86450BC4F1B290DF7625" downloadHash="82F7A62EB4457121AA1AA6355C207C26A8F2F366" name="unlinked_home.trx" dlsize="97228" size="97806" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="39D121382E3B58820E14F919F636B794B0109FEB" downloadHash="DAD50FD2F5CB79162DAC3CA673D4EC4B339C21FD" name="unlinked_home.trx" dlsize="97232" size="97806" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3653,7 +3653,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="759F701935F8235685FBB1DA6113EBDCF9150460" downloadHash="7BDFE6F4BA933E688E4812FA475C0FB31CC23376" name="bgcity-eastgate_hc_inn.trx" dlsize="146563" size="147415" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="614734CC104E71703206E9DAF800C60ECA4A1603" downloadHash="D332B8761C70BD1299888523E4B18682A08073D7" name="bgcity-eastgate_hc_inn.trx" dlsize="155304" size="156364" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3694,6 +3694,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E55599FB71D6606A4652E7A86E05FE917D21B02B" downloadHash="725E951505DB2C21CC43382CE0DE14F01C31471C" name="bgcity-harboreast_lowlantern.trx" dlsize="166860" size="171140" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="69397243131D387E7F48DFF7091021F0D5CD450B" downloadHash="2614852B0CA5AAA1FA1AE079B9A5256E647B3D29" name="ruins_helm_cloak.trx" dlsize="485375" size="495314" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
