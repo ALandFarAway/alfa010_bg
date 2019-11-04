@@ -3653,7 +3653,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9283EB0A31DA6C852C81C0C6B2F9334E8CEF8282" downloadHash="E16F0B3FF693A3670E096C65DC3BD0E500A58CA7" name="bgcity-eastgate_hc_inn.trx" dlsize="156851" size="157897" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B019F29C7DFAA9D2D4DBB5E4A3BAA5E327B6E27B" downloadHash="6D7B4FBB27B58D444F075DCB8ECFBFAA190EF156" name="bgcity-eastgate_hc_inn.trx" dlsize="155303" size="156448" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
