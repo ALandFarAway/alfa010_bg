@@ -3653,7 +3653,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="614734CC104E71703206E9DAF800C60ECA4A1603" downloadHash="D332B8761C70BD1299888523E4B18682A08073D7" name="bgcity-eastgate_hc_inn.trx" dlsize="155304" size="156364" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9283EB0A31DA6C852C81C0C6B2F9334E8CEF8282" downloadHash="E16F0B3FF693A3670E096C65DC3BD0E500A58CA7" name="bgcity-eastgate_hc_inn.trx" dlsize="156851" size="157897" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3698,7 +3698,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="69397243131D387E7F48DFF7091021F0D5CD450B" downloadHash="2614852B0CA5AAA1FA1AE079B9A5256E647B3D29" name="ruins_helm_cloak.trx" dlsize="485375" size="495314" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="66D5D373547C87A4C3B3BA8ECC622412E7396087" downloadHash="5C70D6D9029407D9D6234966F1BD7123188135B8" name="ruins_helm_cloak.trx" dlsize="484750" size="494728" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

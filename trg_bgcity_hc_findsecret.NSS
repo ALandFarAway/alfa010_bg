@@ -13,7 +13,7 @@ oTarget = GetObjectByTag("bg_eg_hc_doorhider1");
 
 DestroyObject(oTarget, 0.0);
 
-oTarget = GetObjectByTag("***enter tag of object (container / door) here***");
+oTarget = GetObjectByTag("hc_uc");
 
 SetLocked(oTarget, FALSE);
 
