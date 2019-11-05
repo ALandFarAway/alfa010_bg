@@ -3426,7 +3426,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6D9057E060A103E9C3DD1917378C5B291FE04E80" downloadHash="DAA4042E8552ABEF14AFF760D3E643A277EEC6A2" name="sharpteeth_12_river_edge.trx" dlsize="3532082" size="21012458" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DC3DE99454DDC4FC320AAF300F1F39F92B106031" downloadHash="26D37C4977EEE240029B0247960B683B2EA4EBFB" name="sharpteeth_12_river_edge.trx" dlsize="3527919" size="21012673" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3438,7 +3438,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DA8D85A1112BB915F8815D3067490CD2531ECF29" downloadHash="A29AF62B1B1882D683390EA2C66F2A62A40E238A" name="sharpteeth_12_river_int.trx" dlsize="371223" size="508374" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="56473792A3C394C521F5975DECFBF1EDFCC09147" downloadHash="1ECC754A1AC22DD952FEB7029CEC00312FD230E2" name="sharpteeth_12_river_int.trx" dlsize="373242" size="510599" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3653,7 +3653,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B019F29C7DFAA9D2D4DBB5E4A3BAA5E327B6E27B" downloadHash="6D7B4FBB27B58D444F075DCB8ECFBFAA190EF156" name="bgcity-eastgate_hc_inn.trx" dlsize="155303" size="156448" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A91F9BF9D5E7C823696BB891736D6C5EFED815DC" downloadHash="8551EBC2ACF13B5B90218C39598B974FB0CBCAED" name="bgcity-eastgate_hc_inn.trx" dlsize="155308" size="156447" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3698,7 +3698,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="66D5D373547C87A4C3B3BA8ECC622412E7396087" downloadHash="5C70D6D9029407D9D6234966F1BD7123188135B8" name="ruins_helm_cloak.trx" dlsize="484750" size="494728" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EB47D502CBB200BE26B23B497AD1242CE4D924B4" downloadHash="EFD33FB035D5C65E6DE1B1A269426E36CB27065F" name="ruins_helm_cloak.trx" dlsize="484718" size="494727" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

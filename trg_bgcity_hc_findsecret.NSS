@@ -10,6 +10,7 @@ if (!GetIsSkillSuccessful(oPC, SKILL_SEARCH, 13))
 
 object oTarget;
 oTarget = GetObjectByTag("bg_eg_hc_doorhider1");
+oTarget = GetObjectByTag("secret_los_uc_door");
 
 DestroyObject(oTarget, 0.0);
 
