@@ -246,7 +246,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="51FFAFBEA8CCA5226EA4DE0ADE883D9FC2BCC11F" downloadHash="D01892E0443B9BCA0D6B6327B0E94C3C87C947C7" name="bg-undercellar.trx" dlsize="382694" size="2102409" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E2207BA99A114C973DCB309EA9CC15D16ECFEC32" downloadHash="A61236E3D69AC7A891C4D4C4D75BBB1FCA916DC9" name="bg-undercellar.trx" dlsize="377098" size="2102968" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3426,7 +3426,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DC3DE99454DDC4FC320AAF300F1F39F92B106031" downloadHash="26D37C4977EEE240029B0247960B683B2EA4EBFB" name="sharpteeth_12_river_edge.trx" dlsize="3527919" size="21012673" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6F64A5A36D277058A6B1D7BD2E95E32FAE42B2CE" downloadHash="A99281C30EEE2F6EC336315D8F24E3FA99A00E1E" name="sharpteeth_12_river_edge.trx" dlsize="3506843" size="20993516" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3438,7 +3438,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="56473792A3C394C521F5975DECFBF1EDFCC09147" downloadHash="1ECC754A1AC22DD952FEB7029CEC00312FD230E2" name="sharpteeth_12_river_int.trx" dlsize="373242" size="510599" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="81271751BA6CAA60E2493D857BDE2C4332D1E2CD" downloadHash="F3E3A3E6BBF88B3B430C22A77609212C22984493" name="sharpteeth_12_river_int.trx" dlsize="374188" size="511461" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3548,7 +3548,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9A16081CA33D3235049FCDB5DA4EF02B9FAB7316" downloadHash="18D952CD4A2B47775EE334EF5AC5AE2FA157A3FF" name="bgcity-castledist_bathhouse.trx" dlsize="152036" size="737429" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2922F725F574AE3FECBDB884FA84AA9F3E5E1544" downloadHash="85095CC1B2BDAC498E782DDCA948E4CF935F2222" name="bgcity-castledist_bathhouse.trx" dlsize="149299" size="734547" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3653,7 +3653,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A91F9BF9D5E7C823696BB891736D6C5EFED815DC" downloadHash="8551EBC2ACF13B5B90218C39598B974FB0CBCAED" name="bgcity-eastgate_hc_inn.trx" dlsize="155308" size="156447" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B19AFFA88803563DC4826BD2673410233C1D10A0" downloadHash="4F0E5700CC639E77D4AAE9CF0F6682474BAF2405" name="bgcity-eastgate_hc_inn.trx" dlsize="168507" size="169510" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3699,6 +3699,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="EB47D502CBB200BE26B23B497AD1242CE4D924B4" downloadHash="EFD33FB035D5C65E6DE1B1A269426E36CB27065F" name="ruins_helm_cloak.trx" dlsize="484718" size="494727" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F837D49A4903C0996AA84ED8897C1C58F3215C7A" downloadHash="46C9D9BE1053D64D8969CDDB4397F6C434F313CC" name="fx_lg_darkness.SEF" dlsize="570" size="2026" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
