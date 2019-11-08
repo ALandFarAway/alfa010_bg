@@ -25,7 +25,7 @@ ACR_TriggerOnEnter();
     if ( d20() + GetSkillRank(GetLocalInt(OBJECT_SELF,SKILL_VAR), oPC) < GetLocalInt(OBJECT_SELF,SKILL_DC_VAR) )
         return;
 
-    // Spawn "secret cave door".
+    // Spawn "secret door".
     oTarget = GetWaypointByTag(GetLocalString(OBJECT_SELF,WP_TAG_VAR));
     oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE,GetLocalString(OBJECT_SELF,RESREF_VAR), GetLocation(oTarget));
 }
