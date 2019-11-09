@@ -1,11 +1,17 @@
 // Put this script OnEnter.
+// 000_secret_door
+// Spot = 17                  find skill #s on Skills.2da
+// Search = 14
+// Survival = 29
+// Knowledge Dungeon = 33
 
 #include "acr_trigger_i"
+#include "acr_skills_i"
 
-const string SKILL_VAR = "nSkill";
-const string SKILL_DC_VAR = "nDC";
-const string RESREF_VAR = "sResRef";
-const string WP_TAG_VAR = "sWayPointTag";
+const string SKILL_VAR = "nSkill"; // integer
+const string SKILL_DC_VAR = "nDC"; // integer
+const string RESREF_VAR = "sResRef"; //string
+const string WP_TAG_VAR = "sWayPointTag"; //string
 
 void main()
 {
