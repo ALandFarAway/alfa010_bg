@@ -27,7 +27,7 @@ ACR_TriggerOnEnter();
     if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
         return;
 
-    // Abort if a skill check (spot) is failed.
+    // Abort if a skill check is failed.
     if ( d20() + GetSkillRank(GetLocalInt(OBJECT_SELF,SKILL_VAR), oPC) < GetLocalInt(OBJECT_SELF,SKILL_DC_VAR) )
         return;
 
