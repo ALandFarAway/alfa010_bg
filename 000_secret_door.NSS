@@ -8,10 +8,10 @@
 #include "acr_trigger_i"
 #include "acr_skills_i"
 
-const string SKILL_VAR = "nSkill"; // integer
-const string SKILL_DC_VAR = "nDC"; // integer
-const string RESREF_VAR = "sResRef"; //string
-const string WP_TAG_VAR = "sWayPointTag"; //string
+const string SKILL_VAR = "nSkill"; // integer nSkill
+const string SKILL_DC_VAR = "nDC"; // integer nDC
+const string RESREF_VAR = "sResRef"; //string sResRef
+const string WP_TAG_VAR = "sWayPointTag"; //string sWayPointTag
 
 void main()
 {

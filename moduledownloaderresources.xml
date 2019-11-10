@@ -3438,7 +3438,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8A3C411D066DAB2FE1F4929C94F11B54610D2E18" downloadHash="78917F76A613E3989D654B01B7A10FDDC589AD9D" name="sharpteeth_12_river_int.trx" dlsize="410072" size="591787" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E5F183D2CC6310ACEC6DC327C2B2D8D895F4C650" downloadHash="D5E143C6C97C8BACC82D1DB6F22B7CD62A43BF91" name="sharpteeth_12_river_int.trx" dlsize="398118" size="579955" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3528,7 +3528,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3A6949ABB628D91398CC55AF771CC1887994C393" downloadHash="0EE3828973A0904661C6DCA3CC7C73A3FC4E9D37" name="tradeway_s_02_e1_plain_cave3.trx" dlsize="945611" size="1906196" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="994F1FB0826E62224E7D7EA3320B0EAF4BB44359" downloadHash="7A7281BB03FEC14DD066A93BD62A6E25E35B9BC8" name="tradeway_s_02_e1_plain_cave3.trx" dlsize="924123" size="1884426" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
