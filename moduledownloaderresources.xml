@@ -3438,7 +3438,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AF941A4504B3A83B4C7E585214D08043664B2E73" downloadHash="07FA66F94430F12B1F6851E9EF970BC9670ABA48" name="sharpteeth_12_river_int.trx" dlsize="398281" size="579843" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CE5C84665482E373C3D0495F4CE9EF1310B8FF3D" downloadHash="09676354C0220EBB98CD2142B878A71B13D758CB" name="sharpteeth_12_river_int.trx" dlsize="397566" size="579512" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3708,7 +3708,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="916B8ED2FFD4EDC14AFE2AF97456560597462C64" downloadHash="FC0662D46724AB3F76AD3762BD281351A9E62C69" name="sharpteeth_12_river_ruins.trx" dlsize="481782" size="491924" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="44796ADD58AEB2DA8AF329AA2A79185942E39196" downloadHash="F90ABD9CCF8936AD5EB02AA1AA9AB2CFC2218AAC" name="sharpteeth_12_river_ruins.trx" dlsize="466448" size="476270" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
