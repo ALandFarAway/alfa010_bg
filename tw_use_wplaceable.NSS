@@ -15,7 +15,10 @@ void main()
     object oUser = GetLastUsedBy();
 
     // Allow for traps and locks
-    if (GetIsTrapped(OBJECT_SELF)) {return;}
+    if (GetIsTrapped(OBJECT_SELF)) 
+	{
+	return;
+	}
 
    // if (GetLocked(OBJECT_SELF)) {
         // See if we have the key and unlock if so
@@ -37,14 +40,17 @@ void main()
    // }
 
     // Handle opening/closing
-    if (!GetIsSecretItemOpen(OBJECT_SELF)) {
+    if (!GetIsSecretItemOpen(OBJECT_SELF)) 
+	{
         // play animation of user opening it
        // AssignCommand(oUser, ActionPlayAnimation(ANIMATION_LOOPING_GET_MID));
        // DelayCommand(1.0, ActionPlayAnimation(ANIMATION_PLACEABLE_OPEN));
        SetIsSecretItemOpen(OBJECT_SELF, TRUE);
-    } else {
+    } 
+	else 
+	{
         // it's open -- go through and then close
-        UseSecretTransport(GetLastUsedBy());
+      UseSecretTransport(GetLastUsedBy());
         //ActionPlayAnimation(ANIMATION_PLACEABLE_CLOSE);
         //SetIsSecretItemOpen(OBJECT_SELF, FALSE);
     }

@@ -3336,7 +3336,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D12E568A18125D1690E3D0CA75CEB605B946E816" downloadHash="B8C552AAA8ABD52EBDC7E509ECB995DD0F5B63E6" name="tradeway_s_02_e1_plain.trx" dlsize="4710339" size="22288758" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AF751155B6204A726137CB182017894AD43FAD0E" downloadHash="E44F7E6E881D8C2FE33602BBBCC1FF8C724ADB8C" name="tradeway_s_02_e1_plain.trx" dlsize="4707533" size="22291065" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3528,7 +3528,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="994F1FB0826E62224E7D7EA3320B0EAF4BB44359" downloadHash="7A7281BB03FEC14DD066A93BD62A6E25E35B9BC8" name="tradeway_s_02_e1_plain_cave3.trx" dlsize="924123" size="1884426" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8A8CAFA29E6FEBECB8016DCC814AA8BC89B3474E" downloadHash="0927FD143AD00F766636799A722745080D46B9E9" name="tradeway_s_02_e1_plain_cave3.trx" dlsize="924153" size="1885049" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
