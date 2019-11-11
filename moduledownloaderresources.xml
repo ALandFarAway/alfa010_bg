@@ -3414,7 +3414,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="63E68C0DCC1D1ADE0990541DBF9C6B08C925D45D" downloadHash="93E12725FFF8519A619DA7E6076ECF0688F5946F" name="bg-sewers-market.trx" dlsize="519213" size="6292937" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="65BA616E849DD7238C355BE4BCE27A6B8840AAAE" downloadHash="E84A56B0DED84DCD834723D69872AAA86CC5A165" name="bg-sewers-market.trx" dlsize="513631" size="6292538" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3438,7 +3438,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E5F183D2CC6310ACEC6DC327C2B2D8D895F4C650" downloadHash="D5E143C6C97C8BACC82D1DB6F22B7CD62A43BF91" name="sharpteeth_12_river_int.trx" dlsize="398118" size="579955" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AF941A4504B3A83B4C7E585214D08043664B2E73" downloadHash="07FA66F94430F12B1F6851E9EF970BC9670ABA48" name="sharpteeth_12_river_int.trx" dlsize="398281" size="579843" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3543,7 +3543,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED578DB5A852BA0F5F868EADE9B9D9F2FDF31D30" downloadHash="AC000E6461B2AA2E37C90E136F087A0475E64C66" name="bgcity-eastgate ext.trx" dlsize="2597153" size="9556398" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1F10D977CA7C4D1036987085F94E44B473B345E2" downloadHash="C71F8DD090E08592751856F8F783A080F8023C59" name="bgcity-eastgate ext.trx" dlsize="2598182" size="9552925" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3653,7 +3653,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2E1798CB67B1A109A44F58CAD2E10FFFD57F85AF" downloadHash="1BD1B3568D6CADAC38483C4B512502AE5F37E342" name="bgcity-eastgate_hc_inn.trx" dlsize="166196" size="167118" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="037916916F1C5473DAEB4D955A8283422E23E45E" downloadHash="605938F70FAA7D6EEB0193520E539E535AEA1CDA" name="bgcity-eastgate_hc_inn.trx" dlsize="169583" size="170492" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3704,6 +3704,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="F837D49A4903C0996AA84ED8897C1C58F3215C7A" downloadHash="46C9D9BE1053D64D8969CDDB4397F6C434F313CC" name="fx_lg_darkness.SEF" dlsize="570" size="2026" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="916B8ED2FFD4EDC14AFE2AF97456560597462C64" downloadHash="FC0662D46724AB3F76AD3762BD281351A9E62C69" name="sharpteeth_12_river_ruins.trx" dlsize="481782" size="491924" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

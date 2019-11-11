@@ -1,3 +1,5 @@
+// this only works if the DST_PITFALL is in the same area or there is only one in the module
+
 void main()
 {
 effect eDam;

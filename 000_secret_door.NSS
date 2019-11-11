@@ -1,5 +1,6 @@
+// Written by Saaz of ALFA
 // Put this script OnEnter.
-// 000_secret_door
+// ***000_secret_door***
 // Spot = 17                  find skill #s on Skills.2da
 // Search = 14
 // Survival = 29
