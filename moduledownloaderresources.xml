@@ -126,12 +126,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BDFD88DFD06B888116721D2C1E39190A58B9A1C9" downloadHash="667D8C34BD0EC9A0878C9C172497A0B6B28E50A2" name="bg-eastgate_waukeen.trx" dlsize="249653" size="1017280" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="58069698D8274CE2141EAF71F9E074B8338FB184" downloadHash="ABABB687B1FCC1E3E15A4089C2180B85F78979DF" name="nashkel_pass_05_wilds_cave.trx" dlsize="366492" size="905329" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -144,25 +138,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3205F73C7827AD212A09120C84FEA3C5B551AC87" downloadHash="8225DFE372A70219C334C772EBC27E945FA1517B" name="bg-lower_slum.trx" dlsize="25379" size="25306" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B3DC10EB15C4ABB2F71E1379526EA0755B59305E" downloadHash="DB46A1E1D32795C40FBAA9CDEE7C578E776C7020" name="bg-upper_swordsedge.trx" dlsize="159485" size="203829" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="E497A11D0F5D54C5A51D085E32F64EA1940543A6" downloadHash="FCA382B18DC24CD5763B5BA7C34AAE84E9115845" name="tradeway_s_04_fai_main.trx" dlsize="381672" size="741227" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="ED578DB5A852BA0F5F868EADE9B9D9F2FDF31D30" downloadHash="AC000E6461B2AA2E37C90E136F087A0475E64C66" name="bgcity-market.trx" dlsize="2597153" size="9556398" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -192,12 +168,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DE9A14BB92960480EB96DF8E4D840E2D989EF226" downloadHash="8065DDEAD895CA303B630EDF1B9E56DCA7A7BE0B" name="bg-lower_mermaid.trx" dlsize="267097" size="268826" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="37D7D7EA4CE79CCF09460EFADD870395675F2FB9" downloadHash="AB992291C8F68887917D9FE0C69F9670D443529C" name="gullykin_hold.trx" dlsize="42293" size="42374" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -211,18 +181,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="1DC4E82E8193EEAC11F783A85BAC5B1A02429209" downloadHash="41DDF4141373DE77437FE271DFC711081489320A" name="sharpteeth_07_cabin.trx" dlsize="292690" size="832966" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="EC801B3842DE23EA090E7C7CE1C19BE72E87E3B1" downloadHash="777A8649C89D0D50E544941CD5623D908B5C8832" name="bg-upper_ragefast.trx" dlsize="56346" size="56442" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="9A82AC59D69B04A940A05D319012174F5A900D76" downloadHash="A83EC90DECFF8F359EDE5A615E5AD1C8D72160A3" name="bg-upper_gond.trx" dlsize="167607" size="170762" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -258,25 +216,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9A16081CA33D3235049FCDB5DA4EF02B9FAB7316" downloadHash="18D952CD4A2B47775EE334EF5AC5AE2FA157A3FF" name="bg-upper_bathhouse.trx" dlsize="152036" size="737429" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="759F701935F8235685FBB1DA6113EBDCF9150460" downloadHash="7BDFE6F4BA933E688E4812FA475C0FB31CC23376" name="bg-eastgate_hc_inn.trx" dlsize="146563" size="147415" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="391F77C78625B4FF665C03D953751A636CC88C8F" downloadHash="E076C1E63B8C14E9172E4B99FD9F0A427290576E" name="010_dpss.trx" dlsize="52698" size="53740" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="0C8195972D1D349C8B90A382FEF5105C95FE2B1A" downloadHash="5790BD504CA22748175DAB81FD46702C0275B37B" name="bg-lower_ironthrone.trx" dlsize="47536" size="47631" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -289,18 +229,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C6512AF0FED64429ACC8196DA815D5C232D0A7F5" downloadHash="25CCF4A13DEC7AC26D7021E5FA5BC2591B4C9094" name="010_fugue_plane.trx" dlsize="612711" size="6227385" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="5B8EC1C9C6E2C5D971163E584C21F3DA47F8C2B5" downloadHash="BB0E3E886BEDADA9261B57E6DA3230E755FFCEFE" name="bg-eastgate_sorcsund.trx" dlsize="197387" size="601152" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="52425A4A724312F7E37ED3E9235E52863CF6E17D" downloadHash="A4E5B3A5BFAB4F2F2963111E7E747BA80E592F72" name="bg-lower_harbormaster.trx" dlsize="54556" size="54589" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -432,12 +360,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5DAF175B57439C4E84A8C25B56E9036F0C4A35C3" downloadHash="42B6D9F7109EB7876EFE932685914D4393D04335" name="bg-upper_tymora.trx" dlsize="41348" size="41435" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="2B72D07928D3CD546D03C78980A2509850B39CA9" downloadHash="6F388A5B25396065FA147DEE32E7D3E49668330D" name="sharpteeth_02_ruin.trx" dlsize="85579" size="399772" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -468,12 +390,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CF5E76998EDA9C85CECFDE0D8AAA9F7FB5F9B667" downloadHash="4EAC4A093712C726F7295441FFDAC96251519BF9" name="bg-lower_tempus.trx" dlsize="149834" size="193189" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="50BE7E50939BACEE0E3FBF7C235CEA335693D188" downloadHash="7F72EDBCBE53516F2909B88FC82A6405447C814C" name="cloakwood_02_cave1.trx" dlsize="804338" size="810057" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -492,25 +408,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="190B6ABF63BC50388099B78A0E182DBADDA4FF16" downloadHash="E4F1F8C81A3BA4E671D6E397C7F13A1C5FAE50AD" name="bg-upper_ramazith.trx" dlsize="73063" size="72999" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="2706E5EBF3D890180E38BC37384F53397FD4D3D6" downloadHash="F1A91A6630FE5718AF2CDFFA21E0AF4257E43FA8" name="cloakwood_12_cave1.trx" dlsize="2384352" size="2455121" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="CC5D72EE6F1E3A5CC3B41C3CEC903B4F98BA90BA" downloadHash="23447C4320B3C873725AA2E1F0A4549FD1D933B7" name="bg-lower_warehouse.trx" dlsize="82457" size="82965" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="0E0A7AEACD2ABE9EEA85AB13C8A6457A5DF40236" downloadHash="9766A3576A37C07EA912B3D08E5FFFFD79286A66" name="bg-eastgate_inside.trx" dlsize="271088" size="272613" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -540,12 +438,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7AE7B0074B394F2DC403BA08BDABD070279A801A" downloadHash="6DF315FAC20E226973D7BF1AB6135A254E606D3B" name="bg-lower_umberleetemple.trx" dlsize="167563" size="170182" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="453A6CB1801520693BFBF736A9FA757D9A5E8BFE" downloadHash="89EB8B9DB3613B63C91249AD3711CB4C88110758" name="tradeway_s_01_tower.trx" dlsize="61915" size="61890" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -565,24 +457,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="CCECF8E297752B479DA96E3DB24AD4056C0EB87D" downloadHash="40410AE0EA4714512CD93EBA773EF77C1E39D222" name="bg-undercellar_descent.trx" dlsize="697610" size="8999776" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B3500B17D79FC1DCA8DD525A073B41BA8C60B184" downloadHash="E78A9F05215FB7FBD488533892CAC58170D05841" name="bg-eastgate_elfsong.trx" dlsize="180291" size="181593" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="56771618A2B03DFFA53F5558CA13D88C8BB17DF5" downloadHash="83473A790C8F8966B5AE64813FE6F03F897C08FB" name="bg-upper_thayan.trx" dlsize="389998" size="394003" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B2C072F3BD5A829F6A03C2E1260D27CB28CE2ED8" downloadHash="E662FCA17C79B67A594D932A8F4F51EA842DA8EF" name="bg-lower_watchpost.trx" dlsize="79551" size="79814" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -619,12 +493,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="33A137DB070ECF270B8DA6644D1BE01D1E681E9E" downloadHash="84401A9F1383D44017CE3AA4E0B3BD0B8B3A2D85" name="beregost_redsheaf.trx" dlsize="318740" size="324863" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="51A0439BCF1DE84F2EAB3C5B09EBFC7644CD9BD3" downloadHash="5EDFE3EDB3D7FF23273FAA3533828AD0E6371644" name="cloakwood_01.trx" dlsize="1653666" size="12373801" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -708,12 +576,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="67F3CD76A6B004A13EFAFACBFEB8866EC09A69C2" downloadHash="8B546ABF8DCC225E1EE96113EA9BC4BD79062CFB" name="bg-upper_palace.trx" dlsize="374769" size="380310" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="ABAFD744EF77C68BEB02FD1F674F8F30E5F9B134" downloadHash="16C7DBBF742611896CCF36D680006FF47D300D12" name="ulgoth_northbank.trx" dlsize="1963558" size="15382760" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -739,12 +601,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="BA7254920ED9F72B2C2654517108531B46B06900" downloadHash="1875411B3F335DCAF9EE78C7C40994D0D5E25745" name="tradeway_s_06_cave.trx" dlsize="78617" size="79300" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="AEE9C2EEA03B7256DFE0AD610FF02F361D39C83F" downloadHash="2D8253ABCAE42E758E9F067D31E196F4BEFC4B44" name="bg-upper_threekegs.trx" dlsize="257101" size="346298" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -828,19 +684,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E867D086C34ED516CE793044BBE03DE869FE06F9" downloadHash="2F06040945FCD898965AC6A72DAD441B634FB0F3" name="bg-upper_flamingfist.trx" dlsize="167103" size="167895" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="E2BE17D6B1BCC4DDA2EB6030BA2C78D79825CD6C" downloadHash="BA9590230BA78D906CD72762C9452C25298EEE68" name="candlekeep_gate.trx" dlsize="107911" size="107782" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="78205A1F9EE5D9822441199C730C5EA7C18ABF6B" downloadHash="F339190C2231083F4E8C918A77350621841CE64D" name="bg-eastgate_bladestars.trx" dlsize="154075" size="154600" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -972,25 +816,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E55599FB71D6606A4652E7A86E05FE917D21B02B" downloadHash="725E951505DB2C21CC43382CE0DE14F01C31471C" name="bg-lower_lowlantern.trx" dlsize="166860" size="171140" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="49DB4C6F1D5CE03AD28B5EEE70213A7F58DE895E" downloadHash="B7A676D567589DB28BC46B56DDCC9149FACB43BF" name="bg-eastgate_architect.trx" dlsize="54009" size="96682" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="1E69C7BEE150B8A8EFE9625D00B4DE49C9F47EF1" downloadHash="273674BA2393A7B729A195FB2C97AE0315C964B2" name="tradeway_n_01_hauntedhouse.trx" dlsize="136607" size="137454" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="34D530C8908E531ED1ED72F74CCD92AB723EE6A6" downloadHash="2F532547C65E9DCE41618B0719482517832E6748" name="cloakwood_hill_02_cave1.trx" dlsize="34305" size="34474" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1003,18 +829,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="2B0B895D1BB3C2394E98F9270E879FF7A12454FB" downloadHash="76C1162A567C1ADC162F858E7EC583793C533DDB" name="beregost_ulcaster0.trx" dlsize="198081" size="202192" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="516A6C78F42EAC20866D27348F141EF4992B9FDC" downloadHash="48328446F55C1A42FC47933458EEDAA9BA4ABD16" name="bg-eastgate_housing.trx" dlsize="959705" size="2277304" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="0291A4807ED2F1990B365DA67CD130C396418AA6" downloadHash="3092BD63AF687FEC247E764DAEA85A2E0436E94A" name="cloakwood_hill_02_cave0.trx" dlsize="87383" size="87630" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2598,12 +2412,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F7AEFCA46A7D94BD28225B41850CC521D905D2C9" downloadHash="B3AEA27A96983A648A6567D12CCB25AF7688D49F" name="bg-lower_fightclub.trx" dlsize="144867" size="145124" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="6338B0DC06701D6265112A88DBE9C56C7B5AAF44" downloadHash="4E5ED152B8D89B90C64ADFA8B768B2B5A9192FE8" name="secs- camped cave.trx" dlsize="636056" size="650348" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2784,19 +2592,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9F5CE5B6F2298668FAE301865A6B385F84BB4C77" downloadHash="720A909460DC8141AA63D2C8BDA2E899571628ED" name="candlekeep_wilds_n_2a.trx" dlsize="2475653" size="13830053" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="759A87C5719E962BA704F6C78114FD6B8F586474" downloadHash="37D42089A57AFA7FE692988D7486B19D7C120B7B" name="candlekeep_wilds_n_2c.trx" dlsize="2633025" size="14599884" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B9E6917632876694CDDF930BB8EB9C90C5D71543" downloadHash="1ECD8961A4D9CB93822F9D73DAE7DD1BA4A2E5FB" name="candlekeep_wilds_n_2b.trx" dlsize="3506800" size="17069179" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3204,19 +3000,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="72AFBD2F9DBF14FC0885B85A6532A7DC0BB32843" downloadHash="6612AF7AFB7C53F289E238C0EEBE3A8918FD4362" name="bg-lower_e_warehouses.trx" dlsize="406725" size="412524" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="5E09ED7684481396B63B5F3269A2C7F04D7567E9" downloadHash="F4391E49FEBC2E426BC04C52CECE92A37CDB9AC0" name="tradeway_n_04_tower_biddle.trx" dlsize="28016" size="28050" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="0F10B96100B3A29A5BC732CD320962CEA0BE21E8" downloadHash="5F14E31CAD830688C8449E18CD37A5DCD5EBE080" name="bg-lower_festhall_luckysword.trx" dlsize="70973" size="71178" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3265,12 +3049,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="980797BD3A99ECF38A43F174C10A8A461DA47A4E" downloadHash="61FB8C63940EA255DF1C32FBBA96CDFBB00BA0EA" name="gullykin_brewhouse.trx" dlsize="38548" size="38787" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="E99DC5A788D515333F13EC4AD1C051BD5B1412FA" downloadHash="274AA8EAF28EB0EEFD12351F086BD2C9491F7915" name="bg-lower_tguildhall.trx" dlsize="308884" size="320767" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3378,7 +3156,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B16A1ED0D997E2AE3A1D5EAA08577BAEBC77207" downloadHash="1B8C95EDE803C048A7CEAC5427E1DC7C01255787" name="cold_cavern_area1.trx" dlsize="1618195" size="3825781" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C326B7CC8489E4B268E1187C73E515154E80B7B" downloadHash="D3591E51991563665089C13084D8E7CFB30F48EB" name="cold_cavern_area1.trx" dlsize="1621653" size="3825780" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3450,24 +3228,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BD0F9B6B4AE9F4E22A765B570D2AF9605447193F" downloadHash="5B2BBB426BAB93ADFAFCECFEA71C6F541EFC6A92" name="tradeway_s_03_e1_plain_cave2_2.trx" dlsize="373553" size="464384" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B08F78DBAC2F0F3646C025C0FE7E5AC2F7E9F09A" downloadHash="FAE236C531BDBC63B8C186EAD9884A6E0C2E4E7B" name="bg-eastgate_inside_shops.trx" dlsize="287372" size="289392" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="81CBA3B727955825E1E1BD7FB3A236FD38FB683B" downloadHash="FF51F6B1C5B1DF85626136DF843D787078D9E81D" name="tradeway_s_03_e1_plain_cave2.trx" dlsize="394829" size="753746" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="04480321657D016C9886CE7BA9C1923FF60ACF45" downloadHash="00E3C236495AB8CA63BC31E76F20CA783627AC78" name="cold_cavern_area2a.trx" dlsize="820208" size="858360" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -3504,12 +3264,6 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BD56BA082294226A3517E8556A5D62191DC13A7D" downloadHash="8268EFC743220CA120CE7041E5633CA4917ED77A" name="bg-lower_fightclub1.trx" dlsize="146224" size="146491" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>2</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="51A0439BCF1DE84F2EAB3C5B09EBFC7644CD9BD3" downloadHash="5EDFE3EDB3D7FF23273FAA3533828AD0E6371644" name="cloakwood_01_outskirts.trx" dlsize="1653666" size="12373801" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -3528,7 +3282,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8A8CAFA29E6FEBECB8016DCC814AA8BC89B3474E" downloadHash="0927FD143AD00F766636799A722745080D46B9E9" name="tradeway_s_02_e1_plain_cave3.trx" dlsize="924153" size="1885049" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="19EBDBB7072E49D2431023F057B46F25FC622E71" downloadHash="299CCD36257DC75F6F1DBE94746B0DA0FA72D07B" name="tradeway_s_02_e1_plain_cave3.trx" dlsize="923301" size="1881747" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3653,7 +3407,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="037916916F1C5473DAEB4D955A8283422E23E45E" downloadHash="605938F70FAA7D6EEB0193520E539E535AEA1CDA" name="bgcity-eastgate_hc_inn.trx" dlsize="169583" size="170492" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8892153D31A9454C35C36176542E6CA4F80F01E0" downloadHash="055D30436F9D62BB18FA1E1075F25BBE5756A0B7" name="bgcity-eastgate_hc_inn.trx" dlsize="172259" size="173198" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3694,11 +3448,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E55599FB71D6606A4652E7A86E05FE917D21B02B" downloadHash="725E951505DB2C21CC43382CE0DE14F01C31471C" name="bgcity-harboreast_lowlantern.trx" dlsize="166860" size="171140" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="EB47D502CBB200BE26B23B497AD1242CE4D924B4" downloadHash="EFD33FB035D5C65E6DE1B1A269426E36CB27065F" name="ruins_helm_cloak.trx" dlsize="484718" size="494727" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
