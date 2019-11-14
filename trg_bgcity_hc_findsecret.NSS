@@ -7,7 +7,7 @@ object oPC = GetEnteringObject();
     if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
 	 return;
 
-if (!GetIsSkillSuccessful(oPC, SKILL_SEARCH, 13))
+if (!GetIsSkillSuccessful(oPC, SKILL_SEARCH, 18))
    return;
 
 object oTarget;

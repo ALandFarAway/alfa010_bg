@@ -3377,12 +3377,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BD56BA082294226A3517E8556A5D62191DC13A7D" downloadHash="8268EFC743220CA120CE7041E5633CA4917ED77A" name="bgcity-harboreast_fightclub.trx" dlsize="146224" size="146491" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A8F97838EBE9B80F48620E6ABF6DD9D0B18C3ACB" downloadHash="E55F89B6901DCD9F28C13AF3A4FECB835370211E" name="bgcity-harboreast_fightclub.trx" dlsize="140757" size="141072" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E99DC5A788D515333F13EC4AD1C051BD5B1412FA" downloadHash="274AA8EAF28EB0EEFD12351F086BD2C9491F7915" name="bgcity-harborwest_tguildhall.trx" dlsize="308884" size="320767" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="66516CD162B9A3DA8440618CDA0C2D3D2281AB70" downloadHash="314CD5385FD860A409E77505E35A16315A76A279" name="bgcity-harborwest_tguildhall.trx" dlsize="309287" size="320788" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
