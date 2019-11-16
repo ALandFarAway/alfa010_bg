@@ -2400,7 +2400,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D42C145A121AE9208289E5B7C7A611B224ABE8D6" downloadHash="CB4FCCC9F9B7A80C8CD72D4372DF38088529C291" name="tradeway_s_13_gnoll_stronghold.trx" dlsize="3797419" size="19765332" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="25DF15FD36DFE123A46444BE4F1CCC6E2FDC970C" downloadHash="CE40534FFE7B549FA81BE2B82AE86BD515C90435" name="tradeway_s_13_gnoll_stronghold.trx" dlsize="3837973" size="19803527" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
