@@ -2400,7 +2400,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="25DF15FD36DFE123A46444BE4F1CCC6E2FDC970C" downloadHash="CE40534FFE7B549FA81BE2B82AE86BD515C90435" name="tradeway_s_13_gnoll_stronghold.trx" dlsize="3837973" size="19803527" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="588110642D5262E1C54A696182D80EDD04B18AA9" downloadHash="1B44A550ECAC285D24D63B63E7DA7C415A6BB057" name="tradeway_s_13_gnoll_stronghold.trx" dlsize="3829787" size="19800110" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3297,7 +3297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1F10D977CA7C4D1036987085F94E44B473B345E2" downloadHash="C71F8DD090E08592751856F8F783A080F8023C59" name="bgcity-eastgate ext.trx" dlsize="2598182" size="9552925" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0005996E4A511659E88B6AD2C3D714844F295E10" downloadHash="D8A769DDB93A0964273F661565A7FB8264FDEC6C" name="bgcity-eastgate ext.trx" dlsize="2603392" size="9555345" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3407,7 +3407,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8892153D31A9454C35C36176542E6CA4F80F01E0" downloadHash="055D30436F9D62BB18FA1E1075F25BBE5756A0B7" name="bgcity-eastgate_hc_inn.trx" dlsize="172259" size="173198" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2D41CD94344B36558DFC7383024442ECD0DF38F7" downloadHash="FC6C9DF2B7DACE4BA49CB77C5A0624417E9D915C" name="bgcity-eastgate_hc_inn.trx" dlsize="171682" size="172529" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3417,7 +3417,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="96F7BD772C842216E6461A6C7DA60845B14E6C73" downloadHash="8FE2294DE40FA13286EE39A2D6B6D7CE27122289" name="bgcity-eastgate_bladestars.trx" dlsize="154755" size="155319" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="61C8434BB5284CBFC5809F60F56873E66A143B5D" downloadHash="5617700ED5D9EEC6DD1847E601F580294ED9753B" name="bgcity-eastgate_bladestars.trx" dlsize="158054" size="158605" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
