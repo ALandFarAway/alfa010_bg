@@ -8,6 +8,7 @@
 
 #include "acr_trigger_i"
 #include "acr_skills_i"
+#include "acr_spawn_i"
 
 const string SKILL_VAR = "nSkill"; // integer nSkill
 const string SKILL_DC_VAR = "nDC"; // integer nDC

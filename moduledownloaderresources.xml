@@ -450,7 +450,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="09CCF4AD1D354263D9B4AC25A0299675347905D0" downloadHash="7B78FAAF070663A86BE58D2329681F3941BADC74" name="010_starting_area.trx" dlsize="124906" size="125946" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C188580236F54B3B5F41B893B126C60B6F92898" downloadHash="027CE60877BD05E128FDFD1CFDE0AE571893DFC8" name="010_starting_area.trx" dlsize="124282" size="125308" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3427,7 +3427,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AEE9C2EEA03B7256DFE0AD610FF02F361D39C83F" downloadHash="2D8253ABCAE42E758E9F067D31E196F4BEFC4B44" name="bgcity-castledist_threekegs.trx" dlsize="257101" size="346298" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="71359B512AD8F797A3393A9B3E3651ECBB25C73A" downloadHash="0900D162221EB659E2A1585AD4D7346182777ED0" name="bgcity-castledist_threekegs.trx" dlsize="258928" size="348114" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3458,6 +3458,31 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="44796ADD58AEB2DA8AF329AA2A79185942E39196" downloadHash="F90ABD9CCF8936AD5EB02AA1AA9AB2CFC2218AAC" name="sharpteeth_12_river_ruins.trx" dlsize="466448" size="476270" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="90C8E46C4439B90E1250B15BDA1922D5480B1226" downloadHash="349797E48D0D843D0B8C749F4935078E67868682" name="bg_sewers_castle.trx" dlsize="769179" size="8708367" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E44D91DC0DE29D2F0C2795BDE9C74D4C75306EA9" downloadHash="E67706014B0E7DFF36ECAC73CACFA4CA9027DAAA" name="bg-sewers-eastgate.trx" dlsize="519254" size="6292547" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D42F416542FA579001BA972E43BD7BE7B25D122F" downloadHash="C2ECCC7821E6BEB73A92D210C87E3DD2E565B4ED" name="bgcity-castledist ext.trx" dlsize="4763611" size="14466462" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D5BFD67A78D14D36469BFEC80FBCED54408C0166" downloadHash="CF1A411F8DD2CCC89E6D04BF1C939436192CA233" name="bg-sewers-harbor_west.trx" dlsize="612166" size="6694637" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="94A468FF68727158F32C4506DF659E5D0794E65B" downloadHash="387122EA6614452A941495149BA2040F5B2ED388" name="bg-sewers-harbor_east.trx" dlsize="410216" size="5759860" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
