@@ -3487,4 +3487,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="90C8E46C4439B90E1250B15BDA1922D5480B1226" downloadHash="349797E48D0D843D0B8C749F4935078E67868682" name="bg-sewers_castle.trx" dlsize="769179" size="8708367" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
