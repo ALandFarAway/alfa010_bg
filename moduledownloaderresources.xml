@@ -3084,7 +3084,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E344CC8BA5CA4B2AC31F2B5C960866D70A1E0C2B" downloadHash="1E5E05281EEA34FEC6B8C0A4541177B976D589FB" name="tradeway_n_03_citadel_int.trx" dlsize="380667" size="385271" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="79160DC1334E92DDEE544D8B66AF7764F532A54F" downloadHash="32315548FDD4607C083F92763C5FCC273159FE58" name="tradeway_n_03_citadel_int.trx" dlsize="384014" size="388495" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
