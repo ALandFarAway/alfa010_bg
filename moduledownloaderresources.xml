@@ -216,7 +216,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="391F77C78625B4FF665C03D953751A636CC88C8F" downloadHash="E076C1E63B8C14E9172E4B99FD9F0A427290576E" name="010_dpss.trx" dlsize="52698" size="53740" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0934D491E981ECBC9CC97F843E5D5A244105E4EB" downloadHash="F00E6AA0EC3C56DA4271191C110D59B32BCE363D" name="010_dpss.trx" dlsize="53891" size="54688" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>

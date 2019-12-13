@@ -90,7 +90,7 @@ oTarget = GetWaypointByTag("WP_abr_cr_an_lion9");
 
 lTarget = GetLocation(oTarget);
 
-oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "WP_abr_cr_an_lion", lTarget);
+oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_an_lion9", lTarget);
 
 oTarget = oSpawn;
 
@@ -100,11 +100,11 @@ AssignCommand(oTarget, ActionAttack(oPC));
 
 AssignCommand(oTarget, DetermineCombatRound(oPC));
 
-oTarget = GetWaypointByTag("WP_abr_cr_an_lion9");
+oTarget = GetWaypointByTag("WP_abr_cr_an_lion5");
 
 lTarget = GetLocation(oTarget);
 
-oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "wp_abr_cr_an_lion", lTarget);
+oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_an_lion5", lTarget);
 
 oTarget = oSpawn;
 
