@@ -26,6 +26,6 @@ oTarget = GetWaypointByTag("wp_crystalflower");
 
 lTarget = GetLocation(oTarget);
 
-oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "qst_bg_jaffee_crystalflower", lTarget);
+oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_clkwd02_crystalflower", lTarget);
 
 }
