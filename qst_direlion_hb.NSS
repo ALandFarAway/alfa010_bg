@@ -22,18 +22,6 @@ oTarget = OBJECT_SELF;
 
 DelayCommand(600.0, DestroyObject(oTarget, 0.0));
 
-object oSpawn;
-location lTarget;
-oTarget = GetWaypointByTag("WP_abr_cr_an_lion9");
 
-lTarget = GetLocation(oTarget);
-
-oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_lion_crystalflower1", lTarget);
-
-oTarget = GetWaypointByTag("WP_abr_cr_an_lion5");
-
-lTarget = GetLocation(oTarget);
-
-oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_lion_crystalflower", lTarget);
 
 }
