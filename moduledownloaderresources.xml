@@ -174,7 +174,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B120B53DD7D4193037FE2A02DA3AD572067ACC38" downloadHash="695D73D749B25950806695EC90DD434DA2D066A7" name="010_dmarea.trx" dlsize="208040" size="212443" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C548A03E4DEDC433EB4A10B1BD6827ACF0DFF698" downloadHash="62AFB4337677194373C11D413FD57ECD5B38A00C" name="010_dmarea.trx" dlsize="209648" size="213650" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -450,7 +450,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C188580236F54B3B5F41B893B126C60B6F92898" downloadHash="027CE60877BD05E128FDFD1CFDE0AE571893DFC8" name="010_starting_area.trx" dlsize="124282" size="125308" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EB5AEC29E846FDA1D4187C5A6AF51D4411B9AA08" downloadHash="DDA07C75D4A3BF89997192401524DECB872B7835" name="010_starting_area.trx" dlsize="125698" size="126701" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2988,7 +2988,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="867763F8BFD683CB4FAAA7B083E054FE7F968F17" downloadHash="359B635F330C3BE27402E2518389802936BEE6FC" name="fields_ofthe_dead_ne_01_caves.trx" dlsize="431558" size="613363" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A480982F58CC53B5654781A357B16446B9AA4672" downloadHash="C21DCFCF894D9F4942BB5430C99978B920F88E82" name="fields_ofthe_dead_ne_01_caves.trx" dlsize="436132" size="617583" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
