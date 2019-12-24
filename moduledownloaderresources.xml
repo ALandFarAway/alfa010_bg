@@ -204,7 +204,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E2207BA99A114C973DCB309EA9CC15D16ECFEC32" downloadHash="A61236E3D69AC7A891C4D4C4D75BBB1FCA916DC9" name="bg-undercellar.trx" dlsize="377098" size="2102968" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5692533B97FDBFC920D97CE49E9D30C569990770" downloadHash="A895561249139F54B1419178532A53ACC6A0582B" name="bg-undercellar.trx" dlsize="380540" size="2103336" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -660,7 +660,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D5999A78B712664BDABFCA4D5960073D7562DF37" downloadHash="510D5A0F587E3197759B35F2FEFBC687EBA62C58" name="cloakwood_hill_01.trx" dlsize="4077152" size="20298885" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E8C5EEE7BD284801FFF1079BDFC3E16DB528B112" downloadHash="8DBF4EE6726C44CE9DF8DDFDFF369EE3B7799096" name="cloakwood_hill_01.trx" dlsize="4062429" size="20296256" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3488,6 +3488,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="90C8E46C4439B90E1250B15BDA1922D5480B1226" downloadHash="349797E48D0D843D0B8C749F4935078E67868682" name="bg-sewers_castle.trx" dlsize="769179" size="8708367" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D5999A78B712664BDABFCA4D5960073D7562DF37" downloadHash="510D5A0F587E3197759B35F2FEFBC687EBA62C58" name="cloakwood_hill_02.trx" dlsize="4077152" size="20298885" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E8C5EEE7BD284801FFF1079BDFC3E16DB528B112" downloadHash="8DBF4EE6726C44CE9DF8DDFDFF369EE3B7799096" name="cloakwood_hill_03.trx" dlsize="4062429" size="20296256" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
