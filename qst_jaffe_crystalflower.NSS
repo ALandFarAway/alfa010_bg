@@ -5,18 +5,20 @@ For download info, please visit:
 http://nwvault.ign.com/View.php?view=Other.Detail&id=4683&id=625    */
 
 //Put this script OnEnter
+/*#include "acr_quest_i"
 void main()
 {
 
 object oPC = GetEnteringObject();
 
 if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC))) 
-return;
+if (!GetIsPC(oPC))return;
 
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYqst_bg_jaffee_crystalflower");
 
-if (nInt != 2)
+//if (nInt != 2)
+if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) == 2)
    return;
 
 object oTarget;
@@ -28,4 +30,43 @@ lTarget = GetLocation(oTarget);
 
 oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_clkwd02_crystalflower", lTarget);
 
-}
+}*/
+// Put this script OnEnter of a Trigger
+// lines with  // after them work to spawn the mushrooms
+
+
+#include "acr_quest_i"
+
+
+void main()//
+ {//
+    object oPC = GetEnteringObject();//
+	object oTarget;//
+	int n;//
+	string sQuestToken = "bg_jaffee_crystalflower";
+
+	
+		
+	if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC)) && !GetLocalInt(OBJECT_SELF, "DoOnce"))//
+	if (!GetIsPC(oPC)) return;
+
+{
+
+    if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) == 2)
+	 {//
+ 
+int n = 0;//
+object oTarget = GetObjectByTag("wp_crystalflower");//
+while (GetIsObjectValid(oTarget))//
+    {//
+    CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_clkwd02_crystalflower", GetLocation(oTarget));//
+
+	
+    n++;//
+    oTarget = GetObjectByTag("wp_crystalflower", n);//
+	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
+	
+	}
+	 }//
+ }
+}//

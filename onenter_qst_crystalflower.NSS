@@ -136,13 +136,16 @@ http://nwvault.ign.com/View.php?view=Other.Detail&id=4683&id=625    */
 
 //Put this script OnEnter
 #include "nw_i0_generic"
+#include "acr_quest_i"
+
 void main()
 {
 
 object oPC = GetEnteringObject();
 
-if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC))) 
-return;
+if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC)) && !GetLocalInt(OBJECT_SELF, "DoOnce"))//
+	if (!GetIsPC(oPC)) return;
+
 
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYqst_bg_jaffee_crystalflower");
@@ -205,6 +208,6 @@ AssignCommand(oTarget, ActionAttack(oPC));
 
 AssignCommand(oTarget, DetermineCombatRound(oPC));
 
-AddJournalQuestEntry("qst_bg_jaffee_crystalflower", 3, oPC, TRUE, FALSE);
+ACR_AddPersistentJournalQuestEntry("qst_bg_jaffee_crystalflower", 3, oPC, TRUE, FALSE);
 
 }
