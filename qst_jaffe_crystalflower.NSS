@@ -10,13 +10,13 @@ void main()
 
 object oPC = GetEnteringObject();
 
-if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC)) && !GetLocalInt(OBJECT_SELF, "DoOnce"))//
-if (!GetIsPC(oPC)) return;
+if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC))) 
+return;
 
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYqst_bg_jaffee_crystalflower");
 
-if (nInt = 2)
+if (nInt != 2)
    return;
 
 object oTarget;
