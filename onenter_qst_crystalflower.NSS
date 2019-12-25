@@ -141,25 +141,27 @@ void main()
 
 object oPC = GetEnteringObject();
 
-if (!GetIsPC(oPC)) return;
+if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC))) 
+return;
 
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYqst_bg_jaffee_crystalflower");
 
-if (nInt == 2)
-   return;
-
-if (GetItemPossessedBy(oPC, "it_quest_jaffee_crystalflower")!= OBJECT_INVALID)
+if (nInt = 2)
    return;
 
 object oTarget;
 oTarget = GetObjectByTag("plc_qst_lion_crystalflower1");
 
-DestroyObject(oTarget, 0.0);
+//Visual effects can't be applied to waypoints, so if it is a WP
+//the VFX will be applied to the WP's location instead
 
-oTarget = OBJECT_SELF;
+nInt = GetObjectType(oTarget);
 
-DestroyObject(oTarget, 0.0);
+if (nInt != OBJECT_TYPE_WAYPOINT) ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectVisualEffect(VFX_COM_CHUNK_STONE_MEDIUM), oTarget);
+else ApplyEffectAtLocation(DURATION_TYPE_INSTANT, EffectVisualEffect(VFX_COM_CHUNK_STONE_MEDIUM), GetLocation(oTarget));
+
+DestroyObject(oTarget, 3.0);
 
 oTarget = GetObjectByTag("plc_qst_lion_crystalflower");
 
@@ -175,20 +177,6 @@ DestroyObject(oTarget, 3.0);
 
 object oSpawn;
 location lTarget;
-oTarget = GetWaypointByTag("wp_abr_cr_an_lion9");
-
-lTarget = GetLocation(oTarget);
-
-oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_an_lion9", lTarget);
-
-oTarget = oSpawn;
-
-SetIsTemporaryEnemy(oPC, oTarget);
-
-AssignCommand(oTarget, ActionAttack(oPC));
-
-AssignCommand(oTarget, DetermineCombatRound(oPC));
-
 oTarget = GetWaypointByTag("WP_abr_cr_an_lion5");
 
 lTarget = GetLocation(oTarget);
@@ -203,6 +191,20 @@ AssignCommand(oTarget, ActionAttack(oPC));
 
 AssignCommand(oTarget, DetermineCombatRound(oPC));
 
-DelayCommand(3.0, AddJournalQuestEntry("qst_bg_jaffee_crystalflower", 3, oPC, TRUE, FALSE));
+oTarget = GetWaypointByTag("WP_abr_cr_an_lion9");
+
+lTarget = GetLocation(oTarget);
+
+oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_an_lion9", lTarget);
+
+oTarget = oSpawn;
+
+SetIsTemporaryEnemy(oPC, oTarget);
+
+AssignCommand(oTarget, ActionAttack(oPC));
+
+AssignCommand(oTarget, DetermineCombatRound(oPC));
+
+AddJournalQuestEntry("qst_bg_jaffee_crystalflower", 3, oPC, TRUE, FALSE);
 
 }

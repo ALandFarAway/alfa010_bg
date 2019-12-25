@@ -16,7 +16,7 @@ if (!GetIsPC(oPC)) return;
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYqst_bg_jaffee_crystalflower");
 
-if (nInt == 2)
+if (nInt = 2)
    return;
 
 object oTarget;
