@@ -5,7 +5,7 @@ Lilac Soul's NWN Script Generator, v. 2.3
 //http://nwvault.ign.com/View.php?view=Other.Detail&id=4683&id=625    */
 
 //Put this script OnEnter
-/*
+#include "acr_quest_i"
 
 void main()
 {
@@ -37,7 +37,8 @@ location lTarget;
 oTarget = GetWaypointByTag("WP_clkwd_lion_spawn");
 
 lTarget = GetLocation(oTarget);
-}*/
+ACR_AddPersistentJournalQuestEntry("qst_bg_jaffee_crystalflower", 3, oPC, TRUE, FALSE);
+}
 
 
 
@@ -132,7 +133,7 @@ AssignCommand(oTarget, DetermineCombatRound(oPC));
 Lilac Soul's NWN Script Generator, v. 2.3
 
 For download info, please visit:
-http://nwvault.ign.com/View.php?view=Other.Detail&id=4683&id=625    */
+http://nwvault.ign.com/View.php?view=Other.Detail&id=4683&id=625    
 
 //Put this script OnEnter
 #include "nw_i0_generic"
@@ -140,18 +141,20 @@ http://nwvault.ign.com/View.php?view=Other.Detail&id=4683&id=625    */
 
 void main()
 {
-
+object oTarget;
+string sQuestToken = "bg_jaffee_crystalflower";
 object oPC = GetEnteringObject();
 
 if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC)) && !GetLocalInt(OBJECT_SELF, "DoOnce"))//
 	if (!GetIsPC(oPC)) return;
 
 
+	
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYqst_bg_jaffee_crystalflower");
-
-if (nInt != 2)
-   return;
+if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) == 2)
+//if (nInt != 2)
+  // return;
 
 object oTarget;
 oTarget = GetObjectByTag("plc_qst_lion_crystalflower1");
@@ -210,4 +213,4 @@ AssignCommand(oTarget, DetermineCombatRound(oPC));
 
 ACR_AddPersistentJournalQuestEntry("qst_bg_jaffee_crystalflower", 3, oPC, TRUE, FALSE);
 
-}
+}*/

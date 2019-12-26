@@ -52,7 +52,7 @@ void main()//
 
 {
 
-    if(GetLocalInt(oPC, "NW_JOURNAL_ENTRY" + sQuestToken) == 2)
+    if(GetLocalInt(oPC, "PERSISTANT_JOURNAL_ENTRY" + sQuestToken) == 2)
 	 {//
  
 int n = 0;//
