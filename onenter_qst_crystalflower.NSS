@@ -94,7 +94,7 @@ http://nwvault.ign.com/View.php?view=Other.Detail&id=4683&id=625
 
 //Put this script OnEnter
 */
-#include "nw_i0_generic"
+//#include "nw_i0_generic"
 #include "acr_quest_i"
 
 void main()

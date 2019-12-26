@@ -3096,7 +3096,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="39685E6B9EB2ADB351BC76ECE4DAB1092C7059F8" downloadHash="C37348233695778D0B4AA847AF7F6D4EBD588893" name="cloakwood_hill_02_ruin0.trx" dlsize="446306" size="632161" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AA0EA3E19D538E6B6E942054F3D752C56C3F0AAA" downloadHash="D7A7AB2923F80E1B0D7ADDF9FF7F300C14FB5203" name="cloakwood_hill_02_ruin0.trx" dlsize="440549" size="626404" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
