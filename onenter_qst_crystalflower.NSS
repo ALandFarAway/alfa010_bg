@@ -100,7 +100,7 @@ http://nwvault.ign.com/View.php?view=Other.Detail&id=4683&id=625
 void main()
 {
 object oTarget;
-string sQuestToken = "bg_jaffee_crystalflower";
+string sQuestToken = "qst_bg_jaffee_crystalflower";
 object oPC = GetEnteringObject();
 
 if ((GetIsPC(oPC) || GetIsDM(oPC) || GetIsDMPossessed(oPC)) && !GetLocalInt(OBJECT_SELF, "DoOnce"))//

@@ -43,7 +43,7 @@ void main()//
     object oPC = GetEnteringObject();//
 	object oTarget;//
 	int n;//
-	string sQuestToken = "bg_jaffee_crystalflower";
+	string sQuestToken = "qst_bg_jaffee_crystalflower";
 
 	
 		
