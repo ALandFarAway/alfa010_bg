@@ -20,7 +20,7 @@ if (IsInConversation(OBJECT_SELF) || GetIsInCombat()) return;
 object oTarget;
 oTarget = OBJECT_SELF;
 
-DelayCommand(600.0, DestroyObject(oTarget, 0.0));
+DelayCommand(800.0, DestroyObject(oTarget, 0.0));
 
 
 
