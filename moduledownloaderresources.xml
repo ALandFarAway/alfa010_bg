@@ -2856,7 +2856,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DCE2746B2FED93BD509EB3B808FD356DF5E6A80D" downloadHash="B058E2E7EC0ED00EF6213AB694D23347F1C17EA6" name="tradeway_n_03_citadel.trx" dlsize="2022505" size="10721546" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D6EB308C0341C9B4FAB102666CB41E00B5E60B70" downloadHash="2EA5F85E077B84AA88A754BACA56B0DCA36A5E6F" name="tradeway_n_03_citadel.trx" dlsize="2023989" size="10716234" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3228,7 +3228,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="04480321657D016C9886CE7BA9C1923FF60ACF45" downloadHash="00E3C236495AB8CA63BC31E76F20CA783627AC78" name="cold_cavern_area2a.trx" dlsize="820208" size="858360" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B292E1D92053D0E75F2363BF5E62B16E4390105C" downloadHash="9ED6CFA7FFB82A33B054A360BEEC0D4F25F14B38" name="cold_cavern_area2a.trx" dlsize="821882" size="860184" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
