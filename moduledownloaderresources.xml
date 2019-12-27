@@ -2856,7 +2856,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DA8276E6C77B1F0893DA262AA0BA07D98E1E4381" downloadHash="42D2C838438E3594230DF36BBCE8B2E2D794CFC0" name="tradeway_n_03_citadel.trx" dlsize="1984043" size="10675304" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DCE2746B2FED93BD509EB3B808FD356DF5E6A80D" downloadHash="B058E2E7EC0ED00EF6213AB694D23347F1C17EA6" name="tradeway_n_03_citadel.trx" dlsize="2022505" size="10721546" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
