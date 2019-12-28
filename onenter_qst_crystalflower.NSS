@@ -84,4 +84,3 @@ if (nInt != OBJECT_TYPE_WAYPOINT) DelayCommand(0.5, ApplyEffectToObject(DURATION
 else DelayCommand(0.5, ApplyEffectAtLocation(DURATION_TYPE_INSTANT, EffectVisualEffect(VFX_COM_CHUNK_BONE_MEDIUM), GetLocation(oTarget)));
 ACR_AddPersistentJournalQuestEntry("qst_bg_jaffee_crystalflower", 3, oPC, TRUE, FALSE);
 }
-
