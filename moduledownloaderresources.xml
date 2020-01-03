@@ -3006,7 +3006,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BADBF8F44B78C97A0650B861AEE9C56757655110" downloadHash="24700989E90A6B338691AD0C3F7BE05C7822F29D" name="unlinked_misc houses.trx" dlsize="328181" size="331727" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A6DE7363FC5CB185C90451E5D4C9A6CBD9724E5" downloadHash="A9600A98B56CA1FD06DEB8B4AE9D0DF65213C619" name="unlinked_misc houses.trx" dlsize="327810" size="331351" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3228,7 +3228,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4A2F987B06550BB72305473033C0E58CC94157C4" downloadHash="40B28607304D17C7CACDB5D6A2D959ADC4915ED4" name="cold_cavern_area2a.trx" dlsize="796569" size="830885" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5D77F3E9F3DD403CF068D7BE4F7BBECFE2EAA7AC" downloadHash="AEDDB953AA90CC0FDA4CDE3D75F157B8BC87D1B2" name="cold_cavern_area2a.trx" dlsize="765426" size="799141" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3467,7 +3467,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E44D91DC0DE29D2F0C2795BDE9C74D4C75306EA9" downloadHash="E67706014B0E7DFF36ECAC73CACFA4CA9027DAAA" name="bg-sewers-eastgate.trx" dlsize="519254" size="6292547" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AD45A8DA5207ABEF908425F4DDF8B8EBFCF9D306" downloadHash="4C727FC6EB441457638F149A929CD06FA804E368" name="bg-sewers-eastgate.trx" dlsize="520305" size="6296687" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
