@@ -12,7 +12,7 @@ object oPC = GetEnteringObject();
 
 if (!GetIsPC(oPC)) return;
 
-ActionSpeakString("** As you step into the room the braziers flare to life**");
+ActionSpeakString("** As you step into the room the brazier flares to life**");
 
 object oTarget;
 object oSpawn;
