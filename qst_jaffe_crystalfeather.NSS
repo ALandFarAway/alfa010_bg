@@ -21,14 +21,14 @@ void main()//
 	 {//
  
 int n = 0;//
-object oTarget = GetObjectByTag("wp_quest_crystalfeather");//
+object oTarget = GetObjectByTag("wp_qst_crystalfeather");//
 while (GetIsObjectValid(oTarget))//
     {//
-    CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_firewine_crystalfeather", GetLocation(oTarget));//
+    CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_crystalfeather", GetLocation(oTarget));//
 
 	
     n++;//
-    oTarget = GetObjectByTag("wp_quest_crystalfeather", n);//
+    oTarget = GetObjectByTag("wp_qst_crystalfeather", n);//
 	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
 	
 	}
