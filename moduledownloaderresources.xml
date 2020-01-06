@@ -270,7 +270,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC760DD03AB24BFB0E8BCF5375A024B33F4A4A08" downloadHash="68CDE0D9B050E69F23107F912775EF99CE7F3103" name="beregost.trx" dlsize="4265951" size="18845984" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="203B2FB9CECD6395AD3BC0263DE1FC1C4F8B3EF7" downloadHash="3B6D2D0A4A0C3381275A772F53F379469F3BBA90" name="beregost.trx" dlsize="4263422" size="18846250" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -648,7 +648,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A7CED63EB0F6B8EFC348D69B3F828E41E9E3EB85" downloadHash="9246689224A63FA7D912FD66C55438267E4FBE41" name="gullykin_firewine_crypt.trx" dlsize="309096" size="312603" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="88CBE311D6FA7EC7A97A74C1C87DAF6B49F86DBE" downloadHash="4E78B43243D87BF1E9EA4D6005E2DA1376B8B17E" name="gullykin_firewine_crypt.trx" dlsize="305638" size="309083" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3228,7 +3228,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5D77F3E9F3DD403CF068D7BE4F7BBECFE2EAA7AC" downloadHash="AEDDB953AA90CC0FDA4CDE3D75F157B8BC87D1B2" name="cold_cavern_area2a.trx" dlsize="765426" size="799141" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FECB547A0C412C66BEF0093CA91F01109CF9067F" downloadHash="C5EDECA87809D12A920B4581683C8D0FF05643A0" name="cold_cavern_area2a.trx" dlsize="771894" size="803977" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3487,7 +3487,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="90C8E46C4439B90E1250B15BDA1922D5480B1226" downloadHash="349797E48D0D843D0B8C749F4935078E67868682" name="bg-sewers_castle.trx" dlsize="769179" size="8708367" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="166CF7F1409938B57EC5530AE763B299D9CF8699" downloadHash="6ED345A87127ED273F76BA1C83B90D82291908E7" name="bg-sewers_castle.trx" dlsize="807894" size="8742904" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
