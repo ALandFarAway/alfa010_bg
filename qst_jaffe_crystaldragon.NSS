@@ -21,7 +21,7 @@ void main()//
 	 {//
  
 int n = 0;//
-object oTarget = GetObjectByTag("wp_qst_crystaldragonl");//
+object oTarget = GetObjectByTag("wp_qst_crystaldragon");//
 while (GetIsObjectValid(oTarget))//
     {//
     CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_fod_tt_crystaldragon", GetLocation(oTarget));//
