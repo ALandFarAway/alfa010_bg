@@ -8,7 +8,7 @@ void main()//
     object oPC = GetEnteringObject();//
 	object oTarget;//
 	int n;//
-	string sQuestToken = "bg_jaffee_skullcrystal";
+	string sQuestToken = "bg_jaffee_cauldroncrystal";
 
 	
 		
@@ -21,14 +21,14 @@ void main()//
 	 {//
  
 int n = 0;//
-object oTarget = GetObjectByTag("wp_quest_crystalskull");//
+object oTarget = GetObjectByTag("wp_qst_crystalcauldron");//
 while (GetIsObjectValid(oTarget))//
     {//
-    CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_cc2a_crystalskull", GetLocation(oTarget));//
+    CreateObject(OBJECT_TYPE_PLACEABLE, "plc_qst_crystalcauldron", GetLocation(oTarget));//
 
 	
     n++;//
-    oTarget = GetObjectByTag("wp_quest_crystalskull", n);//
+    oTarget = GetObjectByTag("wp_qst_crystalcauldron", n);//
 	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
 	
 	}
