@@ -2994,7 +2994,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E74B8815908E1E8A0548AAEDDFDA3771F2030CED" downloadHash="4F79E742C8B5D1ED00135FBCD0094CB5AA59A736" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="261604" size="401426" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="682BE4D0D7091D594B50BE8071A2965F28CAD0E7" downloadHash="4F2A0256F5712D359C0AB69DE5722492ECE75AA9" name="fields_ofthe_dead_ne_01_ruin.trx" dlsize="247955" size="386688" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
