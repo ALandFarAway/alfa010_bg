@@ -3108,7 +3108,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="95B85827118386E851A4C251659B25322B4EA867" downloadHash="EBB166F0264D858B848F580BD60B81C867F622AE" name="tradeway_s_12_highsong_east_int.trx" dlsize="629992" size="2262943" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D7E2F7F43FA4B8F0D75611D6BA1F5D7BE5BC08AF" downloadHash="9F758B3F4D99B25BE8FC44E23552F33BAB34F30E" name="tradeway_s_12_highsong_east_int.trx" dlsize="627511" size="2252882" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
