@@ -594,7 +594,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6DBE0D1C10AC7DA3121EE8D8C15C7160D94AAFB0" downloadHash="8778F9E5E35BC90A2E2A735CECE09A27168D2CA2" name="tradeway_s_12_temple.trx" dlsize="34455" size="122531" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="48BC691600BAC30683C478C047CE2EABE545FC75" downloadHash="5F18AD141A2AEE6EACD46D7780A72267B35DEE09" name="tradeway_s_12_temple.trx" dlsize="34445" size="122531" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -798,7 +798,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4C7AB86668F10A56E1F8D5FCD6FFF7CD406E2271" downloadHash="F62641118DFC8F2244F4585A995BBDFCB6A1DAF2" name="tradeway_s_12_crypt.trx" dlsize="114832" size="117411" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE515C8A7A31A1ABC994E44B9D07EB31F29E62F2" downloadHash="C9EB35C499CB44CAC2A03C422E7638A4B5B0DA04" name="tradeway_s_12_crypt.trx" dlsize="114864" size="117409" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2940,7 +2940,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D570C29B3C3FB0D0ACABC53816400FA012659A55" downloadHash="45E4AE06F2D52DBC43FE06812A0F5C6CA44D142D" name="tradeway_s_12_highsong_abbey.trx" dlsize="1866917" size="12287844" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E3A869BF41B7BD44E1ECC9C8A1B72D9474754B63" downloadHash="049B0D46C5110E4EFD1145652F912640A789A6A9" name="tradeway_s_12_highsong_abbey.trx" dlsize="1867165" size="12287008" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
