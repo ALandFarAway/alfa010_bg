@@ -15,7 +15,7 @@ if (!GetIsPC(oPC)) return;
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYhighsong_ankheg_woes");
 
-if (nInt = 3)
+if (nInt == 3)
    return;
 
 object oTarget;
