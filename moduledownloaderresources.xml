@@ -3102,13 +3102,13 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7C3DD91BDF24D1155836A84626E81051A2C00813" downloadHash="B493208B0DFC2CDD2BB227AE41D3FC0216908195" name="tradeway_s_12_highsong_east.trx" dlsize="4835828" size="24355509" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="136BC987C75C55F7B809754BD9BFC7D8F42EE836" downloadHash="D3C4E5B131E32C01AFF4872D39AEA29F1BD47A9A" name="tradeway_s_12_highsong_east.trx" dlsize="4806409" size="24328293" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E0A079A1F88DA71B5123C4C9791E441D1259D07B" downloadHash="FE9DE99AAB33A4B68FC7259F4B3FD86463164A47" name="tradeway_s_12_highsong_east_int.trx" dlsize="618326" size="2249486" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5B4FC7C25BF5E322FEBC492D497424DAFFC5E345" downloadHash="756C93D7BF5FE5628A999FD229F1C2C0BF9B4131" name="tradeway_s_12_highsong_east_int.trx" dlsize="651212" size="2283339" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
