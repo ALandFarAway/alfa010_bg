@@ -396,7 +396,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1CAB9AA1BC59DFE7CBB230A4649AF929F73E1016" downloadHash="0FBFE847AD98334D68437744DD91FF1970B5F627" name="gullykin.trx" dlsize="6484342" size="24434916" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A865D1EE114CDA0EF96E908084250DBBC033B381" downloadHash="F36EAAECE25653E964FC60D5E4A68AD9B449D0A3" name="gullykin.trx" dlsize="6479127" size="24434923" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -2880,7 +2880,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6572E4EF948AF75C65908BAA7D6A7DA441A8AE6A" downloadHash="AE17477E37E57DA4E733619879E45598E3B51534" name="tradeway_n_04_tempus_tears_int.trx" dlsize="245077" size="290109" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B0279C03688E1A6DEA6AA4A0D6A118F48109A83A" downloadHash="D3A2D2BC8B7EE0E4FFC0FD04E772002F059731C3" name="tradeway_n_04_tempus_tears_int.trx" dlsize="262513" size="307414" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3108,7 +3108,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="30385679D11E0D5C781903E6C4A8DD9B076435CA" downloadHash="BB298A8A2162BDC1A1745293B89451EB536C32C0" name="tradeway_s_12_highsong_east_int.trx" dlsize="637571" size="2270658" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CAFE3A7FCE9D0C96A144B805C086225700DEDFB2" downloadHash="5AC716FBBD68EDAB17D624B2246274F5916D84D3" name="tradeway_s_12_highsong_east_int.trx" dlsize="638826" size="2271698" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3417,7 +3417,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="61C8434BB5284CBFC5809F60F56873E66A143B5D" downloadHash="5617700ED5D9EEC6DD1847E601F580294ED9753B" name="bgcity-eastgate_bladestars.trx" dlsize="158054" size="158605" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C580B4CE4DFDD50718DE3D46E878B93E42A65561" downloadHash="A937E499942F8311D4C73C28078000003350ED87" name="bgcity-eastgate_bladestars.trx" dlsize="157876" size="158491" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3498,6 +3498,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E8C5EEE7BD284801FFF1079BDFC3E16DB528B112" downloadHash="8DBF4EE6726C44CE9DF8DDFDFF369EE3B7799096" name="cloakwood_hill_03.trx" dlsize="4062429" size="20296256" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="37D7D7EA4CE79CCF09460EFADD870395675F2FB9" downloadHash="AB992291C8F68887917D9FE0C69F9670D443529C" name="gullykin_hold_temple.trx" dlsize="42293" size="42374" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5F2E59F6B40962BA01B269837CA24EF7B38C475B" downloadHash="F80028987AA60C3A1DAFCDBF08905204DC0D05DE" name="gullykin_shop_int.trx" dlsize="15074" size="15095" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
