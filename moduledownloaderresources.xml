@@ -2,7 +2,7 @@
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="Tlk" hash="7A3DFDDA24A27417C56CD9FE6D10119F9C3CBFE1" downloadHash="17E716FD0A0F84AE69237DC2C4E585E4DAD5757D" name="alfa_acr02.tlk" dlsize="150804" size="1200684" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>1</string>
+      <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
@@ -14,7 +14,7 @@
   </resource>
   <resource type="Hak" hash="366ACB5A4AAAD7AB1CD40090BD7B6A83F86B88B5" downloadHash="A02C76AEC8133A98CB2B0ED1E6BBAC03F42C407B" name="alfa2_acr.hak" dlsize="4089827" size="133574322" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>1</string>
+      <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
@@ -26,7 +26,7 @@
   </resource>
   <resource type="Hak" hash="05F506888D5150401A6ABE8B2DDFB6451ECF265F" downloadHash="E7AD17556A387AC50813EC47EFE094C83DC758D3" name="alfa_fx.hak" dlsize="82510954" size="212875427" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>1</string>
+      <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
@@ -56,7 +56,7 @@
   </resource>
   <resource type="Hak" hash="D271A0523F46A205164034C810D50728749F1F5D" downloadHash="CB9ED6DFB19DC73496329C77F8E25D22889D88BF" name="alfa_placeables.hak" dlsize="493083890" size="1654074358" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>1</string>
+      <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
