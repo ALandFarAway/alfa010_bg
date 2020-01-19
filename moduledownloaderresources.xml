@@ -18,7 +18,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="D65505E2731B239000ABB48067726F743E635053" downloadHash="6FFB32DA36C9D52A0DC1E3ACFB5C27059120661A" name="alfa_fx.hak" dlsize="106891649" size="314582050" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="05F506888D5150401A6ABE8B2DDFB6451ECF265F" downloadHash="6FFB32DA36C9D52A0DC1E3ACFB5C27059120661A" name="alfa_fx.hak" dlsize="106891649" size="212875427" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1200,7 +1200,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AB424BA8E0FBC2CD190BB8F2ECA6CD1F5E5E3A09" downloadHash="BDD8A54C37A1E1593896A66A33207563C57FF23F" name="und_a1_falls.trx" dlsize="37963" size="487485" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3AE4218C522C00E1B488D37128F27D834CD500D3" downloadHash="4397957E5AC97340883B793BA236B6609DEA6A72" name="und_a1_falls.trx" dlsize="45563" size="494904" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3508,6 +3508,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="5F2E59F6B40962BA01B269837CA24EF7B38C475B" downloadHash="F80028987AA60C3A1DAFCDBF08905204DC0D05DE" name="gullykin_shop_int.trx" dlsize="15074" size="15095" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Hak" hash="AF61A08EC96F1C46967D5A880238C9D69D51A026" downloadHash="C187EF970AFA2E9515BE0EAA58EEEF5C8007B85E" name="alfa_fx2.hak" dlsize="99911248" size="146785353" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
