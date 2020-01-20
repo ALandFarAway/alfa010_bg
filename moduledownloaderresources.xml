@@ -155,7 +155,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0005996E4A511659E88B6AD2C3D714844F295E10" downloadHash="D8A769DDB93A0964273F661565A7FB8264FDEC6C" name="bgcity-eastgate ext.trx" dlsize="2603392" size="9555345" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9333238A3DB4D5FA6435B19891FBC7DDF0D561DC" downloadHash="957A1E06E414AA0D9E43C5BDCFC58002BDB0B64F" name="bgcity-eastgate ext.trx" dlsize="2585710" size="9541462" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1045,7 +1045,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3AE4218C522C00E1B488D37128F27D834CD500D3" downloadHash="4397957E5AC97340883B793BA236B6609DEA6A72" name="und_a1_falls.trx" dlsize="45563" size="494904" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7CE0179FD9AE02DFEE824108F0EAF86DB169B8BC" downloadHash="2B77D77ADFF40AE0A2D877A7C76C4285AF4BCB36" name="und_a1_falls.trx" dlsize="50726" size="500259" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
