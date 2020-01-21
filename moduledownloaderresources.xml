@@ -155,7 +155,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9333238A3DB4D5FA6435B19891FBC7DDF0D561DC" downloadHash="957A1E06E414AA0D9E43C5BDCFC58002BDB0B64F" name="bgcity-eastgate ext.trx" dlsize="2585710" size="9541462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="17FAF10ED4EE2656F83CD8693DA2750F1501E9CC" downloadHash="4C7D744BE057B5EB71BB0A1C91DF51508718890D" name="bgcity-eastgate ext.trx" dlsize="2613679" size="9569476" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -365,7 +365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F24C76E7C64FDDF71972370C472A66D82B0580AB" downloadHash="2752AF3CF2EA2E8C634D652FB262AB104DD9A3DD" name="und_x1_undeadcaves.trx" dlsize="702987" size="6519764" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EA1D134E465DB77F02DA413FE1F2061030B0C36A" downloadHash="5AADB7E0F7D21E4AC5EC6AD51E6E05B010BE5C30" name="und_x1_undeadcaves.trx" dlsize="717378" size="6535122" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -960,7 +960,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2549FCA6E6FE23C27F36CEFB851C8E6B17FFFFB4" downloadHash="0195AEDEBF1CDF8A694118790EF6A2DEC1E36EE7" name="und_y2_entrancehall.trx" dlsize="196714" size="201547" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="66429F231139169C02402231625276DBCAB7DC0F" downloadHash="19A8936892E651586086450015CE2F0CA2B8829A" name="und_y2_entrancehall.trx" dlsize="200065" size="205073" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1245,7 +1245,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5CA1B9FCABCECDF10BC2560B739EFA27DC7C5D0C" downloadHash="45BAF527CCF64ED1F1634D90F801C52D13C568D8" name="und_a6_dwarftomb.trx" dlsize="253507" size="255284" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="375655811782B1A3D7F21690A90D801D9CEB18E9" downloadHash="3754F88FA52B5D689542F9A55B7773CDD9159279" name="und_a6_dwarftomb.trx" dlsize="252635" size="254265" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1335,7 +1335,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A4321FBCEDA218551E4804F5E5CDC10E523E8353" downloadHash="07E54A3DBFE01EBD4D4437A31E751E2F01BDFDB6" name="und_a4_portalroom.trx" dlsize="28812" size="28878" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F9AE386649C799C4838B7F1D1E8AF21D4B7BB9B1" downloadHash="217E49FEAD566AC3AA6000F41FE9B92C12C114C8" name="und_a4_portalroom.trx" dlsize="28764" size="28842" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1630,7 +1630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CE7DCCB07DA9238FAA82B0A5FE75A774D6053612" downloadHash="0FEC474A036A2F1F8C8B2D82DB8105643D182524" name="und_a2_crypt.trx" dlsize="98428" size="775268" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F512DE16D4E1582CCEF7807A2598A53CAE1692AD" downloadHash="DA9552ACD30F94F67C37EA6B896F13E76A54E74B" name="und_a2_crypt.trx" dlsize="97681" size="773130" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2071,6 +2071,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="00A0108E04FA4AC01F985F2FC42B364933565CF2" downloadHash="1A64D2A8DA4A576E00A0774C6AA0D38958487B6C" name="vs_nhelmcleric.SSF" dlsize="165" size="1216" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="749C3D080725BBB06FE13357A54175933BDE575E" downloadHash="ADE9633A327AA62BB6402BF81B8A756E9ED4F216" name="und_n0_outpost_voina.trx" dlsize="1364454" size="11573883" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
