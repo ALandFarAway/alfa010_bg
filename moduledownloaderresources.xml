@@ -365,7 +365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EA1D134E465DB77F02DA413FE1F2061030B0C36A" downloadHash="5AADB7E0F7D21E4AC5EC6AD51E6E05B010BE5C30" name="und_x1_undeadcaves.trx" dlsize="717378" size="6535122" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5437124E318133D86D37C53D0DE6FFD9D8F18213" downloadHash="A65DC1392DA010BC773A77877D5E7F1F337D0715" name="und_x1_undeadcaves.trx" dlsize="699540" size="6524756" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1245,7 +1245,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="375655811782B1A3D7F21690A90D801D9CEB18E9" downloadHash="3754F88FA52B5D689542F9A55B7773CDD9159279" name="und_a6_dwarftomb.trx" dlsize="252635" size="254265" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F408C59A6B3AE58EE6F66F5443C5EBB75FC9ECAA" downloadHash="B4761C315F1CFA03321E022EE29E793B0E496AA5" name="und_a6_dwarftomb.trx" dlsize="320465" size="322058" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1315,7 +1315,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5CA1B9FCABCECDF10BC2560B739EFA27DC7C5D0C" downloadHash="45BAF527CCF64ED1F1634D90F801C52D13C568D8" name="und_a6_ethereal.trx" dlsize="253507" size="255284" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A056A572A96DADAC058EFB7E60B0381BC7569253" downloadHash="BA88F32E2EED899ED96C6C9A85E786049EF0CB7F" name="und_a6_ethereal.trx" dlsize="232929" size="233923" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1335,7 +1335,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F9AE386649C799C4838B7F1D1E8AF21D4B7BB9B1" downloadHash="217E49FEAD566AC3AA6000F41FE9B92C12C114C8" name="und_a4_portalroom.trx" dlsize="28764" size="28842" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4353C8D4A214198B9E260C5FA203E345C4B389EA" downloadHash="F135CE8688C1C415F1B0298F7177BA3D3D2EEE31" name="und_a4_portalroom.trx" dlsize="36230" size="215202" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1630,7 +1630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F512DE16D4E1582CCEF7807A2598A53CAE1692AD" downloadHash="DA9552ACD30F94F67C37EA6B896F13E76A54E74B" name="und_a2_crypt.trx" dlsize="97681" size="773130" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E398002E26144EC553815C7256FC2F99DFCAF44B" downloadHash="F60D1EE16376C58EAA3AAC7EE3812553A35DFD5A" name="und_a2_crypt.trx" dlsize="93095" size="769948" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
