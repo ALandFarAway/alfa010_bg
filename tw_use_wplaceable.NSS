@@ -52,6 +52,6 @@ void main()
         // it's open -- go through and then close
       UseSecretTransport(GetLastUsedBy());
         //ActionPlayAnimation(ANIMATION_PLACEABLE_CLOSE);
-        //SetIsSecretItemOpen(OBJECT_SELF, FALSE);
+        SetIsSecretItemOpen(OBJECT_SELF, FALSE);
     }
 }

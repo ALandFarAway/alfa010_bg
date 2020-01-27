@@ -365,7 +365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5437124E318133D86D37C53D0DE6FFD9D8F18213" downloadHash="A65DC1392DA010BC773A77877D5E7F1F337D0715" name="und_x1_undeadcaves.trx" dlsize="699540" size="6524756" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D1B2D7F2F1FF2AE6FE5BDE80270725571327563F" downloadHash="86B734DFBDB063FAA208DB204C5C47985C2C8504" name="und_x1_undeadcaves.trx" dlsize="692330" size="6504861" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
