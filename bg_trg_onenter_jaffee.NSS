@@ -4,7 +4,7 @@
 //     Filename : acf_trg_onenter.nss
 //    $Revision:: 236        $ current version of the file
 //        $Date:: 2007-01-21#$ date the file was created or modified
-//       Author : Wynna
+//       Author : Cipher
 //
 //    Var Prefix:
 //  Dependencies:
@@ -13,7 +13,8 @@
 //  This script calls the ACR's OnEnter code for triggers, and any
 //  custom code a server may need. It is not updated in ACR updates.
 //
-// 
+//  Revision History
+//  2007/01/20  Cipher  Inception
 ////////////////////////////////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////////////////////////////////
