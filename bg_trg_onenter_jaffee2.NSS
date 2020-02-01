@@ -58,10 +58,10 @@ void main()
 			string sWP1 = "wp_ocrejel_jaffee"; 
 		    string sWP2 = "wp_greyooze6_jaffee";
 		    if(GetTag(oCurrentWP) == sWP1) {
-				CreateObject(OBJECT_TYPE_CREATURE, "010_cr_o_ocrejel", GetLocation(oCurrentWP));
+				CreateObject(OBJECT_TYPE_CREATURE, "010_cr_o_ocrejelq", GetLocation(oCurrentWP));
 			    }
 			if(GetTag(oCurrentWP) == sWP2) {
-				CreateObject(OBJECT_TYPE_CREATURE, "010_cr_o_greyooze6", GetLocation(oCurrentWP));
+				CreateObject(OBJECT_TYPE_CREATURE, "010_cr_o_greyooze6q", GetLocation(oCurrentWP));
 				}
 			oCurrentWP = GetNextObjectInArea(GetArea(OBJECT_SELF));
    		 }
