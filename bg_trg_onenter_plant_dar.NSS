@@ -50,7 +50,7 @@ void main()
     ACR_TriggerOnEnter();
 
     // Custom code goes here.
-	if(ACR_RetrieveQuestState("dar_hareouthere2_torold", GetEnteringObject()) == 1) {
+	if(ACR_RetrieveQuestState("dar_hareouthere_torold2", GetEnteringObject()) == 1) {
 	    
 		object oCurrentWP = GetFirstObjectInArea(GetArea(OBJECT_SELF));
 		while(oCurrentWP != OBJECT_INVALID)
