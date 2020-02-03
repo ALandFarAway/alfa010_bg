@@ -210,7 +210,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4BE8681342CF4FC0D355FF250DCDCD7CBF4927D9" downloadHash="5D1A231B9C83E54FA32683C6DF1F3A9C5C9F33F8" name="und_a3_warrens_tomb.trx" dlsize="44659" size="44766" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A42D48E3E076ACC63506B4856479751C82342757" downloadHash="A6A5C057FF7DE072F7BDEB1A39462BBCE2F511E9" name="und_a3_warrens_tomb.trx" dlsize="41032" size="41068" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -365,7 +365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D1B2D7F2F1FF2AE6FE5BDE80270725571327563F" downloadHash="86B734DFBDB063FAA208DB204C5C47985C2C8504" name="und_x1_undeadcaves.trx" dlsize="692330" size="6504861" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="746FA886744B1B120C3849FDCF0C0DF634F8C4DC" downloadHash="0B2F640E75F33ABEF3D9E10F89FDCEE7420FED35" name="und_x1_undeadcaves.trx" dlsize="675425" size="6497449" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1905,7 +1905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A6978040071F0F4D95710A3BA81E0431A2B3DC88" downloadHash="DDF6BD9454834C3B8F5358CCD8664416F69F00A6" name="und_a3_warrens.trx" dlsize="261589" size="265858" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DDC9C28286D3A5D457C15157FB4CB0B441595DEE" downloadHash="2A66E338E7444F61397EA75A0F14CD7967B5188B" name="und_a3_warrens.trx" dlsize="310471" size="313845" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
