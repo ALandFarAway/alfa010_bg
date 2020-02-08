@@ -610,7 +610,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="930D0E82178EDA57B3184CFEFEE538D2523B6805" downloadHash="4F334CDFD14785C92E811169375561274561F73A" name="tradeway_n_04_ruin.trx" dlsize="261780" size="3298857" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B4DECEDEBF149A3789BABCA92A8AD99B0054BE9A" downloadHash="F15624D817BF710B8AD893FBB1AB3F8DE27CD612" name="tradeway_n_04_ruin.trx" dlsize="310754" size="5005815" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
