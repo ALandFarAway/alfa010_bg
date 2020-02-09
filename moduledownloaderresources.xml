@@ -605,7 +605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="268A9AC9B945550A6B665CBD3D5AFB1963C67156" downloadHash="F15624D817BF710B8AD893FBB1AB3F8DE27CD612" name="tradeway_n_04_ruin.trx" dlsize="310754" size="5097825" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C776DE31AF6A4277FE543C712BAAB4DE42774EBE" downloadHash="EDCC2050BE86297D54E082F2922B8853D47763F3" name="tradeway_n_04_ruin.trx" dlsize="310405" size="5098078" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D9DF0E52443A060929DDA706BEF9E627ECA08F85" downloadHash="3A8F843601390AE4933C65D99CCF838CD8016F4A" name="und_a1_falls.trx" dlsize="48537" size="496279" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E7E9B8D13B0AF70D0CEC85F08621EE228F4B50A3" downloadHash="8358DABD0AE127F5440ED82209905828C9E2EA31" name="und_a1_falls.trx" dlsize="48528" size="496279" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
