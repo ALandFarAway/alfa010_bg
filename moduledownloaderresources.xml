@@ -395,7 +395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5B8EC1C9C6E2C5D971163E584C21F3DA47F8C2B5" downloadHash="BB0E3E886BEDADA9261B57E6DA3230E755FFCEFE" name="bgcity-eastgate_sorcsund.trx" dlsize="197387" size="601152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1F5D943E899DBD2EBBFEC84F56EE7FAB56A50279" downloadHash="FDB7979F973791E443EE70E0C93453DEFD286CD3" name="bgcity-eastgate_sorcsund.trx" dlsize="220922" size="624877" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -520,7 +520,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AD45A8DA5207ABEF908425F4DDF8B8EBFCF9D306" downloadHash="4C727FC6EB441457638F149A929CD06FA804E368" name="bg-sewers-eastgate.trx" dlsize="520305" size="6296687" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4ADAB0347FCF9650730583E7E8F54BADD7D3F061" downloadHash="705D337D7785FEACFFB3EE77393C91E9BBCA1A7F" name="bg-sewers-eastgate.trx" dlsize="518358" size="6298200" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1240,7 +1240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F408C59A6B3AE58EE6F66F5443C5EBB75FC9ECAA" downloadHash="B4761C315F1CFA03321E022EE29E793B0E496AA5" name="und_a6_dwarftomb.trx" dlsize="320465" size="322058" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="471A8E0E5190DB9E618CA71788395B1AEC3134FA" downloadHash="B1BF1307E373596D1E50A47E7A7E5F256CFCA7F7" name="und_a6_dwarftomb.trx" dlsize="319627" size="321270" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1950,7 +1950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D5BB3671FFA7B26D57F75058F977A09D4D728443" downloadHash="4BE8A34C5BF22890C8E6B74E98A3C1B2619DC944" name="bgcity-harboreast_warehouses.trx" dlsize="483879" size="488698" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8A4E860D8594E27DFC340E771C5AF0E2158CF9CD" downloadHash="FCE9EE22525DFE9A9701D19E9F0ACAE39658D57B" name="bgcity-harboreast_warehouses.trx" dlsize="470298" size="475452" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3011,6 +3011,11 @@
     </server-ref>
   </resource>
   <resource type="Music" hash="CABF0AA55E8670A4722A71AA76F8CA4D7165A867" downloadHash="" name="da_elfsong.bmu" dlsize="0" size="2260748" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="173827C4DFF95F4EA7FDCCC5B56D531CEF7874E8" downloadHash="4211BD69008A44F3940A60B2DDED61D856D41208" name="und_a6_dwarftomb_ethereal.trx" dlsize="234659" size="235785" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
