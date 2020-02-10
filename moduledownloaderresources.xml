@@ -395,7 +395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1F5D943E899DBD2EBBFEC84F56EE7FAB56A50279" downloadHash="FDB7979F973791E443EE70E0C93453DEFD286CD3" name="bgcity-eastgate_sorcsund.trx" dlsize="220922" size="624877" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="81762978984DEA47B844B52C2C4E450420DF213C" downloadHash="C00E2EC63D3DC0993FBCA96E092E80B4699083E8" name="bgcity-eastgate_sorcsund.trx" dlsize="220749" size="624062" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
