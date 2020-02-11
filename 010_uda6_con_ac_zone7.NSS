@@ -20,7 +20,7 @@ effect eRemove;
 
 while (GetIsObjectValid(oLoop))
 	{
-	lTarget=Location(GetObjectByTag("underdark_a6_shadowcrypt"),
+	lTarget=Location(GetObjectByTag("ud_a6_dwarftomb"),
 							GetPosition(oLoop),
 								GetFacing(oLoop));
 	DelayCommand(0.5,AssignCommand(oLoop,ActionJumpToLocation(lTarget)));	

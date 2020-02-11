@@ -1240,7 +1240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="471A8E0E5190DB9E618CA71788395B1AEC3134FA" downloadHash="B1BF1307E373596D1E50A47E7A7E5F256CFCA7F7" name="und_a6_dwarftomb.trx" dlsize="319627" size="321270" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="834D5CA2ADFAEF460D19F049EACD5EDED5E250D3" downloadHash="48BCA1A51F466A875B83EDAC1BFA7DBEB010F6B8" name="und_a6_dwarftomb.trx" dlsize="326288" size="328059" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2075,7 +2075,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DF102BBBBC3CC32D47D78F41D9C4952C193C4B15" downloadHash="B9C8E77DADA2D90E381BE0DA259BFF506C848A70" name="und_a6_dwarftomb_ethereal.trx" dlsize="236845" size="237963" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EC7BAEB891CC2DF2280B2375A1A9B684F654F1FD" downloadHash="1E41ECECACBAA005B24C12261CE1AF632905250E" name="und_a6_dwarftomb_ethereal.trx" dlsize="242585" size="243619" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
