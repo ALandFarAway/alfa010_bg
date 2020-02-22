@@ -1,9 +1,13 @@
 void main()
 {
 	object oPC=GetLastUsedBy();
-	object oToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2_B");
+//	object oToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2_B");
 
-	if (!GetIsObjectValid(oToken)) {
+//	if (!GetIsObjectValid(oToken)) {
+    object oFirstToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2a_B");
+    object oSecondToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2_B");
+    if (!GetIsObjectValid(oFirstToken) && !GetIsObjectValid(oSecondToken)) {
+
 		SendMessageToPC(oPC,"You feel dizzy and nauseaus, doubling over in pain as you approach the portal.");
 
 		AssignCommand(oPC,(ActionSpeakString("*Doubles over in nausea*")));
@@ -28,5 +32,4 @@ void main()
 
 	DelayCommand(0.5,AssignCommand(oPC,ActionJumpToObject(GetWaypointByTag("WP_PORTAL_UDA3_A"))));
 }
-
 
