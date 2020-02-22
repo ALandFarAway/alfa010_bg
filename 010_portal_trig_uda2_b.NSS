@@ -1,10 +1,14 @@
 void main()
 {
 	object oPC=GetEnteringObject();
-	object oToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2_B");
-
-	if (!GetIsObjectValid(oToken))
+//	object oToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2_B");
+    object oFirstToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2a_B");
+    object oSecondToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2_B");
+	
+    if (!GetIsObjectValid(oFirstToken) && !GetIsObjectValid(oSecondToken)) 
 	{
+//	if (!GetIsObjectValid(oToken))
+//	{
 		AssignCommand(oPC,ClearAllActions());
 		AssignCommand(oPC,ActionMoveToObject(GetWaypointByTag("WP_PORTAL_UDA2_B_REBOUND"),FALSE,0.0));
 		DelayCommand(0.5,SetCommandable(FALSE,oPC));
