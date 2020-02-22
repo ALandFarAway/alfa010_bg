@@ -28,3 +28,5 @@ void main()
 
 	DelayCommand(0.5,AssignCommand(oPC,ActionJumpToObject(GetWaypointByTag("WP_PORTAL_UDA3_A"))));
 }
+
+

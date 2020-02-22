@@ -8,20 +8,24 @@ void main()
 
 object oPC = GetPCSpeaker();
 
+AddJournalQuestEntry("tt_uda6_dwarventomb", 3, oPC, TRUE, FALSE);
+
 object oTarget;
 object oTarget2;
 
 object oSpawn;
 object oSpawn2;
+
 location lTarget;
+location lTarget2;
 
 oTarget = GetWaypointByTag("wp_deamon_spawn");
 oTarget2 = GetWaypointByTag("wp_deamon_spawn2");
 
 lTarget = GetLocation(oTarget);
-
+lTarget2 = GetLocation(oTarget2);
 oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_ou_demon_babau", lTarget);
-oSpawn2 = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_ou_tanarri_tanarukk", lTarget);
+oSpawn2 = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_ou_tanarri_tanarukk", lTarget2);
 oTarget = oSpawn;
 oTarget2 = oSpawn2;
 
