@@ -125,7 +125,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F82580D798B98A0483B2D70000888CECE3A16F23" downloadHash="BDA42B7B645DAC429CAAB145EF1E50B9C43A7961" name="tradeway_n_04_tempus_tears_int.trx" dlsize="265266" size="309817" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2832F0E9D0C4A6F373254EDBAD6EDC30242E7C1C" downloadHash="6A112E525C7B842BE8A978BDCCB2EBE0546B92F8" name="tradeway_n_04_tempus_tears_int.trx" dlsize="265330" size="309998" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
