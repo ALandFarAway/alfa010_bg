@@ -450,7 +450,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="06CDEC12DB334BB4325FD61B6B0222212BC52546" downloadHash="653E420EC154AB41C40C16BDB4ABBC82C07C83AC" name="tradeway_n_02_dar_cave0.trx" dlsize="64099" size="106888" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="14AD88448C22D18761C39C2836B65F9698ECF889" downloadHash="D44102B2E19AB6B31CE1FA815543D5E67638530A" name="tradeway_n_02_dar_cave0.trx" dlsize="64312" size="107092" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1310,7 +1310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A056A572A96DADAC058EFB7E60B0381BC7569253" downloadHash="BA88F32E2EED899ED96C6C9A85E786049EF0CB7F" name="und_a6_ethereal.trx" dlsize="232929" size="233923" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5CA1B9FCABCECDF10BC2560B739EFA27DC7C5D0C" downloadHash="45BAF527CCF64ED1F1634D90F801C52D13C568D8" name="und_a6_ethereal.trx" dlsize="253507" size="255284" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1675,7 +1675,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="91E4B5EA4AC0A23960A0F3319D7786CAB38E09DF" downloadHash="BB62AB901032B2EF1686FCB7937053A4A494437B" name="tradeway_n_02_dar_cave1.trx" dlsize="75855" size="76583" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="18CF383C162A902992AFBE3F82A4284DACDC435A" downloadHash="2B6C12A3CB6BD62D3965FF2C4C960786B8202EE7" name="tradeway_n_02_dar_cave1.trx" dlsize="75856" size="76584" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2076,6 +2076,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D78654E2AEB8877C0B1839736E6FFD9EAE611AAC" downloadHash="9F7DEC86E1CA8E1BB268C5AD6269EF2EB93839DA" name="und_a6_dwarftomb_ethereal.trx" dlsize="252854" size="253976" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A3032EB3970ADCF55B00C74C7EABE9FD7CACE7FE" downloadHash="1B7095C348A014EAAC7CC8E242A3113A00625458" name="dread chamber.trx" dlsize="35797" size="759327" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="37D7D7EA4CE79CCF09460EFADD870395675F2FB9" downloadHash="AB992291C8F68887917D9FE0C69F9670D443529C" name="gullykin_hold.trx" dlsize="42293" size="42374" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="749C3D080725BBB06FE13357A54175933BDE575E" downloadHash="ADE9633A327AA62BB6402BF81B8A756E9ED4F216" name="und_n0_outpost.trx" dlsize="1364454" size="11573883" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

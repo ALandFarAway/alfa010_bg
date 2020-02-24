@@ -6,8 +6,10 @@ void main()
 //	if (!GetIsObjectValid(oToken)) {
     object oFirstToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2a_B");
     object oSecondToken=GetItemPossessedBy(oPC,"PORTAL_TOKEN_UDA2_B");
-    if (!GetIsObjectValid(oFirstToken) && !GetIsObjectValid(oSecondToken)) {
-
+	int nDeactivated = GetLocalInt(OBJECT_SELF, "Deactivated");
+	
+   if (!GetIsObjectValid(oFirstToken) && !GetIsObjectValid(oSecondToken) && nDeactivated == 0) 
+	{
 		SendMessageToPC(oPC,"You feel dizzy and nauseaus, doubling over in pain as you approach the portal.");
 
 		AssignCommand(oPC,(ActionSpeakString("*Doubles over in nausea*")));
@@ -31,5 +33,9 @@ void main()
 	ApplyEffectAtLocation(0,EffectVisualEffect(33),GetLocation(oPC));
 
 	DelayCommand(0.5,AssignCommand(oPC,ActionJumpToObject(GetWaypointByTag("WP_PORTAL_UDA3_A"))));
-}
-
+	SetLocalInt(OBJECT_SELF, "Deactivated", 1);
+	DelayCommand(120.0, SetLocalInt(OBJECT_SELF, "Deactivated", 0));
+	
+	}
+	
+	
