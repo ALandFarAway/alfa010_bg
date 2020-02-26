@@ -915,7 +915,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC5D72EE6F1E3A5CC3B41C3CEC903B4F98BA90BA" downloadHash="23447C4320B3C873725AA2E1F0A4549FD1D933B7" name="bgcity-harboreast_warehouse.trx" dlsize="82457" size="82965" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="037DC04CDDDFEC8382691A6EC533E8F18ED3442E" downloadHash="C28338CAE298280C144B7CB853FC62B21CC7B517" name="bgcity-harboreast_warehouse.trx" dlsize="82860" size="83326" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1130,7 +1130,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2BDA93E541686F6608288BBAC79F4AB75EB4BD02" downloadHash="BBA266429B44C5FAA1A9D79CF7141D3F196AFD4F" name="bgcity-eastgate_int_shops.trx" dlsize="167662" size="168280" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D96B37900FD64FC71CC696FE164D4501B026A324" downloadHash="65E3FDC058E4CE0171DBE1E0CBBA1412BA7117A6" name="bgcity-eastgate_int_shops.trx" dlsize="167715" size="168312" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1935,7 +1935,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F62544A6C9513E72504F1049176384C39673E913" downloadHash="E51CE9DA8B985808680DAF8E413FF4BCDDD6E32E" name="bgcity-harborwest_int.trx" dlsize="157156" size="157960" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="23750A17FC13EA092228DCF964CED2F564652C5C" downloadHash="ED554E299CD0C665165AE3219C82ADC4B5B8F70D" name="bgcity-harborwest_int.trx" dlsize="157473" size="158307" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
