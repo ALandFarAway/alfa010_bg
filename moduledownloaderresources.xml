@@ -1680,7 +1680,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2D41CD94344B36558DFC7383024442ECD0DF38F7" downloadHash="FC6C9DF2B7DACE4BA49CB77C5A0624417E9D915C" name="bgcity-eastgate_hc_inn.trx" dlsize="171682" size="172529" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B226504EE2D9554A95734F183F4C3E393CF85A24" downloadHash="281CDB501B3D443888D29D5CB10E014E8CFF8060" name="bgcity-eastgate_hc_inn.trx" dlsize="168118" size="169001" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
