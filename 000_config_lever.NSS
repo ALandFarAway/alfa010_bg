@@ -14,14 +14,14 @@ void main()
     if (!GetIsOpen(OBJECT_SELF))
     {
         PlayAnimation(ANIMATION_PLACEABLE_OPEN);
-
+        DelayCommand(2.0,PlayAnimation(ANIMATION_PLACEABLE_CLOSE));
         SetLocked(oDoor, FALSE);
         ActionOpenDoor(oDoor);
     }
     else
     {
         PlayAnimation(ANIMATION_PLACEABLE_CLOSE);
-
+        DelayCommand(2.0,PlayAnimation(ANIMATION_PLACEABLE_OPEN));
         SetLocked(oDoor, TRUE);
         ActionCloseDoor(oDoor);
     }
