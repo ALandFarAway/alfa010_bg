@@ -1340,7 +1340,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="300D0E10A1AB1C20C3B20CCA1531A1B21E8CB2F9" downloadHash="AEAA3DF9DE76CF12E73D903FBF5D5584AD1D20A2" name="bg-undercellar_ruins.trx" dlsize="959666" size="981463" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="02F2FBABF91F65A05B91B91BFD7858D0AEBFAFE8" downloadHash="04A5FCFE83FFD25D005948AA31E9E8741289F3A2" name="bg-undercellar_ruins.trx" dlsize="974241" size="997357" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
