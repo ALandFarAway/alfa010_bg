@@ -1,4 +1,4 @@
-// i_abr_tym_holysymbol_ac
+// i_abr_tym_it_holysymbol_ac
 
 //:://////////////////////////////////////////////
 //     Written by 4760 from NWvault
@@ -12,6 +12,8 @@
 
 //:://////////////////////////////////////////////
 
+
+
 void main()
 
 {
@@ -22,7 +24,7 @@ void main()
 
 	if (d2() == 1) sResult = "tails";
 
-	SendMessageToPC(oPC, "Lady Luck chooses " + sResult);
+	SendMessageToPC(oPC, "Lady Luck Shows you " + sResult);
 
 }
 
