@@ -5,7 +5,7 @@
 
 void main()
 {
-    PlaySound("as_sw_lever1");
+    
     object oLever = OBJECT_SELF;
 
     string sDoorTag = GetLocalString(oLever, "sDoorTag");
@@ -13,6 +13,7 @@ void main()
 
     if (!GetIsOpen(OBJECT_SELF))
     {
+	    PlaySound("as_sw_lever1");
         PlayAnimation(ANIMATION_PLACEABLE_OPEN);
         DelayCommand(6.0,PlayAnimation(ANIMATION_PLACEABLE_CLOSE));
         SetLocked(oDoor, FALSE);
@@ -20,6 +21,7 @@ void main()
     }
     else
     {
+     	PlaySound("as_sw_lever1");
         PlayAnimation(ANIMATION_PLACEABLE_CLOSE);
         DelayCommand(6.0,PlayAnimation(ANIMATION_PLACEABLE_OPEN));
         SetLocked(oDoor, TRUE);

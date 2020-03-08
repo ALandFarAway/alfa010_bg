@@ -1340,7 +1340,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="02F2FBABF91F65A05B91B91BFD7858D0AEBFAFE8" downloadHash="04A5FCFE83FFD25D005948AA31E9E8741289F3A2" name="bg-undercellar_ruins.trx" dlsize="974241" size="997357" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="61A770F37812674BFD483CFF215D569B5E894068" downloadHash="2538E262DA475B103A361CF79B351DE48003981C" name="bg-undercellar_ruins.trx" dlsize="971469" size="993257" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1505,7 +1505,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="56771618A2B03DFFA53F5558CA13D88C8BB17DF5" downloadHash="83473A790C8F8966B5AE64813FE6F03F897C08FB" name="bgcity-upperwest_thayan.trx" dlsize="389998" size="394003" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4A004D492795AF97DF0A3BDD21F8FFABDE75788B" downloadHash="802AB898BD20CE80F47425CD1AAA8E7F6C00455E" name="bgcity-upperwest_thayan.trx" dlsize="399605" size="403351" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
