@@ -1,4 +1,4 @@
-// i_abr_tym_it_holysymbol_ac
+// i_abr_it_tym_holysymbol_ac
 
 //:://////////////////////////////////////////////
 //     Written by 4760 from NWvault
