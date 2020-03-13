@@ -16,9 +16,9 @@ void main()
 	
 	r = GetIsObjectValid(GetItemPossessedBy(o,s_r0)) +
 		GetIsObjectValid(GetItemPossessedBy(o,s_r1)) + 
-		GetIsObjectValid(GetItemPossessedBy(o,s_r2));+
+		GetIsObjectValid(GetItemPossessedBy(o,s_r2)) +
 		GetIsObjectValid(GetItemPossessedBy(o,s_r3));
-	g = GetIsObjectValid(GetItemPossessedBy(o,s_g0));
+	g = GetIsObjectValid(GetItemPossessedBy(o,s_g0)) +
 	    GetIsObjectValid(GetItemPossessedBy(o,s_g1));
 	   
 	if (((r > 0) && (g > 0)) || (GetGlobalInt("sinkhole_rope") > 0)) {

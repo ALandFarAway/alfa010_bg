@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="16519114BDEDECEBD0074CEF11C655E42D738BCA" downloadHash="47AB7A80F91A727455E632A2F6C2F7BB816B6753" name="und_n4_cavern1.trx" dlsize="820417" size="926993" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A17839133E2F1E09AB9A3DC1927047F3F6428A3A" downloadHash="DD494734358F8BE4EB763F20C9476358FAF15F5D" name="und_n4_cavern1.trx" dlsize="847976" size="954226" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1800,7 +1800,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F13910251C4C8E945936E5F6CC59BFEFF085AB69" downloadHash="538AFFE96BC66F0D7C044524FDA17C867ED91442" name="cloakwood_hill_01.trx" dlsize="4084067" size="20308530" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7204D454304788259ECD31F3ECDB0CEF60D8FE5D" downloadHash="310BA2649012643731034F79D2BAC5D0A051647A" name="cloakwood_hill_01.trx" dlsize="4083540" size="20308432" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
