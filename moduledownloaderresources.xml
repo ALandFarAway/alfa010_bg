@@ -1800,7 +1800,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7204D454304788259ECD31F3ECDB0CEF60D8FE5D" downloadHash="310BA2649012643731034F79D2BAC5D0A051647A" name="cloakwood_hill_01.trx" dlsize="4083540" size="20308432" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FD34A744A78D4865ABBEEB661E4AF9E22D6F531E" downloadHash="53AA08CC6EA39B1A964BB9FD21EBDA38B3A7FF62" name="cloakwood_hill_01.trx" dlsize="4065383" size="20335018" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
