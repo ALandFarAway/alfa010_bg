@@ -14,17 +14,17 @@ void main(int type)
 			break;
 		case 2:
 			if (tumbled)
-				damage = d6(8);
+				damage = d6(2);
 			else
-				damage = d6(10);
+				damage = d6(4);
 				
 			DelayCommand(2.5,AssignCommand(o,ApplyEffectToObject(DURATION_TYPE_INSTANT,EffectDamage(damage,DAMAGE_TYPE_BLUDGEONING),o)));
 			break;
 		case 3:
 			if (tumbled)
-				damage = d6(8);
+				damage = d6(2);
 			else
-				damage = d6(10);
+				damage = d6(4);
 				
 			DelayCommand(2.5,AssignCommand(o,ApplyEffectToObject(DURATION_TYPE_INSTANT,EffectDamage(damage,DAMAGE_TYPE_BLUDGEONING),o)));
 			SetGlobalInt("sinkhole_rope",0);
