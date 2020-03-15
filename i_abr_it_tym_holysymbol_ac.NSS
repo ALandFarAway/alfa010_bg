@@ -24,7 +24,7 @@ void main()
 
 	if (d2() == 1) sResult = "tails";
 
-	SendMessageToPC(oPC, "Lady Luck Shows you " + sResult);
-
+	//SendMessageToPC(oPC, "Lady Luck Shows you " + sResult);
+    //ActionSpeakString( "Lady Luck Shows you " + sResult,2);
+	AssignCommand( OBJECT_SELF, ActionSpeakString( "Lady Luck Shows you " + sResult,2));
 }
-
