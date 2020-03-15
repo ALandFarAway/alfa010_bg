@@ -26,5 +26,5 @@ void main()
 
 	//SendMessageToPC(oPC, "Lady Luck Shows you " + sResult);
     //ActionSpeakString( "Lady Luck Shows you " + sResult,2);
-	AssignCommand( OBJECT_SELF, ActionSpeakString( "Lady Luck Shows you " + sResult,2));
+		AssignCommand(oPC, ActionSpeakString( "You flip a coin and Lady Luck Shows you " + sResult));
 }
