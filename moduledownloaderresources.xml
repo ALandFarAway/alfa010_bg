@@ -375,7 +375,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2E31709476530E09015CCA1274FA94E78B5A9A8B" downloadHash="41224CCC5D19BB12CDDC945C82C22ADA4C86ADDE" name="bg-undercellar_ruins_s2.trx" dlsize="313922" size="317709" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A89266C35A60951153AB4F0C4E78FE6CFB2C0647" downloadHash="64C3F564349D421BF324FE6341EA818D2B907B1A" name="bg-undercellar_ruins_s2.trx" dlsize="279803" size="282731" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1996,11 +1996,6 @@
     </server-ref>
   </resource>
   <resource type="Tlk" hash="7A3DFDDA24A27417C56CD9FE6D10119F9C3CBFE1" downloadHash="17E716FD0A0F84AE69237DC2C4E585E4DAD5757D" name="alfa_acr02.tlk" dlsize="150804" size="1200684" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="C3FD1A2EAF5943A5C5052B809C61ECD8470BFBB5" downloadHash="5C5ACBDAB4BA1ED80C985E70FDF4096A1B3BC1EC" name="old_moduledownloaderresources.XML" dlsize="24970" size="131331" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
