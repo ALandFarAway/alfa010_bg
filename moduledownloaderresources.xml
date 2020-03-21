@@ -1995,4 +1995,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="072113B85B0565C6AA1A9FB1C0F2EE104A49C99C" downloadHash="65E887D2DB0ECC536862952CE8F9DD797429CA89" name="bg-undercellar_ruins_s2.trx" dlsize="267534" size="270975" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
