@@ -460,7 +460,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
   <resource type="DirectoryEntry" hash="99C7E43968403E98BD409585B45C628838D3D11D" downloadHash="C9D5D551E81909E6425AE66F90A915F70B7882CC" name="bg-undercellar_ruins_s2.trx" dlsize="273588" size="277217" critical="false" exclude="false" urlOverride="">
+=======
+  <resource type="DirectoryEntry" hash="9D4E7A40DC2EA40A6396A8AD4A4C12F5A69575F0" downloadHash="7307C517AC08E1FC01F1259FBE63592E00E1796D" name="bg-undercellar_ruins_s2.trx" dlsize="168185" size="171068" critical="false" exclude="false" urlOverride="">
+>>>>>>> parent of f082a32... undercellars  S2  -1
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -600,7 +604,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="08ABBEE857E4DB738A5FCA8095932C358FB05DAC" downloadHash="964243C9528B833499D67A0A76A05D8334249572" name="bg-undercellar_ruins_n.trx" dlsize="992753" size="1023060" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="75738D109100493F1B5C0A4D850B93359CDDE2E6" downloadHash="25AF639DB3A92D53B658CD0F433B4C98F383FC70" name="bg-undercellar_ruins_n.trx" dlsize="976352" size="1007674" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
