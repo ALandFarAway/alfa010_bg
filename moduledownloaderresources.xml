@@ -1965,11 +1965,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C3FD1A2EAF5943A5C5052B809C61ECD8470BFBB5" downloadHash="" name="old_moduledownloaderresources.XML" dlsize="0" size="131331" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="5AFF1B6E920BEB4B3711D5B49E9ABBAC06F4E4B5" downloadHash="FAF0CC1D93B380D43BD2C2EDFBDEAC2503988EE3" name="sjc_redeyes_lesstrail.SEF" dlsize="295" size="1229" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2001,6 +1996,11 @@
     </server-ref>
   </resource>
   <resource type="Tlk" hash="7A3DFDDA24A27417C56CD9FE6D10119F9C3CBFE1" downloadHash="17E716FD0A0F84AE69237DC2C4E585E4DAD5757D" name="alfa_acr02.tlk" dlsize="150804" size="1200684" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C3FD1A2EAF5943A5C5052B809C61ECD8470BFBB5" downloadHash="5C5ACBDAB4BA1ED80C985E70FDF4096A1B3BC1EC" name="old_moduledownloaderresources.XML" dlsize="24970" size="131331" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
