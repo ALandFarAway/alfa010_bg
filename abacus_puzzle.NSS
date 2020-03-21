@@ -103,7 +103,7 @@ SetGlobalInt("abacus_value", abacus_value);
 string sDebugString = "You Pressed: "+sAbaId+" now the year is: "+IntToString(abacus_value)+"";
 FloatingTextStringOnCreature(sDebugString, oPC, TRUE, 2.0f);
 
-if(abacus_value == 2012)
+if(abacus_value == 4352)
 FloatingTextStringOnCreature("You hear a small click", oPC, TRUE, 3.0f);
 
 }
