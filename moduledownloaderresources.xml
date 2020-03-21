@@ -375,7 +375,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="983C6CAAC4C3DD4FB741D0AD96ED6FBC784F76A8" downloadHash="79A87022D74F85C7F8D200FFD4B08DEB7E44DDE5" name="bg-undercellar_ruins_s2.trx" dlsize="314168" size="317995" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2E31709476530E09015CCA1274FA94E78B5A9A8B" downloadHash="41224CCC5D19BB12CDDC945C82C22ADA4C86ADDE" name="bg-undercellar_ruins_s2.trx" dlsize="313922" size="317709" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1270,7 +1270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5010D7792C136A02E2BBE8FBAEEBCDE55706026C" downloadHash="35DCB0380512692F95B2D5EA9D3748BD8E5ABD05" name="vol_a6b_dragonlair.trx" dlsize="640731" size="6235966" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2AC64D8C3A24EBEF394B7BCAF8070903E432D586" downloadHash="C745D2730F3D4906C456115EE0834A289A0DE9FA" name="vol_a6b_dragonlair.trx" dlsize="640735" size="6235966" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
