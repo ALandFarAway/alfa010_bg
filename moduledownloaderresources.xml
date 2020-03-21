@@ -1,100 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="Tlk" hash="7A3DFDDA24A27417C56CD9FE6D10119F9C3CBFE1" downloadHash="17E716FD0A0F84AE69237DC2C4E585E4DAD5757D" name="alfa_acr02.tlk" dlsize="150804" size="1200684" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="0F057C1455E7D9539A4B94C7DFDDD520595D3583" downloadHash="C875EC995B07BEDA81919A4FB02D456FC6B5876B" name="alfa2_2da.hak" dlsize="444123" size="23244875" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="366ACB5A4AAAD7AB1CD40090BD7B6A83F86B88B5" downloadHash="A02C76AEC8133A98CB2B0ED1E6BBAC03F42C407B" name="alfa2_acr.hak" dlsize="4089827" size="133574322" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="57134C52A5076AE5D42388A2FCD63715B990FFA4" downloadHash="B3057B15940A5C70A2D7D6717A79CCAE60704ED7" name="alfa2_gui.hak" dlsize="10122289" size="42385281" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="05F506888D5150401A6ABE8B2DDFB6451ECF265F" downloadHash="E7AD17556A387AC50813EC47EFE094C83DC758D3" name="alfa_fx.hak" dlsize="82510954" size="212875427" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="AF61A08EC96F1C46967D5A880238C9D69D51A026" downloadHash="C187EF970AFA2E9515BE0EAA58EEEF5C8007B85E" name="alfa_fx2.hak" dlsize="99911248" size="146785353" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="D50A4545E80E8331DC93B103A5D0ED2C3114ACCC" downloadHash="8694B3D67FDEA043BE796A3E6E5145B5BA19FE40" name="alfa_creatures.hak" dlsize="321420219" size="1640616431" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="CD412A99373C8E2BD9987341630A8B2094400331" downloadHash="39238497872FB17BB4BE114C245012DDC95A6DDD" name="alfa_creatures2.hak" dlsize="395240971" size="1479160538" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="A9FE2E02B32C17EDCB82635581522281932AC31A" downloadHash="F7312B0AD1C3B262EE0C4F8C74F82FF26EDC43EB" name="alfa_items.hak" dlsize="336034877" size="1617860696" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="D271A0523F46A205164034C810D50728749F1F5D" downloadHash="CB9ED6DFB19DC73496329C77F8E25D22889D88BF" name="alfa_placeables.hak" dlsize="493083890" size="1654074358" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="E3A6A17511F8A0914B8074C4AA5A71852F495B16" downloadHash="B05BDC8059DFF09E662BFCC038AA31BF185B2DE8" name="alfa_placeables2.hak" dlsize="295596981" size="1053113287" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="72BDAEDB6AEDA197347453D86541C28D43951C91" downloadHash="A3779544CB70138927C0A5BE69CC7673B60C3169" name="alfa_terrain.hak" dlsize="108079051" size="387954003" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="6D82B4B844D1EE8C16A8DD2544296BDC52C8F4FA" downloadHash="B62F113319F4B880F993C1611BBC37328F5A728B" name="alfa_tiles.hak" dlsize="328145078" size="1707072692" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="7C4EB6160888743FFB1A2999454C73B6EA5E3F38" downloadHash="3CC1045DB59E7724CFFBA58604854432B42AFF95" name="alfa_tiles2.hak" dlsize="140430001" size="789330636" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="0A4FF59E20FAEEE5FAFBD33371D62AEAAE0F354C" downloadHash="D8B339BDF603E1786F5C23A7EAEE61400952EFE1" name="alfa2_pr.hak" dlsize="19614673" size="306758259" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="184AB73D239BBC8BC47D36753C78F8777556F27F" downloadHash="DE05744EB437DEC97A2C9ED159E54F4C96DF8EBE" name="alfa2_templates.hak" dlsize="192709" size="8692869" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="6ED563E71C6ACBFA3394187BA0996C1A7720EE20" downloadHash="65747886658884725AEF9606BB832243E9040EA8" name="tradeway_s_02_e1_plain_cave2.trx" dlsize="307144" size="351872" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -136,6 +41,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7AE7B0074B394F2DC403BA08BDABD070279A801A" downloadHash="6DF315FAC20E226973D7BF1AB6135A254E606D3B" name="bgcity-harborwest_umberleetemple.trx" dlsize="167563" size="170182" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="19186132462032D9D9343B44EE544F7ABD789E13" downloadHash="C6CAB6A3603C3521FDD0876740A89E06A8BDEE46" name="bg-sewers-dread chamber.trx" dlsize="40356" size="761587" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -286,6 +196,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="19EBDBB7072E49D2431023F057B46F25FC622E71" downloadHash="299CCD36257DC75F6F1DBE94746B0DA0FA72D07B" name="tradeway_s_02_e1_plain_cave3.trx" dlsize="923301" size="1881747" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A3032EB3970ADCF55B00C74C7EABE9FD7CACE7FE" downloadHash="1B7095C348A014EAAC7CC8E242A3113A00625458" name="dread chamber.trx" dlsize="35797" size="759327" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -462,6 +377,7 @@
   </resource>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <resource type="DirectoryEntry" hash="99C7E43968403E98BD409585B45C628838D3D11D" downloadHash="C9D5D551E81909E6425AE66F90A915F70B7882CC" name="bg-undercellar_ruins_s2.trx" dlsize="273588" size="277217" critical="false" exclude="false" urlOverride="">
 =======
   <resource type="DirectoryEntry" hash="9D4E7A40DC2EA40A6396A8AD4A4C12F5A69575F0" downloadHash="7307C517AC08E1FC01F1259FBE63592E00E1796D" name="bg-undercellar_ruins_s2.trx" dlsize="168185" size="171068" critical="false" exclude="false" urlOverride="">
@@ -469,6 +385,9 @@
 =======
   <resource type="DirectoryEntry" hash="8602102D9DE727FD84CFC3B659A3D7FE93C6BD74" downloadHash="EDC60D261ED23BB47E18DBF5FFA735D93BA605E7" name="bg-undercellar_ruins_s2.trx" dlsize="182443" size="185161" critical="false" exclude="false" urlOverride="">
 >>>>>>> parent of f814585... undercellars S2 -2
+=======
+  <resource type="DirectoryEntry" hash="24A04526181247D4F5AE058E89D9DF750585DDDD" downloadHash="FE954AE2F50C650BE295889693ACCC3EA7B7A8AC" name="bg-undercellar_ruins_s2.trx" dlsize="271032" size="274204" critical="false" exclude="false" urlOverride="">
+>>>>>>> e1235660d797959f9963955adc6ff3a6437ac9a6
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -608,7 +527,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="75738D109100493F1B5C0A4D850B93359CDDE2E6" downloadHash="25AF639DB3A92D53B658CD0F433B4C98F383FC70" name="bg-undercellar_ruins_n.trx" dlsize="976352" size="1007674" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1CB32A56365172649D530EACB9BFFB823752E16F" downloadHash="423782B3C1E881F041C633BEE10617297E9B52B8" name="bg-undercellar_ruins_n.trx" dlsize="1226486" size="1260353" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -719,11 +638,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D42F416542FA579001BA972E43BD7BE7B25D122F" downloadHash="C2ECCC7821E6BEB73A92D210C87E3DD2E565B4ED" name="bgcity-castledist ext.trx" dlsize="4763611" size="14466462" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="459932BA7E424BB91FA2279B3CC007A6AE40F4AB" downloadHash="55F4F997DFD78E753260006114C7B51AF852BB06" name="010_portal_belowdecks.trx" dlsize="160604" size="165327" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1073,6 +987,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="37D7D7EA4CE79CCF09460EFADD870395675F2FB9" downloadHash="AB992291C8F68887917D9FE0C69F9670D443529C" name="gullykin_hold.trx" dlsize="42293" size="42374" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="E305E9E9067BA9315C9DD6866998BBCC6C553A5E" downloadHash="642842115D35A3004EA31FCB33057C1251C4309E" name="und_n8_mine3.trx" dlsize="115230" size="116135" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1348,7 +1267,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C7358FF28CCD4F6A384EF24F9BF989E34A54D703" downloadHash="5A288D4CAFB8759FA4874F9D1A8B4B3304730EA8" name="bg-undercellar_ruins.trx" dlsize="1063807" size="1086823" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EF6CD781969A3983CDE0B314494101ECE4C2AC51" downloadHash="99F0868B400401C5620CCF2E31C347C6CCBC719E" name="bg-undercellar_ruins.trx" dlsize="1048389" size="1071435" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1534,6 +1453,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="516964A404DB0A39AC534FDEB47B5376F1D286F7" downloadHash="CB22294247A1F3CDA127295ED0F8E28C5641AA48" name="tradeway_s_07_smlake.trx" dlsize="1818485" size="12332467" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="749C3D080725BBB06FE13357A54175933BDE575E" downloadHash="ADE9633A327AA62BB6402BF81B8A756E9ED4F216" name="und_n0_outpost.trx" dlsize="1364454" size="11573883" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1763,6 +1687,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="D78654E2AEB8877C0B1839736E6FFD9EAE611AAC" downloadHash="9F7DEC86E1CA8E1BB268C5AD6269EF2EB93839DA" name="und_a6_dwarftomb_ethereal.trx" dlsize="252854" size="253976" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="0AB3A92C9B0A57CC99C1FB72488351C53EF40902" downloadHash="CA3C71B8E338CECEDF1B2DF8F34E36AFB5C561C2" name="ulgoth_town.trx" dlsize="2828161" size="16281092" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1798,7 +1727,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E8C5EEE7BD284801FFF1079BDFC3E16DB528B112" downloadHash="8DBF4EE6726C44CE9DF8DDFDFF369EE3B7799096" name="cloakwood_hill_03.trx" dlsize="4062429" size="20296256" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="459932BA7E424BB91FA2279B3CC007A6AE40F4AB" downloadHash="55F4F997DFD78E753260006114C7B51AF852BB06" name="010_portal_belowdecks.trx" dlsize="160604" size="165327" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1809,6 +1738,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="FD34A744A78D4865ABBEEB661E4AF9E22D6F531E" downloadHash="53AA08CC6EA39B1A964BB9FD21EBDA38B3A7FF62" name="cloakwood_hill_01.trx" dlsize="4065383" size="20335018" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="749C3D080725BBB06FE13357A54175933BDE575E" downloadHash="ADE9633A327AA62BB6402BF81B8A756E9ED4F216" name="und_n0_outpost_voina.trx" dlsize="1364454" size="11573883" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2003,16 +1937,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F837D49A4903C0996AA84ED8897C1C58F3215C7A" downloadHash="46C9D9BE1053D64D8969CDDB4397F6C434F313CC" name="fx_lg_darkness.SEF" dlsize="570" size="2026" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="F865DD9166629751FDDB8DD619CD1D33CD312AF3" downloadHash="54CCAD3F6EC81A09DEE8E9C996DB08B7977943F8" name="guid.GFF" dlsize="79" size="116" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="DDD1BB868EC3137BE2A1B0F2509B73FDBE235299" downloadHash="9B562199436B6DC53B880A0545479B8E08E22A0C" name="fx_ceilfog.SEF" dlsize="367" size="4367" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2028,6 +1952,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="F837D49A4903C0996AA84ED8897C1C58F3215C7A" downloadHash="46C9D9BE1053D64D8969CDDB4397F6C434F313CC" name="fx_lg_darkness.SEF" dlsize="570" size="2026" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="E8FE6A998E5348E6B778FB16986AAF72C1B59180" downloadHash="479BA7535DD4DA1AA6787747B87D4BCA0B949062" name="fx_stars.SEF" dlsize="537" size="2429" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2039,6 +1968,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="69C891135BBF0058E11302F4596DC3B9FD708DBB" downloadHash="E6D79F8478478C4DC0DC3CF3ED2C2E0964A50692" name="fx_weapontr_stars.SEF" dlsize="484" size="1780" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F865DD9166629751FDDB8DD619CD1D33CD312AF3" downloadHash="54CCAD3F6EC81A09DEE8E9C996DB08B7977943F8" name="guid.GFF" dlsize="79" size="116" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2073,32 +2007,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="749C3D080725BBB06FE13357A54175933BDE575E" downloadHash="ADE9633A327AA62BB6402BF81B8A756E9ED4F216" name="und_n0_outpost_voina.trx" dlsize="1364454" size="11573883" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="19186132462032D9D9343B44EE544F7ABD789E13" downloadHash="C6CAB6A3603C3521FDD0876740A89E06A8BDEE46" name="bg-sewers-dread chamber.trx" dlsize="40356" size="761587" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D78654E2AEB8877C0B1839736E6FFD9EAE611AAC" downloadHash="9F7DEC86E1CA8E1BB268C5AD6269EF2EB93839DA" name="und_a6_dwarftomb_ethereal.trx" dlsize="252854" size="253976" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A3032EB3970ADCF55B00C74C7EABE9FD7CACE7FE" downloadHash="1B7095C348A014EAAC7CC8E242A3113A00625458" name="dread chamber.trx" dlsize="35797" size="759327" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="37D7D7EA4CE79CCF09460EFADD870395675F2FB9" downloadHash="AB992291C8F68887917D9FE0C69F9670D443529C" name="gullykin_hold.trx" dlsize="42293" size="42374" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="749C3D080725BBB06FE13357A54175933BDE575E" downloadHash="ADE9633A327AA62BB6402BF81B8A756E9ED4F216" name="und_n0_outpost.trx" dlsize="1364454" size="11573883" critical="false" exclude="false" urlOverride="">
+  <resource type="Tlk" hash="7A3DFDDA24A27417C56CD9FE6D10119F9C3CBFE1" downloadHash="17E716FD0A0F84AE69237DC2C4E585E4DAD5757D" name="alfa_acr02.tlk" dlsize="150804" size="1200684" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
