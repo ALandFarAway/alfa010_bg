@@ -26,8 +26,8 @@ else
 		FloatingTextStringOnCreature("You Failed", oPC, TRUE, 3.0f);
 		DestroyObject(o1Statue);
 		DestroyObject(o2Statue);
-		CreateObject(OBJECT_TYPE_CREATURE, "c_guardian_first", o1Loc, TRUE);
-		CreateObject(OBJECT_TYPE_CREATURE, "c_guardian_first", o2Loc, TRUE);
+		CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_cn_fleshgolem", o1Loc, TRUE);
+		CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_cn_fleshgolem", o2Loc, TRUE);
 		
 		//Create the walls
 		CreateObject(OBJECT_TYPE_PLACEABLE, "trapwall", lTrap, TRUE);

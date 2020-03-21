@@ -375,11 +375,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A89266C35A60951153AB4F0C4E78FE6CFB2C0647" downloadHash="64C3F564349D421BF324FE6341EA818D2B907B1A" name="bg-undercellar_ruins_s2.trx" dlsize="279803" size="282731" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="7C7146900BB2BE16C5E5952F24DDC50E11BEB8B8" downloadHash="C4893816A52067B001C24E9F9964DCA8A220E960" name="unlinked_slum_temple.trx" dlsize="20662" size="20654" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -515,7 +510,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1CB32A56365172649D530EACB9BFFB823752E16F" downloadHash="423782B3C1E881F041C633BEE10617297E9B52B8" name="bg-undercellar_ruins_n.trx" dlsize="1226486" size="1260353" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A1459AAA437419C2DA830DFB6A55D143E093CF54" downloadHash="D49AD9A1A3E728A83E3A63780A87B2E3D397C75C" name="bg-undercellar_ruins_n.trx" dlsize="1226496" size="1260353" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
