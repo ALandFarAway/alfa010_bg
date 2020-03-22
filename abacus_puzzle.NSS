@@ -89,7 +89,7 @@ location lAbacusWay = GetLocation(abacusWay);
 DestroyObject(oAbacusBall);
 CreateObject(OBJECT_TYPE_PLACEABLE, sAbacusBall, lAbacusWay, TRUE);
 	
-//Assign the new concated value to abacus value (Note: 2012 is answer)
+//Assign the new concated value to abacus value (Note: 4352 is answer)
 abacus_value = (abacus_value_one*1)+(abacus_value_five*5)+(abacus_value_ten*10)+(abacus_value_hundred*100)+(abacus_value_thousand*1000);
 
 //Set all the global Ints
@@ -100,7 +100,7 @@ SetGlobalInt("abacus_value_hundred", abacus_value_hundred);
 SetGlobalInt("abacus_value_thousand", abacus_value_thousand);
 SetGlobalInt("abacus_value", abacus_value);	
 
-string sDebugString = "You Pressed: "+sAbaId+" now the year is: "+IntToString(abacus_value)+"";
+string sDebugString = "You Pressed: "+sAbaId+" now the number is: "+IntToString(abacus_value)+"";
 FloatingTextStringOnCreature(sDebugString, oPC, TRUE, 2.0f);
 
 if(abacus_value == 4352)

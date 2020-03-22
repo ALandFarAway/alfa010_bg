@@ -1995,7 +1995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="055B7CAAED43BEC06B3BB45557245D4259F30B83" downloadHash="AA20660F346AA52B27F8458F141B7E77EC8C1CCA" name="bg-undercellar_ruins_s2.trx" dlsize="263510" size="266714" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B3E5DDC6463CDA364FF34ABA0B11D1CC654CE54E" downloadHash="655CA61C4B28C9D3822C272E368155B6AF04A6E6" name="bg-undercellar_ruins_s2.trx" dlsize="263773" size="267151" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
