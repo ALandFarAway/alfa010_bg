@@ -37,7 +37,7 @@ void DestroyItems(object oTarget,string sItem,int nNumItems,int gold,int xp)
         oItem = GetNextItemInInventory(oTarget);
     }
 
-    ACR_AwardStaticQuestXP(oTarget,"Collected: ExoticPelts "+sItem, Gxp, cr); 
+    ACR_AwardStaticQuestXP(oTarget,"Collected: ExoticItems "+sItem, Gxp, cr); 
 }
 
 
@@ -69,14 +69,17 @@ void main(string sItemTag)
 	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_plot_hide_gorgon" ));
     DestroyItems( oPC,"it_plot_hide_gorgon",nTotalItem,50,40 );
 	
-//	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_plot_hide_weasel" ));
-   // DestroyItems( oPC,"it_plot_hide_weasel",nTotalItem,1,1 );
+	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_misc_ankheg_acid_gland" ));
+    DestroyItems( oPC,"it_misc_ankheg_acid_gland",nTotalItem,2,1 );
 	
-//	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_plot_hide_wolf" ));
-  //  DestroyItems( oPC,"it_plot_hide_wolf",nTotalItem,5,3 );	
+	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_plot_beetle_fire" ));
+    DestroyItems( oPC,"it_plot_beetle_fire",nTotalItem,2,1 );	
 	
-//	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_plot_hide_wolverine" ));
-   // DestroyItems( oPC,"it_plot_hide_wolverine",nTotalItem,3,2 );	
+	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_qst_bomb_beetle_gland" ));
+    DestroyItems( oPC,"it_qst_bomb_beetle_gland",nTotalItem,2,1 );	
+	
+	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_qst_stag_beetle_horn" ));
+    DestroyItems( oPC,"it_qst_stag_beetle_horn",nTotalItem,3,2 );
 	
 	GiveGoldToCreature(oPC,Ggold);
 }

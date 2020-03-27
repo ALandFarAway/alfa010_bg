@@ -1,0 +1,12 @@
+//::///////////////////////////////////////////////////////////
+//:: check fountain is locked or deactivated
+//:: author: tax_5-07
+//::///////////////////////////////////////////////////////////
+
+int StartingConditional()
+{
+
+if (GetLocalInt(OBJECT_SELF, "nDeActiviated") != 1) return FALSE;
+
+return TRUE;
+}
