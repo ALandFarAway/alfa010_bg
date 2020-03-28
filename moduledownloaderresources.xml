@@ -380,7 +380,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="59D85515D1DC8F3C21434ADFB1D7B1311DCE8A6C" downloadHash="54E5CCC15C590D2A1BF1781DD8D80FEC993CF77A" name="cloakwood_13_ruins.trx" dlsize="754925" size="761187" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E20DBF9E62FF84CF7A2875ADF546303F7FAA3B33" downloadHash="79F3BD5B962888D558C957CD5BF0803FED302D1E" name="cloakwood_13_ruins.trx" dlsize="749765" size="755947" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -510,7 +510,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5A08BB3EB8EC247C7B3BDDC9BAA195C7FE65ED69" downloadHash="2F4B845D22C4A2DB29FD07856C8ECC0F7F2DB9F6" name="bg-undercellar_ruins_n.trx" dlsize="1240586" size="1317715" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E254CE782B4091A2D2A5D8848A1EB9058894F784" downloadHash="90CFF3A27F5BD145F1ACE7B542A85D4A4944BE15" name="bg-undercellar_ruins_n.trx" dlsize="1238686" size="1314836" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
