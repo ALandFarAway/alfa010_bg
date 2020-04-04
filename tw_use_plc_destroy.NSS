@@ -25,6 +25,6 @@ void main()
  object oTarget;
 oTarget = OBJECT_SELF;
 
-DelayCommand(180.0, DestroyObject(oTarget, 0.0));
+DelayCommand(300.0, DestroyObject(oTarget, 0.0));
 }
 }
