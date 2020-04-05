@@ -570,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="97E2332BA2AC41C99B28E580D32C26BE41926C23" downloadHash="E3148942A0355B998EA778721A850BC620EEFCD9" name="beregost_shops.trx" dlsize="59873" size="60025" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C8E546EB339BC39D283467930B6E7F88FBC37C0B" downloadHash="543368F07C7883D1F7A130D1401AFA92F75F0E64" name="beregost_shops.trx" dlsize="64906" size="65225" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
