@@ -1595,7 +1595,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B226504EE2D9554A95734F183F4C3E393CF85A24" downloadHash="281CDB501B3D443888D29D5CB10E014E8CFF8060" name="bgcity-eastgate_hc_inn.trx" dlsize="168118" size="169001" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DF707FE5BB2412BB4113F7D5E2F696FBB92643AC" downloadHash="8FDC8D11D8B9B625248406DA2D7A83C1623F8658" name="bgcity-eastgate_hc_inn.trx" dlsize="167888" size="168891" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
