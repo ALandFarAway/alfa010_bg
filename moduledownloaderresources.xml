@@ -400,7 +400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C8195972D1D349C8B90A382FEF5105C95FE2B1A" downloadHash="5790BD504CA22748175DAB81FD46702C0275B37B" name="bgcity-harborwest_ironthrone.trx" dlsize="47536" size="47631" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BFD6C8A15DCEEADC731E0986E62BEA49EE1D61E9" downloadHash="73309DC87D2595B87A5A8C6FFC3AB1C710AC259A" name="bgcity-harborwest_ironthrone.trx" dlsize="46473" size="46562" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -445,7 +445,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="67F3CD76A6B004A13EFAFACBFEB8866EC09A69C2" downloadHash="8B546ABF8DCC225E1EE96113EA9BC4BD79062CFB" name="bgcity-castledist_palace.trx" dlsize="374769" size="380310" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1D99E2EED0E43BA64B9A49F7AF3126AE6F38D335" downloadHash="BEEA033F0211F36BD55464B12AC2088E76530611" name="bgcity-castledist_palace.trx" dlsize="374738" size="380312" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -700,7 +700,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="49DB4C6F1D5CE03AD28B5EEE70213A7F58DE895E" downloadHash="B7A676D567589DB28BC46B56DDCC9149FACB43BF" name="bgcity-eastgate_architect.trx" dlsize="54009" size="96682" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="89F9011AE9DCF1082D9EA9AEE3C8F2E89C95162C" downloadHash="30AA0501D85E755A28FCB501AC51618FD0EE6893" name="bgcity-eastgate_architect.trx" dlsize="53700" size="96383" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -795,7 +795,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BC4D6D1DD375D5D4033079BE455C74DD1CD770A9" downloadHash="7FC96F6D7478F789B12B23137502D90536410177" name="candlekeep_lionsway_01.trx" dlsize="4187080" size="16269854" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2A6128D99F074D4E5AE614D6871A3D233F82B456" downloadHash="67A600C29CFC139CEE51A85EC6F4AB0BBCD7E84B" name="candlekeep_lionsway_01.trx" dlsize="4172993" size="16267104" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1005,7 +1005,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D8973EAE073AAE08E980433343B490E6A774BF6" downloadHash="BF43F592E8B6A0D4B63533D4AB939FC9DE439E97" name="sharpteeth_04a_01.trx" dlsize="443052" size="458276" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B2DB5BD53A7694773541A0D0BA3BD64665C5AB71" downloadHash="D74E861AA68B53F09E6529A461788F43D3244463" name="sharpteeth_04a_01.trx" dlsize="512094" size="6479973" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1285,7 +1285,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="02A27453DEDD83C3E4828BECC228DAE05061931B" downloadHash="1FB71664217B77FE9CB3E8BE172AC325981AC042" name="bgcity-upperwest_ragefast.trx" dlsize="56351" size="56441" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F83F296401879F4AC6015E05F7913D50F86F54D5" downloadHash="1CC4CAB1B1EAE88C345677D935DDC3D865D54B8A" name="bgcity-upperwest_ragefast.trx" dlsize="55933" size="56022" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1595,7 +1595,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DF707FE5BB2412BB4113F7D5E2F696FBB92643AC" downloadHash="8FDC8D11D8B9B625248406DA2D7A83C1623F8658" name="bgcity-eastgate_hc_inn.trx" dlsize="167888" size="168891" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5FC950C49C0A147D71E27DA2A71B250FB4771A9D" downloadHash="9A0A2BBFBDF57A8CD8838D8B6C909875A13A9B20" name="bgcity-eastgate_hc_inn.trx" dlsize="168743" size="169639" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1740,7 +1740,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="96C81FB218E2F9CF5593D94E8F1DD42A0DA47FCC" downloadHash="43E0BBD839C1877AE3CC6E9D2ACD690230E4234F" name="sharpteeth_06_lg_lake.trx" dlsize="2942617" size="18477003" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AB56C1EBEA39A52B9953D8A0A58C7F4EACC397DA" downloadHash="3560D723585BA6835F6CDDB9203C759F35610FCD" name="sharpteeth_06_lg_lake.trx" dlsize="2946511" size="18479691" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
