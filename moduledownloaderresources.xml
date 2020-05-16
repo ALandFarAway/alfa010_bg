@@ -765,7 +765,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A18AA5EB762B950837659C43F6729492ADDEFEB4" downloadHash="15B03CED7B4DF2F771D18CB688E5DA3A3FD462FC" name="bgcity-harboreast.trx" dlsize="2499086" size="11944021" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="017C142050DF744D671C6E2F7998A9615F60A945" downloadHash="5224F619B7F0398935FE30C898DFD4DE23113DFF" name="bgcity-harboreast.trx" dlsize="2497708" size="11940984" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1120,7 +1120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0D8E68E99D025035481350AF137D3D1539C69DCC" downloadHash="29F68AF53B5B8392751EE86319199F3A63C962F1" name="bg-sewers-harbor_east.trx" dlsize="439891" size="5735462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FF543F240E4E7C81CCA8E0AC4691EEBC0BF79753" downloadHash="3D42F782563581525D73801D05CF54CE0BE38C23" name="bg-sewers-harbor_east.trx" dlsize="422468" size="5734060" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
