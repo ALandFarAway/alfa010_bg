@@ -2016,7 +2016,7 @@
   </resource>
   <resource type="Hak" hash="05F506888D5150401A6ABE8B2DDFB6451ECF265F" downloadHash="E7AD17556A387AC50813EC47EFE094C83DC758D3" name="alfa_fx.hak" dlsize="82510954" size="212875427" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2024,7 +2024,7 @@
   </resource>
   <resource type="Hak" hash="9C81FCC3D3EA50DE944312A937C0B5F99D4D5A6B" downloadHash="4B2D324B9A0EDB257F42AD6D89DB3E8A899DB89A" name="alfa2_gui.hak" dlsize="10140411" size="43273548" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2040,7 +2040,7 @@
   </resource>
   <resource type="Hak" hash="D271A0523F46A205164034C810D50728749F1F5D" downloadHash="CB9ED6DFB19DC73496329C77F8E25D22889D88BF" name="alfa_placeables.hak" dlsize="493083890" size="1654074358" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2080,7 +2080,7 @@
   </resource>
   <resource type="Hak" hash="0A4FF59E20FAEEE5FAFBD33371D62AEAAE0F354C" downloadHash="D8B339BDF603E1786F5C23A7EAEE61400952EFE1" name="alfa2_pr.hak" dlsize="19614673" size="306758259" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2088,7 +2088,7 @@
   </resource>
   <resource type="Hak" hash="184AB73D239BBC8BC47D36753C78F8777556F27F" downloadHash="DE05744EB437DEC97A2C9ED159E54F4C96DF8EBE" name="alfa2_templates.hak" dlsize="192709" size="8692869" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2096,7 +2096,7 @@
   </resource>
   <resource type="Hak" hash="5EBBB068F4F747E9FF3D4735D3504992F71305ED" downloadHash="77605DB07DA9C212618B486F0FF583EFFEFE9C94" name="alfa_creatures.hak" dlsize="321464157" size="1640696782" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2104,7 +2104,7 @@
   </resource>
   <resource type="Hak" hash="FE674B4F4E69B2B3CD42FF2432D63B46735A8DFD" downloadHash="0CDEA084260B3C3CF8764F659173A276C304DB81" name="alfa_creatures2.hak" dlsize="412970904" size="1498528994" critical="false" exclude="false" urlOverride="">
     <server-ref>
-    <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2117,7 +2117,7 @@
   </resource>
   <resource type="Hak" hash="F4C1C5C8ADC919A7044295713C981C4738816BB8" downloadHash="8F2B5B3FA89CAEB2E190B5EB085218C3D7118557" name="alfa_fx2.hak" dlsize="100038136" size="148214519" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2125,7 +2125,7 @@
   </resource>
   <resource type="Hak" hash="49E07B8B65238E8F6D63322FADED68EE8BB197AA" downloadHash="E318B54E945C14F63E1D02D0492CA4EFD9A8B0EC" name="alfa_items2.hak" dlsize="286085829" size="1045851864" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2133,7 +2133,7 @@
   </resource>
   <resource type="Hak" hash="D3926B5258E62852F697B758AB01A908718F20AD" downloadHash="027F85203DDEBE2016FD1AC4D0F6E75A363B3EF1" name="alfa_placeables3.hak" dlsize="341027303" size="1815794338" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2141,7 +2141,7 @@
   </resource>
   <resource type="Hak" hash="9B58C82B541A73B348A7A5BC1E718CC40D67EB09" downloadHash="A126E0B42BBE418EB5A250EEB3AA525642E959B6" name="alfa_placeables4.hak" dlsize="83272897" size="280339642" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>0</string>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
