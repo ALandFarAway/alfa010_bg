@@ -420,7 +420,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A469321C031B3A839AF7D46210DF66222C794A72" downloadHash="887EC3DF253874ECABD2E55A51FD066748DA02E5" name="und_t2_throrgar_top_west.trx" dlsize="807020" size="4135819" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="543DBEA4986C1A5C49FB881CFC75CDEE77FB6526" downloadHash="291BA0E223534A3A7E08E91D01BF06EB3DF60E7C" name="und_t2_throrgar_top_west.trx" dlsize="810826" size="4135866" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -800,7 +800,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9BD6FE4C6390BA4641B9F52EEBC4AAE985F0769C" downloadHash="111EE31BF39B439A1EBCADB94E8A94F2DDE27ED2" name="und_t1_throrgar_canyon.trx" dlsize="3140423" size="15990140" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CD735E7FEDDE9B421043C527FC69C6E042DE28E1" downloadHash="5FA3FEFAAF0902F6FCDF068C20EEFC0F6A24495F" name="und_t1_throrgar_canyon.trx" dlsize="3128242" size="15984429" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1420,7 +1420,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="76DB34E8613FC1EF01457C66D6AD22D25949A02B" downloadHash="A9DAC40A902E63A4653186FFC57FF4641876A5E6" name="und_t3_throrgar_top_center.trx" dlsize="799400" size="855486" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C41C8EEC210ECA9E9B17D56546F2152F0D023A2A" downloadHash="6CE326D09ADA3D6F16048B857156F788036BD8E6" name="und_t3_throrgar_top_center.trx" dlsize="792717" size="847240" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
