@@ -11,7 +11,7 @@ void main()
         ClearAllActions();
 
         // Slow the Animation down to half speed..
-        PlayCustomAnimation(oPC, "Smoking", 0, 0.5f);
+        PlayCustomAnimation(oPC, "Smoking", 0, 0.25f);
 
         effect eSmoke = EffectNWN2SpecialEffectFile("fx_smoking_exhale");
 
