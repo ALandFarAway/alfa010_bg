@@ -55,13 +55,13 @@ void main() {
 		case 0:
 			switch(Random(14)) {
 				case 0:
-					spawn_group("skeletons_low");
+					spawn_group("skeletons_guards");
             		break;
 				case 1:
-            		spawn_group("spiders_small");
+            		spawn_group("spiders_medium");
             		break;
 				case 2:
-		            spawn_group("zombies_low");
+		            spawn_group("zombies_elite");
 		            break;
 				case 3:
 				case 4:
@@ -98,7 +98,7 @@ void main() {
 					spawn_group("constructs");
 					break;
 				case 1:
-					spawn_group("shadows_low");
+					spawn_group("shadows_med");
 					break;
 				case 2:
 				case 3:

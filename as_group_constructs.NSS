@@ -53,7 +53,7 @@ void main() {
 		
 	spawn_placeable("phat_lewt_corpse_male",0.1);
 
-	switch(Random(12)) {
+	switch(Random(15)) {
 		case 0:
 			spawn_hostile_npc("abr_cr_cn_niblewright");
 			break;
@@ -124,5 +124,18 @@ void main() {
 		case 11:
 			spawn_hostile_npc("abr_cr_cn_stainedglassgolem");
 			break;
+		case 12:
+			spawn_hostile_npc("010_con_scaladar");
+			spawn_hostile_npc("010_con_scaladar");
+			break;
+		case 13:
+			spawn_hostile_npc("abr_cr_cn_platinumhorror2");
+			spawn_hostile_npc("abr_cr_cn_platinumhorror2");
+			spawn_hostile_npc("abr_cr_cn_platinumhorror2");
+			break;
+		case 14:
+			spawn_hostile_npc("009_cr_con_golem_alchem");
+			break;	
+		
 	}
 }

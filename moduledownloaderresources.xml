@@ -55,7 +55,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A6E8FBA4144449D39971BEFCCFF3FCF8E21B09CF" downloadHash="CC20B2CD7E9B746C45C9BE46B62FF01027966A76" name="und_z3_tunnels1.trx" dlsize="410029" size="821631" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D95816F5A28E7D42FE44052A0ED74739869E87F3" downloadHash="3D74D133324BD78361C1C06A3E7BCB84C055CEE3" name="und_z3_tunnels1.trx" dlsize="459939" size="870961" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -145,7 +145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A0CEEAF8CF206FFD52D3318B4257FD7265ABA6DC" downloadHash="7564EA8F83B104778B1A03D932087A493FC4E2DA" name="cloakwood_12_cave0.trx" dlsize="246937" size="5689284" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="40660A5D5B0C4BBD9CB1DFD7EF1A032A332F766E" downloadHash="2D7F384A08108E5018E125B94E16E09EEA99987E" name="cloakwood_12_cave0.trx" dlsize="252614" size="5691947" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -995,7 +995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2706E5EBF3D890180E38BC37384F53397FD4D3D6" downloadHash="F1A91A6630FE5718AF2CDFFA21E0AF4257E43FA8" name="cloakwood_12_cave1.trx" dlsize="2384352" size="2455121" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="59D19E9B92C5A6F6A4EF3D985CB626DC9349868F" downloadHash="20FA9646F828F9AB32BB8C34D50C4A548B3BC00A" name="cloakwood_12_cave1.trx" dlsize="2382728" size="2455747" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2160,6 +2160,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7F7B0411299C5FE0F32BB5B54307D419B93DF784" downloadHash="D6ECD2C31971AA3043FD384C34628E1CF4F5C023" name="fx_stars_fx1.PFX" dlsize="556" size="1544" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="11181463E9FFD84346DD54EBD86840BA1681D5A0" downloadHash="0FE9C4BD9141F000DA09CB5A85AE5D3D03592E51" name="cloakwood_12_ext_cave.trx" dlsize="3990615" size="21244890" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

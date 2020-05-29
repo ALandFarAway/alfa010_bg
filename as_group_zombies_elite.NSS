@@ -51,49 +51,49 @@ void main() {
 
 	switch(Random(4)) {
         case 0:
-            ACR_SpawnObject("abr_cr_un_skeleton01", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_footknight01", OBJECT_TYPE_CREATURE);
             break;
         case 1:
-            ACR_SpawnObject("abr_cr_un_skeleton02", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_footknight02", OBJECT_TYPE_CREATURE);
             break;
         case 2:
-            ACR_SpawnObject("abr_cr_un_skeleton03", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_footknight03", OBJECT_TYPE_CREATURE);
             break;
         case 3:
-            ACR_SpawnObject("abr_cr_un_skeleton04", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_footknight04", OBJECT_TYPE_CREATURE);
             break;}			
 	
 
 	switch(Random(4)) {
         case 0:
-            ACR_SpawnObject("abr_cr_un_skeleton_patrol01", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_warrior01", OBJECT_TYPE_CREATURE);
             break;
         case 1:
-            ACR_SpawnObject("abr_cr_un_skeleton_patrol02", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_warrior02", OBJECT_TYPE_CREATURE);
             break;
         case 2:
-            ACR_SpawnObject("abr_cr_un_skeleton_patrol03", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_warrior03", OBJECT_TYPE_CREATURE);
             break;
         case 3:
-            ACR_SpawnObject("abr_cr_un_skeleton_patrol04", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_warrior04", OBJECT_TYPE_CREATURE);
             break;}			
 	
 	
 	switch(Random(5)) {
         case 0:
-            ACR_SpawnObject("abr_cr_un_skeleton_dwarf", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_soldier01", OBJECT_TYPE_CREATURE);
             break;
         case 1:
-           ACR_SpawnObject("abr_cr_un_skeleton_elf", OBJECT_TYPE_CREATURE);
+           ACR_SpawnObject("abr_cr_un_zombie_soldier02", OBJECT_TYPE_CREATURE);
             break;
         case 2:
-            ACR_SpawnObject("abr_cr_un_skeleton_gnome", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_soldier03", OBJECT_TYPE_CREATURE);
             break;
         case 3:
-            ACR_SpawnObject("abr_cr_un_skeleton_halforc", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_barbarian", OBJECT_TYPE_CREATURE);
             break;
 		case 4:
-            ACR_SpawnObject("abr_cr_un_skeleton_halfling", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_un_zombie_ranger", OBJECT_TYPE_CREATURE);
             break;
 			}	
     
