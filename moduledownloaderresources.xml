@@ -55,7 +55,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D95816F5A28E7D42FE44052A0ED74739869E87F3" downloadHash="3D74D133324BD78361C1C06A3E7BCB84C055CEE3" name="und_z3_tunnels1.trx" dlsize="459939" size="870961" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="21DD0B7FE0D0421C6AB68D2B369D299FDBED5C84" downloadHash="81875FF9220FD2710526356C3BC68F3AB0FEE8E8" name="und_z3_tunnels1.trx" dlsize="484115" size="759872" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -420,7 +420,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="543DBEA4986C1A5C49FB881CFC75CDEE77FB6526" downloadHash="291BA0E223534A3A7E08E91D01BF06EB3DF60E7C" name="und_t2_throrgar_top_west.trx" dlsize="810826" size="4135866" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="18810E7B15AA9E8E9E9F1B338D608DEFEB4A03ED" downloadHash="E5C5D90DFC5559575587AE1DE197B8BC83FEDEE2" name="und_t2_throrgar_top_west.trx" dlsize="807476" size="4135868" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -800,7 +800,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CD735E7FEDDE9B421043C527FC69C6E042DE28E1" downloadHash="5FA3FEFAAF0902F6FCDF068C20EEFC0F6A24495F" name="und_t1_throrgar_canyon.trx" dlsize="3128242" size="15984429" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="229C7AA55BB8DFAC29C115454C3CB7EFAA066338" downloadHash="E03E10A0A4707E2A55DD9D820274DD6988641F6A" name="und_t1_throrgar_canyon.trx" dlsize="3136054" size="15978022" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -830,7 +830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1727C58019033FDD67845035658551524AF3B984" downloadHash="5709FC1E0F991156B3EA1B30D6A6208C32BE2B57" name="und_z3_tunnels0.trx" dlsize="507226" size="519952" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="22DFE0E4CD819A964FB560BA2513BCF3F6C0DC57" downloadHash="2AF8922DCF01FC886A65F5948C5734FAF2476DC4" name="und_z3_tunnels0.trx" dlsize="563518" size="576000" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -890,7 +890,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5716CA6B358E45FB4E84AD841B002370718E2F79" downloadHash="5E69424191D7608AE380254BDBF2046BE07E786B" name="und_z3_crossroad.trx" dlsize="247761" size="255530" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C8205A6EAEDAA0E8D3E1C14E834CC73AA054FF9D" downloadHash="5427E8CD4271DDBC34006C60FC8B0D6B55D9DD2C" name="und_z3_crossroad.trx" dlsize="304922" size="311725" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

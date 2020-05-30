@@ -65,7 +65,7 @@ void main()
 
  if(GetLocalInt(oPC, "ColdRep") == 0)
 		{SetLocalInt(oPC, "ColdRep", 1);
-		 DelayCommand(61.0, ExecuteScript("slv_static_voice_cr_pc", oPC));
+		 //DelayCommand(61.0, ExecuteScript("slv_static_voice_cr_pc", oPC));
 		}
 	   
 }
