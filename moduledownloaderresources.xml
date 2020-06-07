@@ -1260,7 +1260,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="704A4969F32F9E909DDBB1615309A2E7B67B1791" downloadHash="820FD36C3D545DFC860E27D2C21347BBE94CC4D2" name="und_n8_underway.trx" dlsize="1308027" size="11587986" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CE0351679A2718E45EDBBD38BDD300CD5AEC665F" downloadHash="F896E7939B65DA7007B8DA537DE7E510C1A09C94" name="und_n8_underway.trx" dlsize="1346687" size="11625167" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1445,7 +1445,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B878D0E76C5B983DD58D3C321DD6DB5E9C66C75" downloadHash="CF410A850DB02F7608F13354C97FD6454F6D5447" name="und_z2_underway.trx" dlsize="127277" size="128406" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="42340DD05FA600C3D24D502EF106EA3ACB66377F" downloadHash="148D9CC2C4A48C6F6EC6298AF48A577B626C56E0" name="und_z2_underway.trx" dlsize="189292" size="190516" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
