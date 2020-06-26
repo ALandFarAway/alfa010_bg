@@ -416,7 +416,7 @@ string generate_gnome_name(int female,int last)
 				str += "Hand";
 				break;
 			case 10:
-				str += "Heart";
+				str += "Flower";
 				break;
 			case 11:
 				str += "Heart";
@@ -431,7 +431,7 @@ string generate_gnome_name(int female,int last)
 				str += "Skin";
 				break;
 			case 15:
-				str += "Srider";
+				str += "Strider";
 				break;
 			case 16:
 				str += "Wanderer";
