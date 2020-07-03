@@ -15,7 +15,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="290B6CB1EE36614CB1B02893BCB86A44443B63D0" downloadHash="48F1D89C74A289E136B8BE127372CDE82481C3E7" name="acr_010_quarantine.trx" dlsize="29051" size="29543" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C08908F1E815EB4933BD4C6CF9428545EEEFA4B6" downloadHash="54FE6691EABBAC49987F6CFC34AFE21335F6AFBA" name="acr_010_quarantine.trx" dlsize="29052" size="29545" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -65,7 +65,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="327D66C128AC0D8518B7A6192A92CC454DF30D5C" downloadHash="3DBA7CF02F1F3F8FF63B911E0C87FFB1493E8498" name="bgcity-eastgate ext.trx" dlsize="2613134" size="9563283" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F137B9470EFA1322ACDB4908A7BA27349F4EF5E1" downloadHash="F993D4C7CF43B6DB2ED73727A7F33E7200C4D45F" name="bgcity-eastgate ext.trx" dlsize="2604332" size="9561943" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -435,7 +435,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7B1795CC4E5F1382F7E1962A8E83FD9215D35E71" downloadHash="28B7C0F9D88B2323B83160D0972503EB7B7CC617" name="tradeway_s_01_eastgate.trx" dlsize="2304035" size="13757496" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FB0EC2A5B9DD97AB3E6BB79507185D2A8212BE3F" downloadHash="77B1D16FC2AFA4DF55B389B1B4066755AADD45C8" name="tradeway_s_01_eastgate.trx" dlsize="2274382" size="13728896" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
