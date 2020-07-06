@@ -24,7 +24,7 @@ void main()
 		// 1/2 probability of no check 1/2 of simple check
 		nHeal = (Random(2)*2)-1;
 		nSurv = (Random(2)*2)-1;
-		sMsg = "This mushroom looks useful, but it seems to delicate to harvest.";
+		sMsg = "This mushroom looks useful, but it seems too delicate to harvest.";
 		sRef = "it_garnishcap";
 	}
 	else if (sTag == "010_herb_shroom2") {
