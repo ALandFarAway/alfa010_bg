@@ -11,31 +11,25 @@
 
 
 #include "acr_spells_i"
+#include "x0_i0_spells"
 
+//
 void main()
 {
-    object oTarget = GetSpellTargetObject();
-    int nHitDice = GetHitDice(OBJECT_SELF);
+    SendMessageToPC(GetFirstPC(FALSE), "x0_s1_petrbreath"); // kL_add.
 
+    object oCaster = OBJECT_SELF;
 
-    location lTargetLocation = GetSpellTargetLocation();
+    int iDuration = GetHitDice(oCaster);
+    int iSpellId  = GetSpellId();
 
-    //Get first target in spell area
-    oTarget = GetFirstObjectInShape(SHAPE_SPELLCONE, 11.0, lTargetLocation, TRUE);
-    while(GetIsObjectValid(oTarget))
+    location lSpell = GetSpellTargetLocation();
+    object oTarget = GetFirstObjectInShape(SHAPE_SPELLCONE, 11.f, lSpell, TRUE);
+    while (GetIsObjectValid(oTarget))
     {
-        float fDelay = GetDistanceBetween(OBJECT_SELF, oTarget)/20;
-        int nSpellID = GetSpellId();
-        object oSelf = OBJECT_SELF;
-        DelayCommand(fDelay,  DoPetrification(nHitDice, oSelf, oTarget, nSpellID, 17));
+        float fDelay = GetDistanceToObject(oTarget) / 20;
+        DelayCommand(fDelay, DoPetrification(iDuration, oCaster, oTarget, iSpellId, 17));
 
-        //Get next target in spell area
-        oTarget = GetNextObjectInShape(SHAPE_SPELLCONE, 11.0, lTargetLocation, TRUE);
+        oTarget = GetNextObjectInShape(SHAPE_SPELLCONE, 11.f, lSpell, TRUE);
     }
-
-
-
 }
-
-
-
