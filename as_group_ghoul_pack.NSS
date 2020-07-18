@@ -1,29 +1,32 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
-//  System Name : ACR Configuration File
-//     Filename : acf_trg_onenter.nss
-//    $Revision:: 236        $ current version of the file
-//        $Date:: 2007-01-21#$ date the file was created or modified
-//       Author : Cipher
-//
-//    Var Prefix:
-//  Dependencies:
+//  System Name : ACR Spawn System
+//     Filename : as_group_complex.nss
+//      Version : 1.3
+//         Date : 2007-4-24
+//       Author : Ronan
 //
 //  Description
-//  This script calls the ACR's OnEnter code for triggers, and any
-//  custom code a server may need. It is not updated in ACR updates.
+//  This is a complex example of a spawn group script which is used by the ACR's
+//  spawn system. Though the name of the script is "as_group_complex", the spawn
+//  point which uses this script would simply have "complex" listed as a spawn
+//  group name, since the "as_group_" is always added on to the beginning. This
+//  example is intended for people familiar with programming. For a simpler
+//  example, see the script as_group_example.
 //
 //  Revision History
-//  2007/01/20  Cipher  Inception
+//  1.0 2006-09-17: Ronan - Inception
+//  1.1 2007-04-24: AcadiusLost: altered to use ABR resource names.
+//  1.2 2007-04-26: AcadiusLost: switched placables to base-pallete resources
+//  1.3 2007-04-27: AcadiusLost: fixed a typo in placables
 ////////////////////////////////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////////////////////////////////
 // Includes ////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
-#include "acr_trigger_i"
-#include "acr_quest_i"
 
-
+// This line is required on all spawn group scripts.
+#include "acr_spawn_i"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -41,17 +44,18 @@
 // Function Prototypes /////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
+// This is the main function, which is what the spawn system runs when this
+// spawn group is spawned.
+void main();
+
 ////////////////////////////////////////////////////////////////////////////////
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-void main()
-{
-    ACR_TriggerOnEnter();
-	object oEnterer = GetEnteringObject();
-
-    // Custom code goes here.
+// Created by Riotnrrd for ALFA 4/2012
+void main() {
+	int nGhouls = d6() + 6;
+	int i;
 	
-	object oCreature = GetNearestCreature(CREATURE_TYPE_RACIAL_TYPE, RACIAL_TYPE_CONSTRUCT, OBJECT_SELF, 1);
-	ChangeToStandardFaction(oCreature, STANDARD_FACTION_HOSTILE);
+	for (i = 0; i < nGhouls; i++) ACR_SpawnObject("abr_cr_un_ghoul", OBJECT_TYPE_CREATURE);
 }

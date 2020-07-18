@@ -21,6 +21,6 @@ void main() {
 	int nHistory = GetSkillRank(SKILL_KNOWLEDGE_ARCANA, oPC) + nRoll;
 	
 	if(nArcana >= nDC || nHistory >= nDC)
-		SendMessageToPC(oPC, "The flowing runes in front of you appear to be written in Hammerfae, the script of elvish high magic.");
+		SendMessageToPC(oPC, "The flowing runes in front of you appear to be written in Hammerfae, the script of elvish high magic. They warn of danger ahead.");
 	else SendMessageToPC(oPC, "The flowing, elegant runes in front of you are not written in any alphabet you've encountered before.");
 }
