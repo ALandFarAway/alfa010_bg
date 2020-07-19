@@ -9,9 +9,10 @@
 //::///////////////////////////////////////////////////
 
 
-
-#include "acr_spells_i"
 #include "x0_i0_spells"
+#include "acr_creature_i"
+#include "acr_spells_i"
+//#include "x0_i0_spells"
 
 //
 void main()
