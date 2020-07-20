@@ -17,7 +17,7 @@
 //
 void main()
 {
-    SendMessageToPC(GetFirstPC(FALSE), "x0_s1_petrbreath"); // kL_add.
+    //SendMessageToPC(GetFirstPC(FALSE), "x0_s1_petrbreath"); // kL_add.
 
     object oCaster = OBJECT_SELF;
 

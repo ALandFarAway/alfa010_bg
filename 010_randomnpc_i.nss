@@ -129,32 +129,32 @@ void RandomizeNPCClothing(object oNPC = OBJECT_SELF)
 	rCloth=Random(20)+1;
 	rBoots=Random(10)+1;
 	
-	//create clothing
+	//create clothing  ALFA_Clothing|Random - Do Not Delete
 	switch (rCloth)
 		{
-		case 1:sArmType="010_it_clothcom";break;
-		case 2:sArmType="010_it_clothcom0";break;
-		case 3:sArmType="010_it_clothcom1";break;
-		case 4:sArmType="010_it_clothcom2";break;
-		case 5:sArmType="010_it_clothcom3";break;
-		case 6:sArmType="010_it_clothcomb";break;
-		case 7:sArmType="010_it_clothcomb0";break;
-		case 8:sArmType="010_it_clothcomb1";break;
-		case 9:sArmType="010_it_clothcomb2";break;
-		case 10:sArmType="010_it_clothcomb3";break;
-		case 11:sArmType="010_it_clothcomb4";break;
-		case 12:sArmType="010_it_clothcomb5";break;
-		case 13:sArmType="010_it_clothcomc";break;
-		case 14:sArmType="010_it_clothcomc0";break;
-		case 15:sArmType="010_it_clothcomc1";break;
-		case 16:sArmType="010_it_clothcomc2";break;
-		case 17:sArmType="010_it_clothcomc3";break;
-		case 18:sArmType="010_it_clothcomd";break;
-		case 19:sArmType="010_it_clothcomd0";break;
-		case 20:sArmType="010_it_clothcomd1";break;
+		case 1:sArmType="abr_it_clx_thayrobe";break;//
+		case 2:sArmType="aca_it_ar_cloth05";break;//
+		case 3:sArmType="10_it_arm_l_gr_140";break;//
+		case 4:sArmType="10_it_arm_l_gr_140";break;//
+		case 5:sArmType="09_it_cloth_u_travellers10";break;//
+		case 6:sArmType="010_it_clothcomb";break;//
+		case 7:sArmType="010_it_clothcomb0";break;//
+		case 8:sArmType="010_it_clothcomb1";break;//
+		case 9:sArmType="010_it_clothcomb2";break;//
+		case 10:sArmType="010_it_clothcomb3";break;//
+		case 11:sArmType="010_it_clothcomb4";break;//
+		case 12:sArmType="010_it_clothcomb5";break;//
+		case 13:sArmType="09_it_cloth_u_galictunic1";break;//
+		case 14:sArmType="010_it_clothcomc0";break;//
+		case 15:sArmType="nw_cloth0120";break;//
+		case 16:sArmType="09_it_cloth_u_noble_garb";break;//
+		case 17:sArmType="abr_it_clx_clothlegs";break;//
+		case 18:sArmType="010_it_clothcomd";break;//
+		case 19:sArmType="010_it_clothmida2";break;//
+		case 20:sArmType="09_it_cloth_u_travellers1";break;//
 		}
 	object oArmour=CreateItemOnObject(sArmType);
-	//create boots
+	//create boots   ALFA_Boot|Random - Do NOT Delete
 	switch (rBoots)
 		{
 		case 1:sBootType="010_it_boots";break;
@@ -380,12 +380,37 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 				case 23:
 					sResRef="010_cr_comm_human_m11";
 					break;
+					}
+			break;
+     	case RACIAL_TYPE_HALFELF:
+			switch (Random(7)) {
+				case 0:
+					switch (Random(6)) {
+						case 0:
+							sResRef="abr_cr_HalfElfExpertM";
+							break;
+						case 1:
+							sResRef="abr_cr_HalfElfExpertF";
+							break;
+						case 2:
+							sResRef="abr_cr_HalfElfWarriorLS";
+							break;
+						case 3:
+							sResRef="abr_cr_HalfElfWarriorLB";
+							break;
+						case 4:
+							sResRef="abr_cr_HalfElfAdeptM";
+							break;
+						case 5:
+							sResRef="abr_cr_HalfElfAdeptF";
+							break;
+					
 		}
 		break;
 	}
 	return sResRef;
 }
-
+}
 void RandomizeNPC_OnSpawnIn( object oSpawn ) {
 	// First check to see if we are calling the random NPC system.
 	if ( GetLocalInt( oSpawn, VAR_RANDOMIZE_NPC ) ) {
