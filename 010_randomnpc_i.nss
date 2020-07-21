@@ -381,36 +381,14 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 					sResRef="010_cr_comm_human_m11";
 					break;
 					}
-			break;
-     	case RACIAL_TYPE_HALFELF:
-			switch (Random(7)) {
-				case 0:
-					switch (Random(6)) {
-						case 0:
-							sResRef="abr_cr_HalfElfExpertM";
-							break;
-						case 1:
-							sResRef="abr_cr_HalfElfExpertF";
-							break;
-						case 2:
-							sResRef="abr_cr_HalfElfWarriorLS";
-							break;
-						case 3:
-							sResRef="abr_cr_HalfElfWarriorLB";
-							break;
-						case 4:
-							sResRef="abr_cr_HalfElfAdeptM";
-							break;
-						case 5:
-							sResRef="abr_cr_HalfElfAdeptF";
-							break;
+	
 					
-		}
+	
 		break;
 	}
 	return sResRef;
 }
-}
+
 void RandomizeNPC_OnSpawnIn( object oSpawn ) {
 	// First check to see if we are calling the random NPC system.
 	if ( GetLocalInt( oSpawn, VAR_RANDOMIZE_NPC ) ) {

@@ -2169,4 +2169,34 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="B6D157BE2EC2AB0867471345ECE7AF0876495FDD" downloadHash="A1526D39C7F2B0843359EAD0BF590E44A0393748" name="nuee_araignees.SEF" dlsize="626" size="3826" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8657BE063EC83DDA9681E365E21BB36ACA58FB07" downloadHash="AC8EA791C336DE85293047E5C8D77AEAB9BAC51F" name="nuee_millepattes.SEF" dlsize="627" size="3830" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D44E8B15167F5F5D7FBF2132FA5ED55B2133F91E" downloadHash="09E99C39DAAD702F253DAD1E76BDCE5C50E13C12" name="nuee_criquets.SEF" dlsize="340" size="1275" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D3F73D5FACFD728CC877FDF96CCDF98D8F8FB111" downloadHash="F637B1B72F591552343F2EDC77D91B7CAAE0EE38" name="nuee_guepesinfernales.SEF" dlsize="349" size="1293" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7A6692F921A17712A98BAC1BF1F7672B006D4A8C" downloadHash="D7800F60D432A84F06D86CB4AD67D3DF16470590" name="z_fx_bats.SEF" dlsize="282" size="704" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7C29A1D7A1B215324894645979F2EB1BE11F3B59" downloadHash="619F6A00A0D7C4EAEF2E4CC5D4956E2206C9F6FD" name="z_fx_bats_small.SEF" dlsize="307" size="1240" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
