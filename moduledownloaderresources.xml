@@ -1400,7 +1400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1E69C7BEE150B8A8EFE9625D00B4DE49C9F47EF1" downloadHash="273674BA2393A7B729A195FB2C97AE0315C964B2" name="tradeway_n_01_hauntedhouse.trx" dlsize="136607" size="137454" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C4942CBD2EA70B005DECE09414D72379CDC0CBE" downloadHash="16A1AA5EBC215DA90CC63628FAC5C92A5871C8AA" name="tradeway_n_01_hauntedhouse.trx" dlsize="170171" size="171665" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
