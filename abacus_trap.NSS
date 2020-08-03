@@ -16,7 +16,7 @@ void main()
 
 int password = GetGlobalInt("abacus_value");
 
-if(password == 2012)
+if(password == 4352)
 {
 	FloatingTextStringOnCreature("You Passed", oPC, TRUE, 3.0f);
 	//SetXP(oPC, GetXP(oPC)+1500);
