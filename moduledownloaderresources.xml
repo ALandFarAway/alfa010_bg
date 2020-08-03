@@ -65,7 +65,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F137B9470EFA1322ACDB4908A7BA27349F4EF5E1" downloadHash="F993D4C7CF43B6DB2ED73727A7F33E7200C4D45F" name="bgcity-eastgate ext.trx" dlsize="2604332" size="9561943" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2E83C6191B3E5A59C11B229C1FFCA1686826423E" downloadHash="203E1A762B13DBB6C96ECA63CBB12D4C332D7E06" name="bgcity-eastgate ext.trx" dlsize="2601210" size="9556316" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7815D823C13F58D05892B968EB61D140B8506765" downloadHash="0F6097FB1AF86743FB79E30C1F0CF3FD654F0BD8" name="bgcity-eastgate_int_shops.trx" dlsize="177226" size="177980" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E65DD40790AFCF01DAD587E041F4CD491E32B142" downloadHash="3A89DC1FE29FFC72D75B92601DAB1F0E2772A2CE" name="bgcity-eastgate_int_shops.trx" dlsize="214957" size="216199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1400,7 +1400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C4942CBD2EA70B005DECE09414D72379CDC0CBE" downloadHash="16A1AA5EBC215DA90CC63628FAC5C92A5871C8AA" name="tradeway_n_01_hauntedhouse.trx" dlsize="170171" size="171665" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E8E5763653E94D677CF88D5F6AF33638537464B2" downloadHash="5E21337DC740BC5066E7A497C5564E27C650B4A7" name="tradeway_n_01_hauntedhouse.trx" dlsize="171052" size="172506" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1450,7 +1450,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EC01EB1E659F51983BD7BE688153EEB375CEF122" downloadHash="3A05A7689DCCAAC079A2D0778AA2884783D1C372" name="tradeway_n_01_dragongate.trx" dlsize="2368149" size="9395463" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="29DD65FD9ACDCBD75C78A7CE3DECE9E1E0C654AA" downloadHash="2192E4D444EEEBC1113599400E9E0C81BC2FFE47" name="tradeway_n_01_dragongate.trx" dlsize="2367423" size="9393005" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
