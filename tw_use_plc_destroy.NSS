@@ -37,11 +37,11 @@ DelayCommand(300.0, DestroyObject(oTarget, 0.0)); // we don't want the secret en
 void main()
 
 {	
-object oTarget;
-oTarget = OBJECT_SELF;
-
-DelayCommand(300.0, DestroyObject(oTarget, 0.0)); // we don't want the secret entry to hang around
-
+//object oTarget;
+//oTarget = OBJECT_SELF;
+object oPLC = OBJECT_SELF;
+//DelayCommand(300.0, DestroyObject(oTarget, 0.0)); // we don't want the secret entry to hang around
+AssignCommand(GetArea(oPLC), DestroyObject(oPLC, 300.0));
 
  {
  object oUser = GetLastUsedBy();
