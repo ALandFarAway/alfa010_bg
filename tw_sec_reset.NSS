@@ -1,5 +1,5 @@
 /* User-defined event script to reset a secret item after a delay of
- * 20 seconds.
+ * 3 minutes.
  */
 
 #include "tw_secret"
@@ -7,6 +7,6 @@
 void main()
 {
     if (GetUserDefinedEventNumber() == EVENT_SECRET_REVEALED) {
-        DelayCommand(60.0, ResetSecretItem());
+        DelayCommand(300.0, ResetSecretItem());
     }
 }

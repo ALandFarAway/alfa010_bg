@@ -55,6 +55,7 @@ DelayCommand(300.0, DestroyObject(oTarget, 0.0)); // we don't want the secret en
 	else 
 	{
 	UseSecretTransport(GetLastUsedBy());
+	SetIsSecretItemOpen(OBJECT_SELF, FALSE);
 	}
 
 }}
