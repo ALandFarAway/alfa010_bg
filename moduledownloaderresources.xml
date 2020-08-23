@@ -1020,7 +1020,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A33C23E8C086B8426E28446486EC7CB8573C0890" downloadHash="AAB4E6A13EF58D5A2C8FD0CBA845306FE733BE21" name="tradeway_n_03_citadel_int.trx" dlsize="406439" size="412408" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AA90CE88144331A988AAEA67E74F0C111CE891F7" downloadHash="FC2D10A02B36854E5663C90F833D7B093322B5BD" name="tradeway_n_03_citadel_int.trx" dlsize="407544" size="412947" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
