@@ -50,7 +50,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A3A350ABB49CAFC6CF2B2928F1FAEBF95C728CAC" downloadHash="780BFC066A69979B7FB860E84BCDA0766218652E" name="candlekeep_lionsway_02_exped.trx" dlsize="95335" size="96171" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="68B5D1EC8C9A5D3E0519F3A91180432FE5751236" downloadHash="94762F3A7BE55FB24DA3FFAE8786193B13B2E98C" name="candlekeep_lionsway_02_exped.trx" dlsize="95883" size="96701" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
