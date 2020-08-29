@@ -2204,4 +2204,19 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="B241BBC126BDD1867B199C2CDB8FB16670446F8F" downloadHash="E8D9DB20F6310FC9F15579D8943E15EF38A49DBD" name="nashkel_pass_05_abandoned_ruin.trx" dlsize="148352" size="149285" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="395BD1835F09C998E1CB7F9809C1578DF2BA86B4" downloadHash="DE12C2FB54C9344576BFAE77F0525D9B353BCEAC" name="nashkel_pass_05_giants.trx" dlsize="4345357" size="16344664" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="58069698D8274CE2141EAF71F9E074B8338FB184" downloadHash="ABABB687B1FCC1E3E15A4089C2180B85F78979DF" name="nashkel_pass_05_kobold_cave.trx" dlsize="366492" size="905329" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
