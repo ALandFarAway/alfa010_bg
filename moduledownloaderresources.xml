@@ -345,7 +345,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="52B8E095E53196FFCCBFA6148A803DDBB2103A0B" downloadHash="A6E4616F4F8DBB1303A1C7BBC5D26B784A669EC2" name="beregost_templeoflathander.trx" dlsize="487420" size="851353" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7987D2090D433B04B1A9855211F4E079117F6144" downloadHash="9097871E55B3B2CA10EA6E9780DB49D7C4998F28" name="beregost_templeoflathander.trx" dlsize="487218" size="850666" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -510,7 +510,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="76F5079E6544B7B5FCB6E2D7286805272FA66B30" downloadHash="2257F125AA7767FE2563DA82C20EF465A96BF00E" name="bg-undercellar_ruins_n.trx" dlsize="1171053" size="1250195" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="42D11FF5E0C150056544EAEAE0DDBD752DEC2D54" downloadHash="2257F125AA7767FE2563DA82C20EF465A96BF00E" name="bg-undercellar_ruins_n.trx" dlsize="1171053" size="1259287" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -740,7 +740,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="31B896EADD9FD0F09D8FF01BAF3C90B39C268D5E" downloadHash="502D7E4A04BA21E29F39F83C606FEDB5D27F00AA" name="tradeway_s_05b_canyon.trx" dlsize="4758693" size="21275693" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C7B21DDB20CA52FCCB335550E88F1185D60898E" downloadHash="63321853F54AE388F21996D601547D5B96EB2F87" name="tradeway_s_05b_canyon.trx" dlsize="4767445" size="21287514" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1120,7 +1120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FF543F240E4E7C81CCA8E0AC4691EEBC0BF79753" downloadHash="3D42F782563581525D73801D05CF54CE0BE38C23" name="bg-sewers-harbor_east.trx" dlsize="422468" size="5734060" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B80E9FAC16ADFA5926E814A45473AB6748107ED3" downloadHash="3D42F782563581525D73801D05CF54CE0BE38C23" name="bg-sewers-harbor_east.trx" dlsize="422468" size="5733226" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1510,7 +1510,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48AABD26BDA24456ACCBD2C547BB0B6E807A9E19" downloadHash="5708E714BBE4872959CCFF3A1F39CD4708BB5EB8" name="bg-undercellar_ruins_s3.trx" dlsize="376129" size="1641126" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E992644E70C975F3BC9EEF2A571B341967B97DEE" downloadHash="5708E714BBE4872959CCFF3A1F39CD4708BB5EB8" name="bg-undercellar_ruins_s3.trx" dlsize="376129" size="1632178" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2006,7 +2006,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-   <resource type="Hak" hash="84A519C8CAF8F5C1F550F026F7EB0B1B05CD289B" downloadHash="8E4976F463D100A833059434D0C3E9612DD299D0" name="alfa2_acr.hak" dlsize="4197744" size="144121858" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="84A519C8CAF8F5C1F550F026F7EB0B1B05CD289B" downloadHash="8E4976F463D100A833059434D0C3E9612DD299D0" name="alfa2_acr.hak" dlsize="4197744" size="144121858" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
@@ -2147,7 +2147,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="21CA371DC74D89E836BC468847633A9C4CA58444" downloadHash="79410121D6CADB771CE14305C778111F0BFCA26E" name="planar_void.trx" dlsize="2239798" size="18920401" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="288EFE945628EB13C0BAB05567D6553F4853EDBB" downloadHash="79410121D6CADB771CE14305C778111F0BFCA26E" name="planar_void.trx" dlsize="2239798" size="19007377" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
