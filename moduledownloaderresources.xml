@@ -2147,7 +2147,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="288EFE945628EB13C0BAB05567D6553F4853EDBB" downloadHash="79410121D6CADB771CE14305C778111F0BFCA26E" name="planar_void.trx" dlsize="2239798" size="19007377" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="42D7FBF74E04B7CC5BB5EBD7FC54813E60117C6B" downloadHash="8DDD2465B6DEEF94CDAED98210EB648BB7DB4AA6" name="planar_void.trx" dlsize="2260626" size="19007548" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
