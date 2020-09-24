@@ -510,7 +510,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="42D11FF5E0C150056544EAEAE0DDBD752DEC2D54" downloadHash="2257F125AA7767FE2563DA82C20EF465A96BF00E" name="bg-undercellar_ruins_n.trx" dlsize="1171053" size="1259287" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6346C18B722EB3DBAAC42A86863DC006ADE93715" downloadHash="42BA66E0771B845C08E52DC4DBBC86CAB2C1DD74" name="bg-undercellar_ruins_n.trx" dlsize="1198305" size="1276005" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1120,7 +1120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B80E9FAC16ADFA5926E814A45473AB6748107ED3" downloadHash="3D42F782563581525D73801D05CF54CE0BE38C23" name="bg-sewers-harbor_east.trx" dlsize="422468" size="5733226" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5F4244C7702A8F46963E8F3926CF837AC711FA57" downloadHash="161F8780C62C10BA23C81DC4A15BC0313352E70D" name="bg-sewers-harbor_east.trx" dlsize="438049" size="5733011" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1510,7 +1510,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E992644E70C975F3BC9EEF2A571B341967B97DEE" downloadHash="5708E714BBE4872959CCFF3A1F39CD4708BB5EB8" name="bg-undercellar_ruins_s3.trx" dlsize="376129" size="1632178" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="30CF37D007D14832419405B687CD1C768B8AA9BA" downloadHash="A8ED870BBD53A9CBE0138D06E4DD6E9FE2ECACC7" name="bg-undercellar_ruins_s3.trx" dlsize="353556" size="1665408" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
