@@ -1450,7 +1450,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EB5F4FD2BE067F0BCC01E85D305C502A52ABF95F" downloadHash="ED688348EB62204B9C7237616F0E2B1E9D7A745F" name="tradeway_n_01_dragongate.trx" dlsize="2856940" size="11390275" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="55C82A319FC10686F07DCCD226E376E10DC3FB4B" downloadHash="14123E6CB436BB39991FD2B00E895CE685D2812D" name="tradeway_n_01_dragongate.trx" dlsize="2948597" size="11486081" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2215,6 +2215,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="58069698D8274CE2141EAF71F9E074B8338FB184" downloadHash="ABABB687B1FCC1E3E15A4089C2180B85F78979DF" name="nashkel_pass_05_kobold_cave.trx" dlsize="366492" size="905329" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9C34388623E05216D558E5580A05417F3D13CD4D" downloadHash="5A7D0A129679365D1082C52B2ECC4DD018444F91" name="_planar_void.trx" dlsize="2287418" size="19028839" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="34243CB35EE4AC255756C689223EFA63FB785F91" downloadHash="0A44F00FEB2E9E57AACC7138ACFD5B24DEFA3DAC" name="candlekeep_wilds_n_2a_cave0_kbld.trx" dlsize="400728" size="5922780" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
