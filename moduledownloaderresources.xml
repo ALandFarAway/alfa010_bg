@@ -55,7 +55,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="21DD0B7FE0D0421C6AB68D2B369D299FDBED5C84" downloadHash="81875FF9220FD2710526356C3BC68F3AB0FEE8E8" name="und_z3_tunnels1.trx" dlsize="484115" size="759872" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0FD03215BA96763116C4E2936D62D70C87230D4E" downloadHash="668BC2A400C5C47608B5D97C6A8515BCF220E139" name="und_z3_tunnels1.trx" dlsize="486500" size="762711" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2219,12 +2219,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C34388623E05216D558E5580A05417F3D13CD4D" downloadHash="5A7D0A129679365D1082C52B2ECC4DD018444F91" name="_planar_void.trx" dlsize="2287418" size="19028839" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9D6C2EE84BC28E03066AA37C6D0D434C62E5C69E" downloadHash="74EC8D758F10ACC9BEA55FAE05313B9FAC6AB2EC" name="_planar_void.trx" dlsize="2288607" size="19026593" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="34243CB35EE4AC255756C689223EFA63FB785F91" downloadHash="0A44F00FEB2E9E57AACC7138ACFD5B24DEFA3DAC" name="candlekeep_wilds_n_2a_cave0_kbld.trx" dlsize="400728" size="5922780" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1B3E768DD07EDBDBEFB53544B0EB9732BCED1AB9" downloadHash="7D2072728DCB7CAFA4F72A531D165D20F63B63FE" name="candlekeep_wilds_n_2a_cave0_kbld.trx" dlsize="398753" size="5922780" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C0BDF6B166E1FC70951234250CB1E8F16DFACF19" downloadHash="19C6E8C3B5FD436E0EA2F2B5D5B5C5D7E1268362" name="_planer_void_int.trx" dlsize="46926" size="47336" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
