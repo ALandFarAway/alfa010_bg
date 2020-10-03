@@ -800,7 +800,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="229C7AA55BB8DFAC29C115454C3CB7EFAA066338" downloadHash="E03E10A0A4707E2A55DD9D820274DD6988641F6A" name="und_t1_throrgar_canyon.trx" dlsize="3136054" size="15978022" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="71369881C7B5689A344B6057488692E7A1E71AA5" downloadHash="101AEBC8A2BFA04B4C641C2D6D8640A965D10CBF" name="und_t1_throrgar_canyon.trx" dlsize="3148834" size="15985259" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1420,7 +1420,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C41C8EEC210ECA9E9B17D56546F2152F0D023A2A" downloadHash="6CE326D09ADA3D6F16048B857156F788036BD8E6" name="und_t3_throrgar_top_center.trx" dlsize="792717" size="847240" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="92B7D137D114D4BCF6415CC21EB71CC13E94EA15" downloadHash="4B2D7581A8E2CCDEE1F9819329B93418CDC300FD" name="und_t3_throrgar_top_center.trx" dlsize="790206" size="845242" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2110,7 +2110,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6BEE9F3BFE0A182780533EDAF7A9F5AD710FECD4" downloadHash="74846CD840559130962B856D0B798897BC3EFCE5" name="bg-undercellar_ruins_s2.trx" dlsize="277461" size="280894" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="68F461F6935C2D60C7EDC53FAF45C0A5E465CBD1" downloadHash="644DED59138ACB853AD90AFE23FB6F57BC6F98CA" name="bg-undercellar_ruins_s2.trx" dlsize="335404" size="339980" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2230,6 +2230,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C0BDF6B166E1FC70951234250CB1E8F16DFACF19" downloadHash="19C6E8C3B5FD436E0EA2F2B5D5B5C5D7E1268362" name="_planer_void_int.trx" dlsize="46926" size="47336" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A428896C124DD0E3C543FDC74BB0DEB9E8500FE1" downloadHash="5A72D02917217FA9857737F0D92C5971C773DB15" name="old_moduledownloaderresources.XML" dlsize="35864" size="216908" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
