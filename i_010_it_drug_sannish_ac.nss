@@ -19,7 +19,7 @@ void drug_primary_effect(object oPC)
 
 void drug_secondary_effect(object oPC)
 {
-	SendMessageToPC(oPC, "A sense of invulnerability washes over you, immunte to pain for a time.");
+	SendMessageToPC(oPC, "A sense of invulnerability washes over you, immune to pain for a time.");
 }
 
 void drug_side_effect(object oPC)

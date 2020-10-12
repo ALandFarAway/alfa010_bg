@@ -2,7 +2,7 @@
 Lilac Soul's NWN Script Generator, v. 2.3
 
 */
-//elixer of Sneaking  /00_it_elixer_sneak/
+//elixer of Sneaking  /00_it_elixer_sneak/1 hour game time
 void main()
 {
 object oPC;
@@ -22,6 +22,7 @@ oTarget = oPC;
 effect eEffect;
 eEffect = EffectSkillIncrease(SKILL_MOVE_SILENTLY, 10);
 
-ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eEffect, oTarget, 3600.0f);
+ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eEffect, oTarget, 780.0f); // 13 min =1 hour game time
+SetLocalInt(oPC, "ELIXIR_SNEAK_TAKEN", 1);
 
 }
