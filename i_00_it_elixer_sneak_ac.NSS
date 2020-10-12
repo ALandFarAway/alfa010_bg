@@ -16,6 +16,7 @@ return;}
 
 oPC = GetItemActivator();
 
+
 object oTarget;
 oTarget = oPC;
 
@@ -23,6 +24,6 @@ effect eEffect;
 eEffect = EffectSkillIncrease(SKILL_MOVE_SILENTLY, 10);
 
 ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eEffect, oTarget, 780.0f); // 13 min =1 hour game time
-SetLocalInt(oPC, "ELIXIR_SNEAK_TAKEN", 1);
+
 
 }
