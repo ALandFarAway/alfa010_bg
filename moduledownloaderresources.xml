@@ -1450,7 +1450,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="55C82A319FC10686F07DCCD226E376E10DC3FB4B" downloadHash="14123E6CB436BB39991FD2B00E895CE685D2812D" name="tradeway_n_01_dragongate.trx" dlsize="2948597" size="11486081" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="303AAE52D41964F0A884910CD861EC54285F271D" downloadHash="601F661982C29ABC5E99212504BBFE799C818C45" name="tradeway_n_01_dragongate.trx" dlsize="2898746" size="11436114" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1510,7 +1510,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="324EAFDE4789ED97D3FFA692CB057575449B3F14" downloadHash="7F8AE77E9BCB98893ED26E1D0950C6CF14896811" name="bg-undercellar_ruins_s3.trx" dlsize="346777" size="1655399" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1866F42A0E76576B02E54650A15DBF6227DC8D6E" downloadHash="F85DE7CB63BDD2FD5E1027375A0FD998FA383EEF" name="bg-undercellar_ruins_s3.trx" dlsize="344725" size="1655382" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2239,7 +2239,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8BE6417F9EE4730B0FF38CB86D7ECAEE394E265E" downloadHash="A0F09CB37EADA9ECE6CB65BB0891E4E7A02C57F3" name="cloakwood_13_ruin.trx" dlsize="1345593" size="9713946" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5F2BEFB18721DC6B201CF7643045E360BC677BD6" downloadHash="1DE48600CD85D832808D314987F1D69D5B886D37" name="cloakwood_13_ruin.trx" dlsize="1365983" size="9728385" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
