@@ -2,7 +2,7 @@
 Lilac Soul's NWN Script Generator, v. 2.3
 
 */
-//elixer of Sneaking
+//elixer of Sneaking  /00_it_elixer_sneak/
 void main()
 {
 object oPC;
