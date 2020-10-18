@@ -17,7 +17,7 @@ void main()//
 
 {
 
-    if(GetLocalInt(oPC, "GetJournalEntry" + sQuestToken) == 1)
+    if(GetLocalInt(oPC, "GetJournalEntry" + sQuestToken) == 2)
 	 {//
  
 int n = 0;//

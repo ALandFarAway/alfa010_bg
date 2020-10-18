@@ -275,7 +275,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="78710AF3D4B19A34B93734CE66AF041495056DFE" downloadHash="B38C2E969673F98630A708741D46BDF18F8CDAFA" name="und_x1_undeadcaves.trx" dlsize="680348" size="6502853" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="34C17BB1CE3383EF56257FFC0C4D1173F7746C11" downloadHash="B9266E2C29B7E95E6A2D3B5ADFCD65FC092AC011" name="und_x1_undeadcaves.trx" dlsize="681738" size="6509855" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1250,7 +1250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A5A28C83D709D3F08CA9730397E888F3488288CE" downloadHash="7F0FE8FCA57432D20A3A4732B9407B6D0657BA66" name="bg-undercellar_ruins.trx" dlsize="1056933" size="1079511" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="76A937F87B25DCBD7F399E45E2584E9BAB77E841" downloadHash="E77A358731758D8D0AC7D0C1BF33DAFDC7231D60" name="bg-undercellar_ruins.trx" dlsize="1062060" size="1084461" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
