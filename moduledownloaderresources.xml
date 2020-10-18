@@ -2244,4 +2244,54 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="2336C9693CDA0B77D6132E7B4BC12090CE5E5731" downloadHash="8BD3A91BB747161F42A214A8F53AFE79BCD90A2F" name="nuee_criquets_fx.PFX" dlsize="556" size="1522" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CA8857614A72719FBC83C1FB57ECCCBED58B7D9C" downloadHash="372514B6E490D32258D65FF13E1E6DC015ED2858" name="nuee_araignees_fx.PFX" dlsize="555" size="1520" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A3458A65886284A3FEC566618594F7757976BFCC" downloadHash="18A5E6F031367244F8AAE050AB09FE9CD8193FE3" name="nuees_sol_fx.PFX" dlsize="544" size="1517" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0BE0F98701F2B51E1A8785E7BFB9CD1FCBF51D7D" downloadHash="1A307B330AAB7EB076FBE5052FE7493004CA56E0" name="nuees_sol.TGA" dlsize="96428" size="289488" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9B8AAFDDA320995154DB9B95F34BD3DE6A153425" downloadHash="30841DFC1DD8A7FD349F56A11D16488A5FFDA684" name="nuee_guepesinfernales_fx.PFX" dlsize="555" size="1517" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="430DCE6AA39CB14C59855CB60DFE0B65E011ACC2" downloadHash="2C7A6F72DBC618D7091651B700504464957B4DFA" name="nuee_millepattes_fx.PFX" dlsize="556" size="1527" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="34E7FED6DE1F2486DF88154EABD06F5A57CE8612" downloadHash="EA591B8246D58477AE11E20F8B894763282EC4E9" name="z_fx_bats_ccv_small.PFX" dlsize="556" size="1531" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="80085DD87E6CB4E5F24E5AF0EDE34A3D6C71CC18" downloadHash="936DB57310E9DD9F0B5A6A3EB35E87181277828C" name="z_fx_bats_cv_small.PFX" dlsize="559" size="1532" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D2438667F4CF49B8A33CE74937AAD43C9F59DA68" downloadHash="66D0D0DCF406982E2035FDC28B8A997FD31EFA9B" name="z_fx_bats.DDS" dlsize="3182" size="32896" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E435DB78B9A11189453DBD044832ABFEE75F28DE" downloadHash="B4A3BA346E04E6F6AAB3A38DCF2D34C5DFD141FD" name="z_fx_bats.PFX" dlsize="560" size="1532" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
