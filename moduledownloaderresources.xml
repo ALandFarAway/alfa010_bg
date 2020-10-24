@@ -1640,7 +1640,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="296F826394562BEED29E2535928AD765BADA7B23" downloadHash="C8DCC62712E21D3097C6BC6F1EB8D0E5141F8C00" name="und_n4_cavern4.trx" dlsize="870392" size="5095250" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D126B8CE6CCCCE0B1C1A069931D3E0A54B0B9154" downloadHash="F868CE79C6F014769429E28023FE8C266725A1C0" name="und_n4_cavern4.trx" dlsize="941659" size="5528386" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
