@@ -735,7 +735,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9896E7BAA911B2ECED041E629C2807158E9E3B4F" downloadHash="BCC59C3E277AB922A930B79C9F568871B1FE8631" name="und_n4_cavern2.trx" dlsize="401865" size="408966" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE39FD9733E801A033E9964898CD20DA484726C1" downloadHash="923A17373C37D1375EDD4E718BAD538B53CF0BA2" name="und_n4_cavern2.trx" dlsize="356655" size="362849" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1485,7 +1485,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A06156819A05FB8D379F4BF4B551C74276629318" downloadHash="A3E247E4D1020EB0B1EE8B2AB38E2F80F83E81F8" name="und_n4_cavern1.trx" dlsize="787746" size="894928" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CFE98FE554EF8CFDC51C4948DC2E445C8C974C83" downloadHash="BA52169B8EA3663F8621C09FFDC737224FB82618" name="und_n4_cavern1.trx" dlsize="820063" size="926779" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1640,7 +1640,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="11D27ED5DCAC5597BAA0B78900B9612E0B74CF9D" downloadHash="D0171FCF434280DE7172B81035C50448E8600039" name="und_n4_cavern4.trx" dlsize="710465" size="4582420" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="296F826394562BEED29E2535928AD765BADA7B23" downloadHash="C8DCC62712E21D3097C6BC6F1EB8D0E5141F8C00" name="und_n4_cavern4.trx" dlsize="870392" size="5095250" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
