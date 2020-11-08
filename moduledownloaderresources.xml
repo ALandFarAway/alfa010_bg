@@ -1020,7 +1020,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="07C66211D678E29D100C48279160C2EEC26B4DC2" downloadHash="576FCDACDA7ECBB21FA270053FE025CFD3A1B98D" name="tradeway_n_03_citadel_int.trx" dlsize="404556" size="410118" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F3E12B4FCAEF514EE5AC562D444412C6DFC1A353" downloadHash="4A0669B6C9953B0024F8A0B3D381053B47236561" name="tradeway_n_03_citadel_int.trx" dlsize="403366" size="409343" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1640,7 +1640,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D14A67DA0D3CDA8995DD9DCCAE25507274DD9922" downloadHash="6A182FCB7A31F5640F0B1EE6B1D3C4E5F0BC4F22" name="und_n4_cavern4.trx" dlsize="1115119" size="5707798" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD618EAC25EC842CC2958A680283E2F721F55452" downloadHash="918BEAFEC56FB47AF02E9587F8B4FD7A5A536B72" name="und_n4_cavern4.trx" dlsize="986502" size="5578418" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
