@@ -7,7 +7,7 @@ object oPC = GetPCSpeaker();
 object oTarget;
 object oTarget2;
 
-oTarget = GetObjectByTag("trdwy_reflection_rm_curtain");
+oTarget = GetObjectByTag("trdwy_reflection_rm_curtain1");
 
 oTarget2 = GetObjectByTag("trdwy_reflection_rm_curtain2");
 
