@@ -9,20 +9,23 @@
 void main()
 {
     object oPC = GetLastSpeaker();
+	
     if(!GetIsObjectValid(oPC))
     {
         return;
     }
-
+    object oClone = GetObjectByTag("reflection");
     effect eSummon = EffectSummonCopy(oPC);
     
-    location lSpawn = GetLocation(GetWaypointByTag("pc_reflection"));
+    location lSpawn = GetLocation(GetWaypointByTag("wp_pc_reflection"));
     
     ApplyEffectAtLocation(DURATION_TYPE_PERMANENT, eSummon, lSpawn);
     
-    object oClone = GetObjectByTag("hostile_reflection");
+    //object oClone = GetObjectByTag("reflection");
     ForceRest(oClone); // for spells if you want, buff after
-    
+    SetLootable(oClone, FALSE);
     ChangeToStandardFaction(oClone, STANDARD_FACTION_HOSTILE);
+	ActionAttack(oPC);
+    DetermineCombatRound(oPC);
 }
 
