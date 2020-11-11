@@ -1020,7 +1020,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F3E12B4FCAEF514EE5AC562D444412C6DFC1A353" downloadHash="4A0669B6C9953B0024F8A0B3D381053B47236561" name="tradeway_n_03_citadel_int.trx" dlsize="403366" size="409343" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C90C3BE9BD025FD60BB641C305C36E0634950CBC" downloadHash="C13ED89FA45F7F3B093428D520D875E3AE5E3303" name="tradeway_n_03_citadel_int.trx" dlsize="400252" size="405841" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1070,7 +1070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7AD262BAB8CA0AD21288E9FF123748F8EF288F94" downloadHash="E767583AF6EE988FF4714788427D01B7AEBE1338" name="sharpteeth_06_cave_a.trx" dlsize="291691" size="1417105" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D76EF0A6AD05AA1D54A598DF99E48BDA72D380B9" downloadHash="95E823FCA037229CCB5B0C3BBF841B4DB84D6BFC" name="sharpteeth_06_cave_a.trx" dlsize="295376" size="1419968" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1250,7 +1250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="76A937F87B25DCBD7F399E45E2584E9BAB77E841" downloadHash="E77A358731758D8D0AC7D0C1BF33DAFDC7231D60" name="bg-undercellar_ruins.trx" dlsize="1062060" size="1084461" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9A72BF0034802EA344C4B25865E0F95DEB082FF0" downloadHash="B7743882F1712FF1438EDB2D9D58EC6A582B029B" name="bg-undercellar_ruins.trx" dlsize="1060377" size="1082857" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
