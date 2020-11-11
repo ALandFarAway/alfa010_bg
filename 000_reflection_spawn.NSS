@@ -3,6 +3,7 @@
 /// this will go on a converstation node 
 /// Create a WP  "pc_reflection" where the clone will appear
 
+#include "acr_spawn_i"
 
 
 void main()
@@ -19,8 +20,9 @@ void main()
     
     ApplyEffectAtLocation(DURATION_TYPE_PERMANENT, eSummon, lSpawn);
     
-    object oClone = GetObjectByTag("hostile_reflection_");
+    object oClone = GetObjectByTag("hostile_reflection");
     ForceRest(oClone); // for spells if you want, buff after
     
     ChangeToStandardFaction(oClone, STANDARD_FACTION_HOSTILE);
 }
+
