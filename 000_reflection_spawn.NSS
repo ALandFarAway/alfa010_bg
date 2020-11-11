@@ -10,10 +10,10 @@ void main()
 {
     object oPC = GetLastSpeaker();
 	
-    if(!GetIsObjectValid(oPC))
-    {
-        return;
-    }
+    if(!GetIsObjectValid(oPC));
+    //{
+      //  return;
+    //}
     object oClone = GetObjectByTag("reflection");
     effect eSummon = EffectSummonCopy(oPC);
     
