@@ -24,4 +24,3 @@ void main()
     
     ChangeToStandardFaction(oClone, STANDARD_FACTION_HOSTILE);
 }
-
