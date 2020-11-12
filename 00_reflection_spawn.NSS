@@ -1,6 +1,7 @@
 // Copy a character 
 //Does not work from converstation nodes
-//random equipment commented out
+//include script?
+
 
 
 object CopyCharacter(object oPC, location lLoc, 

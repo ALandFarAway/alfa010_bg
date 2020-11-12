@@ -345,7 +345,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7987D2090D433B04B1A9855211F4E079117F6144" downloadHash="9097871E55B3B2CA10EA6E9780DB49D7C4998F28" name="beregost_templeoflathander.trx" dlsize="487218" size="850666" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41BAF165EE542A105FACE898C0C43252D69BCC18" downloadHash="9E870681F59CD80D54E188BA4980EDB13E0CEF5A" name="beregost_templeoflathander.trx" dlsize="486575" size="849913" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1020,7 +1020,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C90C3BE9BD025FD60BB641C305C36E0634950CBC" downloadHash="C13ED89FA45F7F3B093428D520D875E3AE5E3303" name="tradeway_n_03_citadel_int.trx" dlsize="400252" size="405841" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="88EE41473668FF53F61569DFF6CF293928B99469" downloadHash="39FD96599EA47C0298820AA190555B1B1FF39CF7" name="tradeway_n_03_citadel_int.trx" dlsize="402422" size="408050" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
