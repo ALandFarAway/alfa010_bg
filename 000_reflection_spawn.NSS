@@ -4,24 +4,24 @@
 /// Create a WP  "pc_reflection" where the clone will appear
 
 #include "acr_spawn_i"
-
+#include "00_reflection_spawn"
 
 void main()
 {
     object oPC = GetLastSpeaker();
 	
-    if(!GetIsObjectValid(oPC));
+    if(!GetIsObjectValid(oPC))
     {
-       return;
+        return;
     }
-    object oClone = GetObjectByTag("reflection");
+
     effect eSummon = EffectSummonCopy(oPC);
     
     location lSpawn = GetLocation(GetWaypointByTag("wp_pc_reflection"));
     
     ApplyEffectAtLocation(DURATION_TYPE_PERMANENT, eSummon, lSpawn);
     
-    //object oClone = GetObjectByTag("reflection");
+    object oClone = GetObjectByTag("reflection");
     ForceRest(oClone); // for spells if you want, buff after
     SetLootable(oClone, FALSE);
     ChangeToStandardFaction(oClone, STANDARD_FACTION_HOSTILE);

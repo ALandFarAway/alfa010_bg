@@ -3,8 +3,6 @@
 //random equipment commented out
 
 
-
-
 object CopyCharacter(object oPC, location lLoc, 
 object oOwner=OBJECT_INVALID, string sNewTag="", 
 int nFaction=STANDARD_FACTION_HOSTILE, int bEquipItems=TRUE){
@@ -16,7 +14,7 @@ int nFaction=STANDARD_FACTION_HOSTILE, int bEquipItems=TRUE){
 	SetCreatureScriptsToSet(oCopy, 9);
 	ChangeToStandardFaction(oCopy, nFaction);
 
-/*	if(bEquipItems){
+	if(bEquipItems){
 		AssignCommand(oCopy, ClearAllActions(TRUE));
 		if(!GetIsObjectValid(GetItemInSlot(INVENTORY_SLOT_CHEST, oCopy)))
 			AssignCommand(oCopy, ActionEquipMostEffectiveArmor());
@@ -79,7 +77,7 @@ int nFaction=STANDARD_FACTION_HOSTILE, int bEquipItems=TRUE){
 						case INVENTORY_SLOT_RIGHTRING: oCurrentItem = oRightring; break;
 						case INVENTORY_SLOT_NECK:      oCurrentItem = oNeck; break;
 						case INVENTORY_SLOT_BELT:      oCurrentItem = oBelt; break;
-						default: SignalBug(__FILE__ + ":" + IntToString(__LINE__));
+						//default: SignalBug(__FILE__ + ":" + IntToString(__LINE__));
 					}
 
 					if(GetGoldPieceValue(oItem) > GetGoldPieceValue(oCurrentItem)){
@@ -92,7 +90,7 @@ int nFaction=STANDARD_FACTION_HOSTILE, int bEquipItems=TRUE){
 							case INVENTORY_SLOT_RIGHTRING: oRightring = oItem; break;
 							case INVENTORY_SLOT_NECK:      oNeck      = oItem; break;
 							case INVENTORY_SLOT_BELT:      oBelt      = oItem; break;
-							default: SignalBug(__FILE__ + ":" + IntToString(__LINE__));
+						//	default: SignalBug(__FILE__ + ":" + IntToString(__LINE__));
 						}
 					}
 				}
@@ -116,7 +114,7 @@ int nFaction=STANDARD_FACTION_HOSTILE, int bEquipItems=TRUE){
 					case INVENTORY_SLOT_RIGHTRING: oItemToEquip = oRightring; break;
 					case INVENTORY_SLOT_NECK:      oItemToEquip = oNeck; break;
 					case INVENTORY_SLOT_BELT:      oItemToEquip = oBelt; break;
-					default: SignalBug(__FILE__ + ":" + IntToString(__LINE__));
+					//default: SignalBug(__FILE__ + ":" + IntToString(__LINE__));
 				}
 				if(oItemToEquip != GetItemInSlot(i, oCopy)){
 					AssignCommand(oCopy, ActionEquipItem(oItemToEquip, i));
@@ -124,7 +122,7 @@ int nFaction=STANDARD_FACTION_HOSTILE, int bEquipItems=TRUE){
 			}
 
 		}
-	}*/
+	}
 
 	// Make items impossible to drop / steal / sell
 	int i;
@@ -148,3 +146,4 @@ int nFaction=STANDARD_FACTION_HOSTILE, int bEquipItems=TRUE){
 
 	return oCopy;
 }
+
