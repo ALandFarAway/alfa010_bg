@@ -350,7 +350,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8AA25558542B04FDA5A615A935E328DC0D14A417" downloadHash="C81F31BF77850ADB63300F14F4DDA47C81929CD7" name="010_dmarea.trx" dlsize="224993" size="231508" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4099D7245C4C39E8FD90F970ED0DFACDEC97BB19" downloadHash="4A70777FE60EBB7F012401F9D18F592ACEED3EA9" name="010_dmarea.trx" dlsize="209652" size="213651" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
