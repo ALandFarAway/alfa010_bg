@@ -65,7 +65,7 @@ void main()
 				SendMessageToPC(oPC, "You find a magnificant pearl!"); 
 								break;
 	                    case 1:
-								CreateItemOnObject("abr_it_gem_078",oPC); 
+								CreateItemOnObject("abr_it_gem_perl_white",oPC); 
 								SendMessageToPC(oPC, "You find a fine pearl!"); 
 								break;
 	                    case 2: CreateObject(OBJECT_TYPE_CREATURE,"abr_cr_gt_troll_saltwater",GetLocation(oPC));

@@ -2294,7 +2294,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-<resource type="Music" hash="AB22E405135B2D23474FCB02D886DA6C32BE3554" downloadHash="68AD19A27A6875CAF6E1FD7AE48D8E260A23B0C8" name="bg1_bc1.bmu" dlsize="2436411" size="2450501" critical="false" exclude="false" urlOverride="">
+  <resource type="Music" hash="AB22E405135B2D23474FCB02D886DA6C32BE3554" downloadHash="68AD19A27A6875CAF6E1FD7AE48D8E260A23B0C8" name="bg1_bc1.bmu" dlsize="2436411" size="2450501" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>

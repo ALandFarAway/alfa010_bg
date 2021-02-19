@@ -14,7 +14,7 @@ void main()
 			 ;
 		  }
 		  else if (randflag <= 50) {
-			CreateItemOnObject("abr_it_gem_063",oPC); 
+			CreateItemOnObject("abr_it_gem_perl_freshwater",oPC); 
 			SendMessageToPC(oPC, "You find a small pearl."); 
 		  }
 		  else if (randflag <= 55){
@@ -78,7 +78,7 @@ void main()
 										break;
 			                    case 3:
 			                    case 4:
-						CreateItemOnObject("abr_it_gem_078",oPC); 
+						CreateItemOnObject("abr_it_gem_perl_white",oPC); 
 						SendMessageToPC(oPC, "You find a fine pearl!"); 
 										break;
 		         } 
