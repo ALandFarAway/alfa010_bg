@@ -40,7 +40,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A9CCEECBD6F30F93DB227025C1811F340871D064" downloadHash="C658681A10C748889DDBB9CF61729D10E9C6CEA2" name="bgcity-harborwest_umberleetemple.trx" dlsize="172256" size="174802" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4DD45CB4DEFF45A2467E27FC7919E77A53DF839B" downloadHash="115E5DE0CD4337CB04032B0AFFC051815DF973F9" name="bgcity-harborwest_umberleetemple.trx" dlsize="168326" size="170924" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -720,7 +720,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EB5AEC29E846FDA1D4187C5A6AF51D4411B9AA08" downloadHash="DDA07C75D4A3BF89997192401524DECB872B7835" name="010_starting_area.trx" dlsize="125698" size="126701" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="43E7B0A8F59E3ADC2195BC7A75FF8CEE3A4ED0EF" downloadHash="8346C5881A0AE5798184AC836C13CDD950FE289C" name="010_starting_area.trx" dlsize="125623" size="126626" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1635,12 +1635,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6404D46DFB68A35AA273F44500E104D1368EE306" downloadHash="B80C24BDC79293D72C5766B8A26529A161FEF453" name="bgcity-eastgate_bladestars.trx" dlsize="154237" size="154871" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F901AF8C79D319E8F011FDCCAFFCCA6343328FEC" downloadHash="EE6EB6E4A45C4394E0BD0B32D5B6637A4573402A" name="bgcity-eastgate_bladestars.trx" dlsize="154247" size="154839" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DD618EAC25EC842CC2958A680283E2F721F55452" downloadHash="918BEAFEC56FB47AF02E9587F8B4FD7A5A536B72" name="und_n4_cavern4.trx" dlsize="986502" size="5578418" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8C302B139A9F8F3336B09AB8D7A363EB5DB26A9C" downloadHash="78523A2A4EE86BC5E205D602437F0F00A5ED9B44" name="und_n4_cavern4.trx" dlsize="977213" size="5568194" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
