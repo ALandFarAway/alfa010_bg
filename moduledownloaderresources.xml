@@ -2012,7 +2012,6 @@
   </resource>
   <resource type="Hak" hash="3F54F2A76BE356CB1701DD4EA39B667A6EA7F009" downloadHash="BB14058E0D531551E42B4E5A1748C6E5660A1273" name="alfa2_acr.hak" dlsize="4193146" size="144272909" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
@@ -2020,7 +2019,6 @@
   </resource>
   <resource type="Hak" hash="13D16360FF06A4881BB36E494255AC8EAA939BE1" downloadHash="A23A22EA72A3CEEB008459B58E9D912F17FFFD8F" name="alfa_fx.hak" dlsize="82506639" size="212926320" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
