@@ -2012,6 +2012,7 @@
   </resource>
   <resource type="Hak" hash="3F54F2A76BE356CB1701DD4EA39B667A6EA7F009" downloadHash="BB14058E0D531551E42B4E5A1748C6E5660A1273" name="alfa2_acr.hak" dlsize="4193146" size="144272909" critical="false" exclude="false" urlOverride="">
     <server-ref>
+      <string>0</string>
       <string>1</string>
       <string>2</string>
       <string>3</string>
