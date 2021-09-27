@@ -1,4 +1,5 @@
 // gc_global_int
+//bg_priest_set_allied
 
  
 //  Wynna: 9-11-2008  creation
