@@ -730,7 +730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="43E7B0A8F59E3ADC2195BC7A75FF8CEE3A4ED0EF" downloadHash="8346C5881A0AE5798184AC836C13CDD950FE289C" name="010_starting_area.trx" dlsize="125623" size="126626" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="561FC09B5A2F1CEEEA76D77F8305212AF7305640" downloadHash="90F4230F8AC4C0E2781B39DC354C7AAE362A9A17" name="010_starting_area.trx" dlsize="127664" size="128678" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
