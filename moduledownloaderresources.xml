@@ -495,7 +495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="36A88AB802B068AA6989510D94C28B4C03F269E8" downloadHash="BF40AE4C6B652DAA0ABCC91F9DC00565F5F26691" name="bgcity-harboreast_mermaid.trx" dlsize="275736" size="277104" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8603E3BC40477136F8B0C25CA0F86B7071C11749" downloadHash="F5410E51D2EB7ACD1AB2188B2604D7E48154247F" name="bgcity-harboreast_mermaid.trx" dlsize="275714" size="277214" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
