@@ -90,7 +90,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0E0ED236ED20043DDDA85380E924B39232E3660D" downloadHash="EAFB0E1FC20B3B8C2EB0251BE6EE0F16EA4C512E" name="unlinked_cabin_woods.trx" dlsize="1672114" size="9393637" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="69AA03CEC77A2DB9F7186AA718C6A002A5221446" downloadHash="633DB00C4957AC66C6B8D02C6B506CC6FBF0524E" name="unlinked_cabin_woods.trx" dlsize="1676988" size="9400797" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -630,7 +630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D42F416542FA579001BA972E43BD7BE7B25D122F" downloadHash="C2ECCC7821E6BEB73A92D210C87E3DD2E565B4ED" name="bgcity-castledist ext.trx" dlsize="4763611" size="14466462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="07DA498413B796D60AE99A7EC04C669B39E63816" downloadHash="5B72F88697062858DBDF7CA4A396E4264BB731E9" name="bgcity-castledist ext.trx" dlsize="4802115" size="14501885" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1355,7 +1355,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A1A93CD92781B4CA4C02177FD9839954158D1ED0" downloadHash="90FE1E676AE89E86439384E8A7CB8B1E3670C726" name="unlinked_home.trx" dlsize="101435" size="101995" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CB9CDE04E445560FF7B8F05BEE3FE16BBF3877A8" downloadHash="70C066ADA47BFB51020ED33EE23DD06BD5C6C712" name="unlinked_home.trx" dlsize="104848" size="105464" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
