@@ -1335,7 +1335,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6F77A13532E0245AF75B51A8DBADAA505FD47CFE" downloadHash="F66A7209B21DFAE607D7D839EC18E2DDC5F4849D" name="candlekeep_lionsway_02_ruqel.trx" dlsize="3465146" size="16008133" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="399C392FD13811F05E9EC0A4865364C4786125BE" downloadHash="C9659FC46B109E92D555F1EBCFEFF9DF70054671" name="candlekeep_lionsway_02_ruqel.trx" dlsize="3477083" size="16012562" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1685,7 +1685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5DAF175B57439C4E84A8C25B56E9036F0C4A35C3" downloadHash="42B6D9F7109EB7876EFE932685914D4393D04335" name="bgcity-upperwest_tymora.trx" dlsize="41348" size="41435" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F29ED0CDB76EB127E81B2A12208EF64D4661B297" downloadHash="0C46B0BA08DD7D3384D15C3649C31B589BF2FFE5" name="bgcity-upperwest_tymora.trx" dlsize="47713" size="47824" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
