@@ -1405,7 +1405,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EB68A51F910A5909F1D3BE7201D2490BF5785788" downloadHash="8E331D54C4BFD8E20ECB405CBDF8CABDB2AC836C" name="bgcity-upperwest_thayan.trx" dlsize="400007" size="403952" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F287BFDDD6B2E4690C4B18BB292D9A793E1E42B8" downloadHash="9B9A9D24EDBA2983A078E267332AC6CF3DB3C47B" name="bgcity-upperwest_thayan.trx" dlsize="401718" size="405592" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
