@@ -1405,7 +1405,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4A004D492795AF97DF0A3BDD21F8FFABDE75788B" downloadHash="802AB898BD20CE80F47425CD1AAA8E7F6C00455E" name="bgcity-upperwest_thayan.trx" dlsize="399605" size="403351" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EB68A51F910A5909F1D3BE7201D2490BF5785788" downloadHash="8E331D54C4BFD8E20ECB405CBDF8CABDB2AC836C" name="bgcity-upperwest_thayan.trx" dlsize="400007" size="403952" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1645,7 +1645,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0A6284E094F012E5451759CD97F2189751439128" downloadHash="5C3126B61AD9FDFF7C5EC89B3936D560832BDC6D" name="bgcity-upperwest.trx" dlsize="4242726" size="14330302" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="64BA953957E97C19411D60B5FAC26E67ACF52856" downloadHash="3F5464E2651C1057CD0C54A929B40BF0DF4E692E" name="bgcity-upperwest.trx" dlsize="4219118" size="14308290" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
