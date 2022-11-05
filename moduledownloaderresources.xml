@@ -1735,7 +1735,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CE5C84665482E373C3D0495F4CE9EF1310B8FF3D" downloadHash="09676354C0220EBB98CD2142B878A71B13D758CB" name="sharpteeth_12_river_int.trx" dlsize="397566" size="579512" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="889CAB36F8EED119EF70C9FC495A081808DC5CF1" downloadHash="7502697270AC81921842F6A68C033AEB6DC889A4" name="sharpteeth_12_river_int.trx" dlsize="391724" size="573707" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
