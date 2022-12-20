@@ -1645,7 +1645,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="64BA953957E97C19411D60B5FAC26E67ACF52856" downloadHash="3F5464E2651C1057CD0C54A929B40BF0DF4E692E" name="bgcity-upperwest.trx" dlsize="4219118" size="14308290" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6491F5382BC2DC8AD1A2031DF3E4A877DDBF207E" downloadHash="83EDF8BA08397B9006E752D5A9721FA51BE3491B" name="bgcity-upperwest.trx" dlsize="4216323" size="14303344" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1685,7 +1685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F29ED0CDB76EB127E81B2A12208EF64D4661B297" downloadHash="0C46B0BA08DD7D3384D15C3649C31B589BF2FFE5" name="bgcity-upperwest_tymora.trx" dlsize="47713" size="47824" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD70B1BA1F91AFB5BBFE328B067495FE80613283" downloadHash="B2CEFABA875996239888CFAE3FF8B2727CF441DB" name="bgcity-upperwest_tymora.trx" dlsize="53492" size="96345" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
