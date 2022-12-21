@@ -1685,7 +1685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DD70B1BA1F91AFB5BBFE328B067495FE80613283" downloadHash="B2CEFABA875996239888CFAE3FF8B2727CF441DB" name="bgcity-upperwest_tymora.trx" dlsize="53492" size="96345" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1058CD705CBE13EACA5F519D56CA53A190383216" downloadHash="01FF577ED74AC3EFCDB0A77AA70D1023CAD3EB31" name="bgcity-upperwest_tymora.trx" dlsize="53312" size="96174" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
