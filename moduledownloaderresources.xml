@@ -445,7 +445,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FB0EC2A5B9DD97AB3E6BB79507185D2A8212BE3F" downloadHash="77B1D16FC2AFA4DF55B389B1B4066755AADD45C8" name="tradeway_s_01_eastgate.trx" dlsize="2274382" size="13728896" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5406129ACD56C568BC0B8D1E4A223B0668A1D813" downloadHash="1F8787F6387D38B45C968187C74C76140826029D" name="tradeway_s_01_eastgate.trx" dlsize="2290411" size="13746286" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1440,7 +1440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="303AAE52D41964F0A884910CD861EC54285F271D" downloadHash="601F661982C29ABC5E99212504BBFE799C818C45" name="tradeway_n_01_dragongate.trx" dlsize="2898746" size="11436114" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="56365D9C354177BFB9BEFFB73D19025FE0CF284F" downloadHash="C08F57889070072C84B72D1E2C70745A44B974E6" name="tradeway_n_01_dragongate.trx" dlsize="2896738" size="11436113" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
