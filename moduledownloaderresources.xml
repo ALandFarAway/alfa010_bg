@@ -65,7 +65,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2E83C6191B3E5A59C11B229C1FFCA1686826423E" downloadHash="203E1A762B13DBB6C96ECA63CBB12D4C332D7E06" name="bgcity-eastgate ext.trx" dlsize="2601210" size="9556316" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="63059E11B2344F0E27F5A04E48681230DFE90878" downloadHash="C9C7512DD82BCC771B2E9840BE50B81930E77603" name="bgcity-eastgate ext.trx" dlsize="2633609" size="9584865" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
