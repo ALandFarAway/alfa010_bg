@@ -190,7 +190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="57566EB92A5B9C885E517FA6964B0453D49C45C0" downloadHash="25432214E72020A053C4A2AF2E2FD3ABCBA687C4" name="candlekeep_wilds_n_2a_coast.trx" dlsize="2478679" size="13828805" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="06C36B2351A950F9DCAD037D94C6F770086B7E1C" downloadHash="206CE9EC4BACB8AA93BD953B1F74DD9F695DE3EE" name="candlekeep_wilds_n_2a_coast.trx" dlsize="2432571" size="13783098" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -630,7 +630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="07DA498413B796D60AE99A7EC04C669B39E63816" downloadHash="5B72F88697062858DBDF7CA4A396E4264BB731E9" name="bgcity-castledist ext.trx" dlsize="4802115" size="14501885" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C3A0CB1BE5E3AF8F6039A28383E6E59F8820363" downloadHash="5C5B84213D11FE94193C1E40EF5594F696679A3C" name="bgcity-castledist ext.trx" dlsize="4790539" size="14576956" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1440,7 +1440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="56365D9C354177BFB9BEFFB73D19025FE0CF284F" downloadHash="C08F57889070072C84B72D1E2C70745A44B974E6" name="tradeway_n_01_dragongate.trx" dlsize="2896738" size="11436113" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E2189458039F24531DD630648C2D79A4843A3CFF" downloadHash="EEB04E9674951003FA5ED98AB6D1E974C3954F54" name="tradeway_n_01_dragongate.trx" dlsize="2911431" size="11446797" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1700,7 +1700,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="71359B512AD8F797A3393A9B3E3651ECBB25C73A" downloadHash="0900D162221EB659E2A1585AD4D7346182777ED0" name="bgcity-castledist_threekegs.trx" dlsize="258928" size="348114" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="25867018ED7999C2C0003C8D7066211467756875" downloadHash="9E7D0591B8D605CBD300F2334F8F3B6628E6130D" name="bgcity-castledist_threekegs.trx" dlsize="256800" size="346352" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
