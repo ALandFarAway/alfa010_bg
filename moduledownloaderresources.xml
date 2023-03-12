@@ -630,7 +630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3C3A0CB1BE5E3AF8F6039A28383E6E59F8820363" downloadHash="5C5B84213D11FE94193C1E40EF5594F696679A3C" name="bgcity-castledist ext.trx" dlsize="4790539" size="14576956" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="23BD690F6F2DECD5472863DBE72ED94D073BA812" downloadHash="346B7ABD1E7245F66E6CD94AC69E80E5339F5A33" name="bgcity-castledist ext.trx" dlsize="4869601" size="14657818" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
