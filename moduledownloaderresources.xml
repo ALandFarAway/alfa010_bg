@@ -1295,7 +1295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="07D1E0657FFD5638435048558001C9CC26044E2C" downloadHash="F7F044DC09FF843BE98D1A04BE66608F406A0E7E" name="candlekeep_wilds_n_1a.trx" dlsize="3986403" size="20985864" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="406316221E4F2784361AA66F2B374DB0BB0403F7" downloadHash="EC8BFC3A2A0F7771414FBC33249CB8D8583BCDC8" name="candlekeep_wilds_n_1a.trx" dlsize="4003727" size="21107297" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
