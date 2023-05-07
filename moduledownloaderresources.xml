@@ -790,7 +790,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A388471562F818C86475A406B547ADBF3545CE16" downloadHash="E3A83F6749BEC8CAA80C60A87BA9673E76088727" name="candlekeep_lionsway_02_inn.trx" dlsize="98815" size="99911" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41B3932C28F0B688BEDBF504B488FC7BA7F37390" downloadHash="F5CA2BD4730E1E3282BE23EAF05CB1205424B6A8" name="candlekeep_lionsway_02_inn.trx" dlsize="100045" size="101128" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1335,7 +1335,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9CC991D4EF7F89B5768481B32908D186989F1841" downloadHash="A60A69981F91CBFC7E1B95488ACCB126168AD673" name="candlekeep_lionsway_02_ruqel.trx" dlsize="3637053" size="16447355" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CEF430750709CA581645C3645AA7977537D92366" downloadHash="D9F0D9482FB8F6E565D2071699FEA0CB5D11B349" name="candlekeep_lionsway_02_ruqel.trx" dlsize="3663321" size="16461162" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
