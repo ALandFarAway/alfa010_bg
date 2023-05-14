@@ -300,7 +300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E45C5A7E961B03B632B4F556DC73EF7656DF4834" downloadHash="D2623129D2F9A72C06FFE7A9280E068E824D966B" name="tradeway_s_04_fai_ext.trx" dlsize="2326832" size="12983416" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="484CEBEEAC341EB4E12EB90B1D3B8217FD6663E2" downloadHash="0751AF8A49A1F01B6950972996A88A1981C3AEBD" name="tradeway_s_04_fai_ext.trx" dlsize="2322743" size="12990177" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -350,7 +350,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="41BAF165EE542A105FACE898C0C43252D69BCC18" downloadHash="9E870681F59CD80D54E188BA4980EDB13E0CEF5A" name="beregost_templeoflathander.trx" dlsize="486575" size="849913" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B7D20E9053F78BBC8BBD88C0A1A7A054F7BD24BA" downloadHash="4827E259E9BC0DFB901F82855D1C8B9E52C8C469" name="beregost_templeoflathander.trx" dlsize="486650" size="850513" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -615,7 +615,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2A7F8E0A9C4A38F9AD69B3E4A94A63120B4C5E4C" downloadHash="D9739516DACA906FD04491806E02AF990570AC12" name="nashkel_auril_temple.trx" dlsize="7384" size="7381" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A26E055D138FB34FCB131E5119ACAC6162F3ADFB" downloadHash="280424FB41BDB3EE608CB6E790D15B47698F532F" name="nashkel_auril_temple.trx" dlsize="11616" size="11647" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1265,7 +1265,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="203B2FB9CECD6395AD3BC0263DE1FC1C4F8B3EF7" downloadHash="3B6D2D0A4A0C3381275A772F53F379469F3BBA90" name="beregost.trx" dlsize="4263422" size="18846250" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A14E6954292539EDA4F549DDC4C0806AD01AA93B" downloadHash="FB25ACB08CCBB7236C52A61B5BC7027CE80B6015" name="beregost.trx" dlsize="4275500" size="18849836" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BADDF3EFFA869A1FB3C34C5D6C25350A5731B42A" downloadHash="53C0F20FBA4EC963EF691F47C54C56B8F42EC15F" name="nashkel_outskirts.trx" dlsize="6213498" size="24305731" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="18F509B0E86C24D299F7409478360CEABB8F8367" downloadHash="36C6340245E1172E4790D8DA7D4E1589122A001D" name="nashkel_outskirts.trx" dlsize="6259235" size="24429414" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2238,6 +2238,16 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7C3133DC7EC6256969855530FC892D3E64857471" downloadHash="C0C3206D2A507C8A41A403792983143D22BB2320" name="nashkel_inn0_northern_light.trx" dlsize="126181" size="170814" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="48BC691600BAC30683C478C047CE2EABE545FC75" downloadHash="5F18AD141A2AEE6EACD46D7780A72267B35DEE09" name="tradeway_s_12_temple_highsong.trx" dlsize="34445" size="122531" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
