@@ -1195,7 +1195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="69E93DCD9E16032E68353A42FD078145112AF854" downloadHash="A74618B3AD1D869138649D0C1FC5387575F03578" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3888349" size="18223750" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9C1BE261C9802463302CFE4EB6C3A6E9E909D8F2" downloadHash="177CCACBEC1CC8FCBFCF3D716F1722883D738260" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3947127" size="18281661" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
