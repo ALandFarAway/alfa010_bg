@@ -570,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D7C0ABF1CF616A91EEB128385CFE9D20B03612D8" downloadHash="FFB32D3E312EDE39C3EBF62BA9D5D84B891D0345" name="gullykin_trail1.trx" dlsize="6271756" size="25103471" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="393DD66443F0A8959FED57A34B43500AE556331D" downloadHash="D1DB92E5FD21CA1876468C18265861E553071E86" name="gullykin_trail1.trx" dlsize="6279547" size="25108027" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -945,7 +945,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8196B81A88BC3BB59CB511AD57BC0A74A493F6F0" downloadHash="C73BE523500ED42A1DD91910B36884DB6EA998F0" name="gullykin_shop_int.trx" dlsize="15073" size="15093" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="05A2DF74F29CB20CE0634B319D794EE5B20CEB7F" downloadHash="33C13631BA9A8DD5412FF6D80453E076BFACB9AE" name="gullykin_shop_int.trx" dlsize="26220" size="26229" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
