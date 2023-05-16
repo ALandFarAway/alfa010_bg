@@ -315,7 +315,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B8374CD7603641FA1C8789FA121938FE7BA0EACD" downloadHash="7579D7C050E6C24ACB93C0A99038FC62832B345E" name="bgcity-eastgate_sorcsund.trx" dlsize="220343" size="623912" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9F43DC0990E190C52E2764427EE5BB13FEE72C27" downloadHash="554AA641C0E125E5A9E19286E76140049553ACBD" name="bgcity-eastgate_sorcsund.trx" dlsize="220083" size="623884" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -445,7 +445,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5406129ACD56C568BC0B8D1E4A223B0668A1D813" downloadHash="1F8787F6387D38B45C968187C74C76140826029D" name="tradeway_s_01_eastgate.trx" dlsize="2290411" size="13746286" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="909CD4E74E1A3E848A31ABE91D7CBC1B1A1FBF4B" downloadHash="4CC5BBE67F0F8FC47BA839486046859AB0AFC357" name="tradeway_s_01_eastgate.trx" dlsize="2293772" size="13751376" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -710,7 +710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="89F9011AE9DCF1082D9EA9AEE3C8F2E89C95162C" downloadHash="30AA0501D85E755A28FCB501AC51618FD0EE6893" name="bgcity-eastgate_architect.trx" dlsize="53700" size="96383" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A62141B73CF5B1CE07054458C26B1E4BFBF89447" downloadHash="A68A285887347D80B3AFC4D9053C393A09226446" name="bgcity-eastgate_architect.trx" dlsize="53096" size="95868" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1236,11 +1236,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="4353C8D4A214198B9E260C5FA203E345C4B389EA" downloadHash="F135CE8688C1C415F1B0298F7177BA3D3D2EEE31" name="und_a4_portalroom.trx" dlsize="36230" size="215202" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="FC75F0A7943ADD68B833F5403CA23DFA36DD69CF" downloadHash="D2D8A61E43F17107097511F4F4DE7DDD470E00AA" name="gullykin_hurlis_elixirs.trx" dlsize="8964" size="8962" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2246,6 +2241,31 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="48BC691600BAC30683C478C047CE2EABE545FC75" downloadHash="5F18AD141A2AEE6EACD46D7780A72267B35DEE09" name="tradeway_s_12_temple_highsong.trx" dlsize="34445" size="122531" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4C5F85AAF42A5BC4D8018BF9050BC33BDF0D7F4B" downloadHash="E51D9D38F4BFFAA72A78050024C07DA4B2AA51E9" name="candlekeep_m_inn.trx" dlsize="113792" size="114283" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CA4092F705F94D9748BC76BEF030CA9D55B02A3A" downloadHash="0B544C49A084112B04BB759F77E4604651BC445D" name="candlekeep_m_temple_oghma.trx" dlsize="50609" size="50605" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="685555CFFE4A39E7DB8F9F49A5853E8820B98A9D" downloadHash="D44D1DCA8C0BAEDEC0588777F30D24CA67C1BCC7" name="candlekeep_main.trx" dlsize="2144966" size="18601091" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E2BE17D6B1BCC4DDA2EB6030BA2C78D79825CD6C" downloadHash="BA9590230BA78D906CD72762C9452C25298EEE68" name="candlekeep_m_gate.trx" dlsize="107911" size="107782" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A83AA542F6DC4BEC1AF8D2E14EDA42EBD14D1C0E" downloadHash="83D276D3183C96294304270255362CA8D5D068B7" name="candlekeep_m_library.trx" dlsize="101720" size="144481" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
