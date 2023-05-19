@@ -605,7 +605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CF5E76998EDA9C85CECFDE0D8AAA9F7FB5F9B667" downloadHash="4EAC4A093712C726F7295441FFDAC96251519BF9" name="bgcity-harboreast_tempus.trx" dlsize="149834" size="193189" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ABF545128D48A11D28064DA190EB181F37912C4F" downloadHash="E52D7C48BAF76279989A137AA04C12CA0D3224A3" name="bgcity-harboreast_tempus.trx" dlsize="148786" size="192091" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -775,7 +775,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="017C142050DF744D671C6E2F7998A9615F60A945" downloadHash="5224F619B7F0398935FE30C898DFD4DE23113DFF" name="bgcity-harboreast.trx" dlsize="2497708" size="11940984" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="28CAE5F9838166B244AE504862CA09D01510FE53" downloadHash="223E9CFC061BDEA0C953783B01BA8F422A589A27" name="bgcity-harboreast.trx" dlsize="2496697" size="11943352" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2266,6 +2266,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="A83AA542F6DC4BEC1AF8D2E14EDA42EBD14D1C0E" downloadHash="83D276D3183C96294304270255362CA8D5D068B7" name="candlekeep_m_library.trx" dlsize="101720" size="144481" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="26979640A635AE9941889606B49B158ACB959B38" downloadHash="F1FD329536B05CD6E22EAD82300B215BE49C166B" name="bgcity-harboreast_harbormasters.trx" dlsize="75171" size="75325" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="90BC38092C5987A073B3F0AD0BC34AEC30A2CA93" downloadHash="069545DBAC331BEC283C2F34E6A94B224270B5D4" name="bgcity-harborwest_warehouse1.trx" dlsize="54503" size="54533" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

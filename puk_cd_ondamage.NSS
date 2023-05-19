@@ -106,7 +106,7 @@ void main()
     //: SET ONLY HERE WHAT YOU WANT TO GIVE OR ALLOW AT ALL !!!
     int nTrainerLEV = 0;//Set to 1 this if you don't want to give XP and/or Level-up
 	int nTrainerENM = 1;//Set to 1 this if you want to allow Enhanced Weapons
-    int nTrainerXPS = 11;//Set this to the XP Per Each Session
+    int nTrainerXPS = 15;//Set this to the XP Per Each Session
     int nTrainerDPS = 100;//Set this to Amount of Damage Required Per Session
     int nTrainerXPL = 10000;//Set this to the Max XP for Combat Trainers (Level 10 Default)
 
