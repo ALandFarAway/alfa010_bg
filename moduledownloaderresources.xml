@@ -1715,7 +1715,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FD34A744A78D4865ABBEEB661E4AF9E22D6F531E" downloadHash="53AA08CC6EA39B1A964BB9FD21EBDA38B3A7FF62" name="cloakwood_hill_01.trx" dlsize="4065383" size="20335018" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="235B845AE2EC28B8AEA64734DB6E6F4FF7E3EB6F" downloadHash="D3DEBB4ACE1323C02394F61D7C51499520F228FB" name="cloakwood_hill_01.trx" dlsize="4101301" size="20365284" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
