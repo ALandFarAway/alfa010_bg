@@ -865,7 +865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4AC1C154D23EAC1A92424E4C65279D1BC1ABDBEF" downloadHash="7C868AE4DE2114D96396B36BCB1373E48361171F" name="sharpteeth_12_river_edge.trx" dlsize="3519340" size="20995669" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1DA4E3BEE1DB18494EDAF681FF5A94E17D760D0A" downloadHash="C94D5C76050D9774A0D66871D92593612B0615CD" name="sharpteeth_12_river_edge.trx" dlsize="3528239" size="21004903" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
