@@ -835,7 +835,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5715CC36A4C88F422826223A0798157A531A26D2" downloadHash="199BAC81CB59A6B88F82A1824A24C9252F6CAB8B" name="unlinked_town.trx" dlsize="3727559" size="14581470" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="458135074E429EC2D83A0C2737C5E69C0FF2CEEB" downloadHash="B5EEA7908864698CD40889F333879232EA7A3511" name="unlinked_town.trx" dlsize="3745694" size="14599919" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
