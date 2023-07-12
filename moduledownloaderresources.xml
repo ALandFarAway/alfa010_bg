@@ -90,7 +90,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="69AA03CEC77A2DB9F7186AA718C6A002A5221446" downloadHash="633DB00C4957AC66C6B8D02C6B506CC6FBF0524E" name="unlinked_cabin_woods.trx" dlsize="1676988" size="9400797" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="92FE1E7222567434DF749BFC72C14114F7CEB969" downloadHash="F3AF3635863684D25D6ECBAE478040BF6C329FDC" name="unlinked_cabin_woods.trx" dlsize="1683085" size="9407950" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -835,7 +835,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D1EB8A4C0AD0B94FE0C7FEBE4F788339F9F48904" downloadHash="0DDDCF8AB1BE4EBE1FC4CCD17400EBD8AB9B688D" name="unlinked_town.trx" dlsize="3612023" size="14456401" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5715CC36A4C88F422826223A0798157A531A26D2" downloadHash="199BAC81CB59A6B88F82A1824A24C9252F6CAB8B" name="unlinked_town.trx" dlsize="3727559" size="14581470" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -890,7 +890,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DBC2007C4220750F3569E691083629D3F7503804" downloadHash="F6B827907CF50F3676867D2DCFF6C4ADEB0037B5" name="unlinked_grasslands_ruins1.trx" dlsize="7344206" size="22596889" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="221A23844CCFEF10A737FF0599BE004ECEE8E9AE" downloadHash="1FED23D0EAEA2D48CAC7D769E11B8295DBFE3265" name="unlinked_grasslands_ruins1.trx" dlsize="7399387" size="22651365" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1455,7 +1455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DCC92A62A53667B7B8E47B219CBA6EF9CD9B99A3" downloadHash="A2C9CA2ED3D99205F9D8C05C94F57C7D8043DDA8" name="unlinked_cave3.trx" dlsize="515177" size="1426710" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0C77D7B75202DC535B13775B321BD5D9566094E8" downloadHash="8EF68F80BCB99F6030FFA145D8F4CCA3749021A5" name="unlinked_cave3.trx" dlsize="518424" size="1429231" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
