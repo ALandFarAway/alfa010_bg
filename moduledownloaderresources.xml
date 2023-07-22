@@ -835,7 +835,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="458135074E429EC2D83A0C2737C5E69C0FF2CEEB" downloadHash="B5EEA7908864698CD40889F333879232EA7A3511" name="unlinked_town.trx" dlsize="3745694" size="14599919" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9C7F4BD4D0738B9DEAA45C1BBB0EC12E1A0D5F8F" downloadHash="D1AE7BA625278ACF01AF70EAB04DCF09DE3DECA2" name="unlinked_town.trx" dlsize="3756359" size="14607140" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1240,7 +1240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9A72BF0034802EA344C4B25865E0F95DEB082FF0" downloadHash="B7743882F1712FF1438EDB2D9D58EC6A582B029B" name="bg-undercellar_ruins.trx" dlsize="1060377" size="1082857" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B1CC3D591C5178E548A3E2EF5F6BC0334948B3D6" downloadHash="01FA2A6DC3F3A882B69BB288660FBAFAE693EED3" name="bg-undercellar_ruins.trx" dlsize="1210462" size="1456973" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
