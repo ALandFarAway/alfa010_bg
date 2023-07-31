@@ -1215,7 +1215,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F8046CDABE9AD2AF0FDDBABEAAE6C022572EDC80" downloadHash="3370741217719AE27104D1E2DD68C7F357F9536D" name="bg-undercellar_ruins.trx" dlsize="1187763" size="1433753" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A42FB7461165DCB5067FB5F3CD16B58374244313" downloadHash="2CCAD5D17FA759DC91522A0DDA9808AEF1EA3F94" name="bg-undercellar_ruins.trx" dlsize="1187755" size="1433752" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
