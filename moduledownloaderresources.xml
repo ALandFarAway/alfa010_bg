@@ -415,7 +415,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C0A901CA092BD6B960ECEEA79AC558BB4132F65" downloadHash="A1307A3157619EEF9FE9CB42A1B9BE465251FCFC" name="nashkel_sewer.trx" dlsize="1046841" size="8855089" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="680D19E0F919CD2419F5A3C2A5461760FD935B37" downloadHash="F26ED0B089AAFD9A58AE228A04307316EF98C0CA" name="nashkel_sewer.trx" dlsize="1084913" size="9525632" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1300,7 +1300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CAFE3A7FCE9D0C96A144B805C086225700DEDFB2" downloadHash="5AC716FBBD68EDAB17D624B2246274F5916D84D3" name="tradeway_s_12_highsong_east_int.trx" dlsize="638826" size="2271698" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B4F2537787953D42527D40054749616B09DE6E69" downloadHash="FF68A5B316E25FFF2D256BF555FC4D3EFBA91AC0" name="tradeway_s_12_highsong_east_int.trx" dlsize="682899" size="2310406" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2231,6 +2231,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="90BC38092C5987A073B3F0AD0BC34AEC30A2CA93" downloadHash="069545DBAC331BEC283C2F34E6A94B224270B5D4" name="bgcity-harborwest_warehouse1.trx" dlsize="54503" size="54533" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0A270C4DD3EDFFD537D904D33185DE0C98B1C2A4" downloadHash="50AA3F13B9420E0565B30ED2FEE648484A1440A1" name="nashkel_cave1_gnoll.trx" dlsize="269216" size="449519" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6EA62F4D14C789DAD4F50ACE62297A9D6BE9D440" downloadHash="E97D4EFC7937F6BF1B2488891DEAF8354476AFDD" name="nashkel_cave2_bugbear.trx" dlsize="129211" size="4018753" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DE85F3495C2FEC0D2E54559F7718405C02D77541" downloadHash="941646D3C0A40FCA3B53A361EEEB33E8DE1D562E" name="nashkel_cave0_maus.trx" dlsize="465293" size="1051410" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AD5DF92588CDE3DE2774E464DCC28C2112926EEF" downloadHash="0366BA1028414FCC1F555F4C8E87D9CED03B6D56" name="nashkel_pass_03_cave_frozen.trx" dlsize="228714" size="1495160" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
