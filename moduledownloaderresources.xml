@@ -415,7 +415,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="680D19E0F919CD2419F5A3C2A5461760FD935B37" downloadHash="F26ED0B089AAFD9A58AE228A04307316EF98C0CA" name="nashkel_sewer.trx" dlsize="1084913" size="9525632" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="340F6E521F6659D584F85A033B355FF72DF0EF62" downloadHash="8E39A8E7B5C45C69EA4621926FD2F3E4E0147AC5" name="nashkel_sewer.trx" dlsize="1134734" size="9583031" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
