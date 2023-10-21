@@ -2235,7 +2235,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6DDDFDE2ABC1B5CF14FEC8FBFDAF96F90F0153A9" downloadHash="4B56EC2038F90C3A66611AFE313AAF318F02D3FA" name="tradeway_nw_02a_fieldofrest_cv2.trx" dlsize="239520" size="241879" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="46467EA54787EE8623ACA04FD51455A9C05390BF" downloadHash="761142BB0F6F5ABA53C6F7977292D8194861233B" name="tradeway_nw_02a_fieldofrest_cv2.trx" dlsize="239515" size="241880" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
