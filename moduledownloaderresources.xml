@@ -1205,7 +1205,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C1BE261C9802463302CFE4EB6C3A6E9E909D8F2" downloadHash="177CCACBEC1CC8FCBFCF3D716F1722883D738260" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3947127" size="18281661" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E1757F209F10E106C897877B0EDCEFE9DD78BB4F" downloadHash="A8908BB6A4816C03D04A3F637D0E8701E498ED22" name="tradeway_nw_02a_fieldsofrest.trx" dlsize="3950971" size="18279871" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2233,6 +2233,11 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FF3A5A3C6A5B60A33029D2DBE46CE4C809E5E656" downloadHash="8BB392C554EFA5FAE4428D1692CE0D04B7F841B4" name="tradeway_nw_02a_fieldofrest_cv2.trx" dlsize="231381" size="233777" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
