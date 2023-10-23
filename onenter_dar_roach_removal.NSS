@@ -21,34 +21,57 @@ else if (nInt = 15)
 
 object oTarget;
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-
 
 DestroyObject(oTarget, 0.0);
 
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
+DestroyObject(oTarget, 0.0);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
 
 DestroyObject(oTarget, 0.0);
