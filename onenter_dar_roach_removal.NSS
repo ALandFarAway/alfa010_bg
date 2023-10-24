@@ -93,12 +93,12 @@ void main()
   //if(!GetIsPC(oPC) || GetIsDM(oPC))  //If not a PC or is a DM, do nothing and return
   //  return;
 
-  //int iVar = GetLocalInt(oPC, "VariableToCheck");  //We know its a PC so check their variables and save in iVar
+  int iVar = GetLocalInt(oPC, "dar_frenzied_roaches_torold");  //We know its a PC so check their variables and save in iVar
 
   if(GetIsPC(oPC) && !GetIsDM(oPC)){
 
     SendMessageToPC(oPC, "***");
-    SendMessageToPC(oPC, "Player detected Entering: Despawning Creature");
+    SendMessageToPC(oPC, "Player detected Entering: Despawning Creature. Variable Value: " + IntToString(iVar));
     SendMessageToPC(oPC, "***");
 
     object oCreature = GetFirstObjectInArea(oArea);    //Get the first object in the area
@@ -106,13 +106,13 @@ void main()
     while(oCreature != OBJECT_INVALID){    //Destroy them until none left.  Note this might effect creatures in other areas
       if(GetObjectType(oCreature) == OBJECT_TYPE_CREATURE){
         sCreature = GetTag(oCreature);
-        if(sCreature == sTag || sCreature == sTag2 || sCreature == sTag2){
+        if(sCreature == sTag || sCreature == sTag1 || sCreature == sTag2){
           DestroyObject(oCreature);
-          SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
+          //SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
         }
-        else{
-          SendMessageToPC(oPC, "No Match, not destroying: " + GetName(oCreature));
-        }
+        //else{
+          //SendMessageToPC(oPC, "No Match, not destroying: " + GetName(oCreature));
+        //}
       }
       oCreature = GetNextObjectInArea(oArea);
     }
@@ -120,8 +120,9 @@ void main()
   }
   else{
     SendMessageToPC(oPC, "***");
-    SendMessageToPC(oPC, "DM detected Entering.  Do Nothing. ");
+    SendMessageToPC(oPC, "DM detected Entering.  Do Nothing. Variable Value: " + IntToString(iVar));
     SendMessageToPC(oPC, "***");
   }
 
 }
+
