@@ -100,7 +100,7 @@ void main()
   //if (iVar < 1);
   
       // else
-	   if (iVar = 15)
+	   if (iVar > 14)
    return;
    
   if(GetIsPC(oPC) && !GetIsDM(oPC)){
