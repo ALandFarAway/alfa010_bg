@@ -97,10 +97,11 @@ void main()
 
  // int iVar = GetLocalInt(oPC, "dar_frenzied_roaches_torold");  //We know its a PC so check their variables and save in iVar
   int iVar=GetLocalInt(oPC, "PersistentJournalQuestEntrydar_frenzied_roaches_torold");
-  if (iVar < 1);
+  //if (iVar < 1);
   
-      // else if (iVar = 15)
-   //return;
+      // else
+	   if (iVar = 15)
+   return;
    
   if(GetIsPC(oPC) && !GetIsDM(oPC)){
 
