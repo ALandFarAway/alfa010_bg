@@ -81,6 +81,8 @@ oTarget = GetObjectByTag("009_cr_v_cockroach2");
 DestroyObject(oCreature);
 */
 
+#include "acr_quest_i"
+#include "acr_spawn_i"
 void main()
 {
   object oPC = GetEnteringObject();
@@ -96,9 +98,9 @@ void main()
  // int iVar = GetLocalInt(oPC, "dar_frenzied_roaches_torold");  //We know its a PC so check their variables and save in iVar
   int iVar=GetLocalInt(oPC, "PersistentJournalQuestEntrydar_frenzied_roaches_torold");
   if (iVar < 1);
-
-else if (iVar = 15)
-   return;
+  
+      // else if (iVar = 15)
+   //return;
    
   if(GetIsPC(oPC) && !GetIsDM(oPC)){
 
