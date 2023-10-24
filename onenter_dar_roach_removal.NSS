@@ -85,7 +85,10 @@ void main()
 {
   object oPC = GetEnteringObject();
   string sTag = "009_cr_v_cockroach";
+  string sTag1 = "009_cr_v_cockroach0";
+  string sTag2 = "009_cr_v_cockroach2";
   object oArea = GetArea(OBJECT_SELF);
+  string sCreature;
 
   //if(!GetIsPC(oPC) || GetIsDM(oPC))  //If not a PC or is a DM, do nothing and return
   //  return;
@@ -102,7 +105,8 @@ void main()
 
     while(oCreature != OBJECT_INVALID){    //Destroy them until none left.  Note this might effect creatures in other areas
       if(GetObjectType(oCreature) == OBJECT_TYPE_CREATURE){
-        if(GetTag(oCreature) == sTag){
+        sCreature = GetTag(oCreature);
+        if(sCreature == sTag || sCreature == sTag2 || sCreature == sTag2){
           DestroyObject(oCreature);
           SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
         }
@@ -120,4 +124,4 @@ void main()
     SendMessageToPC(oPC, "***");
   }
 
-}`
+}
