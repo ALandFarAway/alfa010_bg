@@ -93,8 +93,8 @@ void main()
   //if(!GetIsPC(oPC) || GetIsDM(oPC))  //If not a PC or is a DM, do nothing and return
   //  return;
 
-  int iVar = GetLocalInt(oPC, "dar_frenzied_roaches_torold");  //We know its a PC so check their variables and save in iVar
-
+ // int iVar = GetLocalInt(oPC, "dar_frenzied_roaches_torold");  //We know its a PC so check their variables and save in iVar
+  int iVar=GetLocalInt(oPC, "PersistentJournalQuestEntrydar_frenzied_roaches_torold");
   if(GetIsPC(oPC) && !GetIsDM(oPC)){
 
     SendMessageToPC(oPC, "***");
