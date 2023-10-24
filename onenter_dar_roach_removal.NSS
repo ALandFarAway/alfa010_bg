@@ -21,64 +21,64 @@ else if (nInt = 15)
 
 object oTarget;
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach0");
 
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 oTarget = GetObjectByTag("009_cr_v_cockroach");
 
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 
 oTarget = GetObjectByTag("009_cr_v_cockroach2");
 
-DestroyObject(oTarget, 0.0);
+DestroyObject(oCreature);
 */
 
 void main()
@@ -86,19 +86,31 @@ void main()
   object oPC = GetEnteringObject();
   string sTag = "009_cr_v_cockroach";
 
- // if(!GetIsPC(oPC))  //If not a PC, do nothing and return
- //   return;
+  //if(!GetIsPC(oPC) || GetIsDM(oPC))  //If not a PC or is a DM, do nothing and return
+  //  return;
 
- // int iVar = GetLocalInt(oPC, "VariableToCheck");  //We know its a PC so check their variables and save in iVar
+  //int iVar = GetLocalInt(oPC, "VariableToCheck");  //We know its a PC so check their variables and save in iVar
 
- // if(iVar){
-    if(!GetIsDM(oPC)){
+  if(GetIsPC(oPC) && !GetIsDM(oPC)){
+
+    SendMessageToPC(oPC, "***");
+    SendMessageToPC(oPC, "Player detected Entering: Despawning Creature");
+    SendMessageToPC(oPC, "***");
+
     object oCreature = GetNearestObjectByTag(sTag);    //Get the Nearest creature with the tag
 
     while(oCreature != OBJECT_INVALID){    //Destroy them until none left.  Note this might effect creatures in other areas
       DestroyObject(oCreature);
       oCreature = GetNearestObjectByTag(sTag);
     }
+
+  }
+  else{
+    SendMessageToPC(oPC, "***");
+    SendMessageToPC(oPC, "DM detected Entering.  Do Nothing. ");
+    SendMessageToPC(oPC, "***");
+
+
 
   }
 
