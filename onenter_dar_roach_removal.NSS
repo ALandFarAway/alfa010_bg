@@ -85,6 +85,7 @@ void main()
 {
   object oPC = GetEnteringObject();
   string sTag = "009_cr_v_cockroach";
+  object oArea = GetArea(OBJECT_SELF);
 
   //if(!GetIsPC(oPC) || GetIsDM(oPC))  //If not a PC or is a DM, do nothing and return
   //  return;
@@ -97,11 +98,19 @@ void main()
     SendMessageToPC(oPC, "Player detected Entering: Despawning Creature");
     SendMessageToPC(oPC, "***");
 
-    object oCreature = GetNearestObjectByTag(sTag);    //Get the Nearest creature with the tag
+    object oCreature = GetFirstObjectInArea(oArea);    //Get the first object in the area
 
     while(oCreature != OBJECT_INVALID){    //Destroy them until none left.  Note this might effect creatures in other areas
-      DestroyObject(oCreature);
-      oCreature = GetNearestObjectByTag(sTag);
+      if(GetObjectType(oCreature) == OBJECT_TYPE_CREATURE){
+        if(GetTag(oCreature) == sTag){
+          DestroyObject(oCreature);
+          SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
+        }
+        else{
+          SendMessageToPC(oPC, "No Match, not destroying: " + GetName(oCreature));
+        }
+      }
+      oCreature = GetNextObjectInArea(oArea);
     }
 
   }
@@ -109,9 +118,6 @@ void main()
     SendMessageToPC(oPC, "***");
     SendMessageToPC(oPC, "DM detected Entering.  Do Nothing. ");
     SendMessageToPC(oPC, "***");
-
-
-
   }
 
-}
+}`
