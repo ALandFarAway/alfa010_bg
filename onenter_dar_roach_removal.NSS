@@ -82,7 +82,6 @@ DestroyObject(oCreature);
 */
 
 #include "acr_quest_i"
-#include "acr_spawn_i"
 
 void main()
 {
@@ -96,15 +95,8 @@ void main()
   //if(!GetIsPC(oPC) || GetIsDM(oPC))  //If not a PC or is a DM, do nothing and return
   //  return;
 
- // int iVar = GetLocalInt(oPC, "dar_frenzied_roaches_torold");  //We know its a PC so check their variables and save in iVar
- 
-  int iVar=GetLocalInt(oPC, "PersistentJournalQuestEntrydar_frenzied_roaches_torold");
-  //if (iVar < 1);
-  
-      // else
-	   if (iVar > 14)
-  // return;
-   
+  int iVar =ACR_RetrieveQuestState( "dar_frenzied_roaches_torold", oPC);  //We know its a PC so check their variables and save in iVar
+
   if(GetIsPC(oPC) && !GetIsDM(oPC)){
 
     SendMessageToPC(oPC, "***");
@@ -134,4 +126,4 @@ void main()
     SendMessageToPC(oPC, "***");
   }
 
-}
+} 
