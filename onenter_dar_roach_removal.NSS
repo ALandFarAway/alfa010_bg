@@ -83,6 +83,7 @@ DestroyObject(oCreature);
 
 #include "acr_quest_i"
 #include "acr_spawn_i"
+
 void main()
 {
   object oPC = GetEnteringObject();
@@ -96,12 +97,13 @@ void main()
   //  return;
 
  // int iVar = GetLocalInt(oPC, "dar_frenzied_roaches_torold");  //We know its a PC so check their variables and save in iVar
+ 
   int iVar=GetLocalInt(oPC, "PersistentJournalQuestEntrydar_frenzied_roaches_torold");
   //if (iVar < 1);
   
       // else
 	   if (iVar > 14)
-   return;
+  // return;
    
   if(GetIsPC(oPC) && !GetIsDM(oPC)){
 
@@ -133,4 +135,3 @@ void main()
   }
 
 }
-
