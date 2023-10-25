@@ -97,10 +97,10 @@ void main()
 
   int iVar =ACR_RetrieveQuestState( "dar_frenzied_roaches_torold", oPC);  //We know its a PC so check their variables and save in iVar
 
-  if(GetIsPC(oPC) && !GetIsDM(oPC)){
+  if(iVar == 0 || iVar == 15){
 
     SendMessageToPC(oPC, "***");
-    SendMessageToPC(oPC, "Player detected Entering: Despawning Creature. Variable Value: " + IntToString(iVar));
+    SendMessageToPC(oPC, "Quest State 0 or 15 so Despawning Creature. Variable Value: " + IntToString(iVar));
     SendMessageToPC(oPC, "***");
 
     object oCreature = GetFirstObjectInArea(oArea);    //Get the first object in the area
@@ -122,8 +122,8 @@ void main()
   }
   else{
     SendMessageToPC(oPC, "***");
-    SendMessageToPC(oPC, "DM detected Entering.  Do Nothing. Variable Value: " + IntToString(iVar));
+    SendMessageToPC(oPC, "Not zero or 15.  Do Nothing. Variable Value: " + IntToString(iVar));
     SendMessageToPC(oPC, "***");
   }
 
-} 
+}
