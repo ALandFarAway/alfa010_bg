@@ -9,8 +9,8 @@ void main()
   object oArea = GetArea(OBJECT_SELF);
   string sCreature;
 
-  //if(!GetIsPC(oPC) || GetIsDM(oPC))  //If not a PC or is a DM, do nothing and return
-  //  return;
+  if(!GetIsPC(oPC) || GetIsDM(oPC))  //If not a PC or is a DM, do nothing and return
+    return;
 
   int iVar =ACR_RetrieveQuestState( "dar_frenzied_roaches_torold", oPC);  //We know its a PC so check their variables and save in iVar
 
@@ -29,12 +29,13 @@ void main()
           DestroyObject(oCreature);
           SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
         }
-        else{
+        else if(iVar < 15 || iVar > 0){
           SendMessageToPC(oPC, "No Match, not destroying: " + GetName(oCreature));
         }
       }
       oCreature = GetNextObjectInArea(oArea);
     }
+	
     return;
   }
   else{

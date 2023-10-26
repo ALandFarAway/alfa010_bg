@@ -30,6 +30,6 @@ void main()
 		ACR_AddPersistentJournalQuestEntry("sel_bloodmaw_3", 14, oPC, FALSE, FALSE, FALSE, 0, 0.0f);
 	}
 	
-	SendMessageToPC(oPC, "Though the ship is seaworthy still, it is damaged from the attack and crawls northward, unable to stop for the looming presence of hte Cloakwood to the east.");
+	SendMessageToPC(oPC, "Though the ship is seaworthy still, it is damaged from the attack and crawls northward, unable to stop for the looming presence of the Cloakwood to the east.");
 	AssignCommand(GetModule(), ManageShip("bg_ck_ship_pirates_ext_1", "WP_CKBG_BG", oPC, 15.0f));
 }
