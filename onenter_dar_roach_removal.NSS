@@ -1,6 +1,6 @@
 
 //Trigger to keep quest creatures from spawning after quest
-//ayergo & Arianna 10/2023
+//Scripted by  . , , ayergo & Arianna 10/2023
 
 
 
@@ -21,7 +21,7 @@ void main()
 
   int iVar =ACR_RetrieveQuestState( "dar_frenzied_roaches_torold", oPC);  //We know its a PC so check their variables and save in iVar
 
-  if(iVar == 0 || iVar == 15){
+  if(iVar < 1 || iVar > 14){
 
     SendMessageToPC(oPC, "***");
     SendMessageToPC(oPC, "Quest State 0 or 15 so Despawning Creature. Variable Value: " + IntToString(iVar));
@@ -36,7 +36,7 @@ void main()
           DestroyObject(oCreature);
           SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
         }
-        else{
+        else {
           SendMessageToPC(oPC, "No Match, not destroying: " + GetName(oCreature));
         }
       }
