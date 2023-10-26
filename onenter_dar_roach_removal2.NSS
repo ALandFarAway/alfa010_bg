@@ -16,9 +16,9 @@ void main()
 
   if(iVar == 0 || iVar == 15){
 
-    SendMessageToPC(oPC, "***");
-    SendMessageToPC(oPC, "Quest State 0 or 15 so Despawning Creature. Variable Value: " + IntToString(iVar));
-    SendMessageToPC(oPC, "***");
+    //SendMessageToPC(oPC, "***");
+   // SendMessageToPC(oPC, "Quest State 0 or 15 so Despawning Creature. Variable Value: " + IntToString(iVar));
+  //  SendMessageToPC(oPC, "***");
 
     object oCreature = GetFirstObjectInArea(oArea);    //Get the first object in the area
 
@@ -27,21 +27,21 @@ void main()
         sCreature = GetTag(oCreature);
         if(sCreature == sTag || sCreature == sTag1 || sCreature == sTag2){
           DestroyObject(oCreature);
-          SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
+         // SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
         }
         else if(iVar < 15 || iVar > 0){
-          SendMessageToPC(oPC, "No Match, not destroying: " + GetName(oCreature));
+         // SendMessageToPC(oPC, "No Match, not destroying: " + GetName(oCreature));
         }
       }
       oCreature = GetNextObjectInArea(oArea);
     }
 	
     return;
-  }
-  else{
-    SendMessageToPC(oPC, "***");
-    SendMessageToPC(oPC, "Not zero or 15.  Do Nothing. Variable Value: " + IntToString(iVar));
-    SendMessageToPC(oPC, "***");
+ // }
+ // else{
+ //   SendMessageToPC(oPC, "***");
+ //   SendMessageToPC(oPC, "Not zero or 15.  Do Nothing. Variable Value: " + IntToString(iVar));
+ //   SendMessageToPC(oPC, "***");
   }
 
 }
