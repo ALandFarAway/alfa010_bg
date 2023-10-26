@@ -1,85 +1,9 @@
 
 //Trigger to keep quest creatures from spawning after quest
-//Arianna 10/2023
+//ayergo & Arianna 10/2023
 
 
-/*void main()
-{
 
-object oPC = GetEnteringObject();
-
-if (!GetIsPC(oPC)) return;
-
-int nInt;
-nInt=GetLocalInt(oPC, "PersistentJournalQuestEntrydar_frenzied_roaches_torold");
-SpeakString("we got the trigger");
-
-if (nInt < 1);
-
-else if (nInt = 15)
-   return;
-
-object oTarget;
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach0");
-
-DestroyObject(oCreature);
-
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-DestroyObject(oCreature);
-oTarget = GetObjectByTag("009_cr_v_cockroach");
-
-DestroyObject(oCreature);
-
-oTarget = GetObjectByTag("009_cr_v_cockroach2");
-
-DestroyObject(oCreature);
-*/
 
 #include "acr_quest_i"
 
@@ -110,15 +34,15 @@ void main()
         sCreature = GetTag(oCreature);
         if(sCreature == sTag || sCreature == sTag1 || sCreature == sTag2){
           DestroyObject(oCreature);
-          //SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
+          SendMessageToPC(oPC, "Destroying Creature: " + GetName(oCreature));
         }
-        //else{
-          //SendMessageToPC(oPC, "No Match, not destroying: " + GetName(oCreature));
-        //}
+        else{
+          SendMessageToPC(oPC, "No Match, not destroying: " + GetName(oCreature));
+        }
       }
       oCreature = GetNextObjectInArea(oArea);
     }
-
+    return;
   }
   else{
     SendMessageToPC(oPC, "***");
