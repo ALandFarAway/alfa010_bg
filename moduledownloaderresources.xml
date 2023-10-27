@@ -955,7 +955,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F7570F7BCA3BFC5A6BA4D997B374131595CAE203" downloadHash="129EEDC9F908E507DDAD4823523E5B801BA74717" name="cloakwood_05_coasthouse.trx" dlsize="2306526" size="13301901" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1616A1985E014A6D2B1586EDCAB83603DD0004DC" downloadHash="129EEDC9F908E507DDAD4823523E5B801BA74717" name="cloakwood_05_coasthouse.trx" dlsize="2306526" size="13287647" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
