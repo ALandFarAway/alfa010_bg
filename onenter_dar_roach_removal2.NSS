@@ -1,3 +1,9 @@
+// onenter script for 02a_fieldsofrest   roach quest
+// written by ayergo and Arianna  10/2023
+// removes the spawned creatures if PC has not taken or has finished the quest 
+// [issue is that it does not work in parties where one or more of them have already finished the quest]
+
+
 #include "acr_quest_i"
 
 void main()

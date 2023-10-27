@@ -955,7 +955,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C48DD158D06C3F123ED8342100EA021803F56BA4" downloadHash="635970CBEFDCFBC4C7AA73CF5467A72C04A92848" name="cloakwood_05_coasthouse.trx" dlsize="2288017" size="13275288" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F7570F7BCA3BFC5A6BA4D997B374131595CAE203" downloadHash="129EEDC9F908E507DDAD4823523E5B801BA74717" name="cloakwood_05_coasthouse.trx" dlsize="2306526" size="13301901" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1080,7 +1080,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5A6DE7363FC5CB185C90451E5D4C9A6CBD9724E5" downloadHash="A9600A98B56CA1FD06DEB8B4AE9D0DF65213C619" name="unlinked_misc houses.trx" dlsize="327810" size="331351" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4CF1518AC1ED6385386E9B525614BECAC394B902" downloadHash="B6CFAECEB7A843D0610009CDDAB621A838A4205B" name="unlinked_misc houses.trx" dlsize="329618" size="333218" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
