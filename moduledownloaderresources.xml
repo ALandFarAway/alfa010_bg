@@ -365,7 +365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D1CB4C54B207EDA9B053358C71ECE9122732E97F" downloadHash="5B4AAC6E2CEDB2FD48075E91DA85D9F3F7196ABF" name="cloakwood_23_swordcoast.trx" dlsize="1343839" size="12052069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D434F0A3B35A496BC4578655456FCAA8E7033D61" downloadHash="B89F7AE6711E6A666BEFFA6CB22D918245FE34BA" name="cloakwood_23_swordcoast.trx" dlsize="1350365" size="12052076" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1080,7 +1080,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="35A923775F7015E83FB99DDDA1417E29EBE3FE8C" downloadHash="782E9FD2B03C7804FA648CA16A571713677372CF" name="unlinked_misc houses.trx" dlsize="331288" size="334921" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AA4029EF167A0DC2F02888E2A148DBA671E243E1" downloadHash="B1D7068C12B1FDE63A85F483768873A87371A6CA" name="unlinked_misc houses.trx" dlsize="330962" size="334526" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
