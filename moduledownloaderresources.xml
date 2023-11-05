@@ -65,7 +65,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="63059E11B2344F0E27F5A04E48681230DFE90878" downloadHash="C9C7512DD82BCC771B2E9840BE50B81930E77603" name="bgcity-eastgate ext.trx" dlsize="2633609" size="9584865" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3AA9B7F1A64533A9A0FE66B9D626020FC5AFE1AC" downloadHash="55D339BF1AA7106EF46E952EA98AE2761D1B27FC" name="bgcity-eastgate ext.trx" dlsize="2603694" size="9556497" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -540,7 +540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AB56C1EBEA39A52B9953D8A0A58C7F4EACC397DA" downloadHash="3560D723585BA6835F6CDDB9203C759F35610FCD" name="sharpteeth_06_lg_lake.trx" dlsize="2946511" size="18479691" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9C81022ACFD29493F4DF5E3F54B34F88FBD9EF68" downloadHash="46134C3A7C3AD7C9A9BAE2F8A87AE80A3C3DA095" name="sharpteeth_06_lg_lake.trx" dlsize="2946835" size="18481155" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1275,7 +1275,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A14E6954292539EDA4F549DDC4C0806AD01AA93B" downloadHash="FB25ACB08CCBB7236C52A61B5BC7027CE80B6015" name="beregost.trx" dlsize="4275500" size="18849836" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ED2891014EAB2319FACBCC55B76A8601190C854D" downloadHash="3C12D07B27803DE045A4CD586A9035B67C64D815" name="beregost.trx" dlsize="4281389" size="18859504" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1475,7 +1475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A8C0D0EB48B75F1C3E08B94F6CF9E8B7502C976C" downloadHash="F1E662247DECC6F5872BD81DCF35E80DE691DE22" name="nashkel_town.trx" dlsize="7162873" size="26249744" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EA8A8990A8CE1E3F6740734FF5AC349336340BBD" downloadHash="0B184D5227FF813EC815CA58BFCFC4DCCC5C649A" name="nashkel_town.trx" dlsize="7185294" size="26259569" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
