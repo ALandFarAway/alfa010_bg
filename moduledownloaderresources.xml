@@ -745,7 +745,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3C7B21DDB20CA52FCCB335550E88F1185D60898E" downloadHash="63321853F54AE388F21996D601547D5B96EB2F87" name="tradeway_s_05b_canyon.trx" dlsize="4767445" size="21287514" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A00EBFE9F7AF2A760008599CCBC849B275297CBA" downloadHash="7A4CD8802D80FEE06995C2F0ABEE0B224601CED0" name="tradeway_s_05b_canyon.trx" dlsize="4781308" size="21287513" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2236,6 +2236,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="FA5D7FCA7BC6A6AC254DB8C013839ED22BB61C2A" downloadHash="9041A3FAA681ABA18ACB4268C55917C9289AB828" name="tradeway_nw_02a_fieldofrest_cv2.trx" dlsize="252339" size="254742" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9F0E98786B3A5E218CFBFD0BD7F260CB324B689D" downloadHash="DFFDFB835CCECC716441C3CCB3CE613B984318A2" name="tradeway_s_05b_cave.trx" dlsize="134732" size="136060" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
