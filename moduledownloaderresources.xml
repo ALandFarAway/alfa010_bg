@@ -2240,7 +2240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9F0E98786B3A5E218CFBFD0BD7F260CB324B689D" downloadHash="DFFDFB835CCECC716441C3CCB3CE613B984318A2" name="tradeway_s_05b_cave.trx" dlsize="134732" size="136060" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F21BF71F74C6BE70D4C46396F4291E76D356B3F2" downloadHash="2EA8827E15B1C3441459BB7DE0F7D50CAA4EC731" name="tradeway_s_05b_cave.trx" dlsize="189148" size="190318" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

@@ -201,7 +201,7 @@ void main()
 			{
 				NotifyPlayer(oPC, NOTIFY_TYPE_INFO, 
 							"\nRuqel.", 
-							"Ruqel is a tiny theocracy recently established with an alliance to Candlekeep. They are lead by a champion of Selûne, Teresa Irithyl, and hold the Guardians of Light, an order of Selûne's paladins which had until its found since the days of Netheril. The nation's reputation is mixed, being known both for improving the safety of the region and aggression toward that goal.", 
+							"Ruqel is a tiny theocracy recently established with an alliance to Candlekeep. They are lead by a champion of Selûne, Teresa Irithyl, and hold the Guardians of Light, an order of Selûne's paladins which has existed since the days of Netheril. The nation's reputation is mixed, being known both for improving the safety of the region and aggression toward that goal.", 
 							NOTIFY_WINDOW_MESSAGE_BOX,"","","OK");
 				SetLocalInt(oPC, "GI_RUQEL", 1);
 			}
