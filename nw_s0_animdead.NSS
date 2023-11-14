@@ -7,21 +7,23 @@
 void main()
 {
 
-/* 
-  Spellcast Hook Code 
-  Added 2003-06-23 by GeorgZ
-  If you want to make changes to all spells,
-  check x2_inc_spellhook.nss to find out more
-  
-
-
     if (!X2PreSpellCastCode())
     {
 	// If code within the PreSpellCastHook (i.e. UMD) reports FALSE, do not run this spell
         return;
     }
+else if(nSpellID == SPELL_ANIMATE_DEAD ){
+     
+        //SetModuleOverrideSpellScriptFinished();
+        return;
+      }
+      if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE && GetIsDead(oTarget) ){
+        SetModuleOverrideSpellScriptFinished();
+        //SendMessageToAllDMs("Dead target");
+        return;
+      }
+    }
 
-*/
 
 void SetHide(object oZombie, object oTarget){
   object oTHide = GetItemInSlot(INVENTORY_SLOT_CARMOUR, oTarget);
