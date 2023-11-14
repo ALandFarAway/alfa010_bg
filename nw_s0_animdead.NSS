@@ -3,8 +3,9 @@
 
 #include "acr_spellhook_i"
 #include "acr_spells_i"
+#include "acr_creature_i"
 
-void main()
+/*void main()
 {
 
     if (!X2PreSpellCastCode())
@@ -24,7 +25,7 @@ else if(nSpellID == SPELL_ANIMATE_DEAD ){
       }
     }
 
-
+*/
 void SetHide(object oZombie, object oTarget){
   object oTHide = GetItemInSlot(INVENTORY_SLOT_CARMOUR, oTarget);
 
