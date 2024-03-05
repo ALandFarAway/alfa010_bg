@@ -65,7 +65,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3AA9B7F1A64533A9A0FE66B9D626020FC5AFE1AC" downloadHash="55D339BF1AA7106EF46E952EA98AE2761D1B27FC" name="bgcity-eastgate ext.trx" dlsize="2603694" size="9556497" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B3151C03D2C3E654F787AA934DE687CFB0112748" downloadHash="CA36ED53845132F3A832A74E3010D20FEAF21725" name="bgcity-eastgate ext.trx" dlsize="2605552" size="9561448" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -675,7 +675,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B3500B17D79FC1DCA8DD525A073B41BA8C60B184" downloadHash="E78A9F05215FB7FBD488533892CAC58170D05841" name="bgcity-eastgate_elfsong.trx" dlsize="180291" size="181593" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BD68A377FE53224DDA27553DC7C8A8642420E44E" downloadHash="C24411F93F38F86470FE2125F75127E9266728B1" name="bgcity-eastgate_elfsong.trx" dlsize="181259" size="182615" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1150,7 +1150,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A8F97838EBE9B80F48620E6ABF6DD9D0B18C3ACB" downloadHash="E55F89B6901DCD9F28C13AF3A4FECB835370211E" name="bgcity-harboreast_fightclub.trx" dlsize="140757" size="141072" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8FFB9D62D8AB30F851CDD77C7DE8C5DE604C80B4" downloadHash="5A1B3A9B25257A36D344DB55274DF94EBA9D7B64" name="bgcity-harboreast_fightclub.trx" dlsize="139701" size="140103" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

@@ -5,27 +5,7 @@
 #include "acr_spells_i"
 #include "acr_creature_i"
 
-/*void main()
-{
 
-    if (!X2PreSpellCastCode())
-    {
-	// If code within the PreSpellCastHook (i.e. UMD) reports FALSE, do not run this spell
-        return;
-    }
-else if(nSpellID == SPELL_ANIMATE_DEAD ){
-     
-        //SetModuleOverrideSpellScriptFinished();
-        return;
-      }
-      if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE && GetIsDead(oTarget) ){
-        SetModuleOverrideSpellScriptFinished();
-        //SendMessageToAllDMs("Dead target");
-        return;
-      }
-    }
-
-*/
 void SetHide(object oZombie, object oTarget){
   object oTHide = GetItemInSlot(INVENTORY_SLOT_CARMOUR, oTarget);
 
@@ -116,14 +96,7 @@ void SetWeapon(object oZombie, object oTarget, int iSlot){
       }
     }
 
-
-
   }
-
-
-
-
-
 
 }
 
@@ -159,8 +132,6 @@ if(iClass > 10){
   SendMessageToAllDMs("This creature has more than 10 Hit Dice.");
   return;
 }
-
-
 
 
 //AssignCommand(oTarget, ActionSpeakString("*Jaggedly rises from the ground*") );
