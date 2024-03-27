@@ -1760,7 +1760,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A480982F58CC53B5654781A357B16446B9AA4672" downloadHash="C21DCFCF894D9F4942BB5430C99978B920F88E82" name="fields_ofthe_dead_ne_01_caves.trx" dlsize="436132" size="617583" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9465D041883F262B9031084BA040E2CD9804201C" downloadHash="FF84CE11A6EC05691D13D5D6ACB13A03310459D4" name="fields_ofthe_dead_ne_01_caves.trx" dlsize="447131" size="628946" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
