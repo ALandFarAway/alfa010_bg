@@ -1715,7 +1715,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="235B845AE2EC28B8AEA64734DB6E6F4FF7E3EB6F" downloadHash="D3DEBB4ACE1323C02394F61D7C51499520F228FB" name="cloakwood_hill_01.trx" dlsize="4101301" size="20365284" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4E9D13AF2F210F18F3D3FFE33C124A6847667695" downloadHash="AE9A57D8EFD661391B2AF0CB0541C779CE86B852" name="cloakwood_hill_01.trx" dlsize="4091121" size="20361867" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2255,6 +2255,11 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4991CAD6103D8A9846BE2F26FC4818183FE2F24B" downloadHash="8CD0BD8FA00B2542D422287A6322B223DC51F8F6" name="candlekeep_lionsway_02_02_docks.trx" dlsize="4665307" size="26965572" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
