@@ -2262,4 +2262,14 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="938C38D80C720A52016AEE87D3AAB0CDB2E83499" downloadHash="5CEAC3613B46AAD31C93A438DA72CB9B048B33D8" name="cloakwood_23_cave_sea.trx" dlsize="445509" size="2985747" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D72C2D5A08DC8DA4861D312E7CA78635BE2E5145" downloadHash="2FA2682B78809454D8D3A90C7539A6F66F8667F5" name="cloakwood_23_cave2_eerie.trx" dlsize="400176" size="760507" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
