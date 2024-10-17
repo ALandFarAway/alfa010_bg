@@ -725,7 +725,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A78BA3F035216511815DE6F1E10DCC6A3DE017D4" downloadHash="F97F071EA34B1BB6169EAA3AA09B0E5B6100D9F0" name="010_starting_area.trx" dlsize="130504" size="131376" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="612C3403D7B26C400B15D1182A4F407377F3A7F2" downloadHash="C6494E123F39B07F2781443FCDF4EECDA19F909E" name="010_starting_area.trx" dlsize="132919" size="133784" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
