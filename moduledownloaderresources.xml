@@ -1410,7 +1410,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="23D14492316643F67DDCAC0CBE082F67618551F5" downloadHash="5130245AFE0AC02A89189F866A8DDAD3F69DD3CD" name="nashkel_cave0_maus.trx" dlsize="520077" size="1108585" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A387B5A6CA65FE9CA8C8A35C4CE5A02D9BD47A2F" downloadHash="B58C55C64029B066668098BCF2762932C7E21CE7" name="nashkel_cave0_maus.trx" dlsize="548943" size="1136872" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
