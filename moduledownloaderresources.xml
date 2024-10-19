@@ -105,7 +105,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7C3133DC7EC6256969855530FC892D3E64857471" downloadHash="C0C3206D2A507C8A41A403792983143D22BB2320" name="nashkel_inn0_northern_light.trx" dlsize="126181" size="170814" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="464EA5FEBAED8035E727385BF7D321A8AE18A895" downloadHash="64EAFF9AB5183AB8C8D24F8DC7FB898F49B00B7A" name="nashkel_inn0_northern_light.trx" dlsize="134214" size="178750" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -435,7 +435,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="165666F445960E6EB42F59E067DBCF227FCBF1C1" downloadHash="46DDBDC845E2EC81B2CD2AEDC6DAA84BB8A37D99" name="nashkel_sewer.trx" dlsize="1449408" size="13913963" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7ADCF12CB35121B632B41BC762E542B62DE15DA0" downloadHash="DD87DBF0A7865D7CDE210150E16DA329DD8BE471" name="nashkel_sewer.trx" dlsize="1389766" size="13876727" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
