@@ -1145,7 +1145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6EA62F4D14C789DAD4F50ACE62297A9D6BE9D440" downloadHash="E97D4EFC7937F6BF1B2488891DEAF8354476AFDD" name="nashkel_cave2_bugbear.trx" dlsize="129211" size="4018753" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="67133C05F8978AE3DC6C9B109A43E899BBFD46C7" downloadHash="A84DC90F4D2F0EDA1FEF8A9A9A07B0147CA96C95" name="nashkel_cave2_bugbear.trx" dlsize="190298" size="4082019" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
