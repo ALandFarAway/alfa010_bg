@@ -6,7 +6,7 @@
 int StartingConditional()
 {
 object oPC = GetPCSpeaker();
-if(GetXP(oPC) <= 15) return TRUE;
+if(GetXP(oPC) <= 65) return TRUE;
 
 else return FALSE;
 
