@@ -710,7 +710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1F463A61A520E1324072518501C558BF76C794F3" downloadHash="7118A88F642301AE9339AF1F9531044C391A2AF3" name="nashkel_barracks.trx" dlsize="24889" size="24902" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6489ADD8F47E2BCBFAA7D8E4EEAE84BDBFC8279B" downloadHash="8808C11C884C3A6C259932242E9EEB9F92C453FC" name="nashkel_barracks.trx" dlsize="25042" size="25057" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
