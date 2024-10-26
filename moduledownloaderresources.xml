@@ -425,7 +425,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0A270C4DD3EDFFD537D904D33185DE0C98B1C2A4" downloadHash="50AA3F13B9420E0565B30ED2FEE648484A1440A1" name="nashkel_cave1_gnoll.trx" dlsize="269216" size="449519" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="66FA995E306326EF2AFC01B08AEB9433DA6DEF06" downloadHash="991B855CE576F31619E906872362F0C6C0CDE3A6" name="nashkel_cave1_gnoll.trx" dlsize="270318" size="450475" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -755,7 +755,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B07982DC9242BA2E41A6577F77ABE23548F5F24" downloadHash="E23E28708DBC1D4D10713E474184C560CF948EAB" name="nashkel_pass_03_wilds_cabin.trx" dlsize="56873" size="57384" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B8A8719FDF02574101C7B0B2B8864B4BD2B1D169" downloadHash="D8FEFB3B4FC60855AF748E90106F5961D1411477" name="nashkel_pass_03_wilds_cabin.trx" dlsize="6680" size="6685" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2268,6 +2268,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D72C2D5A08DC8DA4861D312E7CA78635BE2E5145" downloadHash="2FA2682B78809454D8D3A90C7539A6F66F8667F5" name="cloakwood_23_cave2_eerie.trx" dlsize="400176" size="760507" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6B07982DC9242BA2E41A6577F77ABE23548F5F24" downloadHash="E23E28708DBC1D4D10713E474184C560CF948EAB" name="generic_unlinked_inn.trx" dlsize="56873" size="57384" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
