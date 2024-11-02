@@ -770,7 +770,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="28CAE5F9838166B244AE504862CA09D01510FE53" downloadHash="223E9CFC061BDEA0C953783B01BA8F422A589A27" name="bgcity-harboreast.trx" dlsize="2496697" size="11943352" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="80A5E5E9CFC814219A01877E7CD1AE5DE4503687" downloadHash="CC6C195213E409B22C869585C06D1CBF37DAD010" name="bgcity-harboreast.trx" dlsize="2496315" size="11945272" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2288,6 +2288,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="037DC04CDDDFEC8382691A6EC533E8F18ED3442E" downloadHash="C28338CAE298280C144B7CB853FC62B21CC7B517" name="bgcity-harboreast_storehouse.trx" dlsize="82860" size="83326" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F7F7CCC7E299DF000CA0C8D4AE70025E0625DED1" downloadHash="E8A9466DCEE5A1B9C82F7D94706C6A487704D0CE" name="bgcity_harboreast_shops.trx" dlsize="23264" size="23282" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
