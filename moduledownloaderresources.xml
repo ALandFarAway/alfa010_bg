@@ -2302,7 +2302,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="82CA5FEDDB39916304DE9C8E01CFBCAF0BE4DFD9" downloadHash="9159F68291472BBABA2AC69B7AE811515693761E" name="bgcity-harboreast_shops.trx" dlsize="24592" size="24641" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="59CCFE8FAA41F59578692CB63BD7AAE732F3E4CA" downloadHash="CEECFD57A00283FC5A4B7A158598D17F0E8E565F" name="bgcity-harboreast_shops.trx" dlsize="24590" size="24651" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
