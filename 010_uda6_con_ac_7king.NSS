@@ -36,4 +36,3 @@ while (GetIsObjectValid(oLoop))
 	oLoop=GetNextFactionMember(oPC);
 	}
 }
-
