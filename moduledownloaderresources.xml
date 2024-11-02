@@ -65,7 +65,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C37C6754062F5363CB8C20079ADA9D4324FAED7" downloadHash="8A3C04EDA9862759322204F05513E230286B3F3D" name="bgcity-eastgate ext.trx" dlsize="2613338" size="9570943" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="079FB67BB05E1F9414B8BF612CDD809F880E3B6E" downloadHash="6910BE6AB768E4209E0F821246A791858500BBC8" name="bgcity-eastgate ext.trx" dlsize="2623740" size="9581128" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2297,7 +2297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E8DACB54758CAF71DA1AFEEAE2C6403CEE56A695" downloadHash="8042BB1C6156BEEB31D2BA7E53B75EB94EF12E07" name="bgcity-harboreast_shops.trx" dlsize="24591" size="24633" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7C53EA792817F8F470A0B843F216487C22F17E37" downloadHash="13B1D6E0D6039D529465D4A2E81699CE4611FEF3" name="bgcity-harboreast_shops.trx" dlsize="24555" size="24578" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
