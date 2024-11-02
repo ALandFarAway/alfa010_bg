@@ -210,7 +210,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5879C0240EB8A95E11FA49740D7B16588743A873" downloadHash="6B4F695E8D27DA008A6E1A7E2665904F96293DC3" name="bgcity-harborwest.trx" dlsize="3569950" size="15025270" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B61BE3E8BA4AF254B732B62EC7BD0E21960FEA77" downloadHash="1CFB38F7733D15CDD73FDB12548F2A292937183A" name="bgcity-harborwest.trx" dlsize="3591226" size="15043227" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -640,7 +640,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="23BD690F6F2DECD5472863DBE72ED94D073BA812" downloadHash="346B7ABD1E7245F66E6CD94AC69E80E5339F5A33" name="bgcity-castledist ext.trx" dlsize="4869601" size="14657818" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="56C45EA55393DBEB2CA7D2916E9CA6F969385629" downloadHash="145249A28B59E6DF2F4DCBC0A5780221A398E4E4" name="bgcity-castledist ext.trx" dlsize="4808102" size="14606084" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2292,7 +2292,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F7F7CCC7E299DF000CA0C8D4AE70025E0625DED1" downloadHash="E8A9466DCEE5A1B9C82F7D94706C6A487704D0CE" name="bgcity_harboreast_shops.trx" dlsize="23264" size="23282" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="141431A5F6F64D987B95723841038EA9116B3023" downloadHash="E8A9466DCEE5A1B9C82F7D94706C6A487704D0CE" name="bgcity_harboreast_shops.trx" dlsize="23264" size="23985" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8894ADAEAFCB7051619D0E637CA79C23E8004DDE" downloadHash="C677BD92CE8B5853A0E9B2902BDBACED10AB4D66" name="bgcity-castledist_shops.trx" dlsize="15458" size="15524" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8DD90ABA0713BC87B3F4FFAB1E0AE0D1EE3A2DD4" downloadHash="27499E71F01474BB4DCEA02E0B62CBBE2A826DBA" name="bgcity-harboreast_shops.trx" dlsize="23973" size="23985" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
