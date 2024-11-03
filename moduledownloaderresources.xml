@@ -65,7 +65,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="079FB67BB05E1F9414B8BF612CDD809F880E3B6E" downloadHash="6910BE6AB768E4209E0F821246A791858500BBC8" name="bgcity-eastgate ext.trx" dlsize="2623740" size="9581128" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="987F80BDDB621DFA87F2B1C0B380916AD338C2B0" downloadHash="41835651A26EC46A2759570CCEE2184C5E2C9F12" name="bgcity-eastgate ext.trx" dlsize="2624559" size="9573704" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -210,7 +210,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B61BE3E8BA4AF254B732B62EC7BD0E21960FEA77" downloadHash="1CFB38F7733D15CDD73FDB12548F2A292937183A" name="bgcity-harborwest.trx" dlsize="3591226" size="15043227" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8AF14011DB4D4A12A37B97DEE9216F22A559DDD4" downloadHash="DBA8FF39953A9277A01247777A9A956C22932ED7" name="bgcity-harborwest.trx" dlsize="3603599" size="15050986" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -910,7 +910,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="21B367624DE717D2779632400446C797067B2673" downloadHash="9070838E23825BB9320C0F2A0A2AE4EB3972F317" name="bg-undercellar.trx" dlsize="551196" size="2548312" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C192E9B41D57D93FCB00FB21DD3E8704787C8B19" downloadHash="D732B0D56F3AA3EE3E83EE1F757D3F7976F6479F" name="bg-undercellar.trx" dlsize="550287" size="2548998" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1860,7 +1860,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="23750A17FC13EA092228DCF964CED2F564652C5C" downloadHash="ED554E299CD0C665165AE3219C82ADC4B5B8F70D" name="bgcity-harborwest_int.trx" dlsize="157473" size="158307" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BC34CE3065325ECDB3B00D3772D7072915CD5AE8" downloadHash="220B0A9D70A713BCB0D609EBC96605BF60F75280" name="bgcity-harborwest_int.trx" dlsize="166025" size="167087" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
