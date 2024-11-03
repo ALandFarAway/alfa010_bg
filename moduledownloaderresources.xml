@@ -910,7 +910,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2736CA3D6B22A33E0C1BEAB93461A3B81DAA4A18" downloadHash="557DB7CF259699625A84A6EB87DBD67AE2AC59B6" name="bg-undercellar.trx" dlsize="537349" size="2530759" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="21B367624DE717D2779632400446C797067B2673" downloadHash="9070838E23825BB9320C0F2A0A2AE4EB3972F317" name="bg-undercellar.trx" dlsize="551196" size="2548312" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2303,6 +2303,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C08908F1E815EB4933BD4C6CF9428545EEEFA4B6" downloadHash="54FE6691EABBAC49987F6CFC34AFE21335F6AFBA" name="010_quarantine.trx" dlsize="29052" size="29545" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A6B26062A4A27ACED72097F021E6F9545C275464" downloadHash="FED288EA7BB2CEA9B01378E1E7CB0940A1C17985" name="bgcity-harborwest_warehouses.trx" dlsize="69667" size="69667" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
