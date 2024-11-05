@@ -910,7 +910,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C192E9B41D57D93FCB00FB21DD3E8704787C8B19" downloadHash="D732B0D56F3AA3EE3E83EE1F757D3F7976F6479F" name="bg-undercellar.trx" dlsize="550287" size="2548998" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2464CFEEFAAD4C3DB177082ACADB6A6A6A26B29A" downloadHash="9B8139239D46918FB1EAEBDEE21492898A087C08" name="bg-undercellar.trx" dlsize="1022888" size="3031438" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
