@@ -910,7 +910,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2464CFEEFAAD4C3DB177082ACADB6A6A6A26B29A" downloadHash="9B8139239D46918FB1EAEBDEE21492898A087C08" name="bg-undercellar.trx" dlsize="1022888" size="3031438" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6B1D5DC4893F96CA1A0ABA2D93D09CDFCE81D237" downloadHash="572F49CA2EBCA29185F05CC29053E8D0AC0FADD1" name="bg-undercellar.trx" dlsize="1019441" size="3027702" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1085,7 +1085,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E2BE17D6B1BCC4DDA2EB6030BA2C78D79825CD6C" downloadHash="BA9590230BA78D906CD72762C9452C25298EEE68" name="candlekeep_m_gate.trx" dlsize="107911" size="107782" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="03E52558342E2EB9463E12B9F911E3919B6C63E4" downloadHash="75FB403166BA7286B2A3643A885A195EC635CAFC" name="candlekeep_m_gate.trx" dlsize="107908" size="107782" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
