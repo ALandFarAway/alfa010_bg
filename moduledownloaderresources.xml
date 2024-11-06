@@ -805,7 +805,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CA4092F705F94D9748BC76BEF030CA9D55B02A3A" downloadHash="0B544C49A084112B04BB759F77E4604651BC445D" name="candlekeep_m_temple_oghma.trx" dlsize="50609" size="50605" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41A3E12CCB14FCB4649BA23993E107AC52802DE7" downloadHash="3B84CFA1521FAAF4C27F5AF759009455C3B86C5E" name="candlekeep_m_temple_oghma.trx" dlsize="50787" size="50758" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -910,7 +910,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B1D5DC4893F96CA1A0ABA2D93D09CDFCE81D237" downloadHash="572F49CA2EBCA29185F05CC29053E8D0AC0FADD1" name="bg-undercellar.trx" dlsize="1019441" size="3027702" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D53A1B2640512A9AE6498496890C6BDA724D2801" downloadHash="8D21E0565F8199E9E2F65F5FE64FB0A836934FBE" name="bg-undercellar.trx" dlsize="1028020" size="3030645" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1085,7 +1085,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="03E52558342E2EB9463E12B9F911E3919B6C63E4" downloadHash="75FB403166BA7286B2A3643A885A195EC635CAFC" name="candlekeep_m_gate.trx" dlsize="107908" size="107782" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C7E65BBD1BCDB8725B2742D52E9F666006744771" downloadHash="3803FC9D2B030B40C7E106E2101220BA04113FB8" name="candlekeep_m_gate.trx" dlsize="108023" size="107885" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1445,7 +1445,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AD5DF92588CDE3DE2774E464DCC28C2112926EEF" downloadHash="0366BA1028414FCC1F555F4C8E87D9CED03B6D56" name="nashkel_pass_03_cave_frozen.trx" dlsize="228714" size="1495160" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9B275E3A6780B1AD25ADEE8EC8E44F2D59734C8C" downloadHash="9839C200E33FD13402ABAB32FA0C02472B99A99B" name="nashkel_pass_03_cave_frozen.trx" dlsize="231689" size="1545121" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
