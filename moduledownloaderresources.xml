@@ -910,7 +910,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DCC4B4044B020BDFE8138E1EB1D23C9D4399C410" downloadHash="D2A38877E635E38D8EE03AB1621A75520E51DADD" name="bg-undercellar.trx" dlsize="1002315" size="3007058" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B555C628B910DB09ADB3591ABAA6243371A7F7BC" downloadHash="8100CA2B2473827B72F491342B9CC4729C9BAC22" name="bg-undercellar.trx" dlsize="1030296" size="3034697" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1080,7 +1080,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AA4029EF167A0DC2F02888E2A148DBA671E243E1" downloadHash="B1D7068C12B1FDE63A85F483768873A87371A6CA" name="unlinked_misc houses.trx" dlsize="330962" size="334526" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="65A3F62FC29E414B761BD6CAE556C0705CAC69EB" downloadHash="878621CA276875CC5D19DBD2D9D8B2591D3D78A2" name="unlinked_misc houses.trx" dlsize="331416" size="334952" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

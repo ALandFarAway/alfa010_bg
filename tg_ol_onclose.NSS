@@ -14,6 +14,7 @@ nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYBG_tg_OL_challenge1");
 if (nInt < 1)
    return;
 
-   GiveXP(OPC)(10, oPC, FALSE));
+   //GiveXP((OPC)10, oPC, FALSE));
+   GiveXPToCreature(oPC, nXP );
 
 }
