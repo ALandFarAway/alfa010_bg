@@ -225,7 +225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E867D086C34ED516CE793044BBE03DE869FE06F9" downloadHash="2F06040945FCD898965AC6A72DAD441B634FB0F3" name="bgcity-upperwest_flamingfist.trx" dlsize="167103" size="167895" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1EF9E75D03D86347E94C8C98C345FFF47382C20C" downloadHash="2A69593D7DC46CA23A6E69371ED133EE78DC534D" name="bgcity-upperwest_flamingfist.trx" dlsize="180520" size="181480" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
