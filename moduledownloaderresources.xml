@@ -910,7 +910,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B555C628B910DB09ADB3591ABAA6243371A7F7BC" downloadHash="8100CA2B2473827B72F491342B9CC4729C9BAC22" name="bg-undercellar.trx" dlsize="1030296" size="3034697" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8ADFC5E65FD169FDD8AFAD4B9C07A0CF4F7879F2" downloadHash="E04582671A2900EBC4AA7ADEBE24BD9F98985165" name="bg-undercellar.trx" dlsize="1045539" size="3048535" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -965,7 +965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="00BD1105E7CFC788257286CFCEDDC842E6B7299A" downloadHash="3EB73D9C967CB8927EA959DEDB20116FE2D45919" name="und_z1_underway.trx" dlsize="594557" size="607220" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1EB6146A1201B30B855465D1331AB79BD9D16D99" downloadHash="E51987CDF6194F4B3CEB221EA74A7E8136F58D2D" name="und_z1_underway.trx" dlsize="591425" size="604124" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1080,7 +1080,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="65A3F62FC29E414B761BD6CAE556C0705CAC69EB" downloadHash="878621CA276875CC5D19DBD2D9D8B2591D3D78A2" name="unlinked_misc houses.trx" dlsize="331416" size="334952" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D8E61D7BA266B41A48BF7535310B7FCA6D946FC3" downloadHash="0377CF70723DFE6AB2D8B9D8C2D937AC31C415F9" name="unlinked_misc houses.trx" dlsize="331416" size="334952" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1615,7 +1615,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="58A91F2B25AC8DF387904C2CDA18FC422492688B" downloadHash="E0D016F8E27603368EF08411A128C9E67997FAC4" name="unlinked_noblehouse.trx" dlsize="49969" size="50050" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="289D1F944360EAE97A4AC550461ED1220063F2A8" downloadHash="8FD74D78376E0B2F15B53B1976189809DC44DBA8" name="unlinked_noblehouse.trx" dlsize="71292" size="71415" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
