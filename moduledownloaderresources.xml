@@ -910,7 +910,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8ADFC5E65FD169FDD8AFAD4B9C07A0CF4F7879F2" downloadHash="E04582671A2900EBC4AA7ADEBE24BD9F98985165" name="bg-undercellar.trx" dlsize="1045539" size="3048535" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="998D55FEE57CFF1B79B6FEC17A1412C0B1762420" downloadHash="879BFC8D2B853AEB4B20D71360AFC870231DE111" name="bg-undercellar.trx" dlsize="1037011" size="3041198" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1170,7 +1170,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="66516CD162B9A3DA8440618CDA0C2D3D2281AB70" downloadHash="314CD5385FD860A409E77505E35A16315A76A279" name="bgcity-harborwest_tguildhall.trx" dlsize="309287" size="320788" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2DCAEAF4C312BA2336159D68A177C53C6DCB2F2F" downloadHash="46CD99AF41ECF7827FF895C81070FA7AC69FD3E6" name="bgcity-harborwest_tguildhall.trx" dlsize="316339" size="327130" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
