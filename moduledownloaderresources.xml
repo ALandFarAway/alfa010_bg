@@ -770,7 +770,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="80A5E5E9CFC814219A01877E7CD1AE5DE4503687" downloadHash="CC6C195213E409B22C869585C06D1CBF37DAD010" name="bgcity-harboreast.trx" dlsize="2496315" size="11945272" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="516D0390C58D8FAD05C30F7674B84A30CA4723D4" downloadHash="5630DF50F91B25B1962A351D82EB19AD47788552" name="bgcity-harboreast.trx" dlsize="2516341" size="11957431" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
