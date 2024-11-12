@@ -1880,7 +1880,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8A4E860D8594E27DFC340E771C5AF0E2158CF9CD" downloadHash="FCE9EE22525DFE9A9701D19E9F0ACAE39658D57B" name="bgcity-harboreast_warehouses.trx" dlsize="470298" size="475452" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="028F7F84607538AA5386844DAC63CA58D74E166A" downloadHash="C83745871DC60479CCF0724EF4A3C148F5A346BF" name="bgcity-harboreast_warehouses.trx" dlsize="459846" size="464922" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
