@@ -985,7 +985,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CBD694224837981C9B951D60F11A0B10F0CC6853" downloadHash="768D0D3117733CD9416C34F90D71BC73F55EF9D7" name="tradeway_s_05a_crystalshard.trx" dlsize="1599769" size="11815731" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FF94D9532D074B3612B9638075F18533EA389556" downloadHash="1C5B554C6BCF873FDEAD8C3A2D4A95979E4C1D54" name="tradeway_s_05a_crystalshard.trx" dlsize="1573679" size="11795608" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2272,7 +2272,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B07982DC9242BA2E41A6577F77ABE23548F5F24" downloadHash="E23E28708DBC1D4D10713E474184C560CF948EAB" name="generic_unlinked_inn.trx" dlsize="56873" size="57384" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="57956C92D51C2E9A6141E158BFD933A3380BD187" downloadHash="634BAE161B6A3211EDF87FCCB3DFB96F9160134D" name="generic_unlinked_inn.trx" dlsize="56913" size="57425" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
