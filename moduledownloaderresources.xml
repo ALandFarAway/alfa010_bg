@@ -340,7 +340,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E295E593157F98B734CC45F10E60CD15445FD1C9" downloadHash="300DB0405D947CDAFB54B501F29ECF506AEBB9C3" name="tradeway_s_04_fai_main.trx" dlsize="364374" size="724352" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8B358ADC9494CFA4E49147B093B4B6265632CE74" downloadHash="929579C192B2E12F430EC617FF68C195D5A8AC0C" name="tradeway_s_04_fai_main.trx" dlsize="367170" size="726688" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
