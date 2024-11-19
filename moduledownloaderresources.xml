@@ -540,7 +540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C81022ACFD29493F4DF5E3F54B34F88FBD9EF68" downloadHash="46134C3A7C3AD7C9A9BAE2F8A87AE80A3C3DA095" name="sharpteeth_06_lg_lake.trx" dlsize="2946835" size="18481155" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="25A3D26892CB5E641D7C12D53FAC3BA17035EC1A" downloadHash="267E51D85433619942CCCD2C534E6B0D092775B2" name="sharpteeth_06_lg_lake.trx" dlsize="2950577" size="18479740" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -690,7 +690,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="985B0882310C925F65B357BE5531E8565DF40770" downloadHash="89D0F1A99675A96482548A854FA44E8515784868" name="sharpteeth_05_deserted_valley.trx" dlsize="1201192" size="8786081" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B925727F20002128CC36AF4DE4073666BD6FD30E" downloadHash="9A081A51D01967ECDA6EB2C1679FC062AAE460D1" name="sharpteeth_05_deserted_valley.trx" dlsize="1198711" size="8732973" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -700,7 +700,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7C20FB5D9A66F9342FB482E8E7D0AC59094CA6A8" downloadHash="1BFEC5D07197430653D0DDA438D603DF6414AF6D" name="sharpteeth_06_cave_b0.trx" dlsize="361060" size="367675" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4EC1FE0C202D25F2A7D254D048A362AE55DCD401" downloadHash="A94C814DE74214743DA023B92ADC16E7861E87A9" name="sharpteeth_06_cave_b0.trx" dlsize="360958" size="367622" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -780,7 +780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E372D1F11FC03279E6394945984A5142FCE04DDA" downloadHash="356E6AB7AF0D927B69A0440FE8A171F21F785276" name="sharpteeth_00_cave.trx" dlsize="147724" size="326944" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="967F4059A8446FD8BC3E4FB82A6AE3691740890F" downloadHash="6FB84488ACDC87BF7E0040EE6EE04A0542C19F0D" name="sharpteeth_00_cave.trx" dlsize="148123" size="326944" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1430,7 +1430,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="516964A404DB0A39AC534FDEB47B5376F1D286F7" downloadHash="CB22294247A1F3CDA127295ED0F8E28C5641AA48" name="tradeway_s_07_smlake.trx" dlsize="1818485" size="12332467" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C9D351D243410B4D535A0E40F137A5777DB9A1FD" downloadHash="A854A107BA1FDEE033463D274D335253673B4677" name="tradeway_s_07_smlake.trx" dlsize="1865878" size="12467019" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2308,6 +2308,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="A6B26062A4A27ACED72097F021E6F9545C275464" downloadHash="FED288EA7BB2CEA9B01378E1E7CB0940A1C17985" name="bgcity-harborwest_warehouses.trx" dlsize="69667" size="69667" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2A856E1703427970F7EF2DEF28572B29C9D64CE8" downloadHash="25F1F21ACA23D9981DD13E4A9303D3CF0758DA4D" name="sharpteeth_surround_cv1.trx" dlsize="143621" size="322462" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FE9755CB34C22C565FE54E615B2F1F06CFA6E2B1" downloadHash="509187A67EF8A12DF7BC08ADAA47B3439A8459B2" name="sharpteeth_surround_05a.trx" dlsize="2728278" size="14394275" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
