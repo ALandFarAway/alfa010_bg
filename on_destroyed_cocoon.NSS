@@ -21,7 +21,7 @@ if (!GetIsPC(oPC)) return;
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYnkl_ret_2_froze_fiasco");
 
-if (nInt < 2)
+if (nInt < 7)
    return;
 
 object oTarget;

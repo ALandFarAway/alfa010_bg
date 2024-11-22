@@ -275,7 +275,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F634A0224148D528D4C718D2F3D413B0293C5D48" downloadHash="EE4A5FB541F8BAA7ADB40717964B6639B5B04F83" name="nashkel_pass_03_wilds_0.trx" dlsize="2264015" size="10021821" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B26B9BEBC7EDB1FCC318C3C946024918823DF3E6" downloadHash="6E5AC13F766B7C3095B1591EDC6DF63B50FD60FB" name="nashkel_pass_03_wilds_0.trx" dlsize="2248017" size="10027126" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="45A0A76BCD01D116FEB9200FBDC6DB828FDF617B" downloadHash="B0427C01CADD229FEF8D35AF80CBC1F5F7D32EE8" name="nashkel_outskirts.trx" dlsize="6291139" size="24451682" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BB546E1999971EA475E7C46BF7CF76699D2C3370" downloadHash="EE566801E07C733AE0DED73EE9FE72FD850C7350" name="nashkel_outskirts.trx" dlsize="6275488" size="24444827" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1460,7 +1460,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6CE269CFF2E7B8354E7A26D44A56443BCFCEF070" downloadHash="A3ABB1EEF7433CC138180FFE4EC89D42B426649F" name="nashkel_pass_03.trx" dlsize="3552112" size="16811356" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FA71CC9360A1F7CEACBE0A4C229689FF0B41F0EB" downloadHash="15C9ABB9C413882B83BE109344243B76E2445FE4" name="nashkel_pass_03.trx" dlsize="3589044" size="16835551" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
