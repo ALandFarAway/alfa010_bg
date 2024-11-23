@@ -21,9 +21,11 @@ if (!GetIsPC(oPC)) return;
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYnkl_ret_2_froze_fiasco");
 
-if (nInt <= 7);
-else if (nInt = 9)
-   return;
+if (nInt !=7);
+SendMessageToPC(oPC, "This is empty");
+
+   return; 
+
 
 object oTarget;
 object oSpawn;
