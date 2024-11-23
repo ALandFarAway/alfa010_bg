@@ -21,8 +21,8 @@ nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYnkl_ret_2_froze_fiasco");
 if (nInt < 7)
    return;
 
-//AddPersistentJournalQuestEntry(oPC, "nkl_ret_2_froze_fiasco", "8");
-AddJournalQuestEntry("nkl_ret_2_froze_fiasco",8,oPC,1,0,0);
+
+ACR_AddPersistentJournalQuestEntry("nkl_ret_2_froze_fiasco",8,oPC,1,0,0,10,0.3f);
 
 SendMessageToPC(oPC, "*This looks like the stolen necklace described by the captain*");
 
