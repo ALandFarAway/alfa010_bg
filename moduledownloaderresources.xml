@@ -265,7 +265,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7904299CCF3941C48D94D69612CF2FF31ACC94BA" downloadHash="296C91E699D202A163BADD2D68749E49EADF3DD8" name="nashkel_pass_02.trx" dlsize="2901644" size="15607263" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A9A13AB18592F47E47C6EA166511550D449F36F6" downloadHash="1193FCE8E2CF41031D17C708D4DCC1A5829177AC" name="nashkel_pass_02.trx" dlsize="2911169" size="15608264" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED8FC20456DB8D67EC90C87A18E653C567BD8AE8" downloadHash="D45DA7969001798368017D44FC1C2A1C8AC2B927" name="nashkel_pass_01.trx" dlsize="3891266" size="18852738" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D0E703E02698C67E4F6D75C5C6A422C57406FE12" downloadHash="85B27938DBCBD6E5A0CA7CA2164852E500FB96C2" name="nashkel_pass_01.trx" dlsize="3887594" size="18844587" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2277,7 +2277,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E12BD8A454AD8E9B84CA498F5456C5C1E8942A49" downloadHash="D458BFEF095944830D0A95ADA72385595790BD70" name="nashkel_pass_03_wilds_0cabin.trx" dlsize="24327" size="24289" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="24392670FA352C979EB83B1A65953D05081B4E2D" downloadHash="165856CAFE7C5E9F3A6C0E562331BBFA0DFF8CAD" name="nashkel_pass_03_wilds_0cabin.trx" dlsize="24205" size="24162" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
