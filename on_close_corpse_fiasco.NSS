@@ -22,7 +22,7 @@ if (nInt < 7)
    return;
 
 //AddPersistentJournalQuestEntry(oPC, "nkl_ret_2_froze_fiasco", "8");
-AddJournalQuestEntry("nkl_ret_2_froze_fiasco", 8,oPC,1,0,0);
+AddJournalQuestEntry("nkl_ret_2_froze_fiasco",8,oPC,1,0,0);
 
 SendMessageToPC(oPC, "*This looks like the stolen necklace described by the captain*");
 
