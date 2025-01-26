@@ -210,7 +210,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8AF14011DB4D4A12A37B97DEE9216F22A559DDD4" downloadHash="DBA8FF39953A9277A01247777A9A956C22932ED7" name="bgcity-harborwest.trx" dlsize="3603599" size="15050986" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4225CFF535105EADF47255B75A07F663837F5F47" downloadHash="424FE6E773BCA599ACDB101C48D983BFD6F792BA" name="bgcity-harborwest.trx" dlsize="3592561" size="15041200" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -705,7 +705,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="45420DA31922E448B863432E66188CD7ABEF73AC" downloadHash="82BAAE6DF82A137C3C0B7098B23005F3A1026205" name="bgcity-eastgate_architect.trx" dlsize="53629" size="96318" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B09A9A7612E41BB97ED8A2EDD7D6CDC68CAF8D47" downloadHash="477D6FF7321A6B1C955CA8F960212F9BE5E6633B" name="bgcity-eastgate_architect.trx" dlsize="57845" size="100609" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
