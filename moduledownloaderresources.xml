@@ -1045,7 +1045,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F41F642ABA1FA596F60582C62438A7EFD65F7DD2" downloadHash="A57ECEC6E8BA392C1C15258F1823430E301E0113" name="bgcity-eastgate_int_shops.trx" dlsize="215410" size="216589" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="01A25FA7011E8768CD4A9AECA4D609B5EB115813" downloadHash="8BC753407BE3D62E689A38C2F2E509393B624000" name="bgcity-eastgate_int_shops.trx" dlsize="223918" size="225362" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
