@@ -1860,7 +1860,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BC34CE3065325ECDB3B00D3772D7072915CD5AE8" downloadHash="220B0A9D70A713BCB0D609EBC96605BF60F75280" name="bgcity-harborwest_int.trx" dlsize="166025" size="167087" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7B359DC6956DA515AF0CA3D9597278B00088B07E" downloadHash="761DA4CF63B4452A46C1D05C3A01E973FBC9C473" name="bgcity-harborwest_int.trx" dlsize="167525" size="168528" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
