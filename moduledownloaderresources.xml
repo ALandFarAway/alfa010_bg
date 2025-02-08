@@ -540,7 +540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="790FB874B0FF864F4D9B7F50A89DB79E1DEE2E6D" downloadHash="59587D357016124C21F4BF899A0E2127B1BF3603" name="sharpteeth_06_lg_lake.trx" dlsize="3054649" size="18809424" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9D7C1F2A72C8883C2BC83537FE10C14E3C7303FD" downloadHash="2AFE80081B849CA4DB3A06951B538356D75523B5" name="sharpteeth_06_lg_lake.trx" dlsize="3104193" size="18940824" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
