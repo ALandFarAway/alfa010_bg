@@ -650,11 +650,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="190B6ABF63BC50388099B78A0E182DBADDA4FF16" downloadHash="E4F1F8C81A3BA4E671D6E397C7F13A1C5FAE50AD" name="bgcity-castledist_ramazith.trx" dlsize="73063" size="72999" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="E214C0E261F3E8F1927E0DC56B6F877F392DFD7B" downloadHash="416DBD8934FF667C9F56B460D4E495F80282772C" name="vol_a5_underspire.trx" dlsize="1420427" size="10021280" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2318,6 +2313,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="FE9755CB34C22C565FE54E615B2F1F06CFA6E2B1" downloadHash="509187A67EF8A12DF7BC08ADAA47B3439A8459B2" name="sharpteeth_surround_05a.trx" dlsize="2728278" size="14394275" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="98A97837F7EC1A693A412F14D2FCA8475DF1CB90" downloadHash="" name="bgcity_castledist_ramazith_twr.trx" dlsize="0" size="193647" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
