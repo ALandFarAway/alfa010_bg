@@ -1390,7 +1390,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB546E1999971EA475E7C46BF7CF76699D2C3370" downloadHash="EE566801E07C733AE0DED73EE9FE72FD850C7350" name="nashkel_outskirts.trx" dlsize="6275488" size="24444827" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="99612E2307E16789E52C2BB0F48810521C431E2B" downloadHash="21981A58D677626A0CCBD22C5D3EED70592337D6" name="nashkel_outskirts.trx" dlsize="6260838" size="24441097" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2318,6 +2318,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="CF6D9F8CAC7D95FE4EC45106F1CA7CB4B9AE11D5" downloadHash="5CBFD60CEA1BBB6EAF6440A1751CAE5A7FFE38CF" name="bgcity_castledist_ramazith_twr.trx" dlsize="127271" size="215992" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="19F163B62EACDE3C8AF846073DE2EB3B9160D4F9" downloadHash="8AF00947916C2A5CC66CD042EF6015C1D1C201C9" name="nashkel_interiors.trx" dlsize="130395" size="132155" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="097F9944789BB7EDFFE0A378D1FB90BB337E0C8B" downloadHash="27523457DEB9BD2E9B475D61EC8B4894B925E243" name="nashkel_inn1_belch_drag.trx" dlsize="65624" size="65942" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
