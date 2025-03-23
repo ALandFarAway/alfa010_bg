@@ -1390,7 +1390,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6875AD2370D4872500AE3BC81884DA80513C7AF0" downloadHash="FF3AA3F4C36840D75474716B347A8B40A8805154" name="nashkel_outskirts.trx" dlsize="6253086" size="24424284" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="48C97EE5F38C74B01A713557CED087877FB2A171" downloadHash="927E38285CDAE68B764EAF649F59F925A049F452" name="nashkel_outskirts.trx" dlsize="6274817" size="24450666" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
