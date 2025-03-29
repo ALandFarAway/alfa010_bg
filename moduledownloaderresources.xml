@@ -1390,7 +1390,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48C97EE5F38C74B01A713557CED087877FB2A171" downloadHash="927E38285CDAE68B764EAF649F59F925A049F452" name="nashkel_outskirts.trx" dlsize="6274817" size="24450666" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="99C5D523DB6A4F2E3B0C44EF8590F1592C5A6321" downloadHash="A682DED2DAE7F77522F211FB3171F0DBFF7B17B8" name="nashkel_outskirts.trx" dlsize="6305458" size="24534188" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2328,6 +2328,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="097F9944789BB7EDFFE0A378D1FB90BB337E0C8B" downloadHash="27523457DEB9BD2E9B475D61EC8B4894B925E243" name="nashkel_inn1_belch_drag.trx" dlsize="65624" size="65942" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9E6F9020ECC29F1C91AC015CAC04E9BA8B29BDE9" downloadHash="2BE4107803B74EB2318E45444994F5BBBFBBC42B" name="cloudpeaks_northwest_cave.trx" dlsize="96253" size="96478" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="683998E32C1AA6E1C3FBA688130B719CEB5D6FC3" downloadHash="8718CB5BC5904999B5F5C9546F215A35B5DB884C" name="cloudpeaks_northwest.trx" dlsize="3761616" size="20422674" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
