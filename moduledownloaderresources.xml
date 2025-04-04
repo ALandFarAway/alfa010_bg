@@ -2332,7 +2332,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C16D852CAAACC1D4652BEBD09908CD53571D5F4" downloadHash="17C90235E91001ADE0EE5053095840186F6A2AF1" name="cloudpeaks_northwest_cave.trx" dlsize="98678" size="98892" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="987F6171A039321F58DABF24FE255D70F3B21DA3" downloadHash="175C19C7129781F52168B09AA0584336B3CBA4F7" name="cloudpeaks_northwest_cave.trx" dlsize="297445" size="299439" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
