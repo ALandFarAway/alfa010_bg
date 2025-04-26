@@ -55,6 +55,5 @@ void main();
 
 void main() {
 	spawn_hostile( "abr_cr_mb_worg", 0.75, 0.0 );
-	spawn_hostile( "abr_cr_mb_worg", 0.35, 0.0 );
 	spawn_group( "goblins_boss" );
 }

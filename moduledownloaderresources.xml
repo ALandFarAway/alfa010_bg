@@ -120,7 +120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="17B24938458843A60ED77800DEC56280A176F17A" downloadHash="171E34F81C5BCB7E6B83E22C01EB8E1BC0C5B13F" name="gullykin_trail1_cave.trx" dlsize="378973" size="1600131" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="998D76E86E16DAE4622CB43B295C0CD837695CD3" downloadHash="D80610F7F113025E87F935DFD162BCFE1FE049D2" name="gullykin_trail1_cave.trx" dlsize="385763" size="1604635" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="393DD66443F0A8959FED57A34B43500AE556331D" downloadHash="D1DB92E5FD21CA1876468C18265861E553071E86" name="gullykin_trail1.trx" dlsize="6279547" size="25108027" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="80893CD91BCD656BB7ABFA95DB96D2042201EAD6" downloadHash="1E0A42DA24AEDB0F354F3E8CE93A7927093A7950" name="gullykin_trail1.trx" dlsize="6273919" size="25107978" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2332,7 +2332,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="324C6085F3A76CA2577FE46A47E9D46B9959B2FF" downloadHash="57B6BEA7FAB6AB14D2F60468D1FC9DF0D4618EFC" name="cloudpeaks_northwest_cave.trx" dlsize="300078" size="302152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE1E5B28EF369E4445F5E2310A489B5FBD2AA5C6" downloadHash="3B88DD3D1279F81E22AE945C220CFB9973C0C079" name="cloudpeaks_northwest_cave.trx" dlsize="318644" size="408503" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
