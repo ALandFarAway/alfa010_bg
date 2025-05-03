@@ -120,7 +120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="998D76E86E16DAE4622CB43B295C0CD837695CD3" downloadHash="D80610F7F113025E87F935DFD162BCFE1FE049D2" name="gullykin_trail1_cave.trx" dlsize="385763" size="1604635" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9AA2B7E704A5E0A9EACB1762E585C5DCBE9582B9" downloadHash="313FE62E0424743D1632B9A7974675909895F01C" name="gullykin_trail1_cave.trx" dlsize="385640" size="1604441" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -195,7 +195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A865D1EE114CDA0EF96E908084250DBBC033B381" downloadHash="F36EAAECE25653E964FC60D5E4A68AD9B449D0A3" name="gullykin.trx" dlsize="6479127" size="24434923" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E82F43317CC7B7E4EDD73FB169AAFECB9967DB80" downloadHash="7E51BD27061757E24743D67E53BDD28DD261879E" name="gullykin.trx" dlsize="6480565" size="24435769" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -705,7 +705,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6489ADD8F47E2BCBFAA7D8E4EEAE84BDBFC8279B" downloadHash="8808C11C884C3A6C259932242E9EEB9F92C453FC" name="nashkel_barracks.trx" dlsize="25042" size="25057" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A773596C9B4A387B703D28A483A236853FD4C052" downloadHash="9315B51A25F7C17797DB0F6DBA59F9FB1B76532C" name="nashkel_barracks.trx" dlsize="29841" size="29855" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1420,7 +1420,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4278CFF2B75ED2E1D46347BB0439C93803F7CB0D" downloadHash="7E89A15F7CFF35BD675CB1D63918282F69D7BD3B" name="tradeway_n_04_tempus_tears.trx" dlsize="11766854" size="33006221" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FD2B11B31D256871DBDEB14999017FAB3A727978" downloadHash="47AA2F5FC56FAF77DD0734BB6725F519968A2F39" name="tradeway_n_04_tempus_tears.trx" dlsize="11692609" size="32940926" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2338,6 +2338,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="BDDD74801EEF0B665CAC27E536DCE200F4F5D8E2" downloadHash="24AE73385362EBC13403DD5F9B744E0532E19AB1" name="cloudpeaks_northwest.trx" dlsize="4101803" size="21208686" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="28B16E7F7DD9560922EEE3215CA606C19569D901" downloadHash="755ABA76F3C63BE8FFC8EF4D183D031E5CD8D3A5" name="winding_water_nw_swamp.trx" dlsize="2279225" size="22398739" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5110D1F601799896F905F2569CBE39A895A0872C" downloadHash="9C8AAAA5428202C1316C5DBE9592DD7681CE800E" name="gullykin_community_int.trx" dlsize="73720" size="74074" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
