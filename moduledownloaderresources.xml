@@ -145,7 +145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A80A0EAE52BC0DD545DEE75CE6960B071CD95C59" downloadHash="A14A3C9939511AD7D19EAE640A800918DE829B4B" name="sharpteeth_05_cellar.trx" dlsize="152932" size="154841" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="322F300390762E9E2ECB69CDFBD39F072A6949D3" downloadHash="8141DE04EC94603E350370AA46483554EA44AE66" name="sharpteeth_05_cellar.trx" dlsize="159691" size="161676" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -620,7 +620,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FC9E039F751BDCDC7A666A7E00E58FFE409D0AE3" downloadHash="CBC2858214E92D1ED06E9E905024BBAD898BE3FE" name="gullykin_firewine_ruin_0.trx" dlsize="796101" size="11367100" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="48B81A8868192D309DC81C74A270BB2E51B4B490" downloadHash="5E3BD76260CDA635AB179939E2CDE071DB7175F0" name="gullykin_firewine_ruin_0.trx" dlsize="792219" size="11361591" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -685,7 +685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="085D1DF50AD12F6F9E0CD5B46B4DFEE4BC700A08" downloadHash="3252582465A8053D2812EC176FE2C619D51F555D" name="sharpteeth_05_deserted_valley.trx" dlsize="1207586" size="8769839" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2008F78A638B14FF84CB58D4DD4DE1B735C2EDF4" downloadHash="691B425F1F8B37A0BBA0C786A4B5A5AC80A44DB3" name="sharpteeth_05_deserted_valley.trx" dlsize="1210476" size="8769838" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -865,7 +865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1DA4E3BEE1DB18494EDAF681FF5A94E17D760D0A" downloadHash="C94D5C76050D9774A0D66871D92593612B0615CD" name="sharpteeth_12_river_edge.trx" dlsize="3528239" size="21004903" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D5CD1769A5A8355EB7680A9151E3663CC243B397" downloadHash="DD190E7EF0A118A783907F0F9B47059DFADEFA7B" name="sharpteeth_12_river_edge.trx" dlsize="3537251" size="21005683" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1600,7 +1600,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5321ED9543E461D080DAE30DA3AE464C455EC884" downloadHash="BE124A798259341E19BDA6CDA32CB13F68BDDC51" name="gullykin_firewine.trx" dlsize="6110698" size="21756346" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="82FD069D21B037FAF0B1C1ECD6D93D52C1022870" downloadHash="21AF9EB4697B30905C5E563F72B3A0C080355750" name="gullykin_firewine.trx" dlsize="6095429" size="21736054" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2312,7 +2312,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE9755CB34C22C565FE54E615B2F1F06CFA6E2B1" downloadHash="509187A67EF8A12DF7BC08ADAA47B3439A8459B2" name="sharpteeth_surround_05a.trx" dlsize="2728278" size="14394275" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B67796568922BBCF86E61B37C991242CC01940D1" downloadHash="7DE9578C48ADC5E74FA9F65EDCDF452A4C4B7F32" name="sharpteeth_surround_05a.trx" dlsize="2737357" size="14406539" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2342,12 +2342,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="28B16E7F7DD9560922EEE3215CA606C19569D901" downloadHash="755ABA76F3C63BE8FFC8EF4D183D031E5CD8D3A5" name="winding_water_nw_swamp.trx" dlsize="2279225" size="22398739" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="520BD47185314CC45BC76B6884D590FF8F5CB0AF" downloadHash="CE9F7DC5BE002B87C9C8AF021EEA410B30C3DDA9" name="winding_water_nw_swamp.trx" dlsize="2284762" size="22396711" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5110D1F601799896F905F2569CBE39A895A0872C" downloadHash="9C8AAAA5428202C1316C5DBE9592DD7681CE800E" name="gullykin_community_int.trx" dlsize="73720" size="74074" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6043F52930B5CE502AAA846501B8BF55C166B5BF" downloadHash="7166C0C135229DFD9695E183AAD2CF758FCA4BB1" name="gullykin_community_int.trx" dlsize="73807" size="74153" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
