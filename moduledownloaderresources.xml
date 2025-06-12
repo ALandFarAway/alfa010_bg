@@ -460,7 +460,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="889D6A8C6BFCA0970EEE4A86B561D43A55682333" downloadHash="FF8E36DABDD3810357E7CA19CB9A08FCDF7216CB" name="sunken_001100.trx" dlsize="145800" size="153315" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BE4BA6BB8F463951C6FECAD58524A3D034597A0F" downloadHash="0F6C557653E485FE722BF558067120AFEC9E447B" name="sunken_001100.trx" dlsize="145821" size="153316" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -640,7 +640,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="16199CB276104DAC2B06C1BD01C338EDAAF7E470" downloadHash="F8467E6212E527FCE2CCD5AA4E4CD02726B4BDFB" name="bgcity-castledist ext.trx" dlsize="4858831" size="14652050" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="75665ACF16634318CE278E8D790DECFB52F0E74B" downloadHash="38147A35E181F4138A68A63436E166A3A67534A9" name="bgcity-castledist ext.trx" dlsize="4807428" size="14606008" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -765,7 +765,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="516D0390C58D8FAD05C30F7674B84A30CA4723D4" downloadHash="5630DF50F91B25B1962A351D82EB19AD47788552" name="bgcity-harboreast.trx" dlsize="2516341" size="11957431" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="62600A782BC4F845165E10CACFB661FF95C2B343" downloadHash="0EABF56DEA3915F9A7A7A638E63D96E3C3667CB4" name="bgcity-harboreast.trx" dlsize="2496414" size="11940977" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1030,7 +1030,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="213D38F86CDD4B22A8FE29171B172C1F140AB4E8" downloadHash="B560ED1D5D7F62B5E2E05B8E24B9B2B5264F7ACE" name="sunken_000100.trx" dlsize="159045" size="169213" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="720783E0ED05D1D0E280EA8509B467003AEA78DE" downloadHash="0E64F2C023F4B87604FDFE85059C9CE4CBE0E465" name="sunken_000100.trx" dlsize="159031" size="169214" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1665,7 +1665,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5BB625E5F0AA0D54470D280E473BE8259B0CBE37" downloadHash="630BE3DD1B19EF65BF9957DA9C2C4A52483E53B6" name="sunken_001000.trx" dlsize="186351" size="192209" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="806DDF8244F3F51688B7223BB75C933DEE9E1697" downloadHash="3BD81E72815F650E62DE8ACA68264719EA7C7D7C" name="sunken_001000.trx" dlsize="186374" size="192209" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4E9D13AF2F210F18F3D3FFE33C124A6847667695" downloadHash="AE9A57D8EFD661391B2AF0CB0541C779CE86B852" name="cloakwood_hill_01.trx" dlsize="4091121" size="20361867" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="388E52F69E80CCBECCA21A0FFB525CCF9880FEB5" downloadHash="8961957F6A07322103A793FC602E09C341373DDC" name="cloakwood_hill_01.trx" dlsize="4091399" size="20360233" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1825,7 +1825,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="020388151C72F78509658FE80BD427F5E17A39FA" downloadHash="57B895F0E6CC0D1B0784F64413013AC899FF587D" name="cloakwood_hill_02_ruin.trx" dlsize="1975018" size="10169878" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="419D4256A37FADD5D6ACE0F6834D7F2C89D97DF1" downloadHash="EED1F23FE641652C4CF4FE989FB3BDA22AF51041" name="cloakwood_hill_02_ruin.trx" dlsize="1975732" size="10164977" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2342,12 +2342,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E4B94193C56CEE2DD9FC0D7485EDFC17899A912E" downloadHash="72EBF2AF7789292031FB016BC9A3489B3E92CBC6" name="winding_water_nw_swamp.trx" dlsize="3533326" size="26958621" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5996DF84B82F37BFAF14A9B6C9A5BD9B980843F2" downloadHash="08ADC13A2C2D48C34DD5ED3A9E30D2D8C1B237CE" name="winding_water_nw_swamp.trx" dlsize="4021149" size="27007786" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="047DE8C177E5488279F97D35F9FE8A36943BEE0A" downloadHash="7FBFBA4018019409A45DC2EA6B624BC7D340A6B5" name="gullykin_community_int.trx" dlsize="73922" size="74257" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4A9542F62605837DDF44CEC22C5F2EE2DB403035" downloadHash="EDC3C50ACBC6A23EEA9CEB477C6E0A9CFE1412FD" name="bgcity-harboreast_offices.trx" dlsize="88451" size="88687" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D5999A78B712664BDABFCA4D5960073D7562DF37" downloadHash="510D5A0F587E3197759B35F2FEFBC687EBA62C58" name="cloakwood_hill_02_elton.trx" dlsize="4077152" size="20298885" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
