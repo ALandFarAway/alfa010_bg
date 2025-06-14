@@ -1295,7 +1295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="20CB8E442E6505116DF63D239926E422AA57D0A7" downloadHash="0552E345BB5769B64CB6AD74124A870D6039EDDF" name="unlinked_cave4.trx" dlsize="789671" size="3474379" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1DE681377908FA4D7C5A437F361A0EC2D82468DB" downloadHash="17D8528EBA3A188F08A560DDAA2775E2BF88F73F" name="unlinked_cave4.trx" dlsize="792357" size="3475767" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2357,7 +2357,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D5999A78B712664BDABFCA4D5960073D7562DF37" downloadHash="510D5A0F587E3197759B35F2FEFBC687EBA62C58" name="cloakwood_hill_02_elton.trx" dlsize="4077152" size="20298885" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="37FD431B1572239B42FD86958FCD8DAB65F55C06" downloadHash="FAD65C7B448E44F4BC3DDD1FFC339DB1A8A7F31D" name="cloakwood_hill_02_elton.trx" dlsize="4202463" size="20661366" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
