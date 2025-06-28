@@ -1710,11 +1710,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="388E52F69E80CCBECCA21A0FFB525CCF9880FEB5" downloadHash="8961957F6A07322103A793FC602E09C341373DDC" name="cloakwood_hill_01.trx" dlsize="4091399" size="20360233" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="749C3D080725BBB06FE13357A54175933BDE575E" downloadHash="ADE9633A327AA62BB6402BF81B8A756E9ED4F216" name="und_n0_outpost_voina.trx" dlsize="1364454" size="11573883" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2363,6 +2358,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="258417447404763506AF083BDBBCD8A3248FF210" downloadHash="3C4C269035D4AB4F10CED70BF9FB26C53CA1E063" name="cloakwood_hill_02_belt.trx" dlsize="4194533" size="20663954" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="258417447404763506AF083BDBBCD8A3248FF210" downloadHash="3C4C269035D4AB4F10CED70BF9FB26C53CA1E063" name="cloakwood_hill_01_belt.trx" dlsize="4194533" size="20663954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
