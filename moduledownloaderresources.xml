@@ -640,7 +640,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="75665ACF16634318CE278E8D790DECFB52F0E74B" downloadHash="38147A35E181F4138A68A63436E166A3A67534A9" name="bgcity-castledist ext.trx" dlsize="4807428" size="14606008" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DB8F1C337D948168F32DBDDE8114CAB3B128C505" downloadHash="4BA12BEA77BAB123CD6ADF23D626437BD07FCB61" name="bgcity-castledist ext.trx" dlsize="4824530" size="14611031" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1635,7 +1635,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6491F5382BC2DC8AD1A2031DF3E4A877DDBF207E" downloadHash="83EDF8BA08397B9006E752D5A9721FA51BE3491B" name="bgcity-upperwest.trx" dlsize="4216323" size="14303344" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C5090D99AA9C84AB0498086D31240422AD4CE76A" downloadHash="5FAD56B05F392921455065C0A8ACAAB5730727F5" name="bgcity-upperwest.trx" dlsize="4241454" size="14325914" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2358,6 +2358,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="37FD431B1572239B42FD86958FCD8DAB65F55C06" downloadHash="FAD65C7B448E44F4BC3DDD1FFC339DB1A8A7F31D" name="cloakwood_hill_02_elton.trx" dlsize="4202463" size="20661366" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="258417447404763506AF083BDBBCD8A3248FF210" downloadHash="3C4C269035D4AB4F10CED70BF9FB26C53CA1E063" name="cloakwood_hill_02_belt.trx" dlsize="4194533" size="20663954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
