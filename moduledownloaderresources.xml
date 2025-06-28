@@ -1295,7 +1295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1DE681377908FA4D7C5A437F361A0EC2D82468DB" downloadHash="17D8528EBA3A188F08A560DDAA2775E2BF88F73F" name="unlinked_cave4.trx" dlsize="792357" size="3475767" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0428276E4D2718F548B11F07C5F2FEB71B01AB53" downloadHash="16FA670631D04CF1A03D69B9AEF9A1182C0FE436" name="unlinked_cave4.trx" dlsize="857178" size="3722074" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2327,7 +2327,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="097F9944789BB7EDFFE0A378D1FB90BB337E0C8B" downloadHash="27523457DEB9BD2E9B475D61EC8B4894B925E243" name="nashkel_inn1_belch_drag.trx" dlsize="65624" size="65942" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AA62470DC2DDC686FC48C80D3290DD02851969AE" downloadHash="9A5EF001AFD78BE236468D78AB7308A54524E50C" name="nashkel_inn1_belch_drag.trx" dlsize="64767" size="65113" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
