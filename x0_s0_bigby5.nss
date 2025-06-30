@@ -1,4 +1,4 @@
-//::///////////////////////////////////////////////
+3//::///////////////////////////////////////////////
 //:: Bigby's Crushing Hand
 //:: [x0_s0_bigby5]
 //:: Copyright (c) 2002 Bioware Corp.
@@ -25,11 +25,11 @@
 //:: AFW-OEI 07/23/2007: Apply paralysis effect icon while you're grappled.
 
 #include "x0_i0_spells"
-//#include "x2_inc_spellhook"
+#include "x2_inc_spellhook"
 #include "acr_spellhook_i
 #include "x2_i0_spells"
-//#include "nwn2_inc_spells"
-acr_spells_i
+#include "nwn2_inc_spells"
+#include "acr_spells_i"
 
 int nSpellID = 463;
 int RunGrappleHit( object oTarget );
@@ -58,7 +58,7 @@ void main()
     //--------------------------------------------------------------------------
     // This spell no longer stacks. If there is one hand, that's enough
     //--------------------------------------------------------------------------
-    if (GetHasSpellEffect(nSpellID,oTarget) ||  GetHasSpellEffect(461,oTarget)  )
+    if (GetHasSpellEffect(nSpellID,oTarget) ||  GetHasSpellEffect(463,oTarget)  )
     {
         FloatingTextStrRefOnCreature(100775,OBJECT_SELF,FALSE);
         return;
