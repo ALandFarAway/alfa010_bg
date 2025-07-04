@@ -54,7 +54,7 @@ void main() {
             spawn_group("vsnakes");
             break;
         case 1:
-            ACR_SpawnObject("abr_cr_an_w_croc2", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("010_cr_an_bat_nighthunter1", OBJECT_TYPE_CREATURE);
             break;
         case 2:
             spawn_group("animal_deer");
@@ -91,7 +91,7 @@ void main() {
 			ACR_SpawnObject("abr_cr_an_dire_toad", OBJECT_TYPE_CREATURE);
 			break;
 		case 12:	
-			ACR_SpawnObject("010_cr_plant_mound", OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_plant_vine_horror", OBJECT_TYPE_CREATURE);
             break;			
 		case 13:
 			ACR_SpawnObject("abr_cr_mb_swamplight_lynx", OBJECT_TYPE_CREATURE);
