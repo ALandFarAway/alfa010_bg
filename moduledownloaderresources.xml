@@ -2337,7 +2337,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BE49CDCE3D27406F543B4563B1F9E3EF5B215831" downloadHash="C0DAFDD1A3A4877CA43F97A186CAC0EB61B590AB" name="winding_water_nw_swamp.trx" dlsize="5438463" size="29383998" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="130072504507FF4191A5CF374A3F18A59AC41FEA" downloadHash="F81D032321E12332B5C26AA791CEF5CEDD27354E" name="winding_water_nw_swamp.trx" dlsize="5456657" size="29398429" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2363,6 +2363,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="EC886095720E2F89A1AAC935E55E0ED34AFA76C1" downloadHash="57E13D449AB028693D6C8A1D4255188FDE70FCCD" name="cloakwood_hill_01_belt.trx" dlsize="4190996" size="20661190" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C834A9A3B023A74219BF56ED09D269043113E985" downloadHash="12BFBBFD83022B2904CEC49A6C7BBE3BAE86E453" name="winding_water_nw_interiors.trx" dlsize="787958" size="3954113" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
