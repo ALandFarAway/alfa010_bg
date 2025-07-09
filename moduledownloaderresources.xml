@@ -2337,7 +2337,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="130072504507FF4191A5CF374A3F18A59AC41FEA" downloadHash="F81D032321E12332B5C26AA791CEF5CEDD27354E" name="winding_water_nw_swamp.trx" dlsize="5456657" size="29398429" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8FDF55788381AF438E656DB082672529A9159748" downloadHash="F013838BEE9BB902B33D49530BD133AD5B70A4B9" name="winding_water_nw_swamp.trx" dlsize="5451853" size="29386578" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2367,7 +2367,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0F19B15307DF1E2182D111EA75798DE021265A32" downloadHash="8C79E9982433393E78E5D35DDDA3CAD36D8327B7" name="winding_water_nw_interiors.trx" dlsize="829794" size="4001091" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="15758C9F2110C9CC8153C3588427DFB42F18A59E" downloadHash="DC922319FE04658E3041B3CF99F85401070A995A" name="winding_water_nw_interiors.trx" dlsize="966691" size="4420596" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
