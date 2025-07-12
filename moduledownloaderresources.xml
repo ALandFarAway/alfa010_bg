@@ -2302,12 +2302,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2A856E1703427970F7EF2DEF28572B29C9D64CE8" downloadHash="25F1F21ACA23D9981DD13E4A9303D3CF0758DA4D" name="sharpteeth_surround_cv1.trx" dlsize="143621" size="322462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2EF61286A7AAF3376DCDC786B4AD24B428080B59" downloadHash="D3D0F6787368776093E713BC1FCBF560E1E43286" name="sharpteeth_surround_cv1.trx" dlsize="146571" size="460877" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B67796568922BBCF86E61B37C991242CC01940D1" downloadHash="7DE9578C48ADC5E74FA9F65EDCDF452A4C4B7F32" name="sharpteeth_surround_05a.trx" dlsize="2737357" size="14406539" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD400CB71A0815A4A3714423AE50623288532637" downloadHash="BB5D592A79C5BC7B81DAF48345110AEB7C02977A" name="sharpteeth_surround_05a.trx" dlsize="2715284" size="14389542" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
