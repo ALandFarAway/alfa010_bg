@@ -550,7 +550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="03BE95969F5BC98E3BECD93305C15B8ED6FA2EE0" downloadHash="54E5D1763F31C12C25925E445E0A96F617A80FBE" name="tradeway_s_12_highsong_east.trx" dlsize="4847951" size="24363570" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9CF662A5C32B223C2E0181EE6C8E53A1036561D1" downloadHash="676D707923F17CD5D437B92197492EF0219F3517" name="tradeway_s_12_highsong_east.trx" dlsize="4845689" size="24365826" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -685,7 +685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2008F78A638B14FF84CB58D4DD4DE1B735C2EDF4" downloadHash="691B425F1F8B37A0BBA0C786A4B5A5AC80A44DB3" name="sharpteeth_05_deserted_valley.trx" dlsize="1210476" size="8769838" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F996D37DF28933C83A4F60E1FEC1938E5A05A22E" downloadHash="457EC79361F39314DC33ED1AFB15E5D0BD877754" name="sharpteeth_05_deserted_valley.trx" dlsize="1218425" size="8770732" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1325,7 +1325,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B4F2537787953D42527D40054749616B09DE6E69" downloadHash="FF68A5B316E25FFF2D256BF555FC4D3EFBA91AC0" name="tradeway_s_12_highsong_east_int.trx" dlsize="682899" size="2310406" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0DF64260E83AE40909E3951E4E259E5BF34E6244" downloadHash="749CE3257A9FF726CB5D9648885DAA26A6B98733" name="tradeway_s_12_highsong_east_int.trx" dlsize="895808" size="2707031" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2307,7 +2307,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DD400CB71A0815A4A3714423AE50623288532637" downloadHash="BB5D592A79C5BC7B81DAF48345110AEB7C02977A" name="sharpteeth_surround_05a.trx" dlsize="2715284" size="14389542" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0060CF4EBEF756851FAB7456CA5C9D221EA4A880" downloadHash="C0AB5D95EE1D158B36B27A8D34009A17BAD7D00E" name="sharpteeth_surround_05a.trx" dlsize="2716573" size="14389542" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
