@@ -2352,16 +2352,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="37FD431B1572239B42FD86958FCD8DAB65F55C06" downloadHash="FAD65C7B448E44F4BC3DDD1FFC339DB1A8A7F31D" name="cloakwood_hill_02_elton.trx" dlsize="4202463" size="20661366" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="258417447404763506AF083BDBBCD8A3248FF210" downloadHash="3C4C269035D4AB4F10CED70BF9FB26C53CA1E063" name="cloakwood_hill_02_belt.trx" dlsize="4194533" size="20663954" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="EC886095720E2F89A1AAC935E55E0ED34AFA76C1" downloadHash="57E13D449AB028693D6C8A1D4255188FDE70FCCD" name="cloakwood_hill_01_belt.trx" dlsize="4190996" size="20661190" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
