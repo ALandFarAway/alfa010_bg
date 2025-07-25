@@ -2312,7 +2312,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CF6D9F8CAC7D95FE4EC45106F1CA7CB4B9AE11D5" downloadHash="5CBFD60CEA1BBB6EAF6440A1751CAE5A7FFE38CF" name="bgcity_castledist_ramazith_twr.trx" dlsize="127271" size="215992" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="03D7C3B53F66BF75C5285CADC3AEC386779DDCFB" downloadHash="BEF54D305FDC70AEE264F78AF8FE8FE89C4E6002" name="bgcity_castledist_ramazith_twr.trx" dlsize="197165" size="286080" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
