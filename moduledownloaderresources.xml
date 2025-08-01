@@ -1895,7 +1895,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A0DBC3B171A1C2D4A54EE5B4F2FCBDA316433C3B" downloadHash="00C08CFFD3D110325B7B187662BFA48B6078CA9A" name="candlekeep_wilds_n_1b_ponds.trx" dlsize="2675133" size="15487997" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A80260E28B6E27839FE27290A1D219EBDF18A6AE" downloadHash="8E365A32552357676DFAEA3F679132924913499C" name="candlekeep_wilds_n_1b_ponds.trx" dlsize="2809813" size="15847205" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2358,6 +2358,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="15758C9F2110C9CC8153C3588427DFB42F18A59E" downloadHash="DC922319FE04658E3041B3CF99F85401070A995A" name="winding_water_nw_interiors.trx" dlsize="966691" size="4420596" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0394304B512E81F7C7F8A763DA2D7E25D6E5A5A1" downloadHash="616CC55D71989F8B13030C082566B4AC46D365DB" name="candlekeep_wilds_n_1b_caves.trx" dlsize="222730" size="580723" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
