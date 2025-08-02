@@ -16,7 +16,10 @@ if (!GetIsPC(oPC)) return;
 object oTarget;
 object oSpawn;
 location lTarget;
-oTarget = GetWaypointByTag("wp_melgalo1,wp_megalo2,wp_megalo_3,wp_megalo4");
+oTarget = GetWaypointByTag("wp_megalo1");
+oTarget = GetWaypointByTag("wp_megalo2");
+oTarget = GetWaypointByTag("wp_megalo3");
+oTarget = GetWaypointByTag("wp_megalo4");
 
 lTarget = GetLocation(oTarget);
 
