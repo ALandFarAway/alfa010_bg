@@ -22,24 +22,54 @@ if (DoOnce==TRUE) return;
 SetLocalInt(OBJECT_SELF, GetTag(OBJECT_SELF), TRUE);
 
 
-object oTarget;
-object oSpawn;
-location lTarget;
-oTarget = GetWaypointByTag("wp_megalo1");
-oTarget = GetWaypointByTag("wp_megalo2");
-oTarget = GetWaypointByTag("wp_megalo3");
-oTarget = GetWaypointByTag("wp_megalo4");
+object oTarget1;
+object oTarget2;
+object oTarget3;
+object oTarget4;
 
-lTarget = GetLocation(oTarget);
+object oSpawn1;
+object oSpawn2;
+object oSpawn3;
+object oSpawn4
+;
+location lTarget1;
+location lTarget2;
+location lTarget3;
+location lTarget4;
 
-oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget);
+oTarget1 = GetWaypointByTag("wp_megalo1");
+oTarget2 = GetWaypointByTag("wp_megalo2");
+oTarget3 = GetWaypointByTag("wp_megalo3");
+oTarget4 = GetWaypointByTag("wp_megalo4");
 
-oTarget = oSpawn;
+lTarget1 = GetLocation(oTarget1);
+lTarget2 = GetLocation(oTarget2);
+lTarget3 = GetLocation(oTarget3);
+lTarget4 = GetLocation(oTarget4);
 
-SetIsTemporaryEnemy(oPC, oTarget);
+oSpawn1 = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget1);
+oSpawn2 = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget2);
+oSpawn3 = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget3);
+oSpawn4 = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget4);
 
-AssignCommand(oTarget, ActionAttack(oPC));
+oTarget1 = oSpawn1;
+oTarget2 = oSpawn2;
+oTarget3 = oSpawn3;
+oTarget4 = oSpawn4;
 
-AssignCommand(oTarget, DetermineCombatRound(oPC));
+SetIsTemporaryEnemy(oPC, oTarget1);
+SetIsTemporaryEnemy(oPC, oTarget2);
+SetIsTemporaryEnemy(oPC, oTarget3);
+SetIsTemporaryEnemy(oPC, oTarget4);
+
+AssignCommand(oTarget1, ActionAttack(oPC));
+AssignCommand(oTarget2, ActionAttack(oPC));
+AssignCommand(oTarget3, ActionAttack(oPC));
+AssignCommand(oTarget4, ActionAttack(oPC));
+
+AssignCommand(oTarget1, DetermineCombatRound(oPC));
+AssignCommand(oTarget2, DetermineCombatRound(oPC));
+AssignCommand(oTarget3, DetermineCombatRound(oPC));
+AssignCommand(oTarget4, DetermineCombatRound(oPC));
 
 }
