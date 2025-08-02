@@ -27,11 +27,7 @@ object oTarget2;
 object oTarget3;
 object oTarget4;
 
-object oSpawn1;
-object oSpawn2;
-object oSpawn3;
-object oSpawn4
-;
+object oSpawn;
 location lTarget1;
 location lTarget2;
 location lTarget3;
@@ -47,15 +43,15 @@ lTarget2 = GetLocation(oTarget2);
 lTarget3 = GetLocation(oTarget3);
 lTarget4 = GetLocation(oTarget4);
 
-oSpawn1 = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget1);
-oSpawn2 = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget2);
-oSpawn3 = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget3);
-oSpawn4 = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget4);
+oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget1);
+oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget2);
+oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget3);
+oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget4);
 
-oTarget1 = oSpawn1;
-oTarget2 = oSpawn2;
-oTarget3 = oSpawn3;
-oTarget4 = oSpawn4;
+oTarget1 = oSpawn;
+oTarget2 = oSpawn;
+oTarget3 = oSpawn;
+oTarget4 = oSpawn;
 
 SetIsTemporaryEnemy(oPC, oTarget1);
 SetIsTemporaryEnemy(oPC, oTarget2);
@@ -67,9 +63,6 @@ AssignCommand(oTarget2, ActionAttack(oPC));
 AssignCommand(oTarget3, ActionAttack(oPC));
 AssignCommand(oTarget4, ActionAttack(oPC));
 
-AssignCommand(oTarget1, DetermineCombatRound(oPC));
-AssignCommand(oTarget2, DetermineCombatRound(oPC));
-AssignCommand(oTarget3, DetermineCombatRound(oPC));
-AssignCommand(oTarget4, DetermineCombatRound(oPC));
+//AssignCommand(oTarget, DetermineCombatRound(oPC));
 
 }
