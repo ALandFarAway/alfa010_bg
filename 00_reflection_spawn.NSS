@@ -147,4 +147,3 @@ int nFaction=STANDARD_FACTION_HOSTILE, int bEquipItems=TRUE){
 
 	return oCopy;
 }
-

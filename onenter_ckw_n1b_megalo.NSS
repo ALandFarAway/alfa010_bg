@@ -4,14 +4,23 @@ Lilac Soul's NWN Script Generator, v. 2.3
 For download info, please visit:
 http://nwvault.ign.com/View.php?view=Other.Detail&id=4683&id=625    */
 
-//Put this script OnExit
+//Put this script OnEnter
 #include "nw_i0_generic"
 void main()
 {
 
-object oPC = GetExitingObject();
+object oPC = GetEnteringObject();
+object oDM = GetEnteringObject();
+
 
 if (!GetIsPC(oPC)) return;
+
+int DoOnce = GetLocalInt(OBJECT_SELF, GetTag(OBJECT_SELF));
+
+if (DoOnce==TRUE) return;
+
+SetLocalInt(OBJECT_SELF, GetTag(OBJECT_SELF), TRUE);
+
 
 object oTarget;
 object oSpawn;
