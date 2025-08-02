@@ -43,8 +43,8 @@ lTarget2 = GetLocation(oTarget2);
 lTarget3 = GetLocation(oTarget3);
 lTarget4 = GetLocation(oTarget4);
 
-oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget1);
-oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget2);
+oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk1", lTarget1);
+oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk1", lTarget2);
 oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget3);
 oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_c_hum_megalofolk2", lTarget4);
 
