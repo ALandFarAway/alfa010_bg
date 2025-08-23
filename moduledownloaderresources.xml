@@ -300,7 +300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="63BB7425384CEAC01A6A1B36DB6F2EAD670A88CE" downloadHash="BD7ACD0A38205933AD01345F590529776CFE058B" name="tradeway_s_04_fai_ext.trx" dlsize="2314252" size="12968721" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="836D15C0880909297069EA5EDF8E557D014FD5CD" downloadHash="1A83B2FE0C8ACA1052E6E747466060ADA0C9673E" name="tradeway_s_04_fai_ext.trx" dlsize="2405318" size="13062359" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -340,7 +340,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8B358ADC9494CFA4E49147B093B4B6265632CE74" downloadHash="929579C192B2E12F430EC617FF68C195D5A8AC0C" name="tradeway_s_04_fai_main.trx" dlsize="367170" size="726688" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4ACD00810123C54B05DF20CC61B02ADC4F7AF329" downloadHash="9C0EF13B2A724CFABD4A3DC7F7796A11538A6C31" name="tradeway_s_04_fai_main.trx" dlsize="360169" size="720189" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1300,7 +1300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="457544DBCC80E116C72FB2CEADF0DB0B812BA600" downloadHash="1A1F8D7BC3C105EE45DBC5DDA817988DBEAD1DE9" name="candlekeep_wilds_n_1c.trx" dlsize="2995778" size="15446153" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="203CDFC2BAFB0738355452535CEECF5A60383AA1" downloadHash="50EF0D17D7203472006339D1F51C4956846D584C" name="candlekeep_wilds_n_1c.trx" dlsize="3001167" size="15447384" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2362,7 +2362,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AD3F49D32EDBE7220903E9993D55C03A3FA1D4B0" downloadHash="1AB1C1A77B3E42E68E04908035A23868FED6E09F" name="candlekeep_wilds_n_1b_caves.trx" dlsize="376125" size="735803" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BE9E3CE409DD2EE167B5243DC13BF2CFF7CB988F" downloadHash="F313EA2EE63794A03A84830723334BC3704F8A58" name="candlekeep_wilds_n_1b_caves.trx" dlsize="389277" size="749607" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

@@ -50,18 +50,16 @@ void main();
 ////////////////////////////////////////////////////////////////////////////////
 
 void main() {
-    // Lets say this spawn group is an orc hunting party. Lets spawn some level
-    // 1 warrior orcs, with either a level 3 leader who is either a barbarian,
-    // ranger, or cleric.
+   
     ACR_SpawnObject("010_cr_an_vsnake", OBJECT_TYPE_CREATURE);
-    // The string "abr_cr_hu_orcbasher02" is the creature's resource name in the toolset. Make
+    // The string "010_cr_an_vsnake" is the creature's resource name in the toolset. Make
     // sure you spell it right, or the creature will either not spawn, or
     // something else may spawn in its place!
     // OBJECT_TYPE_CREATURE tells the spawn system what type of object you are
     // trying to spawn. For other object types, use OBJECT_TYPE_ITEM,
     // OBJECT_TYPE_PLACEABLE, OBJECT_TYPE_STORE or OBJECT_TYPE_WAYPOINT.
 
-    // Lets add three more of those generic orc warriors.
+
     ACR_SpawnObject("010_cr_an_vsnake", OBJECT_TYPE_CREATURE);
     ACR_SpawnObject("abr_cr_an_w_snake_tv", OBJECT_TYPE_CREATURE);
     ACR_SpawnObject("010_cr_an_vsnake2", OBJECT_TYPE_CREATURE);
@@ -70,7 +68,7 @@ void main() {
         240.0,  // 240 degrees, put this one at 8 o'clock.
         6.0,    // Six meters out, so the radius of the circle is 6m.
         60.0); // Turned 180 + 240 degrees, so it faces the center.
-    ACR_SpawnObjectAtLocation("abr_cr_hu_orcbasher02", OBJECT_TYPE_CREATURE, lLoc);
+    ACR_SpawnObjectAtLocation("abr_cr_an_dire_snake", OBJECT_TYPE_CREATURE, lLoc);
 	
     // Now lets say we have 3 possible leaders for this group of thugs. We want
     // to randomly select one of them.
@@ -79,15 +77,12 @@ void main() {
         // following will be run. And yes, its supposed to start at 0 and not
         // reach 3, Random(3) returns a number from 0 to 2.
         case 0:
-            // This is a level 2 barbarian / 1 humanoid orc.
             ACR_SpawnObject("abr_cr_an_w_snake_hv3", OBJECT_TYPE_CREATURE);
             break;
         case 1:
-            // This is a level 2 ranger / 1 humanoid orc.
             ACR_SpawnObject("abr_cr_an_w_snake_hv4", OBJECT_TYPE_CREATURE);
             break;
         case 2:
-            // This is a level 2 cleric / 1 humanoid.
             ACR_SpawnObject("abr_cr_an_w_snake_hv5", OBJECT_TYPE_CREATURE);
             break;
     }
