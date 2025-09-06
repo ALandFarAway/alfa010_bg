@@ -540,7 +540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9D7C1F2A72C8883C2BC83537FE10C14E3C7303FD" downloadHash="2AFE80081B849CA4DB3A06951B538356D75523B5" name="sharpteeth_06_lg_lake.trx" dlsize="3104193" size="18940824" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0F6B81C0E18EBB17C550278DED9FEECF08C32F1C" downloadHash="BE170A8878E8217991D98BD132D52B9B9F3D5B9A" name="sharpteeth_06_lg_lake.trx" dlsize="3112012" size="18949022" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -555,7 +555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3C326B7CC8489E4B268E1187C73E515154E80B7B" downloadHash="D3591E51991563665089C13084D8E7CFB30F48EB" name="cold_cavern_area1.trx" dlsize="1621653" size="3825780" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BF80CD2A7FD9B8DD23B251374AC98CF45D9617E2" downloadHash="1EAD494FC496B617DF6F25CBC2982B09712E8177" name="cold_cavern_area1.trx" dlsize="1612410" size="3822582" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

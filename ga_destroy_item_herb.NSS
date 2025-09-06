@@ -51,20 +51,20 @@ void main( string sItemTag ) {
 	// Seaweed: 10gp, 5xp, CR 5
 	nGP += ConsumeReward( oPC, "seaweed", 10, 5.0f, 5.0f );
 
-	// Cassil: 30gp, 15xp, CR 8
-	nGP += ConsumeReward( oPC, "it_cassil", 30, 15.0f, 8.0f );
+	// Cassil: 20gp, 15xp, CR 8
+	nGP += ConsumeReward( oPC, "it_cassil", 20, 15.0f, 8.0f );
 
 	// Garclive: 4gp, 2xp, CR 2
-	nGP += ConsumeReward( oPC, "it_garclive", 30, 15.0f, 2.0f );
+	nGP += ConsumeReward( oPC, "it_garclive", 4, 15.0f, 2.0f );
 
 	// Elderberry: 4gp, 2xp, CR 2
-	nGP += ConsumeReward( oPC, "it_elderberry", 30, 15.0f, 2.0f );
+	nGP += ConsumeReward( oPC, "it_elderberry", 4, 15.0f, 2.0f );
 
-	// Hensbane: 35gp, 17.5xp, CR 8
-	nGP += ConsumeReward( oPC, "it_henbane", 35, 17.5f, 8.0f );
+	// Hensbane: 25gp, 17.5xp, CR 8
+	nGP += ConsumeReward( oPC, "it_henbane", 25, 17.5f, 8.0f );
 
-	// Skullcap: 32gp, 16xp, CR 10
-	nGP += ConsumeReward( oPC, "it_skullcap", 32, 16.0f, 10.0f );
+	// Skullcap: 20gp, 16xp, CR 10
+	nGP += ConsumeReward( oPC, "it_skullcap", 20, 16.0f, 10.0f );
 
 	// Reward GP.
 	GiveGoldToCreature( oPC, nGP );
