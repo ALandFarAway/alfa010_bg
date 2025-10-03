@@ -15,6 +15,6 @@ if (nInt < 1)
    return;
 
    //GiveXP((OPC)10, oPC, FALSE));
-   GiveXPToCreature(oPC, nXP );
+   GiveXPToCreature(oPC,10 );
 
 }

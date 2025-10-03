@@ -1880,7 +1880,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E55599FB71D6606A4652E7A86E05FE917D21B02B" downloadHash="725E951505DB2C21CC43382CE0DE14F01C31471C" name="bgcity-harboreast_lowlantern.trx" dlsize="166860" size="171140" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F0848BC78924071142CCD6F3A7295A2FBD6F1B49" downloadHash="E4C6EDBA98076B7910B78AABE7D79ACE2329D4F0" name="bgcity-harboreast_lowlantern.trx" dlsize="166887" size="171125" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2337,7 +2337,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8FDF55788381AF438E656DB082672529A9159748" downloadHash="F013838BEE9BB902B33D49530BD133AD5B70A4B9" name="winding_water_nw_swamp.trx" dlsize="5451853" size="29386578" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="73F3B333861C9B1F81B06BB35507FBCA99836F21" downloadHash="10DEDD98B33495A7C7EB5EC5BF79DAD046CCA1CC" name="winding_water_nw_swamp.trx" dlsize="5445769" size="29398533" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
