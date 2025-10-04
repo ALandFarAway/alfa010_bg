@@ -2337,7 +2337,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="73F3B333861C9B1F81B06BB35507FBCA99836F21" downloadHash="10DEDD98B33495A7C7EB5EC5BF79DAD046CCA1CC" name="winding_water_nw_swamp.trx" dlsize="5445769" size="29398533" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A052A322C8F290B58FF245A19966415462F0A044" downloadHash="6B1DB407A326A3CA5BA19268BB5C68835C638E17" name="winding_water_nw_swamp.trx" dlsize="5394409" size="29331010" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
