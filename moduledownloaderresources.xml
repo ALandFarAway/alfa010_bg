@@ -2357,7 +2357,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="15758C9F2110C9CC8153C3588427DFB42F18A59E" downloadHash="DC922319FE04658E3041B3CF99F85401070A995A" name="winding_water_nw_interiors.trx" dlsize="966691" size="4420596" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7CA5D08D40796A9AC0BDEA5F2FCD22214FE7089D" downloadHash="4C2F248A0C602696E9D4BA686F703D656D278371" name="winding_water_nw_interiors.trx" dlsize="969786" size="4419995" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
