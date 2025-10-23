@@ -149,7 +149,7 @@ int GetSkillConstant(int nSkill)
             nSkillVal = SKILL_PARRY;
             break;
         case 17:     // PERFORM KEYBOARDS
-            nSkillVal = SKILL_PERFORM_KEYBOARDS;
+            nSkillVal = SKILL_PERFORM_KEYBOARD_INSTRUMENTSS;
             break;
         case 18:     // RIDE
             nSkillVal = SKILL_RIDE;
@@ -263,7 +263,7 @@ int GetSkillConstant(int nSkill)
             nSkillVal = SKILL_KNOWLEDGE_NOBILITY;
             break;
 		case 54:     // KNOWLEDGE ENGINEERING
-            nSkillVal = SKILL_KNOWLEDGE_ENGINEERING;
+            nSkillVal = SKILL_KNOWLEDGE_ARCHITECTURE_AND_ENGINEERING;
             break;
 		case 55:     // KNOWLEDGE LOCAL
             nSkillVal = SKILL_KNOWLEDGE_LOCAL;
