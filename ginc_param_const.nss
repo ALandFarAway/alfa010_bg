@@ -148,8 +148,8 @@ int GetSkillConstant(int nSkill)
         case 16:     // PARRY
             nSkillVal = SKILL_PARRY;
             break;
-        case 17:     // PERFORM  KEYBOARDS
-            nSkillVal = SKILL_PERFORMKEYBOARDS;
+        case 17:     // PERFORM KEYBOARDS
+            nSkillVal = SKILL_PERFORM_KEYBOARDS;
             break;
         case 18:     // RIDE
             nSkillVal = SKILL_RIDE;
