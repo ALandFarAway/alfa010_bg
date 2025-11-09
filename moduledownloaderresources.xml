@@ -480,7 +480,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F74E7C15E377A9849915EFAA3ABDC9EF7B26882A" downloadHash="A9E0D38DBC458ACCF3E05E2F55E374EDAC93630E" name="tradeway_n_04_tavern.trx" dlsize="46748" size="46796" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B239B03723A66B301236886DF11BB8047D190A99" downloadHash="590D98C68A40CB276AC748C0EFE6FC2B08532C97" name="tradeway_n_04_tavern.trx" dlsize="72853" size="73570" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
