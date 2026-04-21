@@ -1100,7 +1100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EA596C425EA2FD052010E6AAC247E2124357D48A" downloadHash="A08E621E2672DA749A9EA0294469A47E6001F320" name="beregost_housing.trx" dlsize="167725" size="301252" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD5D70F5A18DAA8EE47D19F69DC1482372A0F57E" downloadHash="C0698BC17E96C3AEE86311BC2C6FED9ECFF49306" name="beregost_housing.trx" dlsize="298696" size="433320" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1270,7 +1270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED2891014EAB2319FACBCC55B76A8601190C854D" downloadHash="3C12D07B27803DE045A4CD586A9035B67C64D815" name="beregost.trx" dlsize="4281389" size="18859504" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="95DE1537DD15A7A4D454817102B88F4D14220DA5" downloadHash="D1BAE18B6359D9A514B3A7529F58B4DFE325E922" name="beregost.trx" dlsize="4255940" size="18842247" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2363,6 +2363,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="BE9E3CE409DD2EE167B5243DC13BF2CFF7CB988F" downloadHash="F313EA2EE63794A03A84830723334BC3704F8A58" name="candlekeep_wilds_n_1b_caves.trx" dlsize="389277" size="749607" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5E5F88B3696C1364EF20438AEFFD862EC7F93628" downloadHash="B7FBE60236D370241C8FE11A92564195820043ED" name="010_testing_grounds.trx" dlsize="514647" size="11229040" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
