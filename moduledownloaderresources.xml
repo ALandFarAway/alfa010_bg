@@ -1100,7 +1100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="18D9F981E1DC418738AAC531B2935AB99422DF3D" downloadHash="046901EB5EA5B16E65A16C5D772081F24AA62D24" name="beregost_housing.trx" dlsize="297062" size="432037" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="039DB5AED38D22743B10574FE46F0CEC35130B8D" downloadHash="AC7612D8156B1481DB41DACE84C6B886EEE981B8" name="beregost_housing.trx" dlsize="310555" size="445598" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1270,7 +1270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C68EF2BA8E5048FB547BC0EEEFF11BE16986A25" downloadHash="A9D1A847FB9FAD45D2B194E8B1A450DC531A78C5" name="beregost.trx" dlsize="4272395" size="18861415" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F855997B33C5A6CD358E37AA5BFC0FC9D6EBAB09" downloadHash="39994F251BCBDB4F322480EE38D12F72ADBBCAF1" name="beregost.trx" dlsize="4266410" size="18857220" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
