@@ -1850,7 +1850,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7B359DC6956DA515AF0CA3D9597278B00088B07E" downloadHash="761DA4CF63B4452A46C1D05C3A01E973FBC9C473" name="bgcity-harborwest_int.trx" dlsize="167525" size="168528" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CF40337973617C8982DD6CA7042C7B627AE3D186" downloadHash="5F2C952FDCCB9619111692B2DB48DB96A401FD7F" name="bgcity-harborwest_int.trx" dlsize="169218" size="170205" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
