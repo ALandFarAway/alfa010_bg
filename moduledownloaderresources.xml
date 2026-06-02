@@ -1100,7 +1100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="039DB5AED38D22743B10574FE46F0CEC35130B8D" downloadHash="AC7612D8156B1481DB41DACE84C6B886EEE981B8" name="beregost_housing.trx" dlsize="310555" size="445598" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="472AE67F026CB47268B3E8F064904237B0CCADF4" downloadHash="AA64236D02F5C951D499CB7026CB25ECB2E9B269" name="beregost_housing.trx" dlsize="313263" size="448158" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FBF811FC5BA7B3BD62A3D19370B6FFBEAC9CC12D" downloadHash="6130C5F745F8F1902E6FE86FA792811AF2208C20" name="tradeway_s_13_gnoll_wasteland.trx" dlsize="3241414" size="16804441" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E1B5713E9A43F36ACD9658C545CDE8B9375D0A05" downloadHash="051A19A5F92787F9C95FB5DC1727D8696F404269" name="tradeway_s_13_gnoll_wasteland.trx" dlsize="3659144" size="18218386" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2322,17 +2322,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AA62470DC2DDC686FC48C80D3290DD02851969AE" downloadHash="9A5EF001AFD78BE236468D78AB7308A54524E50C" name="nashkel_inn1_belch_drag.trx" dlsize="64767" size="65113" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E96C2A2DFB88FC30888EBB5BB2D025340397B4A0" downloadHash="C3CC9AB0F3EDD3513E7A9CAF68ACC51EA123B7D0" name="nashkel_inn1_belch_drag.trx" dlsize="66035" size="66461" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE1E5B28EF369E4445F5E2310A489B5FBD2AA5C6" downloadHash="3B88DD3D1279F81E22AE945C220CFB9973C0C079" name="cloudpeaks_northwest_cave.trx" dlsize="318644" size="408503" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7B83F432BE06BBC31E7DC7D7E822B610AE2AEC9E" downloadHash="BFAC4FA284A4E119D5C199F695D831AB45AE53FD" name="cloudpeaks_northwest_cave.trx" dlsize="478376" size="749953" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BDDD74801EEF0B665CAC27E536DCE200F4F5D8E2" downloadHash="24AE73385362EBC13403DD5F9B744E0532E19AB1" name="cloudpeaks_northwest.trx" dlsize="4101803" size="21208686" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="463679C0CF7A41EEA2698D80BB0D66FA6D59FAA6" downloadHash="395F16F7ED5D7DACE331CE0CB2198379C08DD027" name="cloudpeaks_northwest.trx" dlsize="4113769" size="21208087" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
