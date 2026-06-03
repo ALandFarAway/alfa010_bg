@@ -5,7 +5,8 @@ void main()
 
 object oPC = GetEnteringObject();
 
-if (!GetIsPC(oPC)) return;
+ if(!GetIsPC(oPC) || GetIsDM(oPC))  //If not a PC or is a DM, do nothing and return
+    return;
 
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYbg_qst_wood_arrows");
