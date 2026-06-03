@@ -11,7 +11,7 @@ object oPC = GetEnteringObject();
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYbg_qst_wood_arrows");
 
-if (nInt = 1)
+if (nInt != 1)
    return;
 
 object oTarget;
