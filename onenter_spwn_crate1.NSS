@@ -29,7 +29,7 @@ while (GetIsObjectValid(oTarget))//
 
 	
     n++;//
-    oTarget = GetObjectByTag("box_bg_qst_wood_arrows", n);//
+    oTarget = GetObjectByTag("wp_crate_arrows", n);//
 	SetLocalInt(OBJECT_SELF, "DoOnce", TRUE); ///
 	
 	}
