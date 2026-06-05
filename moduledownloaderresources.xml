@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E1B5713E9A43F36ACD9658C545CDE8B9375D0A05" downloadHash="051A19A5F92787F9C95FB5DC1727D8696F404269" name="tradeway_s_13_gnoll_wasteland.trx" dlsize="3659144" size="18218386" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FB324C40F7F7767B5614AE927AD70A2274E126DB" downloadHash="459984D074943F5C592A3393439D44F3DB96E20A" name="tradeway_s_13_gnoll_wasteland.trx" dlsize="3663815" size="18217936" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
