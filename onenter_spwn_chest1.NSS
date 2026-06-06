@@ -26,7 +26,7 @@ oTarget = GetWaypointByTag("wp_qst_ore_crate1");
 
 lTarget = GetLocation(oTarget);
 
-oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "box_bg_qst_ore1", lTarget);
+oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "box_bg_qst_ore", lTarget);
 
 object oTarget2;
 object oSpawn2;
