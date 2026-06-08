@@ -1100,7 +1100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="472AE67F026CB47268B3E8F064904237B0CCADF4" downloadHash="AA64236D02F5C951D499CB7026CB25ECB2E9B269" name="beregost_housing.trx" dlsize="313263" size="448158" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6965DB7218F6AAC9304D1344BB8F118BDA67E5F5" downloadHash="F240E2DBB8E262D8CFE284B3F3929F79DA445164" name="beregost_housing.trx" dlsize="316821" size="451860" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
