@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="80893CD91BCD656BB7ABFA95DB96D2042201EAD6" downloadHash="1E0A42DA24AEDB0F354F3E8CE93A7927093A7950" name="gullykin_trail1.trx" dlsize="6273919" size="25107978" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="25356B9CA5FE5C097B09DB8F1524DAB8A5D34B9D" downloadHash="C0C177FDDEE58DEBFA769DB2E5DDC3F20892AD55" name="gullykin_trail1.trx" dlsize="6297814" size="25113615" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
