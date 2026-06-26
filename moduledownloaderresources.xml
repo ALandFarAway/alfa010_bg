@@ -2327,12 +2327,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="31D1181F55DBB2F63468D461D577D52335CD4226" downloadHash="2CE32D64C3DDD8C9F35B6CAF48C97A3DEB180B52" name="cloudpeaks_northwest_cave.trx" dlsize="483524" size="754855" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CC6E420F7EB7AEAB7726CD6E317B7E72733D6668" downloadHash="809DB8C1FDE9FEA030357F72E983C8634F40050C" name="cloudpeaks_northwest_cave.trx" dlsize="482579" size="754347" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="19261B5AA8CE30CC188955A484DAF0E347D347E2" downloadHash="A2772FE42B8868A71758A5AFC569223040130E31" name="cloudpeaks_northwest.trx" dlsize="4120245" size="21214922" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A2C1AB9533AF7F304FF03E0DC5B81DC7D2461937" downloadHash="FBDEE63AEB29AB13DC47C47715DAB01BADF76342" name="cloudpeaks_northwest.trx" dlsize="4107424" size="21205594" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
