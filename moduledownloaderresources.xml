@@ -400,7 +400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FD2140DEFADD91553923ECE7DABB730D9CCE7D8F" downloadHash="6391ABE0741A2861C1852C1D00C7077F52724B67" name="tradeway_n_04_tempus_tears_int.trx" dlsize="264863" size="310007" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1E59E2122E9522DFEB5E3FFC2425E99D48C37D62" downloadHash="312C34CFC21290E0EA377F10EB7974E2B8936C88" name="tradeway_n_04_tempus_tears_int.trx" dlsize="270866" size="315443" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
