@@ -28,9 +28,9 @@ const int CARAVAN_STATE_UNLOAD	= 3;
 
 const float CARAVAN_SHAKE_DELAY = 3.0f;
 
-const int CARAVAN_TRAVEL_TICKS = 50;
-const int CARAVAN_LOADING_TICKS = 9;
-const int CARVAAN_UNLOADING_TICKS = 3;
+const int CARAVAN_TRAVEL_TICKS = 25;
+const int CARAVAN_LOADING_TICKS = 5;
+const int CARVAAN_UNLOADING_TICKS = 2;
 
 
 string caravan_dest_name(int l)
