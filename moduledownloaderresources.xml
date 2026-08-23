@@ -190,7 +190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="06C36B2351A950F9DCAD037D94C6F770086B7E1C" downloadHash="206CE9EC4BACB8AA93BD953B1F74DD9F695DE3EE" name="candlekeep_wilds_n_2a_coast.trx" dlsize="2432571" size="13783098" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="964B905D7824CA5E8369E736D20177CC84A71F23" downloadHash="988C03F60173F575726F86FA978334A9F115C8A5" name="candlekeep_wilds_n_2a_coast.trx" dlsize="2428023" size="13783097" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -335,7 +335,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EA22AB1EA92377A0F594E5A02C85E118AC5A0608" downloadHash="E3D6102DEE8A17EE56578AFAD2CD989306953D10" name="sharpteeth_04a.trx" dlsize="353252" size="6235196" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ABC92D36B97DEB2776890213D7EDD9CFFC1BD000" downloadHash="4AAF02742BCB29A35CFD8A98DCF709F1E793FF67" name="sharpteeth_04a.trx" dlsize="355453" size="6235278" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -405,7 +405,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4C5F85AAF42A5BC4D8018BF9050BC33BDF0D7F4B" downloadHash="E51D9D38F4BFFAA72A78050024C07DA4B2AA51E9" name="candlekeep_m_inn.trx" dlsize="113792" size="114283" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C1CAB1521DD2DA3657F6C916A80F106F4D3A6E7C" downloadHash="74AE3FB9B5AECD75B0F5E5F2D2F80F5A24AE44AE" name="candlekeep_m_inn.trx" dlsize="112411" size="112923" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -600,7 +600,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="759A87C5719E962BA704F6C78114FD6B8F586474" downloadHash="37D42089A57AFA7FE692988D7486B19D7C120B7B" name="candlekeep_wilds_n_2c.trx" dlsize="2633025" size="14599884" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="62C51D6A6FA74EFEFBCAA6F77BA106FAE5D2670D" downloadHash="2EDCA0EBFAA5BC1FD489CE649B58742BD2E739B4" name="candlekeep_wilds_n_2c.trx" dlsize="2626076" size="14595115" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -780,7 +780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="41B3932C28F0B688BEDBF504B488FC7BA7F37390" downloadHash="F5CA2BD4730E1E3282BE23EAF05CB1205424B6A8" name="candlekeep_lionsway_02_inn.trx" dlsize="100045" size="101128" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="98D367127F26AC0451DD782F3B71AB9E37FFC784" downloadHash="B26A20DFD4535258A05A9031B4E5E1F21B259B92" name="candlekeep_lionsway_02_inn.trx" dlsize="100091" size="101129" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -955,7 +955,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B9E6917632876694CDDF930BB8EB9C90C5D71543" downloadHash="1ECD8961A4D9CB93822F9D73DAE7DD1BA4A2E5FB" name="candlekeep_wilds_n_2b_falls.trx" dlsize="3506800" size="17069179" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="616AE1B9D876669116A84BD3A3E013ED6B74F53D" downloadHash="C5A507EAB851E07570DB649234309E15B1888E68" name="candlekeep_wilds_n_2b_falls.trx" dlsize="3510125" size="17066036" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1550,7 +1550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C48A09A4DEE2E2A95D4757636921CC5FEE5FBFE7" downloadHash="B2903A8B9CF7E80A8465223488C604E3A6877D06" name="sharpteeth_01.trx" dlsize="2153889" size="12224819" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BB8A5C45555145BA56442838B983AF8C249D6D33" downloadHash="89B9C25547CEDE8C55ED37A8E19C22041A102D46" name="sharpteeth_01.trx" dlsize="2149697" size="12213882" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1565,7 +1565,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A4673167A6DDCDEF0C4900AF525C00CCEE16E341" downloadHash="6DDEC9CFEC191CE9D449564EC132DE5838388383" name="sharpteeth_04.trx" dlsize="2224654" size="12175003" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="355E6BF072E9B1BCCAE94F5E9FADEB22A3B1287D" downloadHash="8E471C760BED5726DCBD0924031F3DEC47EBD0F0" name="sharpteeth_04.trx" dlsize="2267833" size="12221292" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
