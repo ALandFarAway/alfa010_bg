@@ -1070,7 +1070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D76EF0A6AD05AA1D54A598DF99E48BDA72D380B9" downloadHash="95E823FCA037229CCB5B0C3BBF841B4DB84D6BFC" name="sharpteeth_06_cave_a.trx" dlsize="295376" size="1419968" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FDA47D169243DE628DD7BCD3B43B077D6F2741E9" downloadHash="CA35280B185C8A6573286B05BE5B4080CBF2FA87" name="sharpteeth_06_cave_a.trx" dlsize="289777" size="1415142" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
