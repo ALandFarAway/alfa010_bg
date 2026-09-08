@@ -345,11 +345,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="21D690ADD592EE1E5B980442EDE744F9CE551B8B" downloadHash="B4E2C929E5645897FE41DC29C0FDB7D22C2120B3" name="unlinked_island.trx" dlsize="1016829" size="9156553" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="26979640A635AE9941889606B49B158ACB959B38" downloadHash="F1FD329536B05CD6E22EAD82300B215BE49C166B" name="bgcity-harboreast_harbormasters.trx" dlsize="75171" size="75325" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -386,11 +381,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="EB5C0BAABA0D51DBDC08B1AB24FBA5473ED31AEF" downloadHash="8A3A499CFBE88800B6908ED4561F912869EE539E" name="bg-undercellar_ruins_s2.trx" dlsize="380839" size="385462" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="7C7146900BB2BE16C5E5952F24DDC50E11BEB8B8" downloadHash="C4893816A52067B001C24E9F9964DCA8A220E960" name="unlinked_slum_temple.trx" dlsize="20662" size="20654" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -541,11 +531,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0F6B81C0E18EBB17C550278DED9FEECF08C32F1C" downloadHash="BE170A8878E8217991D98BD132D52B9B9F3D5B9A" name="sharpteeth_06_lg_lake.trx" dlsize="3112012" size="18949022" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="7E6DBAB8E4386D20F414246AC44B5A3CF50EEA27" downloadHash="0BDD9E6719741281BAAB8160BEC27FF6F4E2BC7C" name="unlinked_forest_cave_ent_s01.trx" dlsize="1989648" size="7915006" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -755,11 +740,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="85CBB14A010AD0A9CC8E4541C3E449A15E9667A7" downloadHash="1B91204B9BC015D4A174C83BFD307B40C7FFC5C3" name="unlinked_desert.trx" dlsize="3461534" size="16279547" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="F3A0C75599005CBD94024E9DD6EBC0EE0D43F7F6" downloadHash="C40E87254028157AE946C800E2ED524BA5FD9423" name="tradeway_nw_02a_abbey_sheaf.trx" dlsize="334823" size="340053" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -826,11 +806,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="037DC04CDDDFEC8382691A6EC533E8F18ED3442E" downloadHash="C28338CAE298280C144B7CB853FC62B21CC7B517" name="bgcity-harboreast_warehouse.trx" dlsize="82860" size="83326" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="AC5DF23368AD6A0F6741FD3D6F51536409359DE6" downloadHash="F8BED32C5A09F3448077E1019527556EA063CDD7" name="unlinked_town.trx" dlsize="3743169" size="14596009" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1060,11 +1035,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2BE81320929C2CDE25929D3D72F5F5C9CE1388BC" downloadHash="1F0F49E524C762782C3A2C18BC73C5030A2BEEDB" name="unlinked_lolth.trx" dlsize="109048" size="109917" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="CA70B3F1B1F205BFE349053D4B97D138052CA05B" downloadHash="5DF8BCFD44C578BE31EEE89F68F463A947F8C814" name="tradeway_n_02_darfleet.trx" dlsize="5521147" size="24000649" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1130,11 +1100,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DA4B415AE29EA9D3D883B85BDBF2EE74789F8669" downloadHash="CEBC5072B43376F8136DB6148C1DDE18182E7ACE" name="unlinked_thieves house.trx" dlsize="16872" size="16847" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="C6512AF0FED64429ACC8196DA815D5C232D0A7F5" downloadHash="25CCF4A13DEC7AC26D7021E5FA5BC2591B4C9094" name="010_fugue_plane.trx" dlsize="612711" size="6227385" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1151,11 +1116,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="66345B981A48D3A75C94F50E3497CE9F07AF79C1" downloadHash="D23FB2906503C231748D52ADDC1ABB65A0BEBE66" name="und_a6_dwarftomb.trx" dlsize="325084" size="326868" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="4F195B63996C9020A9EC5708BE4CC4FDC3F22DEA" downloadHash="E00A99262C1317FB90F0FC02E136C188AF5C5840" name="unlinked_forest_camp_tiny01.trx" dlsize="1544978" size="6610810" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1335,16 +1295,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="454A9A852BD21BD14A4109AA74D8543FA530F286" downloadHash="B458C13869D0B3646FDB4B5E5D0C4B906B8E60FE" name="unlinked_duergar mine.trx" dlsize="440832" size="756319" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="81E893CBC6D1C8C09772A4B448DF427AA8D2B6D3" downloadHash="911B486DBD18E62562893A1D13CF59D0634D8C45" name="unlinked_warehouse.trx" dlsize="81440" size="82243" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="A73D726229A2A7625590AFBEF15AEC87060DE7E8" downloadHash="DF5C1A66A884095FCC9426E89A4E90AEC9A07D76" name="island_marys_tit.trx" dlsize="1766088" size="14930919" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1366,11 +1316,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="FE532F9F0462D0E8D0D53D659E57AD0E651BA853" downloadHash="D7B0290AD6FD1F99C6384D21AEEE575F2FAC9DA1" name="generic_fairgrounds.trx" dlsize="288020" size="6247076" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="3E49787AFB5365FB02AC80297A3D8A84F378ACF6" downloadHash="FCAE4F2F4E1EA3EE2994C2A32ECC2916CF74A65F" name="unlinked_outpost.trx" dlsize="140863" size="142045" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1505,11 +1450,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0901BBD03311A99C8B7C103D132C6EF9B8505D76" downloadHash="FF95C45A9A4324C1BDDD41FA69C613EEDDB77B68" name="unlinked_slum_ruin.trx" dlsize="16017" size="16015" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="6DCAB50A373C671A42A995572FCB3A0AD18F6EF9" downloadHash="34A3C76F30AEBA9F47FBF2334E1C4CC09F4FBC1A" name="secs- sparsely-camped cave.trx" dlsize="486747" size="897022" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1595,22 +1535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1043E81DFD859DF2B99A162526382A5ADACE072E" downloadHash="B1EA6C03A263BF790622AE01645EBDC5A2900970" name="unlinked_forest_path_small01.trx" dlsize="1687118" size="7774831" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="82FD069D21B037FAF0B1C1ECD6D93D52C1022870" downloadHash="21AF9EB4697B30905C5E563F72B3A0C080355750" name="gullykin_firewine.trx" dlsize="6095429" size="21736054" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="51EB4ABC7663D2FDD51831CFE60A12CAFB379399" downloadHash="AFBAE3B16D00D703EC4B7B675921C5266C2DEC49" name="unlinked_wizardlab.trx" dlsize="63156" size="63313" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="289D1F944360EAE97A4AC550461ED1220063F2A8" downloadHash="8FD74D78376E0B2F15B53B1976189809DC44DBA8" name="unlinked_noblehouse.trx" dlsize="71292" size="71415" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1765,11 +1690,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EA1683AD92F2EE3A5A75744E127D72CE46BC88A9" downloadHash="008AB4CB90EFEDCA168165DC6AE0AB61A72AA2C9" name="unlinked_dungeon.trx" dlsize="175531" size="175969" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="CCA063C6A4D107EB3A817DDF133340FF11BA410D" downloadHash="B896F3FBF0131A36735A9AE61CD86EB620C5F02A" name="gullykin_trail0.trx" dlsize="1782111" size="10293935" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1836,11 +1756,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="9B4381688D85ACE54B6B46780974FC998FBCCD2A" downloadHash="FAF87972D895667B5BDA87FA841A40E83CB1BAEB" name="beregost_feldepost.trx" dlsize="110953" size="111473" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="DEAB8C3F3FFDEFC420780B77CFBBCBFA4FBB5369" downloadHash="094B801C7049668E09FBD526A0991FF2EBBB1D4A" name="unlinked_barracks.trx" dlsize="256973" size="345893" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2367,7 +2282,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5E5F88B3696C1364EF20438AEFFD862EC7F93628" downloadHash="B7FBE60236D370241C8FE11A92564195820043ED" name="010_testing_grounds.trx" dlsize="514647" size="11229040" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="70C8F4F7EC17F8A96B2D6F62DE4E9E2C0EA4D80D" downloadHash="1878EFD857FD4D3DEC92A056F81813A35A49731C" name="010_testing_grounds.trx" dlsize="532939" size="11239600" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D8E61D7BA266B41A48BF7535310B7FCA6D946FC3" downloadHash="0377CF70723DFE6AB2D8B9D8C2D937AC31C415F9" name="linked_misc houses.trx" dlsize="331416" size="334952" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="85CBB14A010AD0A9CC8E4541C3E449A15E9667A7" downloadHash="1B91204B9BC015D4A174C83BFD307B40C7FFC5C3" name="unlinked_desert.trx" dlsize="3461534" size="16279547" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8A1F6DAECE88E346D440EE8856D0BDF9E83C4BBF" downloadHash="A6E947649D94D4D95F4F199186228FD90AE5465E" name="bgcity_misc houses.trx" dlsize="331606" size="335118" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
