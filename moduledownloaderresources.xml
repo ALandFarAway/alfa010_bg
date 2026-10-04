@@ -730,7 +730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DF386C9FB69CA73C40D98D95B5AEC6C1FBD12D05" downloadHash="833641A79C232779DD079324F07FBAC676CA632A" name="tradeway_s_02_e1_plain.trx" dlsize="4733930" size="22296602" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F11991898F86DE99B30249FB25EF39A3689825CB" downloadHash="6AD18390E0DDB1CDFFA5F9EF7B2A858BA3B7F785" name="tradeway_s_02_e1_plain.trx" dlsize="4721670" size="22296541" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2298,6 +2298,36 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="8A1F6DAECE88E346D440EE8856D0BDF9E83C4BBF" downloadHash="A6E947649D94D4D95F4F199186228FD90AE5465E" name="bgcity_misc houses.trx" dlsize="331606" size="335118" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="428B37BC2BB118B6F5EED0F635F51F72DBCFA6C7" downloadHash="6551541381E072A309ED73C02CEA4567E277568E" name="tradeway_s_00_e0_int.trx" dlsize="175244" size="177844" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="12102DACEC3AD6C8F8ADBC4C12407C6CEC9E14D2" downloadHash="9985277922B2336389A5449A832FB8140AA90DB0" name="unlinked_inn.trx" dlsize="56898" size="57424" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A23117818BD0DE6F9C40B6F18C40420E3EE6CE4B" downloadHash="C22C564F7B76FEF43712180E9D6110F4A35540DC" name="tradeway_s_00_e0_plain.trx" dlsize="4150078" size="20847307" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FE532F9F0462D0E8D0D53D659E57AD0E651BA853" downloadHash="D7B0290AD6FD1F99C6384D21AEEE575F2FAC9DA1" name="holiday_fairgrounds.trx" dlsize="288020" size="6247076" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D3046D8D797559471762E8BF264C48D912F77FE8" downloadHash="EFD2FEFAAEEE8408E0A0486E060FD972464251B6" name="sharpteeth_10_manor.trx" dlsize="3636368" size="20415585" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A66CE212AFDFC8B9A3603E7AB43F7E1F198380AF" downloadHash="EF65468379CFDD463E984E55F2233E52DE0D261C" name="sharpteeth_10_manor_int.trx" dlsize="151052" size="154679" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
