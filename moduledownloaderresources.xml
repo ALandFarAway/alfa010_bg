@@ -2327,7 +2327,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A66CE212AFDFC8B9A3603E7AB43F7E1F198380AF" downloadHash="EF65468379CFDD463E984E55F2233E52DE0D261C" name="sharpteeth_10_manor_int.trx" dlsize="151052" size="154679" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FAECC5286020E477F5D56FED9A9C2D76495BA0A8" downloadHash="6AD822D4E14437857517C948A757EFA40C786EEF" name="sharpteeth_10_manor_int.trx" dlsize="153190" size="156713" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
