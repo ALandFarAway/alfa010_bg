@@ -800,7 +800,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E50D8150111AA41B1831FA99A20DE4BD9775E2F9" downloadHash="7C7F9304F2AB934C60FC0622B66B5C6F2927E8F5" name="tradeway_s_13_dirtpath.trx" dlsize="1678358" size="10374889" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3ADCA2E776E7E7FFB7F3EDC27BCE340E581C6884" downloadHash="20F8AB5203AB1EA036E2E7EDC5B1B2F151F18E9F" name="tradeway_s_13_dirtpath.trx" dlsize="1687415" size="10383191" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
